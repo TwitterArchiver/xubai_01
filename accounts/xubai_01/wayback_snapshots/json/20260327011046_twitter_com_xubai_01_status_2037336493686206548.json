@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2037127570316239289",
+    "created_at": "2026-03-27T01:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T02:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037336493686206548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929159802477010944",
+          "start": 0,
+          "username": "1207auggnoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037336493686206548",
+    "in_reply_to_user_id": "1929159802477010944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037127570316239289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@1207auggnoD 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2037127570316239289",
+        "created_at": "2026-03-27T01:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T02:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037336493686206548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929159802477010944",
+              "start": 0,
+              "username": "1207auggnoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037336493686206548",
+        "in_reply_to_user_id": "1929159802477010944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037127570316239289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@1207auggnoD 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929159802477010944",
+        "conversation_id": "2037127570316239289",
+        "created_at": "2026-03-26T11:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037127570316239289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037127570316239289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6204,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "测试一下新的推特连坐\n只有我的fo和我的fo的fo可以回复"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 1034,
+          "like_count": 17105,
+          "listed_count": 0,
+          "media_count": 822,
+          "tweet_count": 4084
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-01T12:55:39.000Z",
+        "description": "edd的花语是耐心，等待，惊喜。edd玩家每一局都在用自己的bigbrain创造奇迹，用充满战术的布置击退对手。他们待人和蔼，性格阳光，表面粗犷实则有一个幽默风趣的细致内心，玩edd的玩家是受人尊敬的，令人敬仰的，西格玛的，使人波奇的，充满同性吸引力的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site/about",
+                "end": 23,
+                "expanded_url": "http://dgtea.site/about",
+                "start": 0,
+                "url": "https://t.co/KeoonVLuS7"
+              }
+            ]
+          }
+        },
+        "id": "1929159802477010944",
+        "location": "OL62",
+        "name": "Benincasa pruriens",
+        "pinned_tweet_id": "2008588788411625920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991500844714598400/LWmbvH_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 267,
+          "like_count": 25814,
+          "listed_count": 1,
+          "media_count": 1088,
+          "tweet_count": 4550
+        },
+        "url": "https://t.co/KeoonVLuS7",
+        "username": "1207auggnoD",
+        "verified": false
+      }
+    ]
+  }
+}

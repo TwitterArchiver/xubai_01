@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2019441421720141981",
+    "created_at": "2026-02-05T18:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T19:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019478757866893449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882736402468864000",
+          "start": 0,
+          "username": "chabao0206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019478757866893449",
+    "in_reply_to_user_id": "1882736402468864000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019441421720141981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chabao0206 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_2019441408676098048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZ_QwDacAALI6q.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2019441421720141981",
+        "created_at": "2026-02-05T18:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T19:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019478757866893449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882736402468864000",
+              "start": 0,
+              "username": "chabao0206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019478757866893449",
+        "in_reply_to_user_id": "1882736402468864000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019441421720141981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chabao0206 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019441408676098048"
+          ]
+        },
+        "author_id": "1882736402468864000",
+        "conversation_id": "2019441421720141981",
+        "created_at": "2026-02-05T16:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019441421720141981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbm9iYkZbJ",
+              "end": 32,
+              "expanded_url": "https://x.com/chabao0206/status/2019441421720141981/photo/1",
+              "media_key": "3_2019441408676098048",
+              "start": 9,
+              "url": "https://t.co/kbm9iYkZbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019441421720141981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 452,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我他妈19岁 https://t.co/kbm9iYkZbJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链：@xubaimedia/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "yuji53719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州🔜嘉兴🔜昆明",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 863,
+          "like_count": 14462,
+          "listed_count": 0,
+          "media_count": 617,
+          "tweet_count": 2942
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T10:25:24.000Z",
+        "description": "普通小男孩｜07｜正太控 福瑞控｜垃圾话@justchaz111 随缘过｜❤️@qiqi1145141919｜友链@chen_perservera｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "justchaz111"
+              },
+              {
+                "end": 54,
+                "start": 39,
+                "username": "qiqi1145141919"
+              },
+              {
+                "end": 73,
+                "start": 57,
+                "username": "chen_perservera"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chaz91461",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chaz91461",
+                "start": 0,
+                "url": "https://t.co/0dejp9TZdQ"
+              }
+            ]
+          }
+        },
+        "id": "1882736402468864000",
+        "name": "猹兹",
+        "pinned_tweet_id": "1901552522940367159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936926062157373440/7qGwVzRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4318,
+          "following_count": 350,
+          "like_count": 6497,
+          "listed_count": 9,
+          "media_count": 201,
+          "tweet_count": 1241
+        },
+        "url": "https://t.co/0dejp9TZdQ",
+        "username": "chabao0206",
+        "verified": false
+      }
+    ]
+  }
+}

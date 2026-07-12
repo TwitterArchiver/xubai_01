@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2005459117113229540",
+    "created_at": "2025-12-29T23:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T00:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005777472009412945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1722587985781342208",
+          "start": 0,
+          "username": "yankaxh1207"
+        },
+        {
+          "end": 24,
+          "id": "2840236608",
+          "start": 13,
+          "username": "StarNekOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005777472009412945",
+    "in_reply_to_user_id": "1722587985781342208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005777281210617876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yankaxh1207 @StarNekOvO 我不行了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2005777281210617876].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2005777281210617876",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2005777281210617876"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2005459117113229540",
+        "created_at": "2025-12-29T23:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T00:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005777472009412945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1722587985781342208",
+              "start": 0,
+              "username": "yankaxh1207"
+            },
+            {
+              "end": 24,
+              "id": "2840236608",
+              "start": 13,
+              "username": "StarNekOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005777472009412945",
+        "in_reply_to_user_id": "1722587985781342208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005777281210617876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yankaxh1207 @StarNekOvO 我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 473,
+          "tweet_count": 2113
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-09T12:12:39.000Z",
+        "description": "/teen Coder 14 yo\n@astracorelz @youthgala_plan\nThankyou Everyone Forever",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "astracorelz"
+              },
+              {
+                "end": 46,
+                "start": 31,
+                "username": "youthgala_plan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/billw",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/billw",
+                "start": 0,
+                "url": "https://t.co/3U3bYusfbz"
+              }
+            ]
+          }
+        },
+        "id": "1722587985781342208",
+        "location": "☜ WHAT IS IT????????",
+        "name": "BillW Gong",
+        "pinned_tweet_id": "1962065387937579033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005648358929784833/L8HaVr1i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 533,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/3U3bYusfbz",
+        "username": "yankaxh1207",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛系統. aka starneko. System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com",
+                "end": 23,
+                "expanded_url": "https://starneko.com",
+                "start": 0,
+                "url": "https://t.co/9NEqS9sljx"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "猫奶牛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004418506553462785/O67tO9Gt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4470,
+          "following_count": 2246,
+          "like_count": 33688,
+          "listed_count": 17,
+          "media_count": 1369,
+          "tweet_count": 11577
+        },
+        "url": "https://t.co/9NEqS9sljx",
+        "username": "StarNekOvO",
+        "verified": true
+      }
+    ]
+  }
+}

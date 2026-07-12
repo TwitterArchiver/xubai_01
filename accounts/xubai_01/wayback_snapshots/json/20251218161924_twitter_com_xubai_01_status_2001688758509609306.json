@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2001688758509609306",
+    "created_at": "2025-12-18T16:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T17:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001688758509609306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1541011897817767936",
+          "start": 3,
+          "username": "Lily_u830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001688758509609306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1688531982777737217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lily_u830: 十八岁之前还不自杀你就等着活一辈子吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2001688758509609306",
+        "created_at": "2025-12-18T16:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T17:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001688758509609306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1541011897817767936",
+              "start": 3,
+              "username": "Lily_u830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001688758509609306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1688531982777737217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lily_u830: 十八岁之前还不自杀你就等着活一辈子吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541011897817767936",
+        "conversation_id": "1688531982777737217",
+        "created_at": "2023-08-07T12:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2023-08-07T13:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1688531982777737217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1688531982777737217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11311,
+          "like_count": 145,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "十八岁之前还不自杀你就等着活一辈子吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 713,
+          "like_count": 10299,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 1316
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T10:54:08.000Z",
+        "description": "不为什么",
+        "id": "1541011897817767936",
+        "name": "rain",
+        "pinned_tweet_id": "1657320151958843395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956388810297925632/xfCQZDRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2683,
+          "following_count": 358,
+          "like_count": 7168,
+          "listed_count": 11,
+          "media_count": 482,
+          "tweet_count": 5576
+        },
+        "username": "Lily_u830",
+        "verified": false
+      }
+    ]
+  }
+}

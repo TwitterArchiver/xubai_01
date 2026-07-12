@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1996864085267501486",
+    "created_at": "2025-12-05T08:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T09:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996864085267501486"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1996864085267501486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么都略会一点不就是理论可以一点点但是实操完全不会吗🙄（真让我有想法干实事别指望我干的出来一个人没那么多能力..那个竞品bonjour的也只是写了个demo出来，真要说初版还早着呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1996864085267501486",
+        "created_at": "2025-12-05T08:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T09:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996864085267501486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996864085267501486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么都略会一点不就是理论可以一点点但是实操完全不会吗🙄（真让我有想法干实事别指望我干的出来一个人没那么多能力..那个竞品bonjour的也只是写了个demo出来，真要说初版还早着呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜可能是个人，但是离神很远了。｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 605,
+          "like_count": 7819,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

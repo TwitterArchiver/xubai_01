@@ -1,0 +1,597 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071767249271373824"
+      ],
+      "media_source_tweet_id": [
+        "2071767260348436494"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Tim Cook",
+          "id": "809105292814270464",
+          "name": "Tim Cook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tim Cook",
+          "id": "809105292814270464",
+          "name": "Tim Cook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2071991102190846309",
+    "created_at": "2026-06-30T16:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071991102190846309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636590253",
+          "start": 3,
+          "username": "tim_cook"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eP84RdkaUF",
+          "end": 50,
+          "expanded_url": "https://x.com/tim_cook/status/2071767260348436494/photo/1",
+          "media_key": "3_2071767249271373824",
+          "start": 27,
+          "url": "https://t.co/eP84RdkaUF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071991102190846309",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2302
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071767260348436494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tim_cook: Happy Pride! https://t.co/eP84RdkaUF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_2071767249271373824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBlViYbwAA7o97.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071767249271373824"
+          ],
+          "media_source_tweet_id": [
+            "2071767260348436494"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2071991102190846309",
+        "created_at": "2026-06-30T16:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071991102190846309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636590253",
+              "start": 3,
+              "username": "tim_cook"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eP84RdkaUF",
+              "end": 50,
+              "expanded_url": "https://x.com/tim_cook/status/2071767260348436494/photo/1",
+              "media_key": "3_2071767249271373824",
+              "start": 27,
+              "url": "https://t.co/eP84RdkaUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071991102190846309",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2302
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071767260348436494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tim_cook: Happy Pride! https://t.co/eP84RdkaUF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071767249271373824"
+          ]
+        },
+        "author_id": "1636590253",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tim Cook",
+              "id": "809105292814270464",
+              "name": "Tim Cook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2071767260348436494",
+        "created_at": "2026-06-30T01:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T02:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071767260348436494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eP84RdkaUF",
+              "end": 36,
+              "expanded_url": "https://x.com/tim_cook/status/2071767260348436494/photo/1",
+              "media_key": "3_2071767249271373824",
+              "start": 13,
+              "url": "https://t.co/eP84RdkaUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071767260348436494",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1069,
+          "impression_count": 1763482,
+          "like_count": 29933,
+          "quote_count": 422,
+          "reply_count": 1991,
+          "retweet_count": 2302
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Pride! https://t.co/eP84RdkaUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 1622,
+          "like_count": 25066,
+          "listed_count": 2,
+          "media_count": 1239,
+          "tweet_count": 6603
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-31T22:41:25.000Z",
+        "description": "Apple CEO  Auburn 🏀 🏈 Duke 🏀 National Parks 🏞️ “Life's most persistent and urgent question is, 'What are you doing for others?'” - MLK. he/him",
+        "id": "1636590253",
+        "location": "Cupertino",
+        "name": "Tim Cook",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535420431766671360/Pwq-1eJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17475872,
+          "following_count": 69,
+          "like_count": 1991,
+          "listed_count": 24708,
+          "media_count": 859,
+          "tweet_count": 1928
+        },
+        "url": "",
+        "username": "tim_cook",
+        "verified": true
+      }
+    ]
+  }
+}

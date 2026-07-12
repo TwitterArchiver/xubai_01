@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2037422976057164073",
+    "created_at": "2026-03-27T09:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T10:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037460680052482245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830192967120011266",
+          "start": 0,
+          "username": "RikuSakaLine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037460680052482245",
+    "in_reply_to_user_id": "1830192967120011266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037422976057164073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RikuSakaLine 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2037422976057164073",
+        "created_at": "2026-03-27T09:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037460680052482245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830192967120011266",
+              "start": 0,
+              "username": "RikuSakaLine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037460680052482245",
+        "in_reply_to_user_id": "1830192967120011266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037422976057164073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RikuSakaLine 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830192967120011266",
+        "conversation_id": "2037422976057164073",
+        "created_at": "2026-03-27T06:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037422976057164073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037422976057164073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 758,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "身上好多管子🥺\n切下来一点肺…人好虚。接下来要吹气球来锻炼。\n伤口在左边腋下，左手像瘫痪了一样动不了😐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 1036,
+          "like_count": 17136,
+          "listed_count": 0,
+          "media_count": 826,
+          "tweet_count": 4105
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-01T10:36:43.000Z",
+        "description": "实事求是｜上海市杨浦区高一生｜悲观主义者｜铁路·飞行器·地图·气象·EEW系统｜理科生，精通人文地理｜高考日语生 备考JLPT N4｜请多关照(っ´▽`)っ",
+        "id": "1830192967120011266",
+        "location": "杨浦站",
+        "name": "陸叠阪線",
+        "pinned_tweet_id": "2015024191188378021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005244128788123648/71-Jv-0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 403,
+          "like_count": 8465,
+          "listed_count": 1,
+          "media_count": 627,
+          "tweet_count": 2917
+        },
+        "username": "RikuSakaLine",
+        "verified": true
+      }
+    ]
+  }
+}

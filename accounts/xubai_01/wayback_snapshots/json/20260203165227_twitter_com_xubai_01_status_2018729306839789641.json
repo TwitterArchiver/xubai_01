@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018341247254245376",
+        "3_2018341244125196288",
+        "3_2018341247262580736",
+        "3_2018341247266836480"
+      ],
+      "media_source_tweet_id": [
+        "2018341261259030896",
+        "2018341261259030896",
+        "2018341261259030896",
+        "2018341261259030896"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2018729306839789641",
+    "created_at": "2026-02-03T16:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T17:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018729306839789641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1961258157138952192",
+          "start": 3,
+          "username": "Gazzingbrume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Dfie3xHbz",
+          "end": 51,
+          "expanded_url": "https://x.com/Gazzingbrume/status/2018341261259030896/photo/1",
+          "media_key": "3_2018341247254245376",
+          "start": 28,
+          "url": "https://t.co/9Dfie3xHbz"
+        },
+        {
+          "display_url": "pic.x.com/9Dfie3xHbz",
+          "end": 51,
+          "expanded_url": "https://x.com/Gazzingbrume/status/2018341261259030896/photo/1",
+          "media_key": "3_2018341244125196288",
+          "start": 28,
+          "url": "https://t.co/9Dfie3xHbz"
+        },
+        {
+          "display_url": "pic.x.com/9Dfie3xHbz",
+          "end": 51,
+          "expanded_url": "https://x.com/Gazzingbrume/status/2018341261259030896/photo/1",
+          "media_key": "3_2018341247262580736",
+          "start": 28,
+          "url": "https://t.co/9Dfie3xHbz"
+        },
+        {
+          "display_url": "pic.x.com/9Dfie3xHbz",
+          "end": 51,
+          "expanded_url": "https://x.com/Gazzingbrume/status/2018341261259030896/photo/1",
+          "media_key": "3_2018341247266836480",
+          "start": 28,
+          "url": "https://t.co/9Dfie3xHbz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018729306839789641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018341261259030896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gazzingbrume: 抖音特效 你牛大了 https://t.co/9Dfie3xHbz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018341247254245376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKWq7YbsAASMyv.jpg",
+        "width": 946
+      },
+      {
+        "height": 1112,
+        "media_key": "3_2018341244125196288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKWqvuaMAA_0tC.jpg",
+        "width": 653
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018341247262580736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKWq7aa4AAHm4Y.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2018341247266836480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKWq7bb0AAmIDj.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018341247254245376",
+            "3_2018341244125196288",
+            "3_2018341247262580736",
+            "3_2018341247266836480"
+          ],
+          "media_source_tweet_id": [
+            "2018341261259030896",
+            "2018341261259030896",
+            "2018341261259030896",
+            "2018341261259030896"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2018729306839789641",
+        "created_at": "2026-02-03T16:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018729306839789641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1961258157138952192",
+              "start": 3,
+              "username": "Gazzingbrume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Dfie3xHbz",
+              "end": 51,
+              "expanded_url": "https://x.com/Gazzingbrume/status/2018341261259030896/photo/1",
+              "media_key": "3_2018341247254245376",
+              "start": 28,
+              "url": "https://t.co/9Dfie3xHbz"
+            },
+            {
+              "display_url": "pic.x.com/9Dfie3xHbz",
+              "end": 51,
+              "expanded_url": "https://x.com/Gazzingbrume/status/2018341261259030896/photo/1",
+              "media_key": "3_2018341244125196288",
+              "start": 28,
+              "url": "https://t.co/9Dfie3xHbz"
+            },
+            {
+              "display_url": "pic.x.com/9Dfie3xHbz",
+              "end": 51,
+              "expanded_url": "https://x.com/Gazzingbrume/status/2018341261259030896/photo/1",
+              "media_key": "3_2018341247262580736",
+              "start": 28,
+              "url": "https://t.co/9Dfie3xHbz"
+            },
+            {
+              "display_url": "pic.x.com/9Dfie3xHbz",
+              "end": 51,
+              "expanded_url": "https://x.com/Gazzingbrume/status/2018341261259030896/photo/1",
+              "media_key": "3_2018341247266836480",
+              "start": 28,
+              "url": "https://t.co/9Dfie3xHbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018729306839789641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018341261259030896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gazzingbrume: 抖音特效 你牛大了 https://t.co/9Dfie3xHbz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018341247254245376",
+            "3_2018341244125196288",
+            "3_2018341247262580736",
+            "3_2018341247266836480"
+          ]
+        },
+        "author_id": "1961258157138952192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2018341261259030896",
+        "created_at": "2026-02-02T15:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T16:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018341261259030896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Dfie3xHbz",
+              "end": 33,
+              "expanded_url": "https://x.com/Gazzingbrume/status/2018341261259030896/photo/1",
+              "media_key": "3_2018341247254245376",
+              "start": 10,
+              "url": "https://t.co/9Dfie3xHbz"
+            },
+            {
+              "display_url": "pic.x.com/9Dfie3xHbz",
+              "end": 33,
+              "expanded_url": "https://x.com/Gazzingbrume/status/2018341261259030896/photo/1",
+              "media_key": "3_2018341244125196288",
+              "start": 10,
+              "url": "https://t.co/9Dfie3xHbz"
+            },
+            {
+              "display_url": "pic.x.com/9Dfie3xHbz",
+              "end": 33,
+              "expanded_url": "https://x.com/Gazzingbrume/status/2018341261259030896/photo/1",
+              "media_key": "3_2018341247262580736",
+              "start": 10,
+              "url": "https://t.co/9Dfie3xHbz"
+            },
+            {
+              "display_url": "pic.x.com/9Dfie3xHbz",
+              "end": 33,
+              "expanded_url": "https://x.com/Gazzingbrume/status/2018341261259030896/photo/1",
+              "media_key": "3_2018341247266836480",
+              "start": 10,
+              "url": "https://t.co/9Dfie3xHbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018341261259030896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 381204,
+          "like_count": 968,
+          "quote_count": 7,
+          "reply_count": 51,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "抖音特效 你牛大了 https://t.co/9Dfie3xHbz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜行程：大湾区、云川（一月中旬｜欢迎随时联系/心情大爆炸｜友链：@xubaimedia/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜深圳",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 865,
+          "like_count": 14370,
+          "listed_count": 0,
+          "media_count": 613,
+          "tweet_count": 2923
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T02:42:49.000Z",
+        "description": "江泽民的不孝女 蛤卫兵 习薄的严母",
+        "id": "1961258157138952192",
+        "location": "上海康平路",
+        "name": "栖雾听山",
+        "pinned_tweet_id": "1999546551614501151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961258341201498112/J-OLxVLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 42,
+          "like_count": 123,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 71
+        },
+        "username": "Gazzingbrume",
+        "verified": false
+      }
+    ]
+  }
+}

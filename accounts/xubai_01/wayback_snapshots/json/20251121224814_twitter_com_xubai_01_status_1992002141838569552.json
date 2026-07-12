@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1992002141838569552",
+    "created_at": "2025-11-21T22:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T23:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992002141838569552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1586332050528915457",
+          "start": 3,
+          "username": "lilaoshizuikeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992002141838569552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991845761969951223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilaoshizuikeai: 当90后公务员把大使馆账号当QQ空间玩的下场："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1992002141838569552",
+        "created_at": "2025-11-21T22:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T23:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992002141838569552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1586332050528915457",
+              "start": 3,
+              "username": "lilaoshizuikeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992002141838569552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991845761969951223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilaoshizuikeai: 当90后公务员把大使馆账号当QQ空间玩的下场："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586332050528915457",
+        "conversation_id": "1991845761969951223",
+        "created_at": "2025-11-21T12:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991845761969951223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChnEmbassy_jp/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ChnEmbassy_jp/status/1991689237532741686",
+              "start": 24,
+              "url": "https://t.co/tnbaNkAaLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991845761969951223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 258528,
+          "like_count": 733,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991689237532741686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当90后公务员把大使馆账号当QQ空间玩的下场： https://t.co/tnbaNkAaLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 570,
+          "like_count": 6872,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600861407104335873/PIQM5Ii9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249300,
+          "following_count": 664,
+          "like_count": 5590,
+          "listed_count": 1317,
+          "media_count": 1381,
+          "tweet_count": 7102
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

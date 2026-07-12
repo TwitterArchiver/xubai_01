@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010248110443016192"
+      ],
+      "media_source_tweet_id": [
+        "2010248112552718690"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2010961854655578465",
+    "created_at": "2026-01-13T06:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T07:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010961854655578465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1527586768891125760",
+          "start": 3,
+          "username": "wangxizhiKYWYW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hwV7eSL6z2",
+          "end": 45,
+          "expanded_url": "https://x.com/wangxizhiKYWYW/status/2010248112552718690/photo/1",
+          "media_key": "3_2010248110443016192",
+          "start": 22,
+          "url": "https://t.co/hwV7eSL6z2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010961854655578465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 752
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010248112552718690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wangxizhiKYWYW: 哈 https://t.co/hwV7eSL6z2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 862,
+        "media_key": "3_2010248110443016192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XWAXVbMAADvME.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010248110443016192"
+          ],
+          "media_source_tweet_id": [
+            "2010248112552718690"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2010961854655578465",
+        "created_at": "2026-01-13T06:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T07:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010961854655578465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1527586768891125760",
+              "start": 3,
+              "username": "wangxizhiKYWYW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hwV7eSL6z2",
+              "end": 45,
+              "expanded_url": "https://x.com/wangxizhiKYWYW/status/2010248112552718690/photo/1",
+              "media_key": "3_2010248110443016192",
+              "start": 22,
+              "url": "https://t.co/hwV7eSL6z2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010961854655578465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 752
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010248112552718690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wangxizhiKYWYW: 哈 https://t.co/hwV7eSL6z2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010248110443016192"
+          ]
+        },
+        "author_id": "1527586768891125760",
+        "conversation_id": "2010248112552718690",
+        "created_at": "2026-01-11T07:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010248112552718690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hwV7eSL6z2",
+              "end": 25,
+              "expanded_url": "https://x.com/wangxizhiKYWYW/status/2010248112552718690/photo/1",
+              "media_key": "3_2010248110443016192",
+              "start": 2,
+              "url": "https://t.co/hwV7eSL6z2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010248112552718690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 680,
+          "impression_count": 164221,
+          "like_count": 8898,
+          "quote_count": 57,
+          "reply_count": 95,
+          "retweet_count": 752
+        },
+        "reply_settings": "everyone",
+        "text": "哈 https://t.co/hwV7eSL6z2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：长春和大湾区（一月中旬｜欢迎随时联系/心情大爆炸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜东北",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 837,
+          "like_count": 13235,
+          "listed_count": 0,
+          "media_count": 568,
+          "tweet_count": 2535
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T09:47:40.000Z",
+        "description": "半文盲\n我是回民见不得这个\n为梁启超乐园而奋斗\n学无止境\n啊哈哈哈，我不识字",
+        "id": "1527586768891125760",
+        "location": "汉地",
+        "name": "怒尼威",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010168349041537025/dgUXtGIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 493,
+          "like_count": 17606,
+          "listed_count": 4,
+          "media_count": 2078,
+          "tweet_count": 7130
+        },
+        "username": "wangxizhiKYWYW",
+        "verified": false
+      }
+    ]
+  }
+}

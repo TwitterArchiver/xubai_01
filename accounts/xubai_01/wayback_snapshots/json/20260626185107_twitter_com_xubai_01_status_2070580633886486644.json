@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070580625845927936"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070545457814929917",
+    "created_at": "2026-06-26T18:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T19:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070580633886486644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1263504138307899392",
+          "start": 0,
+          "username": "im_magneto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SvL6kutoo2",
+          "end": 35,
+          "expanded_url": "https://x.com/xubai_01/status/2070580633886486644/photo/1",
+          "media_key": "3_2070580625845927936",
+          "start": 12,
+          "url": "https://t.co/SvL6kutoo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070580633886486644",
+    "in_reply_to_user_id": "1263504138307899392",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070545457814929917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@im_magneto https://t.co/SvL6kutoo2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070580625845927936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwuG9paQAAguPQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070580625845927936"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070545457814929917",
+        "created_at": "2026-06-26T18:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070580633886486644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1263504138307899392",
+              "start": 0,
+              "username": "im_magneto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SvL6kutoo2",
+              "end": 35,
+              "expanded_url": "https://x.com/xubai_01/status/2070580633886486644/photo/1",
+              "media_key": "3_2070580625845927936",
+              "start": 12,
+              "url": "https://t.co/SvL6kutoo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070580633886486644",
+        "in_reply_to_user_id": "1263504138307899392",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070545457814929917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@im_magneto https://t.co/SvL6kutoo2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263504138307899392",
+        "conversation_id": "2070545457814929917",
+        "created_at": "2026-06-26T16:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070545457814929917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070545457814929917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1120,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全麦面包男友火热招聘中，\n有兴趣的老公们可以来递个 resume\n（bushi）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 1582,
+          "like_count": 24844,
+          "listed_count": 2,
+          "media_count": 1220,
+          "tweet_count": 6503
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-21T16:17:25.000Z",
+        "description": "20岁 | 從事並熱愛計算機學科 | 不暧昧,不恋爱,推止于推 | Code is poetry. | 青团 @Weyne_0201",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "Weyne_0201"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fmcf.cc",
+                "end": 23,
+                "expanded_url": "https://fmcf.cc",
+                "start": 0,
+                "url": "https://t.co/xLebzdwqmt"
+              }
+            ]
+          }
+        },
+        "id": "1263504138307899392",
+        "location": "Sanya, PRC",
+        "name": "全麦面包🍞",
+        "pinned_tweet_id": "2013274396925075619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063657321482665984/nhrpB17g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4776,
+          "following_count": 984,
+          "like_count": 21151,
+          "listed_count": 4,
+          "media_count": 289,
+          "tweet_count": 8629
+        },
+        "url": "https://t.co/xLebzdwqmt",
+        "username": "im_magneto",
+        "verified": true
+      }
+    ]
+  }
+}

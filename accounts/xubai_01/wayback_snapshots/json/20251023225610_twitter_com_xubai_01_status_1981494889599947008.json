@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1981394156166795515",
+    "created_at": "2025-10-23T22:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T23:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981494889599947008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1076874986416005125",
+          "start": 0,
+          "username": "AirCcw"
+        },
+        {
+          "end": 19,
+          "id": "1947628431572623364",
+          "start": 8,
+          "username": "XubaiMedia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981494889599947008",
+    "in_reply_to_user_id": "1076874986416005125",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981397894789026020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AirCcw @XubaiMedia yes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1981394156166795515",
+        "created_at": "2025-10-23T22:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T23:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981494889599947008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1076874986416005125",
+              "start": 0,
+              "username": "AirCcw"
+            },
+            {
+              "end": 19,
+              "id": "1947628431572623364",
+              "start": 8,
+              "username": "XubaiMedia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981494889599947008",
+        "in_reply_to_user_id": "1076874986416005125",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981397894789026020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AirCcw @XubaiMedia yes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1076874986416005125",
+        "conversation_id": "1981394156166795515",
+        "created_at": "2025-10-23T16:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T17:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981397894789026020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            },
+            {
+              "end": 21,
+              "id": "1947628431572623364",
+              "start": 10,
+              "username": "XubaiMedia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981397894789026020",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981394156166795515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 @XubaiMedia 就差一个程序员了？🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 405,
+          "like_count": 4154,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-23T16:19:38.000Z",
+        "description": "Always on the way 这样寂寞就追不上我. 喜欢提前一年规划自己的旅游行程但是受够了一个人旅行. 大湾区程序员牛马. 🔝🌈. 机酒卡爱好者. web3从业者. 欢迎各路大神骚扰",
+        "id": "1076874986416005125",
+        "location": "Hong Kong",
+        "name": "ccw air",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1077264631641460736/arI5YDxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 905,
+          "like_count": 4655,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1260
+        },
+        "username": "AirCcw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T12:03:22.000Z",
+        "description": "🙋我们是一家来自中国海南的综合性互联网服务集团类企业，致力于让中国大陆用户使用到便捷易用的在线服务。🔰请注意此号仅发布简中内容。｜Xubai Group",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.xubainet.cn",
+                "end": 23,
+                "expanded_url": "http://blog.xubainet.cn",
+                "start": 0,
+                "url": "https://t.co/MTQoMilkJb"
+              }
+            ]
+          }
+        },
+        "id": "1947628431572623364",
+        "location": "Hainan,PRC",
+        "name": "Hainan XuBai Media Co.,Ltd",
+        "pinned_tweet_id": "1965012488321483054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947641104305950721/mFpuJB3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 41,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/MTQoMilkJb",
+        "username": "XubaiMedia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2041715806883738005",
+    "created_at": "2026-04-08T04:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041730405955666070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1351485882696548357",
+          "start": 0,
+          "username": "OnlyAppleCanDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041730405955666070",
+    "in_reply_to_user_id": "1351485882696548357",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041730284589347041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyAppleCanDo 瘟疫公司吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2041715806883738005",
+        "created_at": "2026-04-08T04:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041730405955666070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1351485882696548357",
+              "start": 0,
+              "username": "OnlyAppleCanDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041730405955666070",
+        "in_reply_to_user_id": "1351485882696548357",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041730284589347041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyAppleCanDo 瘟疫公司吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351485882696548357",
+        "conversation_id": "2041715806883738005",
+        "created_at": "2026-04-08T04:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041730284589347041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041730284589347041",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041715806883738005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 這個小標題太美式了 以前玩瘟疫公司就是這個感覺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "yuji53719"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 1097,
+          "like_count": 18248,
+          "listed_count": 0,
+          "media_count": 880,
+          "tweet_count": 4385
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-19T11:05:27.000Z",
+        "description": "貓不要吃我O_0｜在NYC ｜可愛得意先係最大本領｜",
+        "id": "1351485882696548357",
+        "location": "Nakayama City, Yamagata",
+        "name": "🍥鼠meow!🐭",
+        "pinned_tweet_id": "2011045743247970492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038936941018906625/oKeygUjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 848,
+          "like_count": 52329,
+          "listed_count": 5,
+          "media_count": 2497,
+          "tweet_count": 11661
+        },
+        "username": "OnlyAppleCanDo",
+        "verified": true
+      }
+    ]
+  }
+}

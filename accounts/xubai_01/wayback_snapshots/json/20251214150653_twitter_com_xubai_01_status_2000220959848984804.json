@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2000220959848984804",
+    "created_at": "2025-12-14T15:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T16:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000220959848984804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jj2597758/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/jj2597758/status/2000040631083884714",
+          "start": 11,
+          "url": "https://t.co/L8DwXH0oVu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000220959848984804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000040631083884714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "万达广场附近有人吗🔥 https://t.co/L8DwXH0oVu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2000220959848984804",
+        "created_at": "2025-12-14T15:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T16:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000220959848984804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jj2597758/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/jj2597758/status/2000040631083884714",
+              "start": 11,
+              "url": "https://t.co/L8DwXH0oVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000220959848984804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000040631083884714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "万达广场附近有人吗🔥 https://t.co/L8DwXH0oVu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844103262292803587",
+        "conversation_id": "2000040631083884714",
+        "created_at": "2025-12-14T03:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000040631083884714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000040631083884714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14379,
+          "like_count": 270,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克在万达广场有过一段难忘的旅程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia｜｜爱说梦话/想交朋友。🫠｜网易/火山引擎/阿里云/腾讯云代理商｜接各类企服财税代办｜一直都没钱都是装的身份自己给的｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 651,
+          "like_count": 9137,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T19:51:03.000Z",
+        "description": "GAME OVER",
+        "id": "1844103262292803587",
+        "name": "伴花作剑穗",
+        "pinned_tweet_id": "1994540283359629368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983696360038920196/M48jM9OQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 171,
+          "like_count": 26418,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1511
+        },
+        "username": "JJ2597758",
+        "verified": false
+      }
+    ]
+  }
+}

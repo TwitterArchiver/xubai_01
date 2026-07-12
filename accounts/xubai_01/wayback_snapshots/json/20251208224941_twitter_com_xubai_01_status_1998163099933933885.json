@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1998052771422208203",
+    "created_at": "2025-12-08T22:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T23:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998163099933933885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1513514070271422475",
+          "start": 0,
+          "username": "sl_caho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998163099933933885",
+    "in_reply_to_user_id": "1513514070271422475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998073017054953659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sl_caho *火速原路返还中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1998052771422208203",
+        "created_at": "2025-12-08T22:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T23:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998163099933933885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1513514070271422475",
+              "start": 0,
+              "username": "sl_caho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998163099933933885",
+        "in_reply_to_user_id": "1513514070271422475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998073017054953659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sl_caho *火速原路返还中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513514070271422475",
+        "conversation_id": "1998052771422208203",
+        "created_at": "2025-12-08T16:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998073017054953659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998073017054953659",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998052771422208203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 此时一笔黑钱进来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜理论上行实践不会😡/人｜江浙沪常驻｜Founder @xubaimedia｜可能是个人，但是离神很远了。｜爱说梦话/想交朋友。🫠｜年底会计人格上身了要做账心情很不好请不要惹我（最后通牒）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 622,
+          "like_count": 8245,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 939
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T13:47:39.000Z",
+        "description": "Member of XIG .Personality Individuality Liberation\nENTJ-A Focus on Politics \nMail: i.am@caho.cc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "page.caho.cc",
+                "end": 23,
+                "expanded_url": "https://page.caho.cc/",
+                "start": 0,
+                "url": "https://t.co/ODiCfqruO5"
+              }
+            ]
+          }
+        },
+        "id": "1513514070271422475",
+        "location": "Washington, D.C.",
+        "name": "Sen.L.C Ho",
+        "pinned_tweet_id": "1888954184021561344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995492490519203840/k6Vi5esg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 561,
+          "like_count": 11458,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 1582
+        },
+        "url": "https://t.co/ODiCfqruO5",
+        "username": "sl_caho",
+        "verified": false
+      }
+    ]
+  }
+}

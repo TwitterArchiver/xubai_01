@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2037058083286065251",
+    "created_at": "2026-03-26T07:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037068630903709933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "168139512",
+          "start": 0,
+          "username": "geekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037068630903709933",
+    "in_reply_to_user_id": "168139512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037058083286065251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@geekbb 朋友的朋友也是朋友哎～关注咯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2037058083286065251",
+        "created_at": "2026-03-26T07:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037068630903709933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "168139512",
+              "start": 0,
+              "username": "geekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037068630903709933",
+        "in_reply_to_user_id": "168139512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037058083286065251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@geekbb 朋友的朋友也是朋友哎～关注咯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "168139512",
+        "conversation_id": "2037058083286065251",
+        "created_at": "2026-03-26T06:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037058083286065251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037058083286065251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1117,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "这是一条 朋友及其朋友的朋友 才能回复的推"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 1013,
+          "like_count": 16986,
+          "listed_count": 0,
+          "media_count": 821,
+          "tweet_count": 4028
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "QingQ77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0jXq"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109254,
+          "following_count": 486,
+          "like_count": 20383,
+          "listed_count": 1177,
+          "media_count": 6821,
+          "tweet_count": 26486
+        },
+        "url": "https://t.co/lNbogZ0jXq",
+        "username": "geekbb",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963197308151160832"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "1963197318611824854",
+    "created_at": "2025-09-03T11:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T12:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963197318611824854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f3TIKRkAsh",
+          "end": 43,
+          "expanded_url": "https://x.com/xubai_01/status/1963197318611824854/photo/1",
+          "media_key": "3_1963197308151160832",
+          "start": 20,
+          "url": "https://t.co/f3TIKRkAsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963197318611824854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "停停停今天还款额咋是这个数✍️✍️✍️ https://t.co/f3TIKRkAsh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1963197318611824854].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1963197318611824854",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1963197318611824854"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963197308151160832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6tjOBaYAArM3M.jpg",
+        "width": 946
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "@xubai21｜一个人。｜gay0.5｜欢迎互推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "xubai21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "许白的回忆里",
+        "name": "许白",
+        "pinned_tweet_id": "1921545745993261070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962871355994746882/BW4i3aWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 186,
+          "like_count": 2330,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

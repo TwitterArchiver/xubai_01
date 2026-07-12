@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2041692540152463447",
+    "created_at": "2026-04-08T03:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T04:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041719154475143663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758508742780567552",
+          "start": 0,
+          "username": "qianxunchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041719154475143663",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041701518819344570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianxunchan 真的好热😭今天阳光要晒炸了（前几天更炸！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2041692540152463447",
+        "created_at": "2026-04-08T03:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041719154475143663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041719154475143663",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041701518819344570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 真的好热😭今天阳光要晒炸了（前几天更炸！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2041692540152463447",
+        "created_at": "2026-04-08T02:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041701518819344570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041701518819344570",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041692540152463447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 热？你说胡话是吧🫪🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "yuji53719"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 1096,
+          "like_count": 18236,
+          "listed_count": 0,
+          "media_count": 879,
+          "tweet_count": 4379
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:60\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 883,
+          "like_count": 1083,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 978
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

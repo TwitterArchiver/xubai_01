@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2001623548587315658",
+    "created_at": "2025-12-18T16:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T17:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001692607576199246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3151608288",
+          "start": 0,
+          "username": "AppSaildotDEV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001692607576199246",
+    "in_reply_to_user_id": "3151608288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001623548587315658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AppSaildotDEV 600元 三天拿海南执照 限办公司执照\n合规地址 次年续费220地址费即可"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2001623548587315658",
+        "created_at": "2025-12-18T16:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T17:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001692607576199246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3151608288",
+              "start": 0,
+              "username": "AppSaildotDEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001692607576199246",
+        "in_reply_to_user_id": "3151608288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001623548587315658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AppSaildotDEV 600元 三天拿海南执照 限办公司执照\n合规地址 次年续费220地址费即可"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3151608288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2001623548587315658",
+        "created_at": "2025-12-18T12:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001623548587315658"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "海南封关"
+            },
+            {
+              "end": 129,
+              "start": 124,
+              "tag": "数字游民"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/AppSaildotDEV/…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/AppSaildotDEV/status/2001619269617115533",
+              "start": 170,
+              "url": "https://t.co/T3VUKlwnnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001623548587315658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 10032,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001619269617115533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#海南封关 \n真正的长期影响其实不是免税 iPhone，而是 税\n\n1️⃣ 个人所得税：15% 封顶\n内地城市最高个税：45%，香港：17%\n\n2️⃣ 企业所得税：15%（长期政策）\n内地：25%\n香港：16.5%\n新加坡：17%\n美国：21%\n\n#数字游民、一人公司 的朋友们，可以考虑一下海南的公司了\n\n低成本、低消费、低税赋，高收入 https://t.co/T3VUKlwnnU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 713,
+          "like_count": 10304,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 1319
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-12T15:43:33.000Z",
+        "description": "Build  https://t.co/6hXCeF4SjA  https://t.co/bJvmBtFnWm\n🚀 X BoostClub 350w+ 社区  #XBC Partner\n🏂 🏄 🛹 Lover of boards & freedom\n#独立开发者 #港卡 #汇丰卓越  #资金回国\n付费咨询请私信",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "XBC"
+              },
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "独立开发者"
+              },
+              {
+                "end": 135,
+                "start": 132,
+                "tag": "港卡"
+              },
+              {
+                "end": 141,
+                "start": 136,
+                "tag": "汇丰卓越"
+              },
+              {
+                "end": 148,
+                "start": 143,
+                "tag": "资金回国"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "3min.top",
+                "end": 30,
+                "expanded_url": "https://3min.top/",
+                "start": 7,
+                "url": "https://t.co/6hXCeF4SjA"
+              },
+              {
+                "display_url": "appsail.dev",
+                "end": 55,
+                "expanded_url": "https://appsail.dev/",
+                "start": 32,
+                "url": "https://t.co/bJvmBtFnWm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x-boostclub.notion.site",
+                "end": 23,
+                "expanded_url": "https://x-boostclub.notion.site/",
+                "start": 0,
+                "url": "https://t.co/ADhVYv1I0Z"
+              }
+            ]
+          }
+        },
+        "id": "3151608288",
+        "location": "Singapore",
+        "name": "AppSail.dev",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898997683634978816/jmJl9q7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13253,
+          "following_count": 1324,
+          "like_count": 7372,
+          "listed_count": 114,
+          "media_count": 322,
+          "tweet_count": 5894
+        },
+        "url": "https://t.co/ADhVYv1I0Z",
+        "username": "AppSaildotDEV",
+        "verified": true
+      }
+    ]
+  }
+}

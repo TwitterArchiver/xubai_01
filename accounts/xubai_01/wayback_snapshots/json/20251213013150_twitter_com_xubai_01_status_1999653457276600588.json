@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1999512667879346408",
+    "created_at": "2025-12-13T01:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T02:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999653457276600588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "769435667168268288",
+          "start": 0,
+          "username": "baibu_ice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999653457276600588",
+    "in_reply_to_user_id": "769435667168268288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999651528274248043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baibu_ice 谢谢～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1999512667879346408",
+        "created_at": "2025-12-13T01:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T02:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999653457276600588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "769435667168268288",
+              "start": 0,
+              "username": "baibu_ice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999653457276600588",
+        "in_reply_to_user_id": "769435667168268288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999651528274248043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baibu_ice 谢谢～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "769435667168268288",
+        "conversation_id": "1999512667879346408",
+        "created_at": "2025-12-13T01:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T02:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999651528274248043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999651528274248043",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999512667879346408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 生日快乐呀 好宝宝~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/人/实名上网｜ADHD&中抑重焦｜Founder @xubaimedia｜｜爱说梦话/想交朋友。🫠｜年底会计人格上身了要做账心情很不好请不要惹我（最后通牒）｜接各类企服财税代办｜一直都没钱都是装的身份自己给的｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 643,
+          "like_count": 8834,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1047
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-27T07:25:33.000Z",
+        "description": "这里是白布，男生🌈｜infp｜180-70kg-side｜欢迎互粉｜性格很好｜喜欢白袜，催眠｜对xnh没有抵抗力｜致力于为自己的每一帧画面，编织成最富有文艺色彩的故事｜好朋友阿能：@Exusiai159｜周刊宝宝加油：@sunsiyu2007｜里推后续会通知",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "Exusiai159"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "sunsiyu2007"
+              }
+            ]
+          }
+        },
+        "id": "769435667168268288",
+        "location": "距离你的心520km",
+        "name": "白布不冰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960182227293351936/PpL-Nuet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 446,
+          "like_count": 14892,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 3375
+        },
+        "username": "baibu_ice",
+        "verified": false
+      }
+    ]
+  }
+}

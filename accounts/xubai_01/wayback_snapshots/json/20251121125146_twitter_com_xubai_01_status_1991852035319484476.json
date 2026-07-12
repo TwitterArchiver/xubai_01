@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1991513404469834029",
+    "created_at": "2025-11-21T12:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T13:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991852035319484476"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "redteago",
+          "probability": 0.7634,
+          "start": 13,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "18354912",
+          "start": 0,
+          "username": "littlelilis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991852035319484476",
+    "in_reply_to_user_id": "18354912",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991676164839207099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littlelilis redteago"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1991513404469834029",
+        "created_at": "2025-11-21T12:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991852035319484476"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "redteago",
+              "probability": 0.7634,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "18354912",
+              "start": 0,
+              "username": "littlelilis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991852035319484476",
+        "in_reply_to_user_id": "18354912",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991676164839207099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlelilis redteago"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "18354912",
+        "conversation_id": "1991513404469834029",
+        "created_at": "2025-11-21T01:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T02:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991676164839207099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991676164839207099",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2591,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991513404469834029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 这也太便宜了 哪里的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 560,
+          "like_count": 6786,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-24T10:00:14.000Z",
+        "description": "从后厨毕业了, 躺平了",
+        "id": "18354912",
+        "location": "Canada",
+        "name": "阿劈寄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967752245933481985/gcEh-cdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 761,
+          "like_count": 3573,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 1289
+        },
+        "username": "littlelilis",
+        "verified": false
+      }
+    ]
+  }
+}

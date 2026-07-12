@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2002726105300812072",
+    "created_at": "2025-12-21T13:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T14:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002729349930471509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1689214483481452544",
+          "start": 0,
+          "username": "ZianTT_Official"
+        },
+        {
+          "end": 27,
+          "id": "1488080791125237760",
+          "start": 17,
+          "username": "MengXi969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002729349930471509",
+    "in_reply_to_user_id": "1689214483481452544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002726105300812072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZianTT_Official @MengXi969 抢占式不备份的都来了🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2188,
+        "media_key": "3_2002726099336478720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8scxsVawAAqDfL.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2002726105300812072",
+        "created_at": "2025-12-21T13:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002729349930471509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1689214483481452544",
+              "start": 0,
+              "username": "ZianTT_Official"
+            },
+            {
+              "end": 27,
+              "id": "1488080791125237760",
+              "start": 17,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002729349930471509",
+        "in_reply_to_user_id": "1689214483481452544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002726105300812072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZianTT_Official @MengXi969 抢占式不备份的都来了🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002726099336478720"
+          ]
+        },
+        "author_id": "1689214483481452544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002726105300812072",
+        "created_at": "2025-12-21T13:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002726105300812072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AVBZYfwyiN",
+              "end": 98,
+              "expanded_url": "https://x.com/ZianTT_Official/status/2002726105300812072/photo/1",
+              "media_key": "3_2002726099336478720",
+              "start": 75,
+              "url": "https://t.co/AVBZYfwyiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002726105300812072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "数据安全这块\n用阿里云抢占式实例且为直接释放模式且未设置云盘不随实例释放这块\n主办方完全没有数据备份这块\n这数据安全是得比比哈，主办方这示范做的不错 https://t.co/AVBZYfwyiN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜一月行程：武汉｜欢迎随时dm我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 750,
+          "like_count": 10966,
+          "listed_count": 0,
+          "media_count": 358,
+          "tweet_count": 1583
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T09:58:21.000Z",
+        "description": "DevOps, SRE, Cyber Security,  Web Developer | Python & GoLang & JavaScript | LightXi Inc. | 一切随缘 顺其自然 生命总会找到出路",
+        "id": "1689214483481452544",
+        "location": "Shanghai, PRC",
+        "name": "ZianTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990826336236285956/BZi5flJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 358,
+          "like_count": 1597,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1825
+        },
+        "username": "ZianTT_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / 负能 @ch3rryzhu\n\n👀 Work for @nexaorion @LankoZone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "nexaorion"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "LankoZone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvfMd"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 2724,
+          "like_count": 73725,
+          "listed_count": 4,
+          "media_count": 778,
+          "tweet_count": 5096
+        },
+        "url": "https://t.co/TIHBlJvfMd",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

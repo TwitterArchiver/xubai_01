@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2005184986853634456",
+    "created_at": "2025-12-28T07:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T08:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005184986853634456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1577922795652222976",
+          "start": 3,
+          "username": "Raz_09_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005184986853634456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005172941101895915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Raz_09_: 我离开学校后\n还是会有人用最难听的话来侮辱 欺负我 然后说自己是开玩笑 过几天发一句对不起就可以当作什么都没发生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2005184986853634456",
+        "created_at": "2025-12-28T07:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T08:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005184986853634456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1577922795652222976",
+              "start": 3,
+              "username": "Raz_09_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005184986853634456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005172941101895915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Raz_09_: 我离开学校后\n还是会有人用最难听的话来侮辱 欺负我 然后说自己是开玩笑 过几天发一句对不起就可以当作什么都没发生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577922795652222976",
+        "conversation_id": "2005172941101895915",
+        "created_at": "2025-12-28T07:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T08:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005172941101895915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005172941101895915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我离开学校后\n还是会有人用最难听的话来侮辱 欺负我 然后说自己是开玩笑 过几天发一句对不起就可以当作什么都没发生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 796,
+          "like_count": 12059,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 2022
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T07:25:04.000Z",
+        "description": "可以叫我锅盖 现驻湖南",
+        "id": "1577922795652222976",
+        "name": "锅盖盖盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902761348897050625/VcoGT5vQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 188,
+          "like_count": 3221,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 460
+        },
+        "username": "Raz_09_",
+        "verified": true
+      }
+    ]
+  }
+}

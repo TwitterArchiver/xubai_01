@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      }
+    ],
+    "conversation_id": "2066755326360330645",
+    "created_at": "2026-06-17T06:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T07:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067135086999568591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1236513840008962048",
+          "start": 0,
+          "username": "XING64590591"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067135086999568591",
+    "in_reply_to_user_id": "1236513840008962048",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066755326360330645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XING64590591 why my debit card is mastercard bro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066755319548784640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6XA1NasAAd5ad.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066755319548817408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6XA1NbMAAlds5.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2066755326360330645",
+        "created_at": "2026-06-17T06:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067135086999568591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1236513840008962048",
+              "start": 0,
+              "username": "XING64590591"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067135086999568591",
+        "in_reply_to_user_id": "1236513840008962048",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066755326360330645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XING64590591 why my debit card is mastercard bro"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066755319548784640",
+            "3_2066755319548817408"
+          ]
+        },
+        "author_id": "1236513840008962048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Robinhood",
+              "id": "10049614909",
+              "name": "Robinhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Robinhood",
+              "id": "10049614909",
+              "name": "Robinhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          }
+        ],
+        "conversation_id": "2066755326360330645",
+        "created_at": "2026-06-16T05:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066755326360330645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1840810905833197568",
+              "start": 15,
+              "username": "xubai_01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGC2ihwD30",
+              "end": 48,
+              "expanded_url": "https://x.com/XING64590591/status/2066755326360330645/photo/1",
+              "media_key": "3_2066755319548784640",
+              "start": 25,
+              "url": "https://t.co/nGC2ihwD30"
+            },
+            {
+              "display_url": "pic.x.com/nGC2ihwD30",
+              "end": 48,
+              "expanded_url": "https://x.com/XING64590591/status/2066755326360330645/photo/1",
+              "media_key": "3_2066755319548817408",
+              "start": 25,
+              "url": "https://t.co/nGC2ihwD30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066755326360330645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Robinhood金卡第一刷！@xubai_01 https://t.co/nGC2ihwD30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 76,
+                "username": "xuba1_"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "yuji53719"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 129,
+                "start": 122,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 1512,
+          "like_count": 24537,
+          "listed_count": 2,
+          "media_count": 1184,
+          "tweet_count": 6390
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-08T04:47:39.000Z",
+        "description": "网络工程实习，坐标洛杉矶。喜欢交朋友。",
+        "id": "1236513840008962048",
+        "location": "👾𝚉𝙷,𝙴𝙽 / 🇺🇸",
+        "name": "XHennery",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060890343185457152/zuUdOtdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 448,
+          "like_count": 5592,
+          "listed_count": 0,
+          "media_count": 1605,
+          "tweet_count": 4391
+        },
+        "username": "XING64590591",
+        "verified": true
+      }
+    ]
+  }
+}

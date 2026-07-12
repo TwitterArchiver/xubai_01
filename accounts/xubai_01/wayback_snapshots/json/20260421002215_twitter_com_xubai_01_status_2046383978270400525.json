@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2043802538323976482",
+    "created_at": "2026-04-21T00:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T01:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046383978270400525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1493642782363238413",
+          "start": 0,
+          "username": "anwan_831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046383978270400525",
+    "in_reply_to_user_id": "1493642782363238413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043802538323976482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anwan_831 筑波可以扩列嘛～你的私信没有开😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10366,
+        "height": 1280,
+        "media_key": "13_2043802474168102912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043802474168102912/img/1vbfZlhQDfFdfito.jpg",
+        "public_metrics": {
+          "view_count": 2382
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043802474168102912/vid/avc1/320x568/WRMH3H9Jur6PK6As.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043802474168102912/vid/avc1/480x852/ZMe5j6u13a9IU7DQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043802474168102912/vid/avc1/720x1280/Y6u40J3zdr53eGpU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043802474168102912/pl/3LC7vgKtK8f4VpF2.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2043802538323976482",
+        "created_at": "2026-04-21T00:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T01:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046383978270400525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1493642782363238413",
+              "start": 0,
+              "username": "anwan_831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046383978270400525",
+        "in_reply_to_user_id": "1493642782363238413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043802538323976482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anwan_831 筑波可以扩列嘛～你的私信没有开😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043802474168102912"
+          ]
+        },
+        "author_id": "1493642782363238413",
+        "conversation_id": "2043802538323976482",
+        "created_at": "2026-04-13T21:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T22:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043802538323976482"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "少年"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "可爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/apVuUgAeXE",
+              "end": 35,
+              "expanded_url": "https://x.com/anwan_831/status/2043802538323976482/video/1",
+              "media_key": "13_2043802474168102912",
+              "start": 12,
+              "url": "https://t.co/apVuUgAeXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043802538323976482",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 11486,
+          "like_count": 254,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "🎀🤍🐰\n#少年 #可爱 https://t.co/apVuUgAeXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n备@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "xuba1_"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1199,
+          "like_count": 20320,
+          "listed_count": 0,
+          "media_count": 971,
+          "tweet_count": 4892
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-15T17:46:22.000Z",
+        "description": "09 INFJ-巨蟹♋️ 在意大利 \n168 42kg /0 欢迎来扩列！\n属性如下⬇️恭喜元英gxyy🙄\n🎵drivers license\n💽eternal sunshine\n🎤IVE Wonyoung\n韩漫和发疯号@wanan_901",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 109,
+                "username": "wanan_901"
+              }
+            ]
+          }
+        },
+        "id": "1493642782363238413",
+        "location": "意大利",
+        "name": "荌皖",
+        "pinned_tweet_id": "2043802538323976482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043098362484871168/Kfn99YOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 16,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 38
+        },
+        "username": "anwan_831",
+        "verified": false
+      }
+    ]
+  }
+}

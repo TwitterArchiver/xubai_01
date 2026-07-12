@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2005699083412050036",
+    "created_at": "2025-12-29T17:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T18:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005699083412050036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mengxi969/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/mengxi969/status/2005692532496437249",
+          "start": 8,
+          "url": "https://t.co/dKgtBSrVPb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005699083412050036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005692532496437249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我居然还活着。 https://t.co/dKgtBSrVPb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2005699083412050036",
+        "created_at": "2025-12-29T17:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T18:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005699083412050036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengxi969/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/mengxi969/status/2005692532496437249",
+              "start": 8,
+              "url": "https://t.co/dKgtBSrVPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005699083412050036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005692532496437249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我居然还活着。 https://t.co/dKgtBSrVPb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488080791125237760",
+        "conversation_id": "2005692532496437249",
+        "created_at": "2025-12-29T17:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T18:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005692532496437249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005692532496437249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我居然还活着。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 799,
+          "like_count": 12169,
+          "listed_count": 0,
+          "media_count": 470,
+          "tweet_count": 2105
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvfMd"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 2763,
+          "like_count": 75417,
+          "listed_count": 5,
+          "media_count": 798,
+          "tweet_count": 5193
+        },
+        "url": "https://t.co/TIHBlJvfMd",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

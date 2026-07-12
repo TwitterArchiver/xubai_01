@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2027772232895025459",
+    "created_at": "2026-02-28T15:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027772232895025459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601893417549967360",
+          "start": 3,
+          "username": "AcboxLiu"
+        },
+        {
+          "end": 23,
+          "id": "1683218035602255872",
+          "start": 14,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027772232895025459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027664925976641548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcboxLiu: @jlxc2001 人类没救了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2027772232895025459",
+        "created_at": "2026-02-28T15:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027772232895025459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601893417549967360",
+              "start": 3,
+              "username": "AcboxLiu"
+            },
+            {
+              "end": 23,
+              "id": "1683218035602255872",
+              "start": 14,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027772232895025459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027664925976641548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcboxLiu: @jlxc2001 人类没救了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "2027651472192901415",
+        "created_at": "2026-02-28T08:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027664925976641548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027664925976641548",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1180,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027651472192901415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 人类没救了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 870,
+          "like_count": 15234,
+          "listed_count": 0,
+          "media_count": 668,
+          "tweet_count": 3194
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/推特当朋友圈发/搞开发的/building @memoh_ai /🐱大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "memoh_ai"
+              },
+              {
+                "end": 64,
+                "start": 50,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2023275489155268769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629929281810432/W3tlGjqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11127,
+          "following_count": 3024,
+          "like_count": 3132,
+          "listed_count": 49,
+          "media_count": 1266,
+          "tweet_count": 6521
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7wSN1"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11752,
+          "following_count": 137,
+          "like_count": 349,
+          "listed_count": 24,
+          "media_count": 647,
+          "tweet_count": 1617
+        },
+        "url": "https://t.co/pIA1Q7wSN1",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

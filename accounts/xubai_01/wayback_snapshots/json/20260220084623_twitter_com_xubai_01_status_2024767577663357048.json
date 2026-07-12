@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2024474937646563368",
+    "created_at": "2026-02-20T08:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T09:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024767577663357048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1471240293135843328",
+          "start": 0,
+          "username": "ling1xixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024767577663357048",
+    "in_reply_to_user_id": "1471240293135843328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024731325828386820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ling1xixi 露宿街头.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2024474937646563368",
+        "created_at": "2026-02-20T08:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024767577663357048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1471240293135843328",
+              "start": 0,
+              "username": "ling1xixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024767577663357048",
+        "in_reply_to_user_id": "1471240293135843328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024731325828386820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ling1xixi 露宿街头.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471240293135843328",
+        "conversation_id": "2024474937646563368",
+        "created_at": "2026-02-20T06:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024731325828386820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024731325828386820",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024474937646563368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 桥洞逐渐变成家的形状"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州🔜嘉兴",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 859,
+          "like_count": 14920,
+          "listed_count": 0,
+          "media_count": 643,
+          "tweet_count": 3080
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-15T22:06:52.000Z",
+        "description": "梦想是和对象养条小狗\nenfp武汉某211男大\n19-1s-177-55-16cm\n武汉(上学)/港/深出没\n喜欢聊天不爱回信息\n不高冷 好说话\n互推私信挂三天\n🐧3909788082\n要v私信要就好",
+        "id": "1471240293135843328",
+        "location": "5.20km",
+        "name": "阿凌",
+        "pinned_tweet_id": "1931334195189866571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923701216745332736/EKoG9igR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 398,
+          "like_count": 3470,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 269
+        },
+        "username": "ling1xixi",
+        "verified": false
+      }
+    ]
+  }
+}

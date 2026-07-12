@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072372340823064576"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2072372344744722795",
+    "created_at": "2026-07-01T17:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072372344744722795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u4eojjjCW3",
+          "end": 82,
+          "expanded_url": "https://x.com/xubai_01/status/2072372344744722795/photo/1",
+          "media_key": "3_2072372340823064576",
+          "start": 59,
+          "url": "https://t.co/u4eojjjCW3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072372344744722795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "[限时免费]东北伤痛文学[情感模版]\n那功夫俺俩处对象那会 他老问我爱是啥 我哪知道爱是啥 现在我知道了 爱是啥.."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "[限时免费]东北伤痛文学[情感模版]\n那功夫俺俩处对象那会 他老问我爱是啥 我哪知道爱是啥 现在我知道了 爱是啥.. https://t.co/u4eojjjCW3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 490,
+        "media_key": "3_2072372340823064576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKLqgEagAAStr_.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072372340823064576"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2072372344744722795",
+        "created_at": "2026-07-01T17:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072372344744722795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u4eojjjCW3",
+              "end": 82,
+              "expanded_url": "https://x.com/xubai_01/status/2072372344744722795/photo/1",
+              "media_key": "3_2072372340823064576",
+              "start": 59,
+              "url": "https://t.co/u4eojjjCW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072372344744722795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "[限时免费]东北伤痛文学[情感模版]\n那功夫俺俩处对象那会 他老问我爱是啥 我哪知道爱是啥 现在我知道了 爱是啥.."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "[限时免费]东北伤痛文学[情感模版]\n那功夫俺俩处对象那会 他老问我爱是啥 我哪知道爱是啥 现在我知道了 爱是啥.. https://t.co/u4eojjjCW3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 1625,
+          "like_count": 25219,
+          "listed_count": 2,
+          "media_count": 1253,
+          "tweet_count": 6684
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      }
+    ]
+  }
+}

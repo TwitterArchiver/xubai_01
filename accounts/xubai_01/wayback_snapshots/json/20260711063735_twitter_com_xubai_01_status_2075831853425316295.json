@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075831850535354368"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Stanford University",
+          "id": "10047480138",
+          "name": "Stanford University"
+        }
+      }
+    ],
+    "conversation_id": "2075831853425316295",
+    "created_at": "2026-07-11T06:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075831853425316295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7mLwGA2OVN",
+          "end": 35,
+          "expanded_url": "https://x.com/xubai_01/status/2075831853425316295/photo/1",
+          "media_key": "3_2075831850535354368",
+          "start": 12,
+          "url": "https://t.co/7mLwGA2OVN"
+        },
+        {
+          "display_url": "x.com/0xastra/status…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/0xastra/status/2075811293253214717",
+          "start": 36,
+          "url": "https://t.co/p32QFYQR9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075831853425316295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075811293253214717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "甚至用完了免费配额.. https://t.co/7mLwGA2OVN https://t.co/p32QFYQR9n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 286,
+        "media_key": "3_2075831850535354368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7WEeCaAAARlm_.jpg",
+        "width": 509
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075811288308174848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7DXlxa0AAu-PQ.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075831850535354368"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Stanford University",
+              "id": "10047480138",
+              "name": "Stanford University"
+            }
+          }
+        ],
+        "conversation_id": "2075831853425316295",
+        "created_at": "2026-07-11T06:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075831853425316295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mLwGA2OVN",
+              "end": 35,
+              "expanded_url": "https://x.com/xubai_01/status/2075831853425316295/photo/1",
+              "media_key": "3_2075831850535354368",
+              "start": 12,
+              "url": "https://t.co/7mLwGA2OVN"
+            },
+            {
+              "display_url": "x.com/0xastra/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/0xastra/status/2075811293253214717",
+              "start": 36,
+              "url": "https://t.co/p32QFYQR9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075831853425316295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075811293253214717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甚至用完了免费配额.. https://t.co/7mLwGA2OVN https://t.co/p32QFYQR9n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075811288308174848"
+          ]
+        },
+        "author_id": "1775079210484436992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Stanford University",
+              "id": "10047480138",
+              "name": "Stanford University"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291139053174153217",
+              "name": "Stanford University"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1291139053174153217",
+              "name": "Stanford University"
+            }
+          }
+        ],
+        "conversation_id": "2075811293253214717",
+        "created_at": "2026-07-11T05:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075811293253214717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "18036441",
+              "start": 8,
+              "username": "Stanford"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2h5vVtJoLE",
+              "end": 50,
+              "expanded_url": "https://x.com/0xAstra/status/2075811293253214717/photo/1",
+              "media_key": "3_2075811288308174848",
+              "start": 27,
+              "url": "https://t.co/2h5vVtJoLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075811293253214717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 317,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "斯坦福大学官网 @Stanford 居然是AI开发的 https://t.co/2h5vVtJoLE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 1659,
+          "like_count": 25981,
+          "listed_count": 2,
+          "media_count": 1315,
+          "tweet_count": 7079
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T08:34:21.000Z",
+        "description": "正在打造 @GMWallet ｜GitHub Star全球前十(加密领域) HODL @PudgyPenguins #5103 加密交易用币安：https://t.co/gCvs8cb1ga\nOKX最合规交易所：https://t.co/Spvg2Or79R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "GMWallet"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "PudgyPenguins"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=A…",
+                "end": 95,
+                "expanded_url": "https://www.binance.com/register?ref=ASTRA345",
+                "start": 72,
+                "url": "https://t.co/gCvs8cb1ga"
+              },
+              {
+                "display_url": "okx.com/join/17846565",
+                "end": 129,
+                "expanded_url": "https://okx.com/join/17846565",
+                "start": 106,
+                "url": "https://t.co/Spvg2Or79R"
+              }
+            ]
+          }
+        },
+        "id": "1775079210484436992",
+        "location": "Canberra",
+        "name": "Astra",
+        "pinned_tweet_id": "2045323867988906374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063723095492644864/wQfoPaC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8353,
+          "following_count": 950,
+          "like_count": 54005,
+          "listed_count": 36,
+          "media_count": 585,
+          "tweet_count": 11241
+        },
+        "url": "",
+        "username": "0xAstra",
+        "verified": true
+      }
+    ]
+  }
+}

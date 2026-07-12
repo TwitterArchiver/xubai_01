@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965781392094339073",
+        "3_1965781391993679873"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "1965781403490242675",
+    "created_at": "2025-09-10T14:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T15:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965781403490242675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QtJ7EZtVfM",
+          "end": 34,
+          "expanded_url": "https://x.com/xubai_01/status/1965781403490242675/photo/1",
+          "media_key": "3_1965781392094339073",
+          "start": 11,
+          "url": "https://t.co/QtJ7EZtVfM"
+        },
+        {
+          "display_url": "pic.x.com/QtJ7EZtVfM",
+          "end": 34,
+          "expanded_url": "https://x.com/xubai_01/status/1965781403490242675/photo/1",
+          "media_key": "3_1965781391993679873",
+          "start": 11,
+          "url": "https://t.co/QtJ7EZtVfM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965781403490242675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我很吃这款的颜值.. https://t.co/QtJ7EZtVfM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1965781403490242675].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1965781403490242675",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965781403490242675"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965781392094339073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0fbws3bIAETWVx.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965781391993679873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0fbwsfbMAE5QO_.jpg",
+        "width": 946
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈@xubai22｜一个什么圈子都混一点的莫名其妙的人。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "xubai22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "许白的回忆里",
+        "name": "许白",
+        "pinned_tweet_id": "1965052451901591691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962871355994746882/BW4i3aWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 207,
+          "like_count": 2468,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

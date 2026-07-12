@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "961618132874883072",
+          "name": "PlayerUnknown's Battlegrounds"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "961618132874883072",
+          "name": "PlayerUnknown's Battlegrounds"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2058595778176975231",
+    "created_at": "2026-05-24T17:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058595778176975231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xstudy/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/0xstudy/status/2058589632540098706",
+          "start": 11,
+          "url": "https://t.co/7BfQ18Hv3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058595778176975231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058589632540098706",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "崩不住了300ms吗 https://t.co/7BfQ18Hv3l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 732,
+        "media_key": "3_2058589623803363328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGUWyEawAAgjDH.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "961618132874883072",
+              "name": "PlayerUnknown's Battlegrounds"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "961618132874883072",
+              "name": "PlayerUnknown's Battlegrounds"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2058595778176975231",
+        "created_at": "2026-05-24T17:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058595778176975231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xstudy/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/0xstudy/status/2058589632540098706",
+              "start": 11,
+              "url": "https://t.co/7BfQ18Hv3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058595778176975231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058589632540098706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "崩不住了300ms吗 https://t.co/7BfQ18Hv3l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058589623803363328"
+          ]
+        },
+        "author_id": "1876957995806158848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "961618132874883072",
+              "name": "PlayerUnknown's Battlegrounds"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "961618132874883072",
+              "name": "PlayerUnknown's Battlegrounds"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2058399844952338614",
+        "created_at": "2026-05-24T16:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058589632540098706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "998163902939648000",
+              "start": 0,
+              "username": "Layer2hunters"
+            },
+            {
+              "end": 27,
+              "id": "1584480975186075649",
+              "start": 15,
+              "username": "playcambria"
+            },
+            {
+              "end": 42,
+              "id": "1723719536128790528",
+              "start": 28,
+              "username": "communitybria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/34twC9fGM9",
+              "end": 93,
+              "expanded_url": "https://x.com/0xStudy/status/2058589632540098706/photo/1",
+              "media_key": "3_2058589623803363328",
+              "start": 70,
+              "url": "https://t.co/34twC9fGM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058589632540098706",
+        "in_reply_to_user_id": "998163902939648000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058399844952338614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Layer2hunters @playcambria @communitybria 这延迟如果打PUBG说不定跳伞刚落地别人都打决赛圈了 https://t.co/34twC9fGM9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 1295,
+          "like_count": 22699,
+          "listed_count": 1,
+          "media_count": 1104,
+          "tweet_count": 5699
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-08T11:44:07.000Z",
+        "description": "/发着玩 不坑人 写教程/\n/@AbstractChain Giga Chad/\n\n安全首选 交易所、钱包 #OKX 直达: \nhttps://t.co/HSkkclbUqz\n\n全球最大交易所币安 #Binance：\nhttps://t.co/Wzgm9LgUYY",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "OKX"
+              },
+              {
+                "end": 107,
+                "start": 99,
+                "tag": "Binance"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "AbstractChain"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/zh-hans/join/5…",
+                "end": 87,
+                "expanded_url": "http://www.okx.com/zh-hans/join/56551706",
+                "start": 64,
+                "url": "https://t.co/HSkkclbUqz"
+              },
+              {
+                "display_url": "binance.com/zh-CN/join?ref…",
+                "end": 132,
+                "expanded_url": "http://www.binance.com/zh-CN/join?ref=8150",
+                "start": 109,
+                "url": "https://t.co/Wzgm9LgUYY"
+              }
+            ]
+          }
+        },
+        "id": "1876957995806158848",
+        "name": "0xStudy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011185527865950208/Iovpo2hL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15975,
+          "following_count": 758,
+          "like_count": 19010,
+          "listed_count": 371,
+          "media_count": 3691,
+          "tweet_count": 25216
+        },
+        "username": "0xStudy",
+        "verified": true
+      }
+    ]
+  }
+}

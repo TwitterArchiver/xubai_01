@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2007971546858705247",
+    "created_at": "2026-01-05T02:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T03:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008001998634013067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1970771044236771329",
+          "start": 0,
+          "username": "Hsilingl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008001998634013067",
+    "in_reply_to_user_id": "1970771044236771329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008001175040426468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hsilingl 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2007971546858705247",
+        "created_at": "2026-01-05T02:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T03:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008001998634013067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1970771044236771329",
+              "start": 0,
+              "username": "Hsilingl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008001998634013067",
+        "in_reply_to_user_id": "1970771044236771329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008001175040426468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hsilingl 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970771044236771329",
+        "conversation_id": "2007971546858705247",
+        "created_at": "2026-01-05T02:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T03:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008001175040426468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008001175040426468",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007971546858705247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 呜呜呜呜，主包真高冷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜武汉",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 807,
+          "like_count": 12745,
+          "listed_count": 0,
+          "media_count": 532,
+          "tweet_count": 2332
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T08:43:54.000Z",
+        "description": "单纯逛逛 说不定会发发",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "3396201696.com",
+                "end": 23,
+                "expanded_url": "http://www.3396201696.com",
+                "start": 0,
+                "url": "https://t.co/f2Grb40Nqx"
+              }
+            ]
+          }
+        },
+        "id": "1970771044236771329",
+        "location": "四川 泸州",
+        "name": "贺思念",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970771355357552640/ZN0UHtzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 447,
+          "like_count": 1426,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/f2Grb40Nqx",
+        "username": "Hsilingl",
+        "verified": false
+      }
+    ]
+  }
+}

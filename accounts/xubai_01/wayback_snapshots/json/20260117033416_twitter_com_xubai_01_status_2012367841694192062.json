@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2012367841694192062",
+    "created_at": "2026-01-17T03:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T04:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012367841694192062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1995842567934803968",
+          "start": 3,
+          "username": "qi_wang94070"
+        },
+        {
+          "end": 29,
+          "id": "1153970326604144640",
+          "start": 18,
+          "username": "Ruters0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012367841694192062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012248929027711006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qi_wang94070: @Ruters0615 这我大哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2012367841694192062",
+        "created_at": "2026-01-17T03:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012367841694192062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1995842567934803968",
+              "start": 3,
+              "username": "qi_wang94070"
+            },
+            {
+              "end": 29,
+              "id": "1153970326604144640",
+              "start": 18,
+              "username": "Ruters0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012367841694192062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012248929027711006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qi_wang94070: @Ruters0615 这我大哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995842567934803968",
+        "conversation_id": "2012231675153936475",
+        "created_at": "2026-01-16T19:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T20:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012248929027711006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1153970326604144640",
+              "start": 0,
+              "username": "Ruters0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012248929027711006",
+        "in_reply_to_user_id": "1153970326604144640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012231675153936475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruters0615 这我大哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：东三省、大湾区、四川（一月中旬｜欢迎随时联系/心情大爆炸｜@xubaimedia/？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜东北",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 850,
+          "like_count": 13546,
+          "listed_count": 0,
+          "media_count": 576,
+          "tweet_count": 2654
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T13:09:30.000Z",
+        "description": "上海市工代会主任\n中共第十届中央委员、中央政治局委员、常务委员会委员、中央副主席\n中共中央军委常务委员",
+        "id": "1995842567934803968",
+        "location": "长春开源村",
+        "name": "王洪文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995842950144950274/ALofV7sE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 21,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 104
+        },
+        "username": "qi_wang94070",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "1984884324806828349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295740,
+          "following_count": 2386,
+          "like_count": 2365,
+          "listed_count": 935,
+          "media_count": 2310,
+          "tweet_count": 3069
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

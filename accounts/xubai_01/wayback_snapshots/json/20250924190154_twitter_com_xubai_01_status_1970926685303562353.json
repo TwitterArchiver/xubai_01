@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1970813801609240654",
+    "created_at": "2025-09-24T19:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T20:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970926685303562353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1816323612154138624",
+          "start": 0,
+          "username": "Likemy_life_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970926685303562353",
+    "in_reply_to_user_id": "1816323612154138624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970880523343184251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Likemy_life_ 他锁推的🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1970813801609240654",
+        "created_at": "2025-09-24T19:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T20:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970926685303562353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1816323612154138624",
+              "start": 0,
+              "username": "Likemy_life_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970926685303562353",
+        "in_reply_to_user_id": "1816323612154138624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970880523343184251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Likemy_life_ 他锁推的🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816323612154138624",
+        "conversation_id": "1970813801609240654",
+        "created_at": "2025-09-24T15:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970880523343184251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970880523343184251",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970866632689176616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 账号发来❄️😀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈@xubai22｜梦到啥就发啥｜一个什么圈子都混一点的莫名其妙的人。｜上学命苦，回来一看手机更命苦！｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "xubai22"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqefy8"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1965052451901591691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 249,
+          "like_count": 2739,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/zJ1tCqefy8",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T04:04:37.000Z",
+        "description": "清纯男初，清水推内容，想交朋友🫶🏻欢迎聊天!!!😀私は中国人で、日本人の友達を作りたい！日本語勉強中。。チャットへようこそ💬友達募集中❄️我是来聊天的，不要一上来就发情聊黄🌩️熟了后随便🫤ENFP/天秤/B🏳️‍🌈☃️",
+        "id": "1816323612154138624",
+        "location": "火星",
+        "name": "雪与夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970160679576551425/Cs5rVDrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 328,
+          "like_count": 893,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 81
+        },
+        "username": "Likemy_life_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1977860314000408831",
+    "created_at": "2025-10-13T22:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T23:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977860314000408831"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "twitter",
+          "probability": 0.9381,
+          "start": 38,
+          "type": "Other"
+        },
+        {
+          "end": 61,
+          "normalized_text": "twitter",
+          "probability": 0.9347,
+          "start": 55,
+          "type": "Other"
+        },
+        {
+          "end": 77,
+          "normalized_text": "twitter",
+          "probability": 0.9412,
+          "start": 71,
+          "type": "Other"
+        },
+        {
+          "end": 94,
+          "normalized_text": "twitter",
+          "probability": 0.9285,
+          "start": 88,
+          "type": "Other"
+        },
+        {
+          "end": 110,
+          "normalized_text": "twitter",
+          "probability": 0.9289,
+          "start": 104,
+          "type": "Other"
+        },
+        {
+          "end": 127,
+          "normalized_text": "twitter",
+          "probability": 0.9169,
+          "start": 121,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1433541366747963393",
+          "start": 3,
+          "username": "richtofensdove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977860314000408831",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46031
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977279589102625106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @richtofensdove: I’m bored \n*opens twitter*\n*closes twitter*\n*opens twitter*\n*closes twitter*\n*opens twitter*\n*closes twitter*\n*opens tw…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1977860314000408831",
+        "created_at": "2025-10-13T22:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T23:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977860314000408831"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "twitter",
+              "probability": 0.9381,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "twitter",
+              "probability": 0.9347,
+              "start": 55,
+              "type": "Other"
+            },
+            {
+              "end": 77,
+              "normalized_text": "twitter",
+              "probability": 0.9412,
+              "start": 71,
+              "type": "Other"
+            },
+            {
+              "end": 94,
+              "normalized_text": "twitter",
+              "probability": 0.9285,
+              "start": 88,
+              "type": "Other"
+            },
+            {
+              "end": 110,
+              "normalized_text": "twitter",
+              "probability": 0.9289,
+              "start": 104,
+              "type": "Other"
+            },
+            {
+              "end": 127,
+              "normalized_text": "twitter",
+              "probability": 0.9169,
+              "start": 121,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1433541366747963393",
+              "start": 3,
+              "username": "richtofensdove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977860314000408831",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46031
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977279589102625106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @richtofensdove: I’m bored \n*opens twitter*\n*closes twitter*\n*opens twitter*\n*closes twitter*\n*opens twitter*\n*closes twitter*\n*opens tw…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433541366747963393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1977279589102625106",
+        "created_at": "2025-10-12T07:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977279589102625106"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "twitter",
+              "probability": 0.9342,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "twitter",
+              "probability": 0.9279,
+              "start": 35,
+              "type": "Other"
+            },
+            {
+              "end": 57,
+              "normalized_text": "twitter",
+              "probability": 0.9332,
+              "start": 51,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "twitter",
+              "probability": 0.9306,
+              "start": 68,
+              "type": "Other"
+            },
+            {
+              "end": 90,
+              "normalized_text": "twitter",
+              "probability": 0.9277,
+              "start": 84,
+              "type": "Other"
+            },
+            {
+              "end": 107,
+              "normalized_text": "twitter",
+              "probability": 0.9233,
+              "start": 101,
+              "type": "Other"
+            },
+            {
+              "end": 123,
+              "normalized_text": "twitter",
+              "probability": 0.9164,
+              "start": 117,
+              "type": "Other"
+            },
+            {
+              "end": 140,
+              "normalized_text": "twitter",
+              "probability": 0.9082,
+              "start": 134,
+              "type": "Other"
+            },
+            {
+              "end": 156,
+              "normalized_text": "twitter",
+              "probability": 0.9193,
+              "start": 150,
+              "type": "Other"
+            },
+            {
+              "end": 173,
+              "normalized_text": "twitter",
+              "probability": 0.913,
+              "start": 167,
+              "type": "Other"
+            },
+            {
+              "end": 189,
+              "normalized_text": "twitter",
+              "probability": 0.9186,
+              "start": 183,
+              "type": "Other"
+            },
+            {
+              "end": 206,
+              "normalized_text": "twitter",
+              "probability": 0.9099,
+              "start": 200,
+              "type": "Other"
+            },
+            {
+              "end": 222,
+              "normalized_text": "twitter",
+              "probability": 0.9115,
+              "start": 216,
+              "type": "Other"
+            },
+            {
+              "end": 239,
+              "normalized_text": "twitter",
+              "probability": 0.9074,
+              "start": 233,
+              "type": "Other"
+            },
+            {
+              "end": 255,
+              "normalized_text": "twitter",
+              "probability": 0.9155,
+              "start": 249,
+              "type": "Other"
+            },
+            {
+              "end": 272,
+              "normalized_text": "twitter",
+              "probability": 0.9025,
+              "start": 266,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977279589102625106",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4469,
+          "impression_count": 3087248,
+          "like_count": 265865,
+          "quote_count": 702,
+          "reply_count": 448,
+          "retweet_count": 46031
+        },
+        "reply_settings": "everyone",
+        "text": "I’m bored \n*opens twitter*\n*closes twitter*\n*opens twitter*\n*closes twitter*\n*opens twitter*\n*closes twitter*\n*opens twitter*\n*closes twitter*\n*opens twitter*\n*closes twitter*\n*opens twitter*\n*closes twitter*\n*opens twitter*\n*closes twitter*\n*opens twitter*\n*closes twitter*"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜梦到啥就发啥！2010年的｜一个什么圈子都混一点的莫名其妙的人。｜上学命苦，回来一看手机更命苦！｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 318,
+          "like_count": 3453,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 264
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-02T21:24:54.000Z",
+        "description": "⠀ ⠀ ⠀・・ “ Hello floor, pardon me while I bleed all over you.” ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ✮⋆.˚ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "auraisfuckingderanged.com",
+                "end": 23,
+                "expanded_url": "http://auraisfuckingderanged.com",
+                "start": 0,
+                "url": "https://t.co/ILQpgfwYCn"
+              }
+            ]
+          }
+        },
+        "id": "1433541366747963393",
+        "location": "Pfp creds: @/redsovietelise",
+        "name": "⁺ ₊ ✧ 𝐴𝑈𝑅𝑂𝑅𝐴 🕷️♡",
+        "pinned_tweet_id": "1977478419186118857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976729621652504576/EjSH7sc3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 1262,
+          "like_count": 21467,
+          "listed_count": 28,
+          "media_count": 1506,
+          "tweet_count": 15569
+        },
+        "url": "https://t.co/ILQpgfwYCn",
+        "username": "richtofensdove",
+        "verified": false
+      }
+    ]
+  }
+}

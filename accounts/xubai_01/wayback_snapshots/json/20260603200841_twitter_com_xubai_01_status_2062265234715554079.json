@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      }
+    ],
+    "conversation_id": "2062265234715554079",
+    "created_at": "2026-06-03T20:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T21:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062265234715554079"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 5,
+          "tag": "Pride"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tugbaiyigun/st…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/tugbaiyigun/status/2061812340446601479",
+          "start": 124,
+          "url": "https://t.co/yxVCVRehAs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062265234715554079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 11,
+            "start": 5,
+            "tag": "Pride"
+          }
+        ]
+      },
+      "text": "🏳️‍🌈 #Pride 以骄傲月为契机，向异性恋者提出几个问题：\n\n• 您什么时候意识到自己是异性恋的？\n\n• 您确定这真的是您自己的决定吗，还是受到了周围环境的影响才成为异性恋的？\n\n• 您如何在没有和异性交往的情况下决定自己是异性恋的？\n\n• 您对那些鼓励儿童追求异性恋的电影、电视剧、歌曲和童话故事有何看法？\n\n• 向家人解释您的异性恋身份很难吗？\n\n• 您成为异性恋的基本原因 是生物性的、心理性的，还是某个时期受到了朋友圈的影响？\n\n• 在家中过异性恋生活方式是我们所有人都能接受的事情。但您为什么想在街上让它变得显而易见？\n\n• 您认为自己有一天会遇到对的人，从而放弃异性恋吗？\n\n如果这些问题让您觉得荒谬、无礼或伤害，那么您就开始理解LGBTİQ+群体几十年来所遭受的东西了。\n\n有些问题不是为了理解而问的；它们是为了将偏见合法化而问的。\n\n问题从来都不是LGBTİQ+群体本身。问题在于，有些人从不质疑自己的存在，却认为自己有权质疑他人的存在。\n\n🏳️‍🌈 骄傲月快乐。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061812340446601479",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🏳️‍🌈 #Pride 以骄傲月为契机，向异性恋者提出几个问题：\n\n• 您什么时候意识到自己是异性恋的？\n\n• 您确定这真的是您自己的决定吗，还是受到了周围环境的影响才成为异性恋的？\n\n• 您如何在没有和异性交往的情况下决定自己是异性恋的？\n\n• https://t.co/yxVCVRehAs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2062265234715554079",
+        "created_at": "2026-06-03T20:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T21:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062265234715554079"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "Pride"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tugbaiyigun/st…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/tugbaiyigun/status/2061812340446601479",
+              "start": 124,
+              "url": "https://t.co/yxVCVRehAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062265234715554079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 5,
+                "tag": "Pride"
+              }
+            ]
+          },
+          "text": "🏳️‍🌈 #Pride 以骄傲月为契机，向异性恋者提出几个问题：\n\n• 您什么时候意识到自己是异性恋的？\n\n• 您确定这真的是您自己的决定吗，还是受到了周围环境的影响才成为异性恋的？\n\n• 您如何在没有和异性交往的情况下决定自己是异性恋的？\n\n• 您对那些鼓励儿童追求异性恋的电影、电视剧、歌曲和童话故事有何看法？\n\n• 向家人解释您的异性恋身份很难吗？\n\n• 您成为异性恋的基本原因 是生物性的、心理性的，还是某个时期受到了朋友圈的影响？\n\n• 在家中过异性恋生活方式是我们所有人都能接受的事情。但您为什么想在街上让它变得显而易见？\n\n• 您认为自己有一天会遇到对的人，从而放弃异性恋吗？\n\n如果这些问题让您觉得荒谬、无礼或伤害，那么您就开始理解LGBTİQ+群体几十年来所遭受的东西了。\n\n有些问题不是为了理解而问的；它们是为了将偏见合法化而问的。\n\n问题从来都不是LGBTİQ+群体本身。问题在于，有些人从不质疑自己的存在，却认为自己有权质疑他人的存在。\n\n🏳️‍🌈 骄傲月快乐。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061812340446601479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🏳️‍🌈 #Pride 以骄傲月为契机，向异性恋者提出几个问题：\n\n• 您什么时候意识到自己是异性恋的？\n\n• 您确定这真的是您自己的决定吗，还是受到了周围环境的影响才成为异性恋的？\n\n• 您如何在没有和异性交往的情况下决定自己是异性恋的？\n\n• https://t.co/yxVCVRehAs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243872262215929857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          }
+        ],
+        "conversation_id": "2061812340446601479",
+        "created_at": "2026-06-02T14:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:05:07.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061811352977477643",
+          "2061811962741202976",
+          "2061812193717297594",
+          "2061812340446601479"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "Pride"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061812340446601479",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 5,
+                "tag": "Pride"
+              }
+            ]
+          },
+          "text": "🏳️‍🌈 #Pride Ayı vesilesiyle heteroseksüellere birkaç soru:\n\n• Heteroseksüel olduğunuzu ne zaman fark ettiniz?\n\n• Bunun gerçekten sizin kararınız olduğundan emin misiniz, yoksa çevrenizin etkisiyle mi heteroseksüel oldunuz?\n\n• Hiç karşı cinsten biriyle birlikte olmadan heteroseksüel olduğunuza nasıl karar verdiniz?\n\n• Çocuklara heteroseksüelliği özendiren filmler, diziler, şarkılar ve masallar hakkında ne düşünüyorsunuz?\n\n• Heteroseksüelliğinizi ailenize açıklamak zor oldu mu?\n\n• Heteroseksüel olmanızın temel sebebi biyolojik mi, psikolojik mi, yoksa bir dönem arkadaş çevrenizden etkilenmiş olmanız mı?\n\n• Heteroseksüel yaşam tarzınızı evinizde yaşamanız hepimizin kabul edebileceği bir şey. Ama bunu neden sokakta görünür kılmak istiyorsunuz?\n\n• Bir gün doğru insanla tanışıp heteroseksüellikten vazgeçebileceğinizi düşünüyor musunuz?\n\nBu sorular size saçma, hadsiz veya kırıcı geliyorsa, LGBTİQ+’ların onlarca yıldır maruz bırakıldığı şeyin ne olduğunu anlamaya başlıyorsunuz demektir.\n\nBazı sorular anlamak için sorulmaz; önyargıları meşrulaştırmak için sorulur.\n\nSorun hiçbir zaman LGBTİQ+’lar değildi. Sorun, bazı insanların kendi varoluşlarını hiç sorgulamazken başkalarının varoluşunu sorgulamayı kendilerinde hak görmeleriydi.\n\n🏳️‍🌈 Mutlu Pride Ayı."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 422,
+          "impression_count": 81322,
+          "like_count": 3481,
+          "quote_count": 36,
+          "reply_count": 49,
+          "retweet_count": 951
+        },
+        "reply_settings": "everyone",
+        "text": "🏳️‍🌈 #Pride Ayı vesilesiyle heteroseksüellere birkaç soru:\n\n• Heteroseksüel olduğunuzu ne zaman fark ettiniz?\n\n• Bunun gerçekten sizin kararınız olduğundan emin misiniz, yoksa çevrenizin etkisiyle mi heteroseksüel oldunuz?\n\n• Hiç karşı cinsten biriyle birlikte olmadan"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 1451,
+          "like_count": 23630,
+          "listed_count": 2,
+          "media_count": 1158,
+          "tweet_count": 6059
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-28T12:07:24.000Z",
+        "description": "University of York, Centre for Women’s and Gender Studies PhD | Previously journalist always activist✊️🏴🇵🇸",
+        "id": "1243872262215929857",
+        "location": "Κωνσταντινούπολη",
+        "name": "Tuğba İyigün",
+        "pinned_tweet_id": "1988655752160886936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897037095945768960/3z0i5VU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 553,
+          "like_count": 14359,
+          "listed_count": 2,
+          "media_count": 2198,
+          "tweet_count": 12387
+        },
+        "username": "tugbaiyigun",
+        "verified": true
+      }
+    ]
+  }
+}

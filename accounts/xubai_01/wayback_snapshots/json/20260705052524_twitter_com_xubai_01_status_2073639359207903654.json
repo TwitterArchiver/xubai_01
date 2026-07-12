@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073288981866004481"
+      ],
+      "media_source_tweet_id": [
+        "2073288993463246967"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Los Angeles",
+          "id": "856860708847222784",
+          "name": "Los Angeles"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "California",
+          "id": "856860158428798977",
+          "name": "California"
+        }
+      }
+    ],
+    "conversation_id": "2073639359207903654",
+    "created_at": "2026-07-05T05:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073639359207903654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1673547277200412672",
+          "start": 3,
+          "username": "SeascapeNature"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BFNCu8SmbE",
+          "end": 83,
+          "expanded_url": "https://x.com/SeascapeNature/status/2073288993463246967/photo/1",
+          "media_key": "3_2073288981866004481",
+          "start": 60,
+          "url": "https://t.co/BFNCu8SmbE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073639359207903654",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2958
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073288993463246967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SeascapeNature: Fireworks in Los Angeles, California 🇺🇸 https://t.co/BFNCu8SmbE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2073288981866004481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXNWCDawAEfDJn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073288981866004481"
+          ],
+          "media_source_tweet_id": [
+            "2073288993463246967"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          }
+        ],
+        "conversation_id": "2073639359207903654",
+        "created_at": "2026-07-05T05:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073639359207903654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1673547277200412672",
+              "start": 3,
+              "username": "SeascapeNature"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFNCu8SmbE",
+              "end": 83,
+              "expanded_url": "https://x.com/SeascapeNature/status/2073288993463246967/photo/1",
+              "media_key": "3_2073288981866004481",
+              "start": 60,
+              "url": "https://t.co/BFNCu8SmbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073639359207903654",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2958
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073288993463246967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SeascapeNature: Fireworks in Los Angeles, California 🇺🇸 https://t.co/BFNCu8SmbE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073288981866004481"
+          ]
+        },
+        "author_id": "1673547277200412672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          }
+        ],
+        "conversation_id": "2073288993463246967",
+        "created_at": "2026-07-04T06:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073288993463246967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFNCu8SmbE",
+              "end": 63,
+              "expanded_url": "https://x.com/SeascapeNature/status/2073288993463246967/photo/1",
+              "media_key": "3_2073288981866004481",
+              "start": 40,
+              "url": "https://t.co/BFNCu8SmbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073288993463246967",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1423,
+          "impression_count": 428840,
+          "like_count": 37170,
+          "quote_count": 127,
+          "reply_count": 144,
+          "retweet_count": 2956
+        },
+        "reply_settings": "everyone",
+        "text": "Fireworks in Los Angeles, California 🇺🇸 https://t.co/BFNCu8SmbE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2404,
+          "following_count": 1640,
+          "like_count": 25495,
+          "listed_count": 2,
+          "media_count": 1271,
+          "tweet_count": 6809
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-27T04:22:31.000Z",
+        "description": "Posting Amazing Pics daily. Keep visiting my timeline 🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/PrettyCities",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/PrettyCities",
+                "start": 0,
+                "url": "https://t.co/y1Ipl1zzLW"
+              }
+            ]
+          }
+        },
+        "id": "1673547277200412672",
+        "location": "EARTH ",
+        "name": "Seascape Nature",
+        "pinned_tweet_id": "2073094373844324724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959186085629808640/S13wk9FT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72571,
+          "following_count": 9785,
+          "like_count": 13517,
+          "listed_count": 255,
+          "media_count": 17890,
+          "tweet_count": 21059
+        },
+        "url": "https://t.co/y1Ipl1zzLW",
+        "username": "SeascapeNature",
+        "verified": true
+      }
+    ]
+  }
+}

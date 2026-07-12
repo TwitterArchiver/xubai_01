@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2028908008101867902",
+    "created_at": "2026-03-04T07:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T08:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029092427265622041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1639433977718091776",
+          "start": 0,
+          "username": "MLKE139115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029092427265622041",
+    "in_reply_to_user_id": "1639433977718091776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029083625761996908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MLKE139115 觉得压力很大的看看29岁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2028908008101867902",
+        "created_at": "2026-03-04T07:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029092427265622041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1639433977718091776",
+              "start": 0,
+              "username": "MLKE139115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029092427265622041",
+        "in_reply_to_user_id": "1639433977718091776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029083625761996908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MLKE139115 觉得压力很大的看看29岁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639433977718091776",
+        "conversation_id": "2028908008101867902",
+        "created_at": "2026-03-04T06:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T07:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029083625761996908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029083625761996908",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028908008101867902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 风险更高所以均摊也更高吧\n我倒是觉得这个不公平，如果28岁有丰富驾驶经验以及驾驶年龄也被加钱就很亏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 910,
+          "like_count": 15417,
+          "listed_count": 0,
+          "media_count": 688,
+          "tweet_count": 3306
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-25T01:08:21.000Z",
+        "description": "可能这里现在更多是随手发… 喜欢深蓝色，也喜欢棕红色",
+        "id": "1639433977718091776",
+        "location": "somewhere",
+        "name": "13·9·11·5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677642499798765568/sndt1Ekw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 2307,
+          "like_count": 122262,
+          "listed_count": 1,
+          "media_count": 1093,
+          "tweet_count": 9852
+        },
+        "username": "MLKE139115",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2043127938670080419",
+    "created_at": "2026-04-12T16:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043372152943255592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1444707151209848840",
+          "start": 0,
+          "username": "h1558383"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043372152943255592",
+    "in_reply_to_user_id": "1444707151209848840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043369553292632460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h1558383 美区才有哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2043127938670080419",
+        "created_at": "2026-04-12T16:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043372152943255592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1444707151209848840",
+              "start": 0,
+              "username": "h1558383"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043372152943255592",
+        "in_reply_to_user_id": "1444707151209848840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043369553292632460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1558383 美区才有哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444707151209848840",
+        "conversation_id": "2043127938670080419",
+        "created_at": "2026-04-12T16:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043369553292632460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043369553292632460",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043127938670080419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 这是新款吗我也想买😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/10.12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "yuji53719"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 1139,
+          "like_count": 18866,
+          "listed_count": 0,
+          "media_count": 907,
+          "tweet_count": 4590
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-03T16:54:01.000Z",
+        "description": "努力生活",
+        "id": "1444707151209848840",
+        "location": "People's Republic of China",
+        "name": "🤯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536741536846598145/36LtpX5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 25,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 182
+        },
+        "username": "h1558383",
+        "verified": false
+      }
+    ]
+  }
+}

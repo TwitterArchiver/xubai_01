@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2075766731986047376",
+    "created_at": "2026-07-11T02:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T03:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075766731986047376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075766731986047376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075746901777850722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 中国警告Claude存在监测机制，Anthropic回应：服务本就未向中国大陆开放\n\n7月8日，中国工信部旗下机构发布安全提示称，Anthropic旗下AI编程工具Claude Code存在安全隐患，可能在用户不知情的情况下收集并回传时区…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 870,
+        "media_key": "3_2075411490170138625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1XwRpa8AE_YR1.png",
+        "width": 1392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2075766731986047376",
+        "created_at": "2026-07-11T02:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T03:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075766731986047376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075766731986047376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075746901777850722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 中国警告Claude存在监测机制，Anthropic回应：服务本就未向中国大陆开放\n\n7月8日，中国工信部旗下机构发布安全提示称，Anthropic旗下AI编程工具Claude Code存在安全隐患，可能在用户不知情的情况下收集并回传时区…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075411490170138625"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2075746901777850722",
+        "created_at": "2026-07-11T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075746901777850722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRDxpUJffE",
+              "end": 150,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2075746901777850722/photo/1",
+              "media_key": "3_2075411490170138625",
+              "start": 127,
+              "url": "https://t.co/hRDxpUJffE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075746901777850722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国警告Claude存在监测机制，Anthropic回应：服务本就未向中国大陆开放\n\n7月8日，中国工信部旗下机构发布安全提示称，Anthropic旗下AI编程工具Claude Code存在安全隐患，可能在用户不知情的情况下收集并回传时区、地区等信息。\n\n对此，Anthropic回应表示，相关代码并非所谓“后门”，而是一项用于识别违规访问、账号转售及模型蒸馏（Model Distillation）等行为的反滥用机制。\n\nAnthropic同时强调，Claude及Claude Code从未正式向中国大陆提供服务，因此相关机制主要用于识别未经授权的访问。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 29595,
+          "like_count": 235,
+          "quote_count": 5,
+          "reply_count": 46,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "中国警告Claude存在监测机制，Anthropic回应：服务本就未向中国大陆开放\n\n7月8日，中国工信部旗下机构发布安全提示称，Anthropic旗下AI编程工具Claude Code存在安全隐患，可能在用户不知情的情况下收集并回传时区、地区等信息。 https://t.co/hRDxpUJffE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 1658,
+          "like_count": 25964,
+          "listed_count": 2,
+          "media_count": 1313,
+          "tweet_count": 7063
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245831,
+          "following_count": 1075,
+          "like_count": 9790,
+          "listed_count": 8821,
+          "media_count": 50189,
+          "tweet_count": 57396
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

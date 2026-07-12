@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075044304490508288"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2075044481246917048",
+    "created_at": "2026-07-09T02:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T03:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075044481246917048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uSilGfwEF6",
+          "end": 31,
+          "expanded_url": "https://x.com/xubai_01/status/2075044481246917048/video/1",
+          "media_key": "13_2075044304490508288",
+          "start": 8,
+          "url": "https://t.co/uSilGfwEF6"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "3b77caf94bfc81fe"
+    },
+    "id": "2075044481246917048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "压力一只鸽子？ https://t.co/uSilGfwEF6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [3b77caf94bfc81fe].",
+      "parameter": "geo.place_id",
+      "resource_id": "3b77caf94bfc81fe",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "3b77caf94bfc81fe"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54543,
+        "height": 1080,
+        "media_key": "13_2075044304490508288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075044304490508288/img/Z8A6-2GuwPITurvF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075044304490508288/vid/avc1/1280x720/Hcc1LUf15Pe6FWsF.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075044304490508288/vid/avc1/480x270/VF4ZMY9G4ON9fYDH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075044304490508288/vid/avc1/1920x1080/_OEgzZj5tgkOwukW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075044304490508288/vid/avc1/640x360/ZmKF3v-qFhWwKmFQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075044304490508288/pl/RWNO9XhTVHYuCx3-.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075044304490508288"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2075044481246917048",
+        "created_at": "2026-07-09T02:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075044481246917048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSilGfwEF6",
+              "end": 31,
+              "expanded_url": "https://x.com/xubai_01/status/2075044481246917048/video/1",
+              "media_key": "13_2075044304490508288",
+              "start": 8,
+              "url": "https://t.co/uSilGfwEF6"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "3b77caf94bfc81fe"
+        },
+        "id": "2075044481246917048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "压力一只鸽子？ https://t.co/uSilGfwEF6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 1647,
+          "like_count": 25822,
+          "listed_count": 2,
+          "media_count": 1301,
+          "tweet_count": 6988
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      }
+    ]
+  }
+}

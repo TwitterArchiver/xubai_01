@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2013640951038611477",
+    "created_at": "2026-01-20T15:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T16:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013640951038611477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753293214826848256",
+          "start": 3,
+          "username": "tatanakots"
+        },
+        {
+          "end": 30,
+          "id": "1748763011140169729",
+          "start": 16,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013640951038611477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013625290795425892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatanakots: @lovelyshuimao 共产主义生殖器！生产工具公有化！🚩🚩🚩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2013640951038611477",
+        "created_at": "2026-01-20T15:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013640951038611477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753293214826848256",
+              "start": 3,
+              "username": "tatanakots"
+            },
+            {
+              "end": 30,
+              "id": "1748763011140169729",
+              "start": 16,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013640951038611477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013625290795425892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatanakots: @lovelyshuimao 共产主义生殖器！生产工具公有化！🚩🚩🚩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2013511633625080179",
+        "created_at": "2026-01-20T14:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013625290795425892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013625290795425892",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013511633625080179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 共产主义生殖器！生产工具公有化！🚩🚩🚩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜行程：大湾区、云川（一月中旬｜欢迎随时联系/心情大爆炸｜友链：@xubaimedia/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 857,
+          "like_count": 13788,
+          "listed_count": 0,
+          "media_count": 585,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "A @TearsofThemisEN Player.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TearsofThemisEN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3622,
+          "following_count": 317,
+          "like_count": 24184,
+          "listed_count": 6,
+          "media_count": 1486,
+          "tweet_count": 10061
+        },
+        "username": "tatanakots",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2013295023412941092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3431,
+          "following_count": 1015,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2741,
+          "tweet_count": 12661
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

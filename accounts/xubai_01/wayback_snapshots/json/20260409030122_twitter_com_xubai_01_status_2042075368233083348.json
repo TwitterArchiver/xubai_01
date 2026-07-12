@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2041567700703645730",
+    "created_at": "2026-04-09T03:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042075368233083348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845454917236031495",
+          "start": 0,
+          "username": "Dontbesadforit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042075368233083348",
+    "in_reply_to_user_id": "1845454917236031495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041567700703645730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dontbesadforit ？看看牛牛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2041567700703645730",
+        "created_at": "2026-04-09T03:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042075368233083348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845454917236031495",
+              "start": 0,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042075368233083348",
+        "in_reply_to_user_id": "1845454917236031495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041567700703645730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dontbesadforit ？看看牛牛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845454917236031495",
+        "conversation_id": "2041567700703645730",
+        "created_at": "2026-04-07T17:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041567700703645730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041567700703645730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 110550,
+          "like_count": 731,
+          "quote_count": 0,
+          "reply_count": 74,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "炮机捅前列腺真的好舒服（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "yuji53719"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 1110,
+          "like_count": 18386,
+          "listed_count": 0,
+          "media_count": 883,
+          "tweet_count": 4418
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 吃补也不算翻车 高中 自然科学 生物学大好き | 为什么还活着：没见到绪山美波里/世界上还有爱我的人 | 大白妹妹：@haku_dabai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "中畜",
+        "pinned_tweet_id": "2032491408985333996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039262837353447424/msbymfsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 997,
+          "like_count": 69985,
+          "listed_count": 6,
+          "media_count": 437,
+          "tweet_count": 8938
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      }
+    ]
+  }
+}

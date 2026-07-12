@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2044220778716246059",
+    "created_at": "2026-04-16T11:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044735228057636942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1770681338221432832",
+          "start": 0,
+          "username": "Fishlike_bird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044735228057636942",
+    "in_reply_to_user_id": "1770681338221432832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044220778716246059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fishlike_bird 我求你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2044220778716246059",
+        "created_at": "2026-04-16T11:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044735228057636942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1770681338221432832",
+              "start": 0,
+              "username": "Fishlike_bird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044735228057636942",
+        "in_reply_to_user_id": "1770681338221432832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044220778716246059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fishlike_bird 我求你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770681338221432832",
+        "conversation_id": "2044220778716246059",
+        "created_at": "2026-04-15T01:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044220778716246059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044220778716246059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 22577,
+          "like_count": 305,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "对不起老己\n\n把你的人生玩烂了\n\n你顶号吧\n\n我退游了\n\n没经济没建模\n\n不过送的两个捏捏乐挺大挺好玩的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n备@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "xuba1_"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 1168,
+          "like_count": 19639,
+          "listed_count": 0,
+          "media_count": 936,
+          "tweet_count": 4745
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-21T05:18:32.000Z",
+        "description": "03 | 无证含糖 | mtf | 2024.11.16开始hrt | 男女混血 | intp | 地下党 | 跨女同 | 不定期更新 | 喜欢称呼对象姐姐和老婆 |",
+        "id": "1770681338221432832",
+        "location": "0km",
+        "name": "星梦🍥🏳️‍⚧️(先天不孕)",
+        "pinned_tweet_id": "1938006909422080186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922347051146170369/REQ27USi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 549,
+          "like_count": 3503,
+          "listed_count": 6,
+          "media_count": 158,
+          "tweet_count": 774
+        },
+        "username": "Fishlike_bird",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T05:18:32.000Z",
+        "description": "03 | 无证含糖 | mtf | 2024.11.16开始hrt | 男女混血 | intp | 地下党 | 跨女同 | 不定期更新 | 喜欢称呼对象姐姐和老婆 |",
+        "id": "1770681338221432832",
+        "location": "0km",
+        "name": "星梦🍥🏳️‍⚧️(先天不孕)",
+        "pinned_tweet_id": "1938006909422080186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922347051146170369/REQ27USi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 549,
+          "like_count": 3503,
+          "listed_count": 6,
+          "media_count": 158,
+          "tweet_count": 774
+        },
+        "url": "",
+        "username": "Fishlike_bird",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1981872524398153741",
+    "created_at": "2025-10-24T23:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T00:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981872524398153741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/arrco_justin2/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/arrco_justin2/status/1981716721435120046",
+          "start": 24,
+          "url": "https://t.co/4og7no0eKa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981872524398153741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981716721435120046",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜 ARRCO_JUSTIN 达成300fo https://t.co/4og7no0eKa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1981872524398153741",
+        "created_at": "2025-10-24T23:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T00:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981872524398153741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arrco_justin2/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/arrco_justin2/status/1981716721435120046",
+              "start": 24,
+              "url": "https://t.co/4og7no0eKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981872524398153741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981716721435120046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜 ARRCO_JUSTIN 达成300fo https://t.co/4og7no0eKa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821089011727003649",
+        "conversation_id": "1981716721435120046",
+        "created_at": "2025-10-24T13:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T14:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981716721435120046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981716721435120046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 266,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "亻尔女子！\n推特的300fo正式抽奖它来了喵！\n一等奖（一个喵，只有那么多钱了喵）：v你20元\n二等奖（一个）：v你15元喵\n点赞、转发此推文参与抽奖！\n25.10.24编写\n25.11.1抽奖喵！\n（说句题外话，上次抽奖才23天前喵……）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 418,
+          "like_count": 4282,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T07:40:40.000Z",
+        "description": "亻尔女子！我是JUSTIN！\n一个13岁的小屁孩！(25.10.20)\n喜欢搞银行卡，C++和Python之类奇奇怪怪的爱好，前端一窍不通喵\n欢迎互FO喵!\n 添加一些好东西:@ARRCO_JUSTIN\nemail:argcxkoff13hn@proton.me\nTG:https://t.co/qQeT0aT7ij",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "ARRCO_JUSTIN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/arrcojustin2",
+                "end": 158,
+                "expanded_url": "http://t.me/arrcojustin2",
+                "start": 135,
+                "url": "https://t.co/qQeT0aT7ij"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arrco.wuaze.com",
+                "end": 23,
+                "expanded_url": "https://arrco.wuaze.com",
+                "start": 0,
+                "url": "https://t.co/HdWVMTfBdR"
+              }
+            ]
+          }
+        },
+        "id": "1821089011727003649",
+        "location": "你身边",
+        "name": "ARRCO_JUSTIN",
+        "pinned_tweet_id": "1973214125116490192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973212881815740417/cHsI3JqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 687,
+          "like_count": 8554,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1500
+        },
+        "url": "https://t.co/HdWVMTfBdR",
+        "username": "arrco_justin2",
+        "verified": false
+      }
+    ]
+  }
+}

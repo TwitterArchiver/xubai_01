@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1173614294082048001",
+          "name": "OPPO Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      }
+    ],
+    "conversation_id": "1992074136215277781",
+    "created_at": "2025-11-22T03:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T04:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992075414043599110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1614421186334851075",
+          "start": 0,
+          "username": "HoneyWhiteCloud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992075414043599110",
+    "in_reply_to_user_id": "1614421186334851075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992074136215277781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoneyWhiteCloud 1. 小米系设备用户\n2. oppo手机/独有的小布\n3. 打洲的\n4. 甚至输入法是gboard\n5. 手机上怎么还装了个linux🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992074133442863106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VE3rIbIAIf64r.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "1992074136215277781",
+        "created_at": "2025-11-22T03:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992075414043599110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1614421186334851075",
+              "start": 0,
+              "username": "HoneyWhiteCloud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992075414043599110",
+        "in_reply_to_user_id": "1614421186334851075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992074136215277781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoneyWhiteCloud 1. 小米系设备用户\n2. oppo手机/独有的小布\n3. 打洲的\n4. 甚至输入法是gboard\n5. 手机上怎么还装了个linux🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992074133442863106"
+          ]
+        },
+        "author_id": "1614421186334851075",
+        "conversation_id": "1992074136215277781",
+        "created_at": "2025-11-22T03:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992074136215277781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rTGCJf5ixN",
+              "end": 33,
+              "expanded_url": "https://x.com/HoneyWhiteCloud/status/1992074136215277781/photo/1",
+              "media_key": "3_1992074133442863106",
+              "start": 10,
+              "url": "https://t.co/rTGCJf5ixN"
+            },
+            {
+              "display_url": "x.com/xubai_01/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/xubai_01/status/1991954071167893978",
+              "start": 34,
+              "url": "https://t.co/Og453ho9a8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992074136215277781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991954071167893978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看可以找出什么成分 https://t.co/rTGCJf5ixN https://t.co/Og453ho9a8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 571,
+          "like_count": 6883,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T00:36:43.000Z",
+        "description": "From台灣新北🇹🇼 | 上海讀書📖 | Furry | IT/Hardware/AI👨‍💻/Photographer📷 | 現居蘇州 | 私信🆗 | 身心嚮往自由之地 | 裡推：@cloudbackside",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "cloudbackside"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "honeywhite.cloud",
+                "end": 23,
+                "expanded_url": "http://www.honeywhite.cloud",
+                "start": 0,
+                "url": "https://t.co/lMq73qdn9N"
+              }
+            ]
+          }
+        },
+        "id": "1614421186334851075",
+        "location": "Suzhou ↔️ New Taipei",
+        "name": "𝙃𝙤𝙣𝙚𝙮𝙒𝙝𝙞𝙩𝙚𝘾𝙡𝙤𝙪𝙙｜🌈⛅️",
+        "pinned_tweet_id": "1984618771949240830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976679383491584000/x1q0Woid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 1018,
+          "like_count": 80554,
+          "listed_count": 2,
+          "media_count": 1691,
+          "tweet_count": 11057
+        },
+        "url": "https://t.co/lMq73qdn9N",
+        "username": "HoneyWhiteCloud",
+        "verified": true
+      }
+    ]
+  }
+}

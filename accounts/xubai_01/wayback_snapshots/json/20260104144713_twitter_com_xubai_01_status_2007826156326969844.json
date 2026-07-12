@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007694438433513472"
+      ],
+      "media_source_tweet_id": [
+        "2007694446612361325"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2007826156326969844",
+    "created_at": "2026-01-04T14:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T15:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007826156326969844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1377961773840523270",
+          "start": 3,
+          "username": "Akema90507587"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wREsmiRdIx",
+          "end": 68,
+          "expanded_url": "https://x.com/Akema90507587/status/2007694446612361325/photo/1",
+          "media_key": "3_2007694438433513472",
+          "start": 45,
+          "url": "https://t.co/wREsmiRdIx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007826156326969844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007694446612361325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akema90507587: 浙江省工商局长时期的李强\n这工服真心不错吧还是v领 https://t.co/wREsmiRdIx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_2007694438433513472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9zDdFxbYAAFfi_.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007694438433513472"
+          ],
+          "media_source_tweet_id": [
+            "2007694446612361325"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2007826156326969844",
+        "created_at": "2026-01-04T14:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007826156326969844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1377961773840523270",
+              "start": 3,
+              "username": "Akema90507587"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wREsmiRdIx",
+              "end": 68,
+              "expanded_url": "https://x.com/Akema90507587/status/2007694446612361325/photo/1",
+              "media_key": "3_2007694438433513472",
+              "start": 45,
+              "url": "https://t.co/wREsmiRdIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007826156326969844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007694446612361325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akema90507587: 浙江省工商局长时期的李强\n这工服真心不错吧还是v领 https://t.co/wREsmiRdIx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007694438433513472"
+          ]
+        },
+        "author_id": "1377961773840523270",
+        "conversation_id": "2007694446612361325",
+        "created_at": "2026-01-04T06:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007694446612361325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wREsmiRdIx",
+              "end": 49,
+              "expanded_url": "https://x.com/Akema90507587/status/2007694446612361325/photo/1",
+              "media_key": "3_2007694438433513472",
+              "start": 26,
+              "url": "https://t.co/wREsmiRdIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007694446612361325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 49212,
+          "like_count": 240,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "浙江省工商局长时期的李强\n这工服真心不错吧还是v领 https://t.co/wREsmiRdIx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜武汉",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 809,
+          "like_count": 12698,
+          "listed_count": 0,
+          "media_count": 528,
+          "tweet_count": 2308
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T12:31:12.000Z",
+        "description": "乳追人格随心情上线 直fo就是暗恋 共济会核心成员 外宣和法轮功核心成员 犹太人 主页的画不允许搬运 （4/∞）转法轮🛞",
+        "id": "1377961773840523270",
+        "name": "yogurt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706688223626571776/-gbz4qZ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 277,
+          "like_count": 3501,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1716
+        },
+        "username": "Akema90507587",
+        "verified": false
+      }
+    ]
+  }
+}

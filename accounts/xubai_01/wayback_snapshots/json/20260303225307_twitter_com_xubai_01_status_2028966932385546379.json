@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2028966932385546379",
+    "created_at": "2026-03-03T22:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T23:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028966932385546379"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "china",
+          "probability": 0.9711,
+          "start": 27,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2497458150",
+          "start": 3,
+          "username": "fuckeveryword"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028966932385546379",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028669662842524075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuckeveryword: fucking china"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2028966932385546379",
+        "created_at": "2026-03-03T22:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T23:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028966932385546379"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "china",
+              "probability": 0.9711,
+              "start": 27,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2497458150",
+              "start": 3,
+              "username": "fuckeveryword"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028966932385546379",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028669662842524075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuckeveryword: fucking china"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2497458150",
+        "conversation_id": "2028669662842524075",
+        "created_at": "2026-03-03T03:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028669662842524075"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "china",
+              "probability": 0.9652,
+              "start": 8,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028669662842524075",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 88246,
+          "like_count": 1523,
+          "quote_count": 19,
+          "reply_count": 95,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "fucking china"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 897,
+          "like_count": 15385,
+          "listed_count": 0,
+          "media_count": 685,
+          "tweet_count": 3288
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-16T01:03:46.000Z",
+        "description": "fucking every word in the english language. task 1 (fuck every word in the english language) completed 30 march 2025.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prideandprophecy.com/p/few.html",
+                "end": 23,
+                "expanded_url": "https://www.prideandprophecy.com/p/few.html",
+                "start": 0,
+                "url": "https://t.co/zyepb8SnVT"
+              }
+            ]
+          }
+        },
+        "id": "2497458150",
+        "name": "fucking every word",
+        "pinned_tweet_id": "2024615447023276212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/477304353460477954/22GX6xG6_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134090,
+          "following_count": 16,
+          "like_count": 4151,
+          "listed_count": 409,
+          "media_count": 9,
+          "tweet_count": 109923
+        },
+        "url": "https://t.co/zyepb8SnVT",
+        "username": "fuckeveryword",
+        "verified": true
+      }
+    ]
+  }
+}

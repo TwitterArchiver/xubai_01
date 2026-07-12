@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2056929145440121145",
+    "created_at": "2026-05-20T02:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056929145440121145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/icosint/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/icosint/status/2056725613923483927",
+          "start": 18,
+          "url": "https://t.co/jWbBPV3LTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056929145440121145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056725613923483927",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "江浙沪学生想查多少就多少 满天飞了 https://t.co/jWbBPV3LTM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2056929145440121145",
+        "created_at": "2026-05-20T02:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056929145440121145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/icosint/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/icosint/status/2056725613923483927",
+              "start": 18,
+              "url": "https://t.co/jWbBPV3LTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056929145440121145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056725613923483927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "江浙沪学生想查多少就多少 满天飞了 https://t.co/jWbBPV3LTM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790006276162048000",
+        "conversation_id": "2056604836049956953",
+        "created_at": "2026-05-19T13:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056725613923483927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056725613923483927",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 953,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056604836049956953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange 没事的，浙江学生早就泄露了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 1288,
+          "like_count": 22470,
+          "listed_count": 1,
+          "media_count": 1094,
+          "tweet_count": 5618
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-13T13:08:58.000Z",
+        "description": "转推bot\n退役 OIer || 12年初中生 || 实事求是 || 正太控\n学习科学发展观ing\nWe do the right thing, even when it’s not easy.",
+        "id": "1790006276162048000",
+        "name": "𝐅𝐫𝐞𝐮𝐧𝐬𝐢𝐠𝐧𝐞𝐝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055991608882196481/QFDQbnJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 617,
+          "like_count": 26580,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 4363
+        },
+        "username": "iCosint",
+        "verified": false
+      }
+    ]
+  }
+}

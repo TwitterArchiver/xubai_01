@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2075157568830521648",
+    "created_at": "2026-07-10T03:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075427545319932152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1829384019898978304",
+          "start": 0,
+          "username": "addkaiZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075427545319932152",
+    "in_reply_to_user_id": "1829384019898978304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075416738293043358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@addkaiZ 卧槽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2075157568830521648",
+        "created_at": "2026-07-10T03:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075427545319932152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1829384019898978304",
+              "start": 0,
+              "username": "addkaiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075427545319932152",
+        "in_reply_to_user_id": "1829384019898978304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075416738293043358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@addkaiZ 卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829384019898978304",
+        "conversation_id": "2075157568830521648",
+        "created_at": "2026-07-10T03:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075416738293043358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075416738293043358",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075367614780715073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 太长了，你没有被邀请"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 1652,
+          "like_count": 25893,
+          "listed_count": 2,
+          "media_count": 1305,
+          "tweet_count": 7022
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T05:02:07.000Z",
+        "description": "07男 enfp 双子 札幌留学中 回国时在大连 中文ok 日本語勉強中 English ok 🌈但成分复杂爱看抽象 无设福瑞控 欢迎私信，但请先阅读亮点内容了解我 🛰️🚪32 防走丢@YoooouR617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "YoooouR617"
+              }
+            ]
+          }
+        },
+        "id": "1829384019898978304",
+        "location": "1.2km",
+        "name": "addkai（札幌版",
+        "pinned_tweet_id": "2049379479643169098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932443715865616385/yd3BK0Ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5979,
+          "following_count": 2900,
+          "like_count": 32597,
+          "listed_count": 8,
+          "media_count": 422,
+          "tweet_count": 5613
+        },
+        "url": "",
+        "username": "addkaiZ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Geology",
+          "id": "847897009281355776",
+          "name": "Geology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      }
+    ],
+    "conversation_id": "2051541253117161599",
+    "created_at": "2026-05-05T05:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T06:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051541494897823993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1488080791125237760",
+          "start": 0,
+          "username": "MengXi969"
+        },
+        {
+          "end": 22,
+          "id": "2050415083461992448",
+          "start": 11,
+          "username": "Ht_Polaris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051541494897823993",
+    "in_reply_to_user_id": "1488080791125237760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051541253117161599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MengXi969 @Ht_Polaris 火山引擎出来赞助一下😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Geology",
+              "id": "847897009281355776",
+              "name": "Geology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          }
+        ],
+        "conversation_id": "2051541253117161599",
+        "created_at": "2026-05-05T05:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051541494897823993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488080791125237760",
+              "start": 0,
+              "username": "MengXi969"
+            },
+            {
+              "end": 22,
+              "id": "2050415083461992448",
+              "start": 11,
+              "username": "Ht_Polaris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051541494897823993",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051541253117161599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MengXi969 @Ht_Polaris 火山引擎出来赞助一下😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488080791125237760",
+        "conversation_id": "2051541253117161599",
+        "created_at": "2026-05-05T05:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051541253117161599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050415083461992448",
+              "start": 0,
+              "username": "Ht_Polaris"
+            },
+            {
+              "end": 21,
+              "id": "1840810905833197568",
+              "start": 12,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051541253117161599",
+        "in_reply_to_user_id": "2050415083461992448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Ht_Polaris @xubai_01 所以你什么时候 vivo 短信签名和 API 啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "xuba1_"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1244,
+          "like_count": 21445,
+          "listed_count": 0,
+          "media_count": 1051,
+          "tweet_count": 5258
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion @_entropyhq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_entropyhq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvNBL"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 3081,
+          "like_count": 90494,
+          "listed_count": 5,
+          "media_count": 1095,
+          "tweet_count": 6427
+        },
+        "url": "https://t.co/TIHBlJvNBL",
+        "username": "MengXi969",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-02T03:25:31.000Z",
+        "description": "🔥Hackathon Polaris是立足于粤港澳杭面向世界创科青年的高质量黑客松。\n由@_entropyhq 驱动。\n\n通过私聊与我们或我们的当值负责人@xuba1_ @zongtianshuo @yankaxh1207 取得联系。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "_entropyhq"
+              },
+              {
+                "end": 84,
+                "start": 77,
+                "username": "xuba1_"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "zongtianshuo"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "yankaxh1207"
+              }
+            ]
+          }
+        },
+        "id": "2050415083461992448",
+        "location": "Los Angeles, CA",
+        "name": "Hackathon Polaris极星黑客松",
+        "pinned_tweet_id": "2050421540853084513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050422971840475136/o1sqy3ib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 9,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Ht_Polaris",
+        "verified": true
+      }
+    ]
+  }
+}

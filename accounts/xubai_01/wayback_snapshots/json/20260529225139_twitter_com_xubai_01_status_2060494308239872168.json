@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060494298618200064"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2060494308239872168",
+    "created_at": "2026-05-29T22:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T23:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060494308239872168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GcZ1emzIMc",
+          "end": 34,
+          "expanded_url": "https://x.com/xubai_01/status/2060494308239872168/photo/1",
+          "media_key": "3_2060494298618200064",
+          "start": 11,
+          "url": "https://t.co/GcZ1emzIMc"
+        },
+        {
+          "display_url": "x.com/charliekirkgd/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/charliekirkgd/status/2060387763409547287",
+          "start": 35,
+          "url": "https://t.co/OKJwK1eJxt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060494308239872168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060387763409547287",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "grok你是会翻译的 https://t.co/GcZ1emzIMc https://t.co/OKJwK1eJxt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060494298618200064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhYpcrbAAALawE.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060494298618200064"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2060494308239872168",
+        "created_at": "2026-05-29T22:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T23:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060494308239872168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GcZ1emzIMc",
+              "end": 34,
+              "expanded_url": "https://x.com/xubai_01/status/2060494308239872168/photo/1",
+              "media_key": "3_2060494298618200064",
+              "start": 11,
+              "url": "https://t.co/GcZ1emzIMc"
+            },
+            {
+              "display_url": "x.com/charliekirkgd/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/charliekirkgd/status/2060387763409547287",
+              "start": 35,
+              "url": "https://t.co/OKJwK1eJxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060494308239872168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060387763409547287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "grok你是会翻译的 https://t.co/GcZ1emzIMc https://t.co/OKJwK1eJxt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732063249858756609",
+        "conversation_id": "2060387763409547287",
+        "created_at": "2026-05-29T15:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060387763409547287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060387763409547287",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 725,
+          "impression_count": 160669,
+          "like_count": 5119,
+          "quote_count": 19,
+          "reply_count": 44,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "TUVE SEXO GAY MAÑANEROOOOO\n\nEstaba durmiendo de cucharita con un amigo mio asi bien pinche lindo w, yo le pongo la cola bien pegada para joder nomas pero al rato siento que se le para w. Y bueno, terminamos cogiendo durísimo :3c\nMe los hecho adentro w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 1420,
+          "like_count": 23228,
+          "listed_count": 2,
+          "media_count": 1133,
+          "tweet_count": 5925
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-05T15:44:13.000Z",
+        "description": "🇦🇷 | Wasureta jumper,\nHardest: Renevant           \ndms open, si te caigo bien o algo podés escribirme. Discord: justlarow // \nCandado: @wasuretalover",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 135,
+                "username": "wasuretalover"
+              }
+            ]
+          }
+        },
+        "id": "1732063249858756609",
+        "location": "15y, Wasureta",
+        "name": "lauti 🌸",
+        "pinned_tweet_id": "2035850712383467913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014523666483068928/mqSGOxbW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 259,
+          "like_count": 2015,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 1625
+        },
+        "username": "CharlieKirkGD",
+        "verified": false
+      }
+    ]
+  }
+}

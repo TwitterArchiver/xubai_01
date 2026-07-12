@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2000498304250196359",
+    "created_at": "2025-12-15T09:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T10:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000498304250196359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xbt886/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/xbt886/status/2000076652278403342",
+          "start": 8,
+          "url": "https://t.co/1peIH4iWM7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000498304250196359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000076652278403342",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？带娃的都来了 https://t.co/1peIH4iWM7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 113333,
+        "height": 610,
+        "media_key": "13_2000069739503403008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000069739503403008/img/GCtOFO1dpm2mWujj.jpg",
+        "public_metrics": {
+          "view_count": 141982
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000069739503403008/vid/avc1/478x270/S92CD8urmjxWdGYV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000069739503403008/vid/avc1/636x360/FyrupzbJz6Fa5I-2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000069739503403008/vid/avc1/1080x610/Oqq1Xzdk3gmDqMDp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000069739503403008/pl/b5zrpt9hS-fGD5aJ.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2000498304250196359",
+        "created_at": "2025-12-15T09:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T10:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000498304250196359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xbt886/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xbt886/status/2000076652278403342",
+              "start": 8,
+              "url": "https://t.co/1peIH4iWM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000498304250196359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000076652278403342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？带娃的都来了 https://t.co/1peIH4iWM7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000069739503403008"
+          ]
+        },
+        "author_id": "1743169594934857728",
+        "conversation_id": "2000076652278403342",
+        "created_at": "2025-12-14T05:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000076652278403342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rRSqs84udb",
+              "end": 29,
+              "expanded_url": "https://x.com/Xbt886/status/2000076652278403342/video/1",
+              "media_key": "13_2000069739503403008",
+              "start": 6,
+              "url": "https://t.co/rRSqs84udb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000076652278403342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 112638,
+          "like_count": 1013,
+          "quote_count": 13,
+          "reply_count": 30,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "科比相亲记 https://t.co/rRSqs84udb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia｜｜爱说梦话/想交朋友。🫠｜网易/火山引擎/阿里云/腾讯云代理商｜接各类企服财税代办｜一直都没钱都是装的身份自己给的｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 662,
+          "like_count": 9269,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1122
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T07:16:42.000Z",
+        "description": "我是来吐槽的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@kbeast_eth?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@kbeast_eth?si=ykl7vGfKfPghxpQy",
+                "start": 0,
+                "url": "https://t.co/D0BZVL6Hmu"
+              }
+            ]
+          }
+        },
+        "id": "1743169594934857728",
+        "location": "xyz886 planet",
+        "name": "KBeast.eth",
+        "pinned_tweet_id": "1972925464139485219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996025915311357953/MRuyIMeN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15288,
+          "following_count": 571,
+          "like_count": 7891,
+          "listed_count": 334,
+          "media_count": 11086,
+          "tweet_count": 26048
+        },
+        "url": "https://t.co/D0BZVL6Hmu",
+        "username": "Xbt886",
+        "verified": false
+      }
+    ]
+  }
+}

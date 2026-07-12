@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1996118556258545755",
+    "created_at": "2025-12-03T07:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T08:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996118556258545755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1286241253621817344",
+          "start": 3,
+          "username": "ACldJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996118556258545755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995855734345793835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ACldJP: “-哎呦我滴妈呀，蒯呀，怎么今天这跳但这么有感觉呢”\n“-啥跳但呀，我用的鞭炮”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1996118556258545755",
+        "created_at": "2025-12-03T07:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T08:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996118556258545755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1286241253621817344",
+              "start": 3,
+              "username": "ACldJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996118556258545755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995855734345793835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ACldJP: “-哎呦我滴妈呀，蒯呀，怎么今天这跳但这么有感觉呢”\n“-啥跳但呀，我用的鞭炮”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286241253621817344",
+        "conversation_id": "1995855734345793835",
+        "created_at": "2025-12-02T14:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995855734345793835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995855734345793835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1477,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "“-哎呦我滴妈呀，蒯呀，怎么今天这跳但这么有感觉呢”\n“-啥跳但呀，我用的鞭炮”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜可能是个人，但是离神很远了。｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 602,
+          "like_count": 7651,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "音游人｜运营兼策划「初心者」\n云鸠の生活推\n本命号@Cldeop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 25,
+                "username": "Cldeop"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "鹊巢（鸠占）",
+        "name": "九鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 269,
+          "like_count": 2039,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 825
+        },
+        "username": "ACldJP",
+        "verified": true
+      }
+    ]
+  }
+}

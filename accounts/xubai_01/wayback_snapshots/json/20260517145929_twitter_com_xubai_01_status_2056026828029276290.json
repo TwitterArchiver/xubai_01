@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2055900603726098616",
+    "created_at": "2026-05-17T14:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056026828029276290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967931854004379648",
+          "start": 0,
+          "username": "ABLumenix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056026828029276290",
+    "in_reply_to_user_id": "1967931854004379648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055933984304148982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ABLumenix 吓哭了啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2055900603726098616",
+        "created_at": "2026-05-17T14:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056026828029276290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967931854004379648",
+              "start": 0,
+              "username": "ABLumenix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056026828029276290",
+        "in_reply_to_user_id": "1967931854004379648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055933984304148982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ABLumenix 吓哭了啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967931854004379648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1697053249440731136",
+              "name": "Apple Event 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044419438",
+              "name": "Apple - Watch"
+            }
+          }
+        ],
+        "conversation_id": "2055900603726098616",
+        "created_at": "2026-05-17T08:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055933984304148982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055933984304148982",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055900603726098616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@xubai_01 我也想五百多人民币就拿下apple watch……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 1275,
+          "like_count": 22268,
+          "listed_count": 0,
+          "media_count": 1087,
+          "tweet_count": 5502
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-16T12:41:52.000Z",
+        "description": "可以叫我光启！是南京上学的深圳人║ 🇨🇳中文普通话、益阳话&🇬🇧🇺🇸English available║🏳️‍🌈可以聊涩但要尊重边界║长期招募对象║欢迎私信扩列║不涉政治\nI’m capable of English communication, so feel free to interact～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ABLumenix",
+                "end": 23,
+                "expanded_url": "https://t.me/ABLumenix",
+                "start": 0,
+                "url": "https://t.co/q3Uf8h5eKf"
+              }
+            ]
+          }
+        },
+        "id": "1967931854004379648",
+        "name": "Alben_Lumenix_光启",
+        "pinned_tweet_id": "2026347282573242730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967932005221576705/pdsqDSH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 367,
+          "like_count": 1449,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/q3Uf8h5eKf",
+        "username": "ABLumenix",
+        "verified": true
+      }
+    ]
+  }
+}

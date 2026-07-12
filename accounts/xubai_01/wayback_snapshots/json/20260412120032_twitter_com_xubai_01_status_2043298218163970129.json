@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597176467456",
+          "name": "Sports/Outdoor - Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026482869",
+          "name": "Nike"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026482869",
+          "name": "Nike"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1248316002317643776",
+          "name": "Athletic apparel"
+        }
+      }
+    ],
+    "conversation_id": "2043297294532161739",
+    "created_at": "2026-04-12T12:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043298218163970129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1922900250211254273",
+          "start": 0,
+          "username": "kylooong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043298218163970129",
+    "in_reply_to_user_id": "1922900250211254273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043297294532161739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kylooong 这是美区专属喔 还没看到别的国家地区NIKE有这款👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597176467456",
+              "name": "Sports/Outdoor - Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026482869",
+              "name": "Nike"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026482869",
+              "name": "Nike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248316002317643776",
+              "name": "Athletic apparel"
+            }
+          }
+        ],
+        "conversation_id": "2043297294532161739",
+        "created_at": "2026-04-12T12:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043298218163970129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1922900250211254273",
+              "start": 0,
+              "username": "kylooong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043298218163970129",
+        "in_reply_to_user_id": "1922900250211254273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043297294532161739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kylooong 这是美区专属喔 还没看到别的国家地区NIKE有这款👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922900250211254273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597176467456",
+              "name": "Sports/Outdoor - Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026482869",
+              "name": "Nike"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026482869",
+              "name": "Nike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248316002317643776",
+              "name": "Athletic apparel"
+            }
+          }
+        ],
+        "conversation_id": "2043297294532161739",
+        "created_at": "2026-04-12T11:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043297294532161739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xubai_01/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/xubai_01/status/2043127938670080419",
+              "start": 16,
+              "url": "https://t.co/bwlp56dhfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043297294532161739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043127938670080419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "预感新的情趣衣物圣器又要诞生了 https://t.co/bwlp56dhfV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/10.12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "yuji53719"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 1128,
+          "like_count": 18790,
+          "listed_count": 0,
+          "media_count": 903,
+          "tweet_count": 4565
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-15T06:22:11.000Z",
+        "description": "一只迟钝的呆龙/ 龙头孵化中/ 🌈/ 比较随和，欢迎扩列聊天（但请别信息轰炸…）/ Cybersecurity/ 最近在玩helldivers /表推垃圾桶碎碎念各种日常 /看到毛毛基本都会关注",
+        "id": "1922900250211254273",
+        "location": "Beijing",
+        "name": "凯凯凯凯龙",
+        "pinned_tweet_id": "1994236163897610583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004516995182768128/rR7FycGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3041,
+          "following_count": 1021,
+          "like_count": 4747,
+          "listed_count": 6,
+          "media_count": 206,
+          "tweet_count": 2806
+        },
+        "username": "kylooong",
+        "verified": false
+      }
+    ]
+  }
+}

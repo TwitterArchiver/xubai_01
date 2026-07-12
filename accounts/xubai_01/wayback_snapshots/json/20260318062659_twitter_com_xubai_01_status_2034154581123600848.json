@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2034154581123600848",
+    "created_at": "2026-03-18T06:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T07:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034154581123600848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811616942069022720",
+          "start": 3,
+          "username": "Im_CanDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034154581123600848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033609455276068967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Im_CanDo: 啊？以前只知道图灵是gay，没想到达芬奇 牛顿 苏格拉底 米开朗基罗都是gay🫢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2034154581123600848",
+        "created_at": "2026-03-18T06:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T07:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034154581123600848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811616942069022720",
+              "start": 3,
+              "username": "Im_CanDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034154581123600848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033609455276068967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Im_CanDo: 啊？以前只知道图灵是gay，没想到达芬奇 牛顿 苏格拉底 米开朗基罗都是gay🫢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811616942069022720",
+        "conversation_id": "2033609455276068967",
+        "created_at": "2026-03-16T18:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T19:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033609455276068967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033609455276068967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 64711,
+          "like_count": 281,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "啊？以前只知道图灵是gay，没想到达芬奇 牛顿 苏格拉底 米开朗基罗都是gay🫢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n最近在互关，列表不代表我喜好🤯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 948,
+          "like_count": 16145,
+          "listed_count": 0,
+          "media_count": 760,
+          "tweet_count": 3642
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T04:22:04.000Z",
+        "description": "艺术家 摄影 社会学 福瑞 自闭谱系。\nArtist,photographer,Sociological researchers,Furry,Autistic.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/im_cando2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/im_cando2",
+                "start": 0,
+                "url": "https://t.co/97wAs4NVPe"
+              }
+            ]
+          }
+        },
+        "id": "1811616942069022720",
+        "location": "-4.2km",
+        "name": "一只小残冬 Cando",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927686835603476480/zaqoSpcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9773,
+          "following_count": 1584,
+          "like_count": 28345,
+          "listed_count": 14,
+          "media_count": 586,
+          "tweet_count": 9738
+        },
+        "url": "https://t.co/97wAs4NVPe",
+        "username": "Im_CanDo",
+        "verified": true
+      }
+    ]
+  }
+}

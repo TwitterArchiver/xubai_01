@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024474399165075457"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2024474405037101326",
+    "created_at": "2026-02-19T13:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024474405037101326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/01oBV0u0OL",
+          "end": 89,
+          "expanded_url": "https://x.com/xubai_01/status/2024474405037101326/photo/1",
+          "media_key": "3_2024474399165075457",
+          "start": 66,
+          "url": "https://t.co/01oBV0u0OL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024474405037101326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我半夜不仅怕黑又怕狗\n还怕一个人走夜路\n所以我刚刚放了一首《🎵东南苦行山》\n这样不仅可以壮胆\n而且还能壮志（虽然不确定是什么志 https://t.co/01oBV0u0OL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_2024474399165075457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhgvWsbUAEsrQU.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024474399165075457"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2024474405037101326",
+        "created_at": "2026-02-19T13:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024474405037101326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/01oBV0u0OL",
+              "end": 89,
+              "expanded_url": "https://x.com/xubai_01/status/2024474405037101326/photo/1",
+              "media_key": "3_2024474399165075457",
+              "start": 66,
+              "url": "https://t.co/01oBV0u0OL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024474405037101326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我半夜不仅怕黑又怕狗\n还怕一个人走夜路\n所以我刚刚放了一首《🎵东南苦行山》\n这样不仅可以壮胆\n而且还能壮志（虽然不确定是什么志 https://t.co/01oBV0u0OL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州🔜嘉兴",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 854,
+          "like_count": 14877,
+          "listed_count": 0,
+          "media_count": 643,
+          "tweet_count": 3065
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      }
+    ]
+  }
+}

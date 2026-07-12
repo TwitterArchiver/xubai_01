@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1998052771422208203",
+    "created_at": "2025-12-09T09:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T10:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998330039025508588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1549769146790846475",
+          "start": 0,
+          "username": "lank_fled"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998330039025508588",
+    "in_reply_to_user_id": "1549769146790846475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998306862538854846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lank_fled 我无所谓 海南网上来不怕晶 敢转我钱我就原路退"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1998052771422208203",
+        "created_at": "2025-12-09T09:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998330039025508588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1549769146790846475",
+              "start": 0,
+              "username": "lank_fled"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998330039025508588",
+        "in_reply_to_user_id": "1549769146790846475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998306862538854846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lank_fled 我无所谓 海南网上来不怕晶 敢转我钱我就原路退"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549769146790846475",
+        "conversation_id": "1998052771422208203",
+        "created_at": "2025-12-09T08:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T09:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998306862538854846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998306862538854846",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998052771422208203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 这些信息还是打码比较好吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜理论上行实践不会😡/人｜江浙沪常驻｜Founder @xubaimedia｜可能是个人，但是离神很远了。｜爱说梦话/想交朋友。🫠｜年底会计人格上身了要做账心情很不好请不要惹我（最后通牒）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 630,
+          "like_count": 8309,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 943
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T14:52:23.000Z",
+        "description": "he/him, CBC,Tifosi, apolitically, Management student,you can call me “Lank”or “三鹰朝”， Friendship welcome\n，支黑一边去，小号@lec_lank",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 113,
+                "username": "lec_lank"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lank_1453",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lank_1453",
+                "start": 0,
+                "url": "https://t.co/bBi1DxLeWV"
+              }
+            ]
+          }
+        },
+        "id": "1549769146790846475",
+        "location": "behind you👁️👁️",
+        "name": "Lank",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904503356552622081/FQP4ahSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 203,
+          "like_count": 31431,
+          "listed_count": 7,
+          "media_count": 861,
+          "tweet_count": 14816
+        },
+        "url": "https://t.co/bBi1DxLeWV",
+        "username": "lank_fled",
+        "verified": false
+      }
+    ]
+  }
+}

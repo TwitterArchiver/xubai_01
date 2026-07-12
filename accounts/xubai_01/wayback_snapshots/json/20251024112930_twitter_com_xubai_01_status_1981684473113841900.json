@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1981668131593675209",
+    "created_at": "2025-10-24T11:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T12:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981684473113841900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918520790775115776",
+          "start": 0,
+          "username": "kevinyang0803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981684473113841900",
+    "in_reply_to_user_id": "1918520790775115776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981668131593675209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kevinyang0803 真的是直男吗🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 708,
+        "media_key": "3_1981668128569315328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BMqeIWUAAuJ4y.jpg",
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1981668131593675209",
+        "created_at": "2025-10-24T11:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T12:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981684473113841900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918520790775115776",
+              "start": 0,
+              "username": "kevinyang0803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981684473113841900",
+        "in_reply_to_user_id": "1918520790775115776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981668131593675209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kevinyang0803 真的是直男吗🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981668128569315328"
+          ]
+        },
+        "author_id": "1918520790775115776",
+        "conversation_id": "1981668131593675209",
+        "created_at": "2025-10-24T10:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981668131593675209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHbfj4yI0b",
+              "end": 27,
+              "expanded_url": "https://x.com/kevinyang0803/status/1981668131593675209/photo/1",
+              "media_key": "3_1981668128569315328",
+              "start": 4,
+              "url": "https://t.co/hHbfj4yI0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981668131593675209",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "60🌚 https://t.co/hHbfj4yI0b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 405,
+          "like_count": 4168,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T04:19:57.000Z",
+        "description": "2008/17/170/63，深圳男高，ENFJ\n爱好很杂，比如航空/轨道交通\n直男\n想进主播小群欢迎私信😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KevinYangPress…",
+                "end": 23,
+                "expanded_url": "https://t.me/KevinYangPressConference",
+                "start": 0,
+                "url": "https://t.co/11vceEuK0w"
+              }
+            ]
+          }
+        },
+        "id": "1918520790775115776",
+        "name": "KevinYang",
+        "pinned_tweet_id": "1957874878767628565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956436437718687744/rbQ-F3oi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2907,
+          "following_count": 78,
+          "like_count": 5013,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 1899
+        },
+        "url": "https://t.co/11vceEuK0w",
+        "username": "kevinyang0803",
+        "verified": true
+      }
+    ]
+  }
+}

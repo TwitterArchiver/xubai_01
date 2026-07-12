@@ -1,0 +1,753 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Curtis Lepore",
+          "id": "885939181494468608",
+          "name": "Curtis Lepore"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1579488006225874944",
+          "name": "OKX"
+        }
+      },
+      {
+        "domain": {
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+          "id": "58",
+          "name": "Entertainment Personality"
+        },
+        "entity": {
+          "description": "Curtis Lepore",
+          "id": "885939181494468608",
+          "name": "Curtis Lepore"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "description": "Curtis Lepore",
+          "id": "885939181494468608",
+          "name": "Curtis Lepore"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Curtis Lepore",
+          "id": "885939181494468608",
+          "name": "Curtis Lepore"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390680741206368263",
+          "name": "Cryptocurrency exchanges"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1579488006225874944",
+          "name": "OKX"
+        }
+      }
+    ],
+    "conversation_id": "2059705445070381549",
+    "created_at": "2026-05-27T19:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059714841984815567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "410186746",
+          "start": 0,
+          "username": "curtislepore"
+        },
+        {
+          "end": 18,
+          "id": "867617849208037377",
+          "start": 14,
+          "username": "okx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059714841984815567",
+    "in_reply_to_user_id": "410186746",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059705445070381549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@curtislepore @okx 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2059705442654453760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWLL_NbgAAVD2p.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Curtis Lepore",
+              "id": "885939181494468608",
+              "name": "Curtis Lepore"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1579488006225874944",
+              "name": "OKX"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "description": "Curtis Lepore",
+              "id": "885939181494468608",
+              "name": "Curtis Lepore"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "description": "Curtis Lepore",
+              "id": "885939181494468608",
+              "name": "Curtis Lepore"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Curtis Lepore",
+              "id": "885939181494468608",
+              "name": "Curtis Lepore"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1579488006225874944",
+              "name": "OKX"
+            }
+          }
+        ],
+        "conversation_id": "2059705445070381549",
+        "created_at": "2026-05-27T19:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059714841984815567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "410186746",
+              "start": 0,
+              "username": "curtislepore"
+            },
+            {
+              "end": 18,
+              "id": "867617849208037377",
+              "start": 14,
+              "username": "okx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059714841984815567",
+        "in_reply_to_user_id": "410186746",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059705445070381549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@curtislepore @okx 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059705442654453760"
+          ]
+        },
+        "author_id": "410186746",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Curtis Lepore",
+              "id": "885939181494468608",
+              "name": "Curtis Lepore"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1579488006225874944",
+              "name": "OKX"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "description": "Curtis Lepore",
+              "id": "885939181494468608",
+              "name": "Curtis Lepore"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "description": "Curtis Lepore",
+              "id": "885939181494468608",
+              "name": "Curtis Lepore"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Curtis Lepore",
+              "id": "885939181494468608",
+              "name": "Curtis Lepore"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1579488006225874944",
+              "name": "OKX"
+            }
+          }
+        ],
+        "conversation_id": "2059705445070381549",
+        "created_at": "2026-05-27T18:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059705445070381549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 47,
+              "id": "867617849208037377",
+              "start": 43,
+              "username": "okx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVQgskbGEq",
+              "end": 272,
+              "expanded_url": "https://x.com/curtislepore/status/2059705445070381549/photo/1",
+              "media_key": "3_2059705442654453760",
+              "start": 249,
+              "url": "https://t.co/oVQgskbGEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059705445070381549",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 711,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Exchange OS is coming, built on X Layer by @okx\n\nTrading infra shouldn't be a walled garden.\n\nOne shared stack. Deploy perps, spot, options, prediction markets, anything you can wire up.\n\nYou set the compliance posture. You own the UX. This is big. https://t.co/oVQgskbGEq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 1380,
+          "like_count": 23017,
+          "listed_count": 2,
+          "media_count": 1119,
+          "tweet_count": 5822
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-11T19:16:57.000Z",
+        "description": "Crypto Gym Bro - Chad Coded - Meme Pilled - Builder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/curtislepore",
+                "end": 23,
+                "expanded_url": "http://link.me/curtislepore",
+                "start": 0,
+                "url": "https://t.co/wpYMY7CtVJ"
+              }
+            ]
+          }
+        },
+        "id": "410186746",
+        "location": "Los Angeles, CA",
+        "name": "Curtis",
+        "pinned_tweet_id": "1856738166377725970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852080992804114432/uZgeuKco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592051,
+          "following_count": 5323,
+          "like_count": 37303,
+          "listed_count": 690,
+          "media_count": 5146,
+          "tweet_count": 24258
+        },
+        "url": "https://t.co/wpYMY7CtVJ",
+        "username": "curtislepore",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-25T05:46:29.000Z",
+        "description": "A new alternative for your crypto journey | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 66,
+                "username": "Wallet"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "OKXHelpDesk"
+              },
+              {
+                "end": 117,
+                "start": 110,
+                "username": "OKX_UK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "okx.com",
+                "end": 23,
+                "expanded_url": "https://www.okx.com",
+                "start": 0,
+                "url": "https://t.co/zUK2ThuSHs"
+              }
+            ]
+          }
+        },
+        "id": "867617849208037377",
+        "name": "OKX",
+        "pinned_tweet_id": "2059115772442562619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5687476,
+          "following_count": 339,
+          "like_count": 26886,
+          "listed_count": 8326,
+          "media_count": 15419,
+          "tweet_count": 49311
+        },
+        "url": "https://t.co/zUK2ThuSHs",
+        "username": "okx",
+        "verified": true
+      }
+    ]
+  }
+}

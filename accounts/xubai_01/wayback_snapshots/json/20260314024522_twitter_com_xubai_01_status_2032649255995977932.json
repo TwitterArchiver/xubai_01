@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2032274767190077698",
+    "created_at": "2026-03-14T02:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T03:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032649255995977932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1270705413399306240",
+          "start": 0,
+          "username": "nysacomic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032649255995977932",
+    "in_reply_to_user_id": "1270705413399306240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032274767190077698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nysacomic 我不行了大型垃圾场🤓🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2032274767190077698",
+        "created_at": "2026-03-14T02:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T03:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032649255995977932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1270705413399306240",
+              "start": 0,
+              "username": "nysacomic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032649255995977932",
+        "in_reply_to_user_id": "1270705413399306240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032274767190077698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nysacomic 我不行了大型垃圾场🤓🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1270705413399306240",
+        "conversation_id": "2032274767190077698",
+        "created_at": "2026-03-13T01:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T02:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032274767190077698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032274767190077698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9677,
+          "like_count": 272,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "真希望推特能推出一鍵封鎖所有簡中藍勾勾帳號\n這些絕大多數都是垃圾營銷號，還很容易推到我的版面上，每多看一篇文，都覺得自己智商降低了一分\n然後垃圾營銷號底下又聚集了簡中圈最垃圾的用戶，根本大型垃圾場"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 915,
+          "like_count": 15960,
+          "listed_count": 0,
+          "media_count": 744,
+          "tweet_count": 3533
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-10T13:12:46.000Z",
+        "description": "Arcane/ Caitvi/ RubyCruz/ NicoleCoene/🏳️‍🌈/ 🐶💕🧁/ I fucking love women🥵/ 🔞/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nysacomic.wordpress.com",
+                "end": 23,
+                "expanded_url": "https://nysacomic.wordpress.com/",
+                "start": 0,
+                "url": "https://t.co/367SQv2qMa"
+              }
+            ]
+          }
+        },
+        "id": "1270705413399306240",
+        "name": "Nysa✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909933036936069120/8pkm71qr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 544,
+          "like_count": 66083,
+          "listed_count": 5,
+          "media_count": 700,
+          "tweet_count": 10509
+        },
+        "url": "https://t.co/367SQv2qMa",
+        "username": "nysacomic",
+        "verified": false
+      }
+    ]
+  }
+}

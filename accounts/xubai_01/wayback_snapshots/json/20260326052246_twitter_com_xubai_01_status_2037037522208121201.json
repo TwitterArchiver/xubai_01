@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2037037522208121201",
+    "created_at": "2026-03-26T05:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T06:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037037522208121201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/caizhenghai/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/caizhenghai/status/2036762813809779115",
+          "start": 16,
+          "url": "https://t.co/VoNBXW2cvS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037037522208121201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036762813809779115",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吓哭了还有千问（劣质token https://t.co/VoNBXW2cvS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 173258,
+        "height": 960,
+        "media_key": "13_2036762688848887808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036762688848887808/img/n7DNV546JIQmPfNq.jpg",
+        "public_metrics": {
+          "view_count": 120073
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036762688848887808/vid/avc1/320x564/op-S4cCbml2OansB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036762688848887808/vid/avc1/480x846/z9BfppLAJ_6FcPEZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036762688848887808/vid/avc1/544x960/5Xik5LWRiMuVr9j_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036762688848887808/pl/FIIm_iVJlmeT_McV.m3u8?v=e6c"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2037037522208121201",
+        "created_at": "2026-03-26T05:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037037522208121201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caizhenghai/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/caizhenghai/status/2036762813809779115",
+              "start": 16,
+              "url": "https://t.co/VoNBXW2cvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037037522208121201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036762813809779115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吓哭了还有千问（劣质token https://t.co/VoNBXW2cvS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036762688848887808"
+          ]
+        },
+        "author_id": "387147664",
+        "conversation_id": "2036762813809779115",
+        "created_at": "2026-03-25T11:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036762813809779115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oRnyXJeRMh",
+              "end": 47,
+              "expanded_url": "https://x.com/caizhenghai/status/2036762813809779115/video/1",
+              "media_key": "13_2036762688848887808",
+              "start": 24,
+              "url": "https://t.co/oRnyXJeRMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036762813809779115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 633,
+          "impression_count": 264766,
+          "like_count": 1697,
+          "quote_count": 66,
+          "reply_count": 121,
+          "retweet_count": 265
+        },
+        "reply_settings": "everyone",
+        "text": "只有像我们这种老程序员才懂得这个视频的含金量啊 https://t.co/oRnyXJeRMh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 1011,
+          "like_count": 16955,
+          "listed_count": 0,
+          "media_count": 820,
+          "tweet_count": 4014
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2011-10-08T15:09:19.000Z",
+        "description": "8 年美股投资者，13 年程序开发。 - 联系我：https://t.co/TpEhIUOWf4   - 美股社区 https://t.co/4O2QdkEkMf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/forecho",
+                "end": 48,
+                "expanded_url": "http://t.me/forecho",
+                "start": 25,
+                "url": "https://t.co/TpEhIUOWf4"
+              },
+              {
+                "display_url": "link.3li3.com/richcalls",
+                "end": 81,
+                "expanded_url": "https://link.3li3.com/richcalls",
+                "start": 58,
+                "url": "https://t.co/4O2QdkEkMf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forecho.com",
+                "end": 23,
+                "expanded_url": "https://forecho.com",
+                "start": 0,
+                "url": "https://t.co/DT5QtW82cM"
+              }
+            ]
+          }
+        },
+        "id": "387147664",
+        "location": "China",
+        "name": "forecho📈",
+        "pinned_tweet_id": "2036341287608357248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/790007015783346178/tvajHHFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38752,
+          "following_count": 3915,
+          "like_count": 50210,
+          "listed_count": 442,
+          "media_count": 3252,
+          "tweet_count": 13492
+        },
+        "url": "https://t.co/DT5QtW82cM",
+        "username": "caizhenghai",
+        "verified": true
+      }
+    ]
+  }
+}

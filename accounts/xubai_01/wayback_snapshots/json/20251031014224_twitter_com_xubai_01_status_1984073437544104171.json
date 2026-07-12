@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1983869723713654956",
+    "created_at": "2025-10-31T01:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T02:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984073437544104171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "841275465348263936",
+          "start": 0,
+          "username": "skywt2003"
+        },
+        {
+          "end": 25,
+          "id": "1808791367029772288",
+          "start": 11,
+          "username": "MiLiang587606"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984073437544104171",
+    "in_reply_to_user_id": "841275465348263936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983873534985433379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skywt2003 @MiLiang587606 🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1983869723713654956",
+        "created_at": "2025-10-31T01:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T02:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984073437544104171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "841275465348263936",
+              "start": 0,
+              "username": "skywt2003"
+            },
+            {
+              "end": 25,
+              "id": "1808791367029772288",
+              "start": 11,
+              "username": "MiLiang587606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984073437544104171",
+        "in_reply_to_user_id": "841275465348263936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983873534985433379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skywt2003 @MiLiang587606 🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "841275465348263936",
+        "conversation_id": "1983869723713654956",
+        "created_at": "2025-10-30T12:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983873534985433379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1808791367029772288",
+              "start": 0,
+              "username": "MiLiang587606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983873534985433379",
+        "in_reply_to_user_id": "1808791367029772288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6292,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983873017794240531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiLiang587606 原来都去当 CEO 了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 460,
+          "like_count": 4927,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 440
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-13T13:11:15.000Z",
+        "description": "🧑‍💻 Software Designer & Engineer / 💼 FE Dev at @BytedanceTalk (daytime) / 🎓 22 yo / ✨ INFJ / 🏳️‍🌈 he/him / 🌍 zh/en / ☕️ open to coffee chats / not by AI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 47,
+                "username": "BytedanceTalk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skywt.cn",
+                "end": 23,
+                "expanded_url": "https://skywt.cn/",
+                "start": 0,
+                "url": "https://t.co/VgDWX33y08"
+              }
+            ]
+          }
+        },
+        "id": "841275465348263936",
+        "location": "Hangzhou",
+        "name": "SkyWT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1414861771823738886/_hvY0heR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6776,
+          "following_count": 1312,
+          "like_count": 16338,
+          "listed_count": 39,
+          "media_count": 281,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/VgDWX33y08",
+        "username": "skywt2003",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-04T09:14:15.000Z",
+        "description": "Student Developer, love open-source and coding\n\nBiliBili: https://t.co/K3GfeEtJx0\nGithub: https://t.co/XAQIUPAoJe\nEmail: hi@liangmi.dev",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1964165864",
+                "end": 81,
+                "expanded_url": "https://space.bilibili.com/1964165864",
+                "start": 58,
+                "url": "https://t.co/K3GfeEtJx0"
+              },
+              {
+                "display_url": "github.com/liangmiqwq",
+                "end": 113,
+                "expanded_url": "https://github.com/liangmiqwq",
+                "start": 90,
+                "url": "https://t.co/XAQIUPAoJe"
+              }
+            ]
+          }
+        },
+        "id": "1808791367029772288",
+        "location": "China",
+        "name": "Liang Mi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808791424948916224/7KOy1JaV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 126,
+          "like_count": 4850,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 243
+        },
+        "username": "MiLiang587606",
+        "verified": false
+      }
+    ]
+  }
+}

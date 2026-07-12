@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2039012358534967543",
+    "created_at": "2026-04-01T02:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039163643967988158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657726063806660609",
+          "start": 0,
+          "username": "XiaoZhi443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039163643967988158",
+    "in_reply_to_user_id": "1657726063806660609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039012358534967543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoZhi443 开局一张床..慢慢来！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2039012358534967543].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2039012358534967543",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2039012358534967543"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2039012358534967543",
+        "created_at": "2026-04-01T02:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039163643967988158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657726063806660609",
+              "start": 0,
+              "username": "XiaoZhi443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039163643967988158",
+        "in_reply_to_user_id": "1657726063806660609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039012358534967543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoZhi443 开局一张床..慢慢来！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "yuji53719"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 1066,
+          "like_count": 17586,
+          "listed_count": 0,
+          "media_count": 846,
+          "tweet_count": 4208
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-14T12:35:41.000Z",
+        "description": "",
+        "id": "1657726063806660609",
+        "name": "小智",
+        "pinned_tweet_id": "2006394934543430076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006633906725076992/f4Ez6BnI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 378,
+          "like_count": 21732,
+          "listed_count": 1,
+          "media_count": 821,
+          "tweet_count": 6948
+        },
+        "username": "XiaoZhi443",
+        "verified": false
+      }
+    ]
+  }
+}

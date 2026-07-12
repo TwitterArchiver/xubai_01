@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2020873509233176576"
+      ],
+      "media_source_tweet_id": [
+        "2020873570478383410"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2021438786761261389",
+    "created_at": "2026-02-11T04:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T05:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021438786761261389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1277263772873379840",
+          "start": 3,
+          "username": "yamszk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YcHg9pd9HN",
+          "end": 70,
+          "expanded_url": "https://x.com/yamszk/status/2020873570478383410/video/1",
+          "media_key": "13_2020873509233176576",
+          "start": 47,
+          "url": "https://t.co/YcHg9pd9HN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021438786761261389",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 227
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020873570478383410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yamszk: bro just turned 20 just to do this https://t.co/YcHg9pd9HN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11800,
+        "height": 866,
+        "media_key": "13_2020873509233176576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020873509233176576/img/pzW6gYG72xKhwYrI.jpg",
+        "public_metrics": {
+          "view_count": 92222
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020873509233176576/vid/avc1/320x384/UKSBdQgT23CP7zps.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020873509233176576/vid/avc1/480x576/xVvCyvP8VbWw5YFn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020873509233176576/vid/avc1/720x866/ern7fozTA9lVD8Rv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020873509233176576/pl/9LH1rMEowarvyANQ.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020873509233176576"
+          ],
+          "media_source_tweet_id": [
+            "2020873570478383410"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2021438786761261389",
+        "created_at": "2026-02-11T04:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T05:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021438786761261389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1277263772873379840",
+              "start": 3,
+              "username": "yamszk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YcHg9pd9HN",
+              "end": 70,
+              "expanded_url": "https://x.com/yamszk/status/2020873570478383410/video/1",
+              "media_key": "13_2020873509233176576",
+              "start": 47,
+              "url": "https://t.co/YcHg9pd9HN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021438786761261389",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 227
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020873570478383410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yamszk: bro just turned 20 just to do this https://t.co/YcHg9pd9HN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020873509233176576"
+          ]
+        },
+        "author_id": "1277263772873379840",
+        "conversation_id": "2020873570478383410",
+        "created_at": "2026-02-09T14:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020873570478383410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YcHg9pd9HN",
+              "end": 58,
+              "expanded_url": "https://x.com/yamszk/status/2020873570478383410/video/1",
+              "media_key": "13_2020873509233176576",
+              "start": 35,
+              "url": "https://t.co/YcHg9pd9HN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020873570478383410",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 947,
+          "impression_count": 150697,
+          "like_count": 4433,
+          "quote_count": 51,
+          "reply_count": 6,
+          "retweet_count": 227
+        },
+        "reply_settings": "everyone",
+        "text": "bro just turned 20 just to do this https://t.co/YcHg9pd9HN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州🔜嘉兴🔜昆明",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 873,
+          "like_count": 14640,
+          "listed_count": 0,
+          "media_count": 629,
+          "tweet_count": 2989
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-28T15:33:21.000Z",
+        "description": "０６ ☆ INFP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yamszk?_r=1&_…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@yamszk?_r=1&_t=ZN-93a9bhoh13m",
+                "start": 0,
+                "url": "https://t.co/mBiPhhLcpr"
+              }
+            ]
+          }
+        },
+        "id": "1277263772873379840",
+        "location": "♡たいよう♡",
+        "name": "isa",
+        "pinned_tweet_id": "2017146014747054161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905383654483755008/Hi2a6F3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 851,
+          "like_count": 28870,
+          "listed_count": 6,
+          "media_count": 3029,
+          "tweet_count": 17424
+        },
+        "url": "https://t.co/mBiPhhLcpr",
+        "username": "yamszk",
+        "verified": false
+      }
+    ]
+  }
+}

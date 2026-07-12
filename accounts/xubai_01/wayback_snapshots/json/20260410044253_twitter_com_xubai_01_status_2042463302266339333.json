@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2042449661777362998",
+    "created_at": "2026-04-10T04:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042463302266339333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1626585531827261443",
+          "start": 0,
+          "username": "ligbngchun11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042463302266339333",
+    "in_reply_to_user_id": "1626585531827261443",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042462283738333641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ligbngchun11 蒸馏器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2042449661777362998",
+        "created_at": "2026-04-10T04:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042463302266339333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1626585531827261443",
+              "start": 0,
+              "username": "ligbngchun11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042463302266339333",
+        "in_reply_to_user_id": "1626585531827261443",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042462283738333641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ligbngchun11 蒸馏器"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626585531827261443",
+        "conversation_id": "2042449661777362998",
+        "created_at": "2026-04-10T04:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042462283738333641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042462283738333641",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042449661777362998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 哈哈哈哈这号就是专门提纯煞笔的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "yuji53719"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 1115,
+          "like_count": 18496,
+          "listed_count": 0,
+          "media_count": 887,
+          "tweet_count": 4461
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-17T14:13:32.000Z",
+        "description": "🌈0.5（其实不分）/成都牛马/普粤法英日/English OK/français OK/日本語下手(ひとり上手)/中岛美雪(中島みゆき)/德云社相声业余爱好者/热爱铁道与轨道交通/热爱历史/躺平中的里推@kuchapuci",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "kuchapuci"
+              }
+            ]
+          }
+        },
+        "id": "1626585531827261443",
+        "name": "秘密花园（成都）",
+        "pinned_tweet_id": "1949146561880977785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844244493714763782/RIvLIiSy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 2359,
+          "like_count": 20152,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 6374
+        },
+        "username": "ligbngchun11",
+        "verified": false
+      }
+    ]
+  }
+}

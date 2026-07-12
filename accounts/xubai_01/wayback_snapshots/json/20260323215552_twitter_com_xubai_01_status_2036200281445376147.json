@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2036200281445376147",
+    "created_at": "2026-03-23T21:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T22:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036200281445376147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1910749531161190400",
+          "start": 3,
+          "username": "r0x_ht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036200281445376147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036097439636291768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @r0x_ht: 推特其实是个社交软件不是看片软件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2036200281445376147",
+        "created_at": "2026-03-23T21:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T22:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036200281445376147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1910749531161190400",
+              "start": 3,
+              "username": "r0x_ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036200281445376147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036097439636291768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @r0x_ht: 推特其实是个社交软件不是看片软件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910749531161190400",
+        "conversation_id": "2036097439636291768",
+        "created_at": "2026-03-23T15:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036097439636291768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036097439636291768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 38876,
+          "like_count": 173,
+          "quote_count": 1,
+          "reply_count": 129,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "推特其实是个社交软件不是看片软件"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 995,
+          "like_count": 16660,
+          "listed_count": 0,
+          "media_count": 797,
+          "tweet_count": 3885
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-11T17:39:32.000Z",
+        "description": "可爱又可爱",
+        "id": "1910749531161190400",
+        "location": "🚪18 ",
+        "name": "Miko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974949239118876672/NZ4Hm47I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35293,
+          "following_count": 9,
+          "like_count": 448,
+          "listed_count": 69,
+          "media_count": 128,
+          "tweet_count": 366
+        },
+        "username": "r0x_ht",
+        "verified": false
+      }
+    ]
+  }
+}

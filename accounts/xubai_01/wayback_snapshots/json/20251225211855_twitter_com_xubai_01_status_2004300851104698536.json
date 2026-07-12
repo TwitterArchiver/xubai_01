@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2004261709108990181",
+    "created_at": "2025-12-25T21:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T22:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004300851104698536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1817229581889454080",
+          "start": 0,
+          "username": "1bupr0fen1911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004300851104698536",
+    "in_reply_to_user_id": "1817229581889454080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004292670601285693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1bupr0fen1911 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2004261709108990181",
+        "created_at": "2025-12-25T21:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T22:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004300851104698536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1817229581889454080",
+              "start": 0,
+              "username": "1bupr0fen1911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004300851104698536",
+        "in_reply_to_user_id": "1817229581889454080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004292670601285693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1bupr0fen1911 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817229581889454080",
+        "conversation_id": "2004261709108990181",
+        "created_at": "2025-12-25T20:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T21:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004292670601285693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004292670601285693",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004261709108990181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 好好笑（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 785,
+          "like_count": 11862,
+          "listed_count": 0,
+          "media_count": 428,
+          "tweet_count": 1922
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T16:04:40.000Z",
+        "description": "07高三/南宁/超绝网络冲浪选手成分复杂欢迎您来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/agoc000",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/agoc000",
+                "start": 0,
+                "url": "https://t.co/2lySt9D0t9"
+              }
+            ]
+          }
+        },
+        "id": "1817229581889454080",
+        "location": "卡斯卡迪亚",
+        "name": "布洛芬緩釋膠囊",
+        "pinned_tweet_id": "2003827653439344810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003566660285038592/Fz1M5QWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 739,
+          "like_count": 24892,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/2lySt9D0t9",
+        "username": "1bupr0fen1911",
+        "verified": false
+      }
+    ]
+  }
+}

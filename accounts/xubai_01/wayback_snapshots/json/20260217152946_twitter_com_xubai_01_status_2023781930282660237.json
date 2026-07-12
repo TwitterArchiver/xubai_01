@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2023766343896756696",
+    "created_at": "2026-02-17T15:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T16:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023781930282660237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1689257282348158976",
+          "start": 0,
+          "username": "Inaba_Tsumugi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023781930282660237",
+    "in_reply_to_user_id": "1689257282348158976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023770106409763026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inaba_Tsumugi 好玩喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2023766343896756696",
+        "created_at": "2026-02-17T15:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023781930282660237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1689257282348158976",
+              "start": 0,
+              "username": "Inaba_Tsumugi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023781930282660237",
+        "in_reply_to_user_id": "1689257282348158976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023770106409763026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inaba_Tsumugi 好玩喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689257282348158976",
+        "conversation_id": "2023766343896756696",
+        "created_at": "2026-02-17T14:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023770106409763026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023770106409763026",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023766343896756696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 awmc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州🔜嘉兴",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 854,
+          "like_count": 14846,
+          "listed_count": 0,
+          "media_count": 642,
+          "tweet_count": 3058
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-09T12:48:24.000Z",
+        "description": "(CTU/ZUUU) 𝓣𝓼𝓾𝓶𝓾𝓰𝓲𝓱𝓸𝓵𝓲𝓬！/ ✌🦌夏が近づくと胸が騒めくのは何でなんでしょうか。 / 🍔🍟麦当劳重度依赖 / ☁共犯招募中 / #青ブタ #ボカロ #夢見る #みずえな 🎀🎨 / 🏳️‍🌈🏳️‍⚧️🇦🇶🏴‍☠️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 75,
+                "tag": "青ブタ"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "夢見る"
+              },
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "みずえな"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tsumugi.icu",
+                "end": 23,
+                "expanded_url": "http://tsumugi.icu/",
+                "start": 0,
+                "url": "https://t.co/Zzs8a676XS"
+              }
+            ]
+          }
+        },
+        "id": "1689257282348158976",
+        "location": "🌙",
+        "name": "🌙つむぎ🎄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022597800840794112/dnlIyZ4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 1091,
+          "like_count": 49081,
+          "listed_count": 3,
+          "media_count": 1290,
+          "tweet_count": 9169
+        },
+        "url": "https://t.co/Zzs8a676XS",
+        "username": "Inaba_Tsumugi",
+        "verified": false
+      }
+    ]
+  }
+}

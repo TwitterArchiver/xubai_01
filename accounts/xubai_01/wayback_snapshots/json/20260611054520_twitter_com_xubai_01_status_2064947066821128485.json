@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064947063457296384"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1398361783774060544",
+          "name": "Apple Card"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2064947066821128485",
+    "created_at": "2026-06-11T05:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064947066821128485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7u5cIEyi5A",
+          "end": 153,
+          "expanded_url": "https://x.com/xubai_01/status/2064947066821128485/photo/1",
+          "media_key": "3_2064947063457296384",
+          "start": 130,
+          "url": "https://t.co/7u5cIEyi5A"
+        },
+        {
+          "display_url": "x.com/usaccdream/sta…",
+          "end": 177,
+          "expanded_url": "https://twitter.com/usaccdream/status/2064945577788649892",
+          "start": 154,
+          "url": "https://t.co/ivUDmldheq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064947066821128485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064945577788649892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得Apple Card做的好的一点就是集成在了Apple wallet的服务里，把实体卡的tap给砍掉了。而且卡号只能在Apple wallet里面看，实体卡的背面是没有卡号的😋\n\n这张卡好看但是只能用磁条和芯片..不过钛合金的分量和品质我还是超喜欢的😋 https://t.co/7u5cIEyi5A https://t.co/ivUDmldheq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064947063457296384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgqaeVbsAAxXx0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064947063457296384"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1398361783774060544",
+              "name": "Apple Card"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2064947066821128485",
+        "created_at": "2026-06-11T05:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064947066821128485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7u5cIEyi5A",
+              "end": 153,
+              "expanded_url": "https://x.com/xubai_01/status/2064947066821128485/photo/1",
+              "media_key": "3_2064947063457296384",
+              "start": 130,
+              "url": "https://t.co/7u5cIEyi5A"
+            },
+            {
+              "display_url": "x.com/usaccdream/sta…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/usaccdream/status/2064945577788649892",
+              "start": 154,
+              "url": "https://t.co/ivUDmldheq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064947066821128485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064945577788649892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得Apple Card做的好的一点就是集成在了Apple wallet的服务里，把实体卡的tap给砍掉了。而且卡号只能在Apple wallet里面看，实体卡的背面是没有卡号的😋\n\n这张卡好看但是只能用磁条和芯片..不过钛合金的分量和品质我还是超喜欢的😋 https://t.co/7u5cIEyi5A https://t.co/ivUDmldheq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39960415",
+        "conversation_id": "2064885391589884160",
+        "created_at": "2026-06-11T05:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064945577788649892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064945577788649892",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064885391589884160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 好漂亮呀 能把反面也拍下吗 我没见过这么好看的信用卡呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 1488,
+          "like_count": 24154,
+          "listed_count": 2,
+          "media_count": 1189,
+          "tweet_count": 6276
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-14T09:18:11.000Z",
+        "description": "",
+        "id": "39960415",
+        "location": "Los Angels",
+        "name": "C.C Dream",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1311464329468764160/0P-CZPFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 181,
+          "like_count": 362,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 384
+        },
+        "username": "usaccdream",
+        "verified": false
+      }
+    ]
+  }
+}

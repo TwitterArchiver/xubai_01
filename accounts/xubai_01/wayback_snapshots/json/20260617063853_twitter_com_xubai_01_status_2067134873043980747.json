@@ -1,0 +1,612 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067134810825601024",
+        "3_2067134810829869057",
+        "3_2067134810838208512",
+        "3_2067134810825596928"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Robinhood",
+          "id": "10049614909",
+          "name": "Robinhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Robinhood",
+          "id": "10049614909",
+          "name": "Robinhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1584490602338451456",
+          "name": "Banking"
+        }
+      }
+    ],
+    "conversation_id": "2067134873043980747",
+    "created_at": "2026-06-17T06:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T07:38:41.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067134821374263665",
+      "2067134873043980747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uc2rKMd6Dc",
+          "end": 111,
+          "expanded_url": "https://x.com/xubai_01/status/2067134873043980747/photo/1",
+          "media_key": "3_2067134810825601024",
+          "start": 88,
+          "url": "https://t.co/Uc2rKMd6Dc"
+        },
+        {
+          "display_url": "pic.x.com/Uc2rKMd6Dc",
+          "end": 111,
+          "expanded_url": "https://x.com/xubai_01/status/2067134873043980747/photo/1",
+          "media_key": "3_2067134810829869057",
+          "start": 88,
+          "url": "https://t.co/Uc2rKMd6Dc"
+        },
+        {
+          "display_url": "pic.x.com/Uc2rKMd6Dc",
+          "end": 111,
+          "expanded_url": "https://x.com/xubai_01/status/2067134873043980747/photo/1",
+          "media_key": "3_2067134810838208512",
+          "start": 88,
+          "url": "https://t.co/Uc2rKMd6Dc"
+        },
+        {
+          "display_url": "pic.x.com/Uc2rKMd6Dc",
+          "end": 111,
+          "expanded_url": "https://x.com/xubai_01/status/2067134873043980747/photo/1",
+          "media_key": "3_2067134810825596928",
+          "start": 88,
+          "url": "https://t.co/Uc2rKMd6Dc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067134873043980747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🚩Robinhood Banking Debit Card🚩\n某人今天送我个联名账户的卡🤓\n说实体卡是金子做的也不知道真的假的\n这张还是万事达世界卡🤓\n等实体卡到了给你们拍～ https://t.co/Uc2rKMd6Dc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067134810825601024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_wKIYasAAM0Z5.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067134810829869057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_wKIZb0AEBe3P.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067134810838208512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_wKIbbEAAO58a.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067134810825596928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_wKIYaoAAEsD7.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067134810825601024",
+            "3_2067134810829869057",
+            "3_2067134810838208512",
+            "3_2067134810825596928"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Robinhood",
+              "id": "10049614909",
+              "name": "Robinhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Robinhood",
+              "id": "10049614909",
+              "name": "Robinhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1584490602338451456",
+              "name": "Banking"
+            }
+          }
+        ],
+        "conversation_id": "2067134821374263665",
+        "created_at": "2026-06-17T06:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:38:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067134821374263665",
+          "2067134873043980747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Koa6Are9Gi",
+              "end": 111,
+              "expanded_url": "https://x.com/xubai_01/status/2067134821374263665/photo/1",
+              "media_key": "3_2067134810825601024",
+              "start": 88,
+              "url": "https://t.co/Koa6Are9Gi"
+            },
+            {
+              "display_url": "pic.x.com/Koa6Are9Gi",
+              "end": 111,
+              "expanded_url": "https://x.com/xubai_01/status/2067134821374263665/photo/1",
+              "media_key": "3_2067134810829869057",
+              "start": 88,
+              "url": "https://t.co/Koa6Are9Gi"
+            },
+            {
+              "display_url": "pic.x.com/Koa6Are9Gi",
+              "end": 111,
+              "expanded_url": "https://x.com/xubai_01/status/2067134821374263665/photo/1",
+              "media_key": "3_2067134810838208512",
+              "start": 88,
+              "url": "https://t.co/Koa6Are9Gi"
+            },
+            {
+              "display_url": "pic.x.com/Koa6Are9Gi",
+              "end": 111,
+              "expanded_url": "https://x.com/xubai_01/status/2067134821374263665/photo/1",
+              "media_key": "3_2067134810825596928",
+              "start": 88,
+              "url": "https://t.co/Koa6Are9Gi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067134821374263665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚩Robinhood Banking Debit Card🚩\n某人今天送我个联名账户的卡🤓\n说实体卡是金子做的也不知道真的假的\n这张还是万事达世界卡🤓\n等实体卡到了给你们拍～ https://t.co/Koa6Are9Gi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067134810825601024",
+            "3_2067134810829869057",
+            "3_2067134810838208512",
+            "3_2067134810825596928"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Robinhood",
+              "id": "10049614909",
+              "name": "Robinhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Robinhood",
+              "id": "10049614909",
+              "name": "Robinhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1584490602338451456",
+              "name": "Banking"
+            }
+          }
+        ],
+        "conversation_id": "2067134873043980747",
+        "created_at": "2026-06-17T06:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:38:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067134821374263665",
+          "2067134873043980747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uc2rKMd6Dc",
+              "end": 111,
+              "expanded_url": "https://x.com/xubai_01/status/2067134873043980747/photo/1",
+              "media_key": "3_2067134810825601024",
+              "start": 88,
+              "url": "https://t.co/Uc2rKMd6Dc"
+            },
+            {
+              "display_url": "pic.x.com/Uc2rKMd6Dc",
+              "end": 111,
+              "expanded_url": "https://x.com/xubai_01/status/2067134873043980747/photo/1",
+              "media_key": "3_2067134810829869057",
+              "start": 88,
+              "url": "https://t.co/Uc2rKMd6Dc"
+            },
+            {
+              "display_url": "pic.x.com/Uc2rKMd6Dc",
+              "end": 111,
+              "expanded_url": "https://x.com/xubai_01/status/2067134873043980747/photo/1",
+              "media_key": "3_2067134810838208512",
+              "start": 88,
+              "url": "https://t.co/Uc2rKMd6Dc"
+            },
+            {
+              "display_url": "pic.x.com/Uc2rKMd6Dc",
+              "end": 111,
+              "expanded_url": "https://x.com/xubai_01/status/2067134873043980747/photo/1",
+              "media_key": "3_2067134810825596928",
+              "start": 88,
+              "url": "https://t.co/Uc2rKMd6Dc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067134873043980747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚩Robinhood Banking Debit Card🚩\n某人今天送我个联名账户的卡🤓\n说实体卡是金子做的也不知道真的假的\n这张还是万事达世界卡🤓\n等实体卡到了给你们拍～ https://t.co/Uc2rKMd6Dc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 76,
+                "username": "xuba1_"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "yuji53719"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 129,
+                "start": 122,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 1512,
+          "like_count": 24537,
+          "listed_count": 2,
+          "media_count": 1184,
+          "tweet_count": 6389
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      }
+    ]
+  }
+}

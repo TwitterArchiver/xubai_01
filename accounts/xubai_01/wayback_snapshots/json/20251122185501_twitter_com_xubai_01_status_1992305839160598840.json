@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1991976960839553272",
+    "created_at": "2025-11-22T18:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T19:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992305839160598840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1644745446802460677",
+          "start": 0,
+          "username": "KoiCJT0042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992305839160598840",
+    "in_reply_to_user_id": "1644745446802460677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992299874180911356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoiCJT0042 我也想集齐🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1991976960839553272",
+        "created_at": "2025-11-22T18:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T19:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992305839160598840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1644745446802460677",
+              "start": 0,
+              "username": "KoiCJT0042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992305839160598840",
+        "in_reply_to_user_id": "1644745446802460677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992299874180911356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoiCJT0042 我也想集齐🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644745446802460677",
+        "conversation_id": "1991976960839553272",
+        "created_at": "2025-11-22T18:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T19:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992299874180911356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992299874180911356",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991976960839553272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 我的findmy就不一样了 各个国家的都有。🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 575,
+          "like_count": 6936,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 772
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T16:54:16.000Z",
+        "description": "不忘初心 方得始终 不拒本心 是谓自在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koicjt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/koicjt",
+                "start": 0,
+                "url": "https://t.co/DzRFbxQuFT"
+              }
+            ]
+          }
+        },
+        "id": "1644745446802460677",
+        "location": "東京",
+        "name": "Zaire👾",
+        "pinned_tweet_id": "1964700087998923218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934553074036793344/GSb4qWYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 1769,
+          "like_count": 675,
+          "listed_count": 4,
+          "media_count": 368,
+          "tweet_count": 3973
+        },
+        "url": "https://t.co/DzRFbxQuFT",
+        "username": "KoiCJT0042",
+        "verified": true
+      }
+    ]
+  }
+}

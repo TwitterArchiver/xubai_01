@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2051484546449981946",
+    "created_at": "2026-05-05T02:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T03:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051489351755026576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1254442404410621958",
+          "start": 0,
+          "username": "zwh20081"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051489351755026576",
+    "in_reply_to_user_id": "1254442404410621958",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051488137411772636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@zwh20081 咪！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2051484546449981946",
+        "created_at": "2026-05-05T02:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051489351755026576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254442404410621958",
+              "start": 0,
+              "username": "zwh20081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051489351755026576",
+        "in_reply_to_user_id": "1254442404410621958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051488137411772636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@zwh20081 咪！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254442404410621958",
+        "conversation_id": "2051484546449981946",
+        "created_at": "2026-05-05T02:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051488137411772636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051488137411772636",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051487934663327852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@xubai_01 啃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "xuba1_"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 1241,
+          "like_count": 21403,
+          "listed_count": 0,
+          "media_count": 1049,
+          "tweet_count": 5242
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-26T16:09:22.000Z",
+        "description": "17岁笨蛋高中生 服务器运维&深度学习业余人士 ＆Solart Tech打工人\n北京素鳞智绘科技有限公司 CEO\n异构平台适配+tg@zwh20081 支持各类国产卡与AMD rocm，Intel oneapi喵\nzwh20081@solart.pro 商务\n💖 @Littleloong233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 132,
+                "username": "Littleloong233"
+              }
+            ]
+          }
+        },
+        "id": "1254442404410621958",
+        "location": "福州",
+        "name": "zwh20081🍥",
+        "pinned_tweet_id": "1984571952846283182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015805547640156161/ieeIZz3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 309,
+          "like_count": 15623,
+          "listed_count": 2,
+          "media_count": 484,
+          "tweet_count": 9186
+        },
+        "username": "zwh20081",
+        "verified": true
+      }
+    ]
+  }
+}

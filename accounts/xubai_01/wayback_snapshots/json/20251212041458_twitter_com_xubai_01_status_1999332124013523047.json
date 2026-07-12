@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1999118437390618945",
+    "created_at": "2025-12-12T04:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T05:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999332124013523047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1749471262663909383",
+          "start": 0,
+          "username": "xiaomeng10246"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999332124013523047",
+    "in_reply_to_user_id": "1749471262663909383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999329503806652900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomeng10246 我要开课了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1999118437390618945",
+        "created_at": "2025-12-12T04:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999332124013523047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1749471262663909383",
+              "start": 0,
+              "username": "xiaomeng10246"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999332124013523047",
+        "in_reply_to_user_id": "1749471262663909383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999329503806652900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomeng10246 我要开课了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749471262663909383",
+        "conversation_id": "1999118437390618945",
+        "created_at": "2025-12-12T04:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999329503806652900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999329503806652900",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999118437390618945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 毕业半年把知识大都还给老师了😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜理论上行实践不会😡/人/实名上网｜ADHD&中抑重焦｜Founder @xubaimedia｜｜爱说梦话/想交朋友。🫠｜年底会计人格上身了要做账心情很不好请不要惹我（最后通牒）｜接各类企服财税代办｜一直都没钱都是装的身份自己给的｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 637,
+          "like_count": 8650,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 1007
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T16:37:28.000Z",
+        "description": "叫我小懵，也可以叫我景翔\n容易内耗的infp，已经过期的男大\n渴望爱渴望被爱\n这里有碎碎念的文字，要看🔞请找小小懵\n想交朋友，欢迎找我聊天",
+        "id": "1749471262663909383",
+        "name": "小懵",
+        "pinned_tweet_id": "1916051780791853212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845098491661647877/2vmQXcQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 634,
+          "like_count": 1672,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 791
+        },
+        "username": "xiaomeng10246",
+        "verified": false
+      }
+    ]
+  }
+}

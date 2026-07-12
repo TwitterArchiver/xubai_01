@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sega",
+          "id": "943877135894056966",
+          "name": "Sega"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      }
+    ],
+    "conversation_id": "2003508602720649598",
+    "created_at": "2025-12-23T16:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T17:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003508602720649598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tatanakots/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/tatanakots/status/2003469657932726498",
+          "start": 17,
+          "url": "https://t.co/9HSuwfH8wQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003508602720649598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003469657932726498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "华立飞舞🫢服务器明天真的能修好吗 https://t.co/9HSuwfH8wQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003469644963913728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83BBvpaIAAc2KQ.jpg",
+        "width": 991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2003508602720649598",
+        "created_at": "2025-12-23T16:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T17:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003508602720649598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/tatanakots/status/2003469657932726498",
+              "start": 17,
+              "url": "https://t.co/9HSuwfH8wQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003508602720649598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003469657932726498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "华立飞舞🫢服务器明天真的能修好吗 https://t.co/9HSuwfH8wQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003469644963913728"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2003469657932726498",
+        "created_at": "2025-12-23T14:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T15:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003469657932726498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/saV6WTIFlN",
+              "end": 83,
+              "expanded_url": "https://x.com/tatanakots/status/2003469657932726498/photo/1",
+              "media_key": "3_2003469644963913728",
+              "start": 60,
+              "url": "https://t.co/saV6WTIFlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003469657932726498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1380,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加油华立，加油SEGA！\n期待你们搬出最强的防护方案，彻底杜绝科技访问服务器！还舞萌DX玩家一个清净的游戏环境！💪💪💪 https://t.co/saV6WTIFlN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜啥意思。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 772,
+          "like_count": 11448,
+          "listed_count": 0,
+          "media_count": 394,
+          "tweet_count": 1758
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "不玩舞萌。",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3365,
+          "following_count": 242,
+          "like_count": 23946,
+          "listed_count": 6,
+          "media_count": 1452,
+          "tweet_count": 9526
+        },
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1967640258444660739"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "1967640284088660269",
+    "created_at": "2025-09-15T17:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T18:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967640284088660269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/at7AOl3ODm",
+          "end": 39,
+          "expanded_url": "https://x.com/xubai_01/status/1967640284088660269/photo/1",
+          "media_key": "16_1967640258444660739",
+          "start": 16,
+          "url": "https://t.co/at7AOl3ODm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967640284088660269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我保证！刚热的豆浆喝完就睡觉！ https://t.co/at7AOl3ODm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967640284088660269].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967640284088660269",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967640284088660269"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "16_1967640258444660739",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G052Y9paEAMXYom.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G052Y9paEAMXYom.mp4"
+          }
+        ],
+        "width": 1182
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈@xubai22｜一个什么圈子都混一点的莫名其妙的人。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "xubai22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "许白的回忆里",
+        "name": "许白",
+        "pinned_tweet_id": "1965052451901591691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962871355994746882/BW4i3aWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 219,
+          "like_count": 2571,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 179
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

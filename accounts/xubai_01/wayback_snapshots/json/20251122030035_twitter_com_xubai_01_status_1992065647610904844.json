@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1991958537589956986",
+    "created_at": "2025-11-22T03:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T04:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992065647610904844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685499489493323776",
+          "start": 0,
+          "username": "GuiMengNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992065647610904844",
+    "in_reply_to_user_id": "1685499489493323776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991958537589956986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuiMengNya 说点大家不知道的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "3_1991958532074397696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6TbuyeaYAAREIZ.jpg",
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1991958537589956986",
+        "created_at": "2025-11-22T03:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992065647610904844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992065647610904844",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991958537589956986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 说点大家不知道的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991958532074397696"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "conversation_id": "1991958537589956986",
+        "created_at": "2025-11-21T19:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T20:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991958537589956986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2GsbEQuzZ",
+              "end": 37,
+              "expanded_url": "https://x.com/GuiMengNya/status/1991958537589956986/photo/1",
+              "media_key": "3_1991958532074397696",
+              "start": 14,
+              "url": "https://t.co/n2GsbEQuzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991958537589956986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 515,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：草我的人是 gay https://t.co/n2GsbEQuzZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 571,
+          "like_count": 6880,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 762
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|啥也不会，是个废物/常年浙江省内随机tp/ 保佑永远 18 岁/里账@Revsoul_/ 幸福降临我身边❤️@XixIccn_n/ 见证人类多样性(但不键政)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "Revsoul_"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XixIccn_n"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1868745056750030866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 331,
+          "like_count": 6752,
+          "listed_count": 8,
+          "media_count": 237,
+          "tweet_count": 1972
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

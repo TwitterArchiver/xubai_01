@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009142329714851841"
+      ],
+      "media_source_tweet_id": [
+        "2009142332260843889"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2009199950933213414",
+    "created_at": "2026-01-08T09:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T10:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009199950933213414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1618557658163970049",
+          "start": 3,
+          "username": "qqqqqf5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hHm4ItqqJe",
+          "end": 50,
+          "expanded_url": "https://x.com/qqqqqf5/status/2009142332260843889/photo/1",
+          "media_key": "3_2009142329714851841",
+          "start": 27,
+          "url": "https://t.co/hHm4ItqqJe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009199950933213414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009142332260843889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qqqqqf5: 复习的时候闭上眼睛会很舒服 https://t.co/hHm4ItqqJe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2477,
+        "media_key": "3_2009142329714851841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-HoTdHawAEZNwU.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009142329714851841"
+          ],
+          "media_source_tweet_id": [
+            "2009142332260843889"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2009199950933213414",
+        "created_at": "2026-01-08T09:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009199950933213414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1618557658163970049",
+              "start": 3,
+              "username": "qqqqqf5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHm4ItqqJe",
+              "end": 50,
+              "expanded_url": "https://x.com/qqqqqf5/status/2009142332260843889/photo/1",
+              "media_key": "3_2009142329714851841",
+              "start": 27,
+              "url": "https://t.co/hHm4ItqqJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009199950933213414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009142332260843889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qqqqqf5: 复习的时候闭上眼睛会很舒服 https://t.co/hHm4ItqqJe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009142329714851841"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "conversation_id": "2009142332260843889",
+        "created_at": "2026-01-08T05:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T06:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009142332260843889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHm4ItqqJe",
+              "end": 37,
+              "expanded_url": "https://x.com/qqqqqf5/status/2009142332260843889/photo/1",
+              "media_key": "3_2009142329714851841",
+              "start": 14,
+              "url": "https://t.co/hHm4ItqqJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009142332260843889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7634,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "复习的时候闭上眼睛会很舒服 https://t.co/hHm4ItqqJe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜行程：长春（待定）/珠三角（2月）｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 808,
+          "like_count": 12897,
+          "listed_count": 0,
+          "media_count": 540,
+          "tweet_count": 2385
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "不键政不od不割手\n爱发梗图和生活日常 ｜ 偶尔爆照\nPython/Rust/JS个人开发者 | 学生\n大模型微调 | 量化 | 交易\nGithub求follow\n都是转发的图!!! 如果图片让你生气了 请不要骂我好不好\n逃生舱:@qqqqqf_\nNGL匿名提问箱:https://t.co/vkfKFLuaCO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 115,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/qqqqqf51",
+                "end": 156,
+                "expanded_url": "https://ngl.link/qqqqqf51",
+                "start": 133,
+                "url": "https://t.co/vkfKFLuaCO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTQP7z"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2003460020361707767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5234,
+          "following_count": 2036,
+          "like_count": 11075,
+          "listed_count": 13,
+          "media_count": 1436,
+          "tweet_count": 3827
+        },
+        "url": "https://t.co/Qfc6ZTQP7z",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

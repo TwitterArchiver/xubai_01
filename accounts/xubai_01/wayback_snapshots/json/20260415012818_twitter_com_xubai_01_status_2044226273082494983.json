@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2044206370002743597",
+    "created_at": "2026-04-15T01:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T02:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044226273082494983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044226273082494983",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044206370002743597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange 早安喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2044206370002743597",
+        "created_at": "2026-04-15T01:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044226273082494983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044226273082494983",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044206370002743597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 早安喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2044206370002743597",
+        "created_at": "2026-04-15T00:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T01:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044206370002743597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044206370002743597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安、对我说早安喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸\n爱说梦话/想交朋友。👀\n欢迎随时联系/在这里发疯乱叫是常态\n\n备@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 73,
+                "username": "xuba1_"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "yuji53719"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 1161,
+          "like_count": 19383,
+          "listed_count": 0,
+          "media_count": 924,
+          "tweet_count": 4695
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2043569353350914261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11469,
+          "following_count": 4834,
+          "like_count": 86341,
+          "listed_count": 21,
+          "media_count": 2089,
+          "tweet_count": 19011
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

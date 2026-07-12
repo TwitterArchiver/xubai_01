@@ -1,0 +1,574 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1486271512655003652",
+          "name": "Web3"
+        }
+      }
+    ],
+    "conversation_id": "2045290034262380678",
+    "created_at": "2026-04-17T23:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T00:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045290034262380678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zongtianshuo/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/zongtianshuo/status/2045163829026509097",
+          "start": 8,
+          "url": "https://t.co/mOGYfNQdrF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045290034262380678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045163829026509097",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "动静微乎其微😡 https://t.co/mOGYfNQdrF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045163518471852032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHhYmIaUAA-_vy.jpg",
+        "width": 964
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045163815504130048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHhp4qbMAANhSh.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2045290034262380678",
+        "created_at": "2026-04-17T23:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T00:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045290034262380678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zongtianshuo/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/zongtianshuo/status/2045163829026509097",
+              "start": 8,
+              "url": "https://t.co/mOGYfNQdrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045290034262380678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045163829026509097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "动静微乎其微😡 https://t.co/mOGYfNQdrF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045163518471852032",
+            "3_2045163815504130048"
+          ]
+        },
+        "author_id": "1691566339524321281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2045163829026509097",
+        "created_at": "2026-04-17T15:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045163829026509097"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 114,
+              "tag": "极星黑客松"
+            },
+            {
+              "end": 138,
+              "start": 121,
+              "tag": "Hackathonpolaris"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "黑客松"
+            },
+            {
+              "end": 152,
+              "start": 144,
+              "tag": "polaris"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "创业"
+            },
+            {
+              "end": 164,
+              "start": 157,
+              "tag": "Web3‌‌"
+            },
+            {
+              "end": 168,
+              "start": 165,
+              "tag": "深圳"
+            },
+            {
+              "end": 173,
+              "start": 169,
+              "tag": "初中生"
+            },
+            {
+              "end": 178,
+              "start": 174,
+              "tag": "高中生"
+            },
+            {
+              "end": 188,
+              "start": 179,
+              "tag": "_entropy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 105,
+              "id": "1945354869860392968",
+              "start": 97,
+              "username": "zer0ptr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOpDk77cVf",
+              "end": 212,
+              "expanded_url": "https://x.com/zongtianshuo/status/2045163829026509097/photo/1",
+              "media_key": "3_2045163518471852032",
+              "start": 189,
+              "url": "https://t.co/uOpDk77cVf"
+            },
+            {
+              "display_url": "pic.x.com/uOpDk77cVf",
+              "end": 212,
+              "expanded_url": "https://x.com/zongtianshuo/status/2045163829026509097/photo/1",
+              "media_key": "3_2045163815504130048",
+              "start": 189,
+              "url": "https://t.co/uOpDk77cVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045163829026509097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1700,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "敬请各位期待：_entropy 将于下个月在深圳，举办面向年轻创客的一日黑客松——「极星黑客松｜Hackathon polaris」。详细信息将在近期公布！\n感谢各位对此事的关注，以及⬇️\n感谢@zer0ptr 在图片中的出镜\n#极星黑客松 #Hackathonpolaris #黑客松 #polaris #创业 #Web3‌‌ #深圳 #初中生 #高中生 #_entropy https://t.co/uOpDk77cVf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n备@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "xuba1_"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 1172,
+          "like_count": 19870,
+          "listed_count": 0,
+          "media_count": 955,
+          "tweet_count": 4812
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-15T21:43:54.000Z",
+        "description": "zongtianshuo@vinyl.com\n渴望路演的踪天朔，🎻🎶\n网易云, Twitter, Ins, Spotify, Apple Music\n2006. 现居香港，偶尔北京深圳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/ykbhX5ZXMM",
+                "end": 23,
+                "expanded_url": "https://discord.gg/ykbhX5ZXMM",
+                "start": 0,
+                "url": "https://t.co/ygO64bHbiy"
+              }
+            ]
+          }
+        },
+        "id": "1691566339524321281",
+        "location": "Beijing",
+        "name": "踪天朔",
+        "pinned_tweet_id": "1775165848178807228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979720526877642752/F6UvP_Lk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3823,
+          "following_count": 459,
+          "like_count": 31484,
+          "listed_count": 6,
+          "media_count": 980,
+          "tweet_count": 11878
+        },
+        "url": "https://t.co/ygO64bHbiy",
+        "username": "zongtianshuo",
+        "verified": false
+      }
+    ]
+  }
+}

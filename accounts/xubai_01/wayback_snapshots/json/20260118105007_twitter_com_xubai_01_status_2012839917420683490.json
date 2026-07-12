@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2012772344239149115",
+    "created_at": "2026-01-18T10:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T11:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012839917420683490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1819327280482865152",
+          "start": 0,
+          "username": "hzyj772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012839917420683490",
+    "in_reply_to_user_id": "1819327280482865152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012813975084580952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzyj772 呜呜😭可咱就喜欢长头发喵不想理！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2012772344239149115",
+        "created_at": "2026-01-18T10:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012839917420683490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1819327280482865152",
+              "start": 0,
+              "username": "hzyj772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012839917420683490",
+        "in_reply_to_user_id": "1819327280482865152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012813975084580952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzyj772 呜呜😭可咱就喜欢长头发喵不想理！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819327280482865152",
+        "conversation_id": "2012772344239149115",
+        "created_at": "2026-01-18T09:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012813975084580952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012813975084580952",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012772344239149115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 逆天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：东三省、大湾区、四川（一月中旬｜欢迎随时联系/心情大爆炸｜@xubaimedia/？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜东北",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 851,
+          "like_count": 13669,
+          "listed_count": 0,
+          "media_count": 580,
+          "tweet_count": 2695
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T11:00:13.000Z",
+        "description": "是@phia50611171的可爱猫猫～🐱这和我们人前是Les并不矛盾，所以还是ppl🎀｜情侣号兼色推：@mt1zsyxil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "phia50611171"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "mt1zsyxil"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xlog.477771.xyz",
+                "end": 23,
+                "expanded_url": "http://xlog.477771.xyz",
+                "start": 0,
+                "url": "https://t.co/QY9nt2EU0a"
+              }
+            ]
+          }
+        },
+        "id": "1819327280482865152",
+        "location": "#7 0.4kV变压台",
+        "name": "燕檁",
+        "pinned_tweet_id": "2011048079143932386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009487619999322117/0IC52jbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 378,
+          "like_count": 61082,
+          "listed_count": 1,
+          "media_count": 932,
+          "tweet_count": 9072
+        },
+        "url": "https://t.co/QY9nt2EU0a",
+        "username": "hzyj772",
+        "verified": true
+      }
+    ]
+  }
+}

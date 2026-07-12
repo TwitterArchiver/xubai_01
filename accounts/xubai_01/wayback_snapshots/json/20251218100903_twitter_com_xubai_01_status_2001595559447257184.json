@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2001498240714432841",
+    "created_at": "2025-12-18T10:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T11:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001595559447257184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1430312926737354753",
+          "start": 0,
+          "username": "sushiching_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001595559447257184",
+    "in_reply_to_user_id": "1430312926737354753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001498240714432841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sushiching_2006 我不行了还有补子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2128,
+        "media_key": "3_2001498238789287936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8bACzWbAAAKH9h.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2001498240714432841",
+        "created_at": "2025-12-18T10:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T11:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001595559447257184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1430312926737354753",
+              "start": 0,
+              "username": "sushiching_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001595559447257184",
+        "in_reply_to_user_id": "1430312926737354753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001498240714432841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sushiching_2006 我不行了还有补子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001498238789287936"
+          ]
+        },
+        "author_id": "1430312926737354753",
+        "conversation_id": "2001498240714432841",
+        "created_at": "2025-12-18T03:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T04:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001498240714432841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqoZL8bAZd",
+              "end": 28,
+              "expanded_url": "https://x.com/sushiching_2006/status/2001498240714432841/photo/1",
+              "media_key": "3_2001498238789287936",
+              "start": 5,
+              "url": "https://t.co/OqoZL8bAZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001498240714432841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 404,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽象遊戲 https://t.co/OqoZL8bAZd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 709,
+          "like_count": 10209,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 1287
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "HRT🍥：25 10/07 |開證中！19yMTF一隻\n同類🏳️‍⚧️/推友可線下唷！\n是：@SONY846995 的銀漸層貓貓♡🐾 \n底下有我的日記連結",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "SONY846995"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/10v…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/10vPS75fm3oXW3LYu4L2bmDnGftXyDVaFJFz6pjgH3Gk/edit?usp=drivesdk",
+                "start": 0,
+                "url": "https://t.co/JnSx2U3hdR"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "台中市",
+        "name": "青日午言~🍥",
+        "pinned_tweet_id": "1993122952259490267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999002361688412160/S8nzVruZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10232,
+          "following_count": 86,
+          "like_count": 16616,
+          "listed_count": 10,
+          "media_count": 46,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/JnSx2U3hdR",
+        "username": "sushiching_2006",
+        "verified": false
+      }
+    ]
+  }
+}

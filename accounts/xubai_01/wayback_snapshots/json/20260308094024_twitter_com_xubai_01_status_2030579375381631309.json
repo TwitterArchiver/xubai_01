@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2030563172122534349",
+    "created_at": "2026-03-08T09:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T10:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030579375381631309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2005470933457440768",
+          "start": 0,
+          "username": "HaoLeeHK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030579375381631309",
+    "in_reply_to_user_id": "2005470933457440768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030575719152271582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaoLeeHK 这里是美国。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2030563172122534349",
+        "created_at": "2026-03-08T09:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030579375381631309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2005470933457440768",
+              "start": 0,
+              "username": "HaoLeeHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030579375381631309",
+        "in_reply_to_user_id": "2005470933457440768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030575719152271582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaoLeeHK 这里是美国。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005470933457440768",
+        "conversation_id": "2030563172122534349",
+        "created_at": "2026-03-08T09:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030575719152271582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030575719152271582",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030563172122534349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 香港不是到处都有嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 917,
+          "like_count": 15653,
+          "listed_count": 0,
+          "media_count": 708,
+          "tweet_count": 3404
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-29T02:48:49.000Z",
+        "description": "The President of the United Shotas of Asia(亚太联萌). Want to unite every cute boy together! Failed in resolving conflicts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/haoleeenhanced…",
+                "end": 23,
+                "expanded_url": "https://x.com/haoleeenhanced?s=21",
+                "start": 0,
+                "url": "https://t.co/6VFsSCu4d5"
+              }
+            ]
+          }
+        },
+        "id": "2005470933457440768",
+        "location": "Nanking, ROC",
+        "name": "Hao Lee ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005471168816705536/lmAMUksM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2692,
+          "following_count": 375,
+          "like_count": 4603,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/6VFsSCu4d5",
+        "username": "HaoLeeHK",
+        "verified": false
+      }
+    ]
+  }
+}

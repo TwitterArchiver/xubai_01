@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2064464919123366344",
+    "created_at": "2026-06-09T21:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T22:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064464919123366344"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usa_china_talk…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/usa_china_talk/status/2064260962375618937",
+          "start": 5,
+          "url": "https://t.co/CV93f7Nggj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064464919123366344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064260962375618937",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "崩不住了 https://t.co/CV93f7Nggj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2064236795470991360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWkbb5W0AAEi-S.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2064464919123366344",
+        "created_at": "2026-06-09T21:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064464919123366344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usa_china_talk…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/usa_china_talk/status/2064260962375618937",
+              "start": 5,
+              "url": "https://t.co/CV93f7Nggj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064464919123366344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064260962375618937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "崩不住了 https://t.co/CV93f7Nggj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064236795470991360"
+          ]
+        },
+        "author_id": "89421672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2064260962375618937",
+        "created_at": "2026-06-09T08:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064260962375618937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1879650942410481666",
+              "start": 6,
+              "username": "POTUS"
+            },
+            {
+              "end": 36,
+              "id": "2035092939253456898",
+              "start": 23,
+              "username": "SecMullinDHS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2EdHzZhqN",
+              "end": 122,
+              "expanded_url": "https://x.com/USA_China_Talk/status/2064260962375618937/photo/1",
+              "media_key": "3_2064236795470991360",
+              "start": 99,
+              "url": "https://t.co/i2EdHzZhqN"
+            },
+            {
+              "display_url": "x.com/DHSgov/status/…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/DHSgov/status/2064071487611343302",
+              "start": 123,
+              "url": "https://t.co/mYL8NKk74l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064260962375618937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 24131,
+          "like_count": 180,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064071487611343302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在特朗普总统@POTUS 和国土安全部长马林 @SecMullinDHS的领导下，我们正在完成边境墙修建，并确保南部边境的安全。如果你试图非法进入美国，我们会找到你，逮捕你——并且后果将由你承担。 https://t.co/i2EdHzZhqN https://t.co/mYL8NKk74l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2133,
+          "following_count": 1483,
+          "like_count": 24060,
+          "listed_count": 2,
+          "media_count": 1185,
+          "tweet_count": 6245
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641191,
+          "following_count": 173,
+          "like_count": 11,
+          "listed_count": 4397,
+          "media_count": 472,
+          "tweet_count": 2620
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      }
+    ]
+  }
+}

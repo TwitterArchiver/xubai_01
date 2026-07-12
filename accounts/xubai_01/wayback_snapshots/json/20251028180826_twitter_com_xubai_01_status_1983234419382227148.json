@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1983234419382227148",
+    "created_at": "2025-10-28T18:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T19:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983234419382227148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wyihan0509/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/wyihan0509/status/1983143228502086060",
+          "start": 9,
+          "url": "https://t.co/FzOj5496VZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983234419382227148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983143228502086060",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有usdt的？ https://t.co/FzOj5496VZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983143225125998592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WKQZBbkAAw0i-.jpg",
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1983234419382227148",
+        "created_at": "2025-10-28T18:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T19:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983234419382227148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wyihan0509/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/wyihan0509/status/1983143228502086060",
+              "start": 9,
+              "url": "https://t.co/FzOj5496VZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983234419382227148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983143228502086060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有usdt的？ https://t.co/FzOj5496VZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983143225125998592"
+          ]
+        },
+        "author_id": "1973748660975587328",
+        "conversation_id": "1983143228502086060",
+        "created_at": "2025-10-28T12:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T13:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983143228502086060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwhCSBxAeb",
+              "end": 23,
+              "expanded_url": "https://x.com/WYihan0509/status/1983143228502086060/photo/1",
+              "media_key": "3_1983143225125998592",
+              "start": 0,
+              "url": "https://t.co/EwhCSBxAeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983143228502086060",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6644,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EwhCSBxAeb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 457,
+          "like_count": 4738,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 417
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "可以叫我王艺菡 | Q&A: https://t.co/nGpMKQrJav | 我是男的🏳️#WYH的穷玩卡系列",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 47,
+                "tag": "WYH的穷玩卡系列"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/wyihan0509",
+                "end": 38,
+                "expanded_url": "https://ngl.link/wyihan0509",
+                "start": 15,
+                "url": "https://t.co/nGpMKQrJav"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/nxpcNs5",
+                "end": 23,
+                "expanded_url": "https://b23.tv/nxpcNs5",
+                "start": 0,
+                "url": "https://t.co/4T3aEBOZuN"
+              }
+            ]
+          }
+        },
+        "id": "1973748660975587328",
+        "location": "Tianjin China",
+        "name": "宵崎 奏",
+        "pinned_tweet_id": "1982752200922116157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983223942472228864/8H00iPUW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 371,
+          "like_count": 2053,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/4T3aEBOZuN",
+        "username": "WYihan0509",
+        "verified": false
+      }
+    ]
+  }
+}

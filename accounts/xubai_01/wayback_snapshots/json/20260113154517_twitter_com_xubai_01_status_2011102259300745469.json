@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2010968068781199729",
+    "created_at": "2026-01-13T15:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T16:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011102259300745469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755765450707709952",
+          "start": 0,
+          "username": "huajuanshiwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011102259300745469",
+    "in_reply_to_user_id": "1755765450707709952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010968068781199729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajuanshiwo 这是什么app哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010968061168529408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hkzAybMAAPA45.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2010968068781199729",
+        "created_at": "2026-01-13T15:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011102259300745469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755765450707709952",
+              "start": 0,
+              "username": "huajuanshiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011102259300745469",
+        "in_reply_to_user_id": "1755765450707709952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010968068781199729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajuanshiwo 这是什么app哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010968061168529408"
+          ]
+        },
+        "author_id": "1755765450707709952",
+        "conversation_id": "2010968068781199729",
+        "created_at": "2026-01-13T06:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T07:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010968068781199729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLlY3UyfLf",
+              "end": 42,
+              "expanded_url": "https://x.com/huajuanshiwo/status/2010968068781199729/photo/1",
+              "media_key": "3_2010968061168529408",
+              "start": 19,
+              "url": "https://t.co/CLlY3UyfLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010968068781199729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 184,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "改签了一次还是没赶上\n只好退了重新买 https://t.co/CLlY3UyfLf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：东三省、大湾区、四川（一月中旬｜欢迎随时联系/心情大爆炸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜东北",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 845,
+          "like_count": 13301,
+          "listed_count": 0,
+          "media_count": 570,
+          "tweet_count": 2565
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "这里是死掉的树海 | 谢谢你了解我哦 | 回fo请私信 | feat.君 | 我希望我最后能感谢这一切，因为我和你在一起",
+        "id": "1755765450707709952",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "2007422861984641291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004504021785071616/3r_0Vu5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000,
+          "following_count": 2238,
+          "like_count": 49346,
+          "listed_count": 6,
+          "media_count": 1665,
+          "tweet_count": 10628
+        },
+        "username": "huajuanshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

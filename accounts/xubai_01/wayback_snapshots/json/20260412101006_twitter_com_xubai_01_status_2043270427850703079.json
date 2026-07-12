@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      }
+    ],
+    "conversation_id": "2043270427850703079",
+    "created_at": "2026-04-12T10:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043270427850703079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "90622499",
+          "start": 3,
+          "username": "baibaida"
+        },
+        {
+          "end": 21,
+          "id": "4848269835",
+          "start": 14,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043270427850703079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043180204538093623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baibaida: @_FORAB 八年没载过说普通话的乘客...这比什么新闻标题都戳人。说到底普通人之间哪有那么多隔阂，能一起聊天刷个Alipay就是最好的两岸关系了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2043270427850703079",
+        "created_at": "2026-04-12T10:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043270427850703079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "90622499",
+              "start": 3,
+              "username": "baibaida"
+            },
+            {
+              "end": 21,
+              "id": "4848269835",
+              "start": 14,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043270427850703079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043180204538093623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baibaida: @_FORAB 八年没载过说普通话的乘客...这比什么新闻标题都戳人。说到底普通人之间哪有那么多隔阂，能一起聊天刷个Alipay就是最好的两岸关系了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "90622499",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2043174747501158475",
+        "created_at": "2026-04-12T04:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043180204538093623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043180204538093623",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4333,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043174747501158475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 八年没载过说普通话的乘客...这比什么新闻标题都戳人。说到底普通人之间哪有那么多隔阂，能一起聊天刷个Alipay就是最好的两岸关系了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/10.12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "yuji53719"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 1127,
+          "like_count": 18769,
+          "listed_count": 0,
+          "media_count": 901,
+          "tweet_count": 4555
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-17T12:51:10.000Z",
+        "description": "90后 | 大厂搜索推荐产品负责人 | AI重度玩家 | 美股实盘记录 | 白天写PRD，晚上看K线 📉💅",
+        "id": "90622499",
+        "name": "狐狸布布",
+        "pinned_tweet_id": "2042961137793405368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043195417572327424/YrUO_bXl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 1123,
+          "like_count": 1720,
+          "listed_count": 21,
+          "media_count": 239,
+          "tweet_count": 5975
+        },
+        "username": "baibaida",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114300,
+          "following_count": 595,
+          "like_count": 9984,
+          "listed_count": 1888,
+          "media_count": 3060,
+          "tweet_count": 13918
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

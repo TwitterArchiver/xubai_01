@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2016489283746750591",
+    "created_at": "2026-01-28T14:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T15:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016525238700540061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1513514070271422475",
+          "start": 0,
+          "username": "sl_caho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016525238700540061",
+    "in_reply_to_user_id": "1513514070271422475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016524702957895838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sl_caho 我学校乃至我这边整个县级事业单位都是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2016489283746750591",
+        "created_at": "2026-01-28T14:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016525238700540061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1513514070271422475",
+              "start": 0,
+              "username": "sl_caho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016525238700540061",
+        "in_reply_to_user_id": "1513514070271422475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016524702957895838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sl_caho 我学校乃至我这边整个县级事业单位都是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513514070271422475",
+        "conversation_id": "2016489283746750591",
+        "created_at": "2026-01-28T14:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016524702957895838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016524702957895838",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016489283746750591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 按道理这个应该是一个箱子而不是指示牌，算是全球惯例了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜行程：大湾区、云川（一月中旬｜欢迎随时联系/心情大爆炸｜友链：@xubaimedia/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜成都",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 862,
+          "like_count": 14037,
+          "listed_count": 0,
+          "media_count": 601,
+          "tweet_count": 2840
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T13:47:39.000Z",
+        "description": "Personality Individuality Liberation\nENTJ-A Focus on Politics \nMail: i.am@caho.cc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mwh.caho.cc/dmca",
+                "end": 23,
+                "expanded_url": "https://mwh.caho.cc/dmca",
+                "start": 0,
+                "url": "https://t.co/7aGrtWg4Ao"
+              }
+            ]
+          }
+        },
+        "id": "1513514070271422475",
+        "location": "Washington, D.C.",
+        "name": "Sen.L.C Ho",
+        "pinned_tweet_id": "1888954184021561344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995492490519203840/k6Vi5esg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 598,
+          "like_count": 13257,
+          "listed_count": 6,
+          "media_count": 272,
+          "tweet_count": 1659
+        },
+        "url": "https://t.co/7aGrtWg4Ao",
+        "username": "sl_caho",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2005547875489730584",
+    "created_at": "2025-12-29T07:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T08:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005547875489730584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "362228606",
+          "start": 3,
+          "username": "7thAsylum"
+        },
+        {
+          "end": 22,
+          "id": "2001598933169315840",
+          "start": 15,
+          "username": "XldscX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005547875489730584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005527082445766957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7thAsylum: @XldscX 我们不说割手，我们说生命热血沸腾。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2005547875489730584",
+        "created_at": "2025-12-29T07:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T08:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005547875489730584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "362228606",
+              "start": 3,
+              "username": "7thAsylum"
+            },
+            {
+              "end": 22,
+              "id": "2001598933169315840",
+              "start": 15,
+              "username": "XldscX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005547875489730584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005527082445766957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7thAsylum: @XldscX 我们不说割手，我们说生命热血沸腾。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "362228606",
+        "conversation_id": "2005288853914153085",
+        "created_at": "2025-12-29T06:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T07:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005527082445766957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2001598933169315840",
+              "start": 0,
+              "username": "XldscX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005527082445766957",
+        "in_reply_to_user_id": "2001598933169315840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005288853914153085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldscX 我们不说割手，我们说生命热血沸腾。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 796,
+          "like_count": 12122,
+          "listed_count": 0,
+          "media_count": 457,
+          "tweet_count": 2063
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-26T01:55:12.000Z",
+        "description": "“顽劣的，温和的。” 世界上所有人都是我精神上的爱人 。 关于我：ENFP.IMSB/是个生活推，生活匮乏到只有下体的人远离我",
+        "id": "362228606",
+        "location": "破败教堂的废墟里，做过梦的无花果树下",
+        "name": "第七避难所",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975419063540285440/jtP6rD-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 388,
+          "like_count": 18643,
+          "listed_count": 6,
+          "media_count": 146,
+          "tweet_count": 2423
+        },
+        "username": "7thAsylum",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "你的意思是，一个未成年跨性别为了装逼泄漏了全体舞萌玩家的数据库，违反刑法第285-2条，泄露过后被气急败坏的舞萌吃开盒后有又气急败坏提供了入侵舞萌的外挂软件，违反刑法285-3条，充当了全体舞萌玩家账号被攻击始作俑者。然后上网哭诉一下自己又被反跨人士攻击过后美美洗白了？一点罪过也没有，全都是舞萌吃咎由自取？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.apple.com/cn/album/deici…",
+                "end": 23,
+                "expanded_url": "https://music.apple.com/cn/album/deicide-feat-hazuki-koizumi/1776078589?i=1776078591",
+                "start": 0,
+                "url": "https://t.co/lBYUvU7OP6"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "澳门 花地玛堂区",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "2002095581628674077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004413187681406976/YgTuy8ZM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 120,
+          "like_count": 1320,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/lBYUvU7OP6",
+        "username": "XldscX",
+        "verified": false
+      }
+    ]
+  }
+}

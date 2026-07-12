@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2037496463773794530",
+    "created_at": "2026-03-28T02:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T03:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037722130138415287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032715306632884224",
+          "start": 0,
+          "username": "omgnowihave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037722130138415287",
+    "in_reply_to_user_id": "2032715306632884224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037496463773794530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgnowihave 以痛换痛是吧..我偏头痛也这么干🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2037496463773794530",
+        "created_at": "2026-03-28T02:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037722130138415287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032715306632884224",
+              "start": 0,
+              "username": "omgnowihave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037722130138415287",
+        "in_reply_to_user_id": "2032715306632884224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037496463773794530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihave 以痛换痛是吧..我偏头痛也这么干🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032715306632884224",
+        "conversation_id": "2037496463773794530",
+        "created_at": "2026-03-27T11:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037496463773794530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037496463773794530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 922,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手機往頭上砸好爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1039,
+          "like_count": 17185,
+          "listed_count": 0,
+          "media_count": 827,
+          "tweet_count": 4124
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T07:08:06.000Z",
+        "description": "2009/12/24 | 座标台中 | 炸柜王 | \n 旧帐号 @omgnowihavefish（被冻结了）\n@xiohunggu251015(被删了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "xiohunggu251015"
+              }
+            ]
+          }
+        },
+        "id": "2032715306632884224",
+        "name": "黄瓜🍥",
+        "pinned_tweet_id": "2033199415520018879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032716573929340928/3UpIyBpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 489,
+          "like_count": 2340,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 424
+        },
+        "username": "omgnowihave",
+        "verified": false
+      }
+    ]
+  }
+}

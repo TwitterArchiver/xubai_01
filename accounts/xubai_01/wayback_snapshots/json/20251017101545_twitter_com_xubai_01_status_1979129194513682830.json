@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "1979129194513682830",
+    "created_at": "2025-10-17T10:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T11:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979129194513682830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/charon_nya/sta…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/charon_nya/status/1979004361574387840",
+          "start": 55,
+          "url": "https://t.co/YKd2IEw28o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979129194513682830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979004361574387840",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《h1～h6》《demo2-7标题练习》《my name is ***》《码农速成》《HTML》\n我真不行了 https://t.co/YKd2IEw28o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 549,
+        "media_key": "3_1979004354087538688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3bV-Y5W0AAnIs6.jpg",
+        "width": 1015
+      },
+      {
+        "height": 934,
+        "media_key": "3_1979004354079150080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3bV-Y3W0AAb-Gf.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "1979129194513682830",
+        "created_at": "2025-10-17T10:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979129194513682830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/charon_nya/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/charon_nya/status/1979004361574387840",
+              "start": 55,
+              "url": "https://t.co/YKd2IEw28o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979129194513682830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979004361574387840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《h1～h6》《demo2-7标题练习》《my name is ***》《码农速成》《HTML》\n我真不行了 https://t.co/YKd2IEw28o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979004354087538688",
+            "3_1979004354079150080"
+          ]
+        },
+        "author_id": "1783824424367755264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979004361574387840",
+        "created_at": "2025-10-17T01:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T02:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979004361574387840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DCWZ9b0AaL",
+              "end": 41,
+              "expanded_url": "https://x.com/Charon_Nya/status/1979004361574387840/photo/1",
+              "media_key": "3_1979004354087538688",
+              "start": 18,
+              "url": "https://t.co/DCWZ9b0AaL"
+            },
+            {
+              "display_url": "pic.x.com/DCWZ9b0AaL",
+              "end": 41,
+              "expanded_url": "https://x.com/Charon_Nya/status/1979004361574387840/photo/1",
+              "media_key": "3_1979004354079150080",
+              "start": 18,
+              "url": "https://t.co/DCWZ9b0AaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979004361574387840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4350,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偶遇码农大神同学\n拼尽全力无法战胜 https://t.co/DCWZ9b0AaL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 361,
+          "like_count": 3742,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:44:28.000Z",
+        "description": "人机INFJ(O﹃O)｜现在还是准男大x｜快来fo我！（=v=）",
+        "id": "1783824424367755264",
+        "location": "Shenzhen",
+        "name": "𝘾𝙝𝙖𝙧𝙤𝙣卡戎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867063046641987584/jVynAskx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3142,
+          "following_count": 428,
+          "like_count": 17794,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 2128
+        },
+        "username": "Charon_Nya",
+        "verified": true
+      }
+    ]
+  }
+}

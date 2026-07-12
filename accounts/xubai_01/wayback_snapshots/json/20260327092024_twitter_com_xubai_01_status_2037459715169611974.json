@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2037459715169611974",
+    "created_at": "2026-03-27T09:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T10:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037459715169611974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/okxchinese/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/okxchinese/status/2037431929046462858",
+          "start": 24,
+          "url": "https://t.co/8GPvk1OuRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037459715169611974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037431929046462858",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开放大陆kyc或者驾照认证或许还可以考虑下.. https://t.co/8GPvk1OuRI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2037459715169611974",
+        "created_at": "2026-03-27T09:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037459715169611974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/okxchinese/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/okxchinese/status/2037431929046462858",
+              "start": 24,
+              "url": "https://t.co/8GPvk1OuRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037459715169611974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037431929046462858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开放大陆kyc或者驾照认证或许还可以考虑下.. https://t.co/8GPvk1OuRI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461224994705649671",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2037431929046462858",
+        "created_at": "2026-03-27T07:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037431929046462858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OKX_Yuki/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/OKX_Yuki/status/2037151016374984958",
+              "start": 24,
+              "url": "https://t.co/Au6zDGWowB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037431929046462858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6841,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037151016374984958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出国不用考虑换汇\n用 OKX Pay 就够了😎 https://t.co/Au6zDGWowB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 1036,
+          "like_count": 17133,
+          "listed_count": 0,
+          "media_count": 825,
+          "tweet_count": 4100
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-18T06:49:35.000Z",
+        "description": "全球领先的加密资产交易平台和Web3平台｜@mancity @mclarenf1 赞助商\n注册领奖励：https://t.co/WUckrWaDMh\nOKX中文星球号：https://t.co/YpQ3QWKsqn\n*某些产品服务或推广活动不适用于部分地区",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "mancity"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "mclarenf1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/ul/6CngT5?chan…",
+                "end": 74,
+                "expanded_url": "https://www.okx.com/ul/6CngT5?channelId=TWITTERCN",
+                "start": 51,
+                "url": "https://t.co/WUckrWaDMh"
+              },
+              {
+                "display_url": "oyidl.me/ul/90qCwaM",
+                "end": 107,
+                "expanded_url": "https://oyidl.me/ul/90qCwaM",
+                "start": 84,
+                "url": "https://t.co/YpQ3QWKsqn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "okx.com/ul/6CngT5?chan…",
+                "end": 23,
+                "expanded_url": "https://www.okx.com/ul/6CngT5?channelId=TWITTERCN",
+                "start": 0,
+                "url": "https://t.co/WUckrWaDMh"
+              }
+            ]
+          }
+        },
+        "id": "1461224994705649671",
+        "name": "OKX中文",
+        "pinned_tweet_id": "2036278077287010774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004404711307575296/w6OwQ4Ni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713117,
+          "following_count": 339,
+          "like_count": 7447,
+          "listed_count": 1721,
+          "media_count": 6124,
+          "tweet_count": 14524
+        },
+        "url": "https://t.co/WUckrWaDMh",
+        "username": "okxchinese",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972360272250826752",
+        "3_1972360272255012864"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "1972360283344835054",
+    "created_at": "2025-09-28T17:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T18:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972360283344835054"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YFtxoRP9tn",
+          "end": 98,
+          "expanded_url": "https://x.com/xubai_01/status/1972360283344835054/photo/1",
+          "media_key": "3_1972360272250826752",
+          "start": 75,
+          "url": "https://t.co/YFtxoRP9tn"
+        },
+        {
+          "display_url": "pic.x.com/YFtxoRP9tn",
+          "end": 98,
+          "expanded_url": "https://x.com/xubai_01/status/1972360283344835054/photo/1",
+          "media_key": "3_1972360272255012864",
+          "start": 75,
+          "url": "https://t.co/YFtxoRP9tn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972360283344835054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我今天就是手贱，给笔记本刷了服务端22版..结果原来所有的驱动都没有了！🥲幸好我找到了一个很远古的硬盘..先刷回win10吧..痛失win11密钥🥲 https://t.co/YFtxoRP9tn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972360272250826752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G187N7SacAAKkVQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972360272255012864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G187N7TaUAAzB2S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972360272250826752",
+            "3_1972360272255012864"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "1972360283344835054",
+        "created_at": "2025-09-28T17:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T18:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972360283344835054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YFtxoRP9tn",
+              "end": 98,
+              "expanded_url": "https://x.com/xubai_01/status/1972360283344835054/photo/1",
+              "media_key": "3_1972360272250826752",
+              "start": 75,
+              "url": "https://t.co/YFtxoRP9tn"
+            },
+            {
+              "display_url": "pic.x.com/YFtxoRP9tn",
+              "end": 98,
+              "expanded_url": "https://x.com/xubai_01/status/1972360283344835054/photo/1",
+              "media_key": "3_1972360272255012864",
+              "start": 75,
+              "url": "https://t.co/YFtxoRP9tn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972360283344835054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天就是手贱，给笔记本刷了服务端22版..结果原来所有的驱动都没有了！🥲幸好我找到了一个很远古的硬盘..先刷回win10吧..痛失win11密钥🥲 https://t.co/YFtxoRP9tn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈@xubai22｜梦到啥就发啥｜一个什么圈子都混一点的莫名其妙的人。｜上学命苦，回来一看手机更命苦！｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "xubai22"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqefy8"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1965052451901591691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 257,
+          "like_count": 2830,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 210
+        },
+        "url": "https://t.co/zJ1tCqefy8",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

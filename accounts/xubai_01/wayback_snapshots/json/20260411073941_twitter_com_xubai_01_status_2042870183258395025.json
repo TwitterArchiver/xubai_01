@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2042700637033631873",
+    "created_at": "2026-04-11T07:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042870183258395025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1666425403890868224",
+          "start": 0,
+          "username": "TKipcezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042870183258395025",
+    "in_reply_to_user_id": "1666425403890868224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042870079885623743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKipcezhi 钱不够咯 换卡付"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2042700637033631873",
+        "created_at": "2026-04-11T07:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042870183258395025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1666425403890868224",
+              "start": 0,
+              "username": "TKipcezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042870183258395025",
+        "in_reply_to_user_id": "1666425403890868224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042870079885623743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKipcezhi 钱不够咯 换卡付"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666425403890868224",
+        "conversation_id": "2042700637033631873",
+        "created_at": "2026-04-11T07:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042870079885623743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042870079885623743",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042700637033631873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 ？？？为什么会失败\n还有\n你的手机里也有OKX 哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/10.12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "yuji53719"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 1124,
+          "like_count": 18628,
+          "listed_count": 0,
+          "media_count": 896,
+          "tweet_count": 4530
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-07T12:43:12.000Z",
+        "description": "( ˘ω˘)( ˘ω˘)( ˘ω˘)\n生活/游戏/鉴证\n会屏蔽用AI自动发帖的用户\nvividarmy 3884 ➡️ 3903（已退坑）\n头像 pixiv@飞天卷饼猫",
+        "id": "1666425403890868224",
+        "location": "萨尔贡",
+        "name": "黎博利🐦",
+        "pinned_tweet_id": "2040652331189260342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042867285615087622/PbQKOHUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 264,
+          "like_count": 26004,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 2930
+        },
+        "username": "TKipcezhi",
+        "verified": false
+      }
+    ]
+  }
+}

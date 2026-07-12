@@ -1,0 +1,569 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021499988757577732"
+      ],
+      "media_source_tweet_id": [
+        "2021515048787603798"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "All conversation about the United States Federal Bureau of Investigation",
+          "id": "937710668706299904",
+          "name": "Federal Bureau of Investigation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "All conversation about the United States Federal Bureau of Investigation",
+          "id": "937710668706299904",
+          "name": "Federal Bureau of Investigation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2021546879721566419",
+    "created_at": "2026-02-11T11:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T12:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021546879721566419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "89421672",
+          "start": 3,
+          "username": "USA_China_Talk"
+        },
+        {
+          "end": 98,
+          "id": "349137313",
+          "start": 84,
+          "username": "FBILosAngeles"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Yesterday, a San Bernardino County man, Yaoning “Mike” Sun, 65, of Chino Hills, California, was sentenced by United States District Judge R. Gary Klausner for the Central District of California to 48 months in federal prison for acting as an illegal agent of the People’s Republic of China (PRC), including while serving as the campaign advisor for a political candidate who was",
+          "display_url": "fbi.gov/news/press-rel…",
+          "end": 83,
+          "expanded_url": "http://fbi.gov/news/press-releases/political-operative-sentenced-to-48-months-in-federal-prison-for-acting-as-covert-agent-of-peoples-republic-of-china",
+          "start": 60,
+          "status": 200,
+          "title": "Political Operative Sentenced to 48 Months in Federal Prison for",
+          "unwound_url": "https://www.justice.gov/opa/pr/political-operative-sentenced-48-months-federal-prison-acting-covert-agent-peoples-republic",
+          "url": "https://t.co/naq8R9JgFh"
+        },
+        {
+          "display_url": "pic.x.com/lmOrsNpgIM",
+          "end": 133,
+          "expanded_url": "https://x.com/USA_China_Talk/status/2021515048787603798/photo/1",
+          "media_key": "3_2021499988757577732",
+          "start": 110,
+          "url": "https://t.co/lmOrsNpgIM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021546879721566419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021515048787603798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @USA_China_Talk: 联邦调查局：“政治活动人士因充当中华人民共和国秘密特工被判处48个月联邦监禁”\nhttps://t.co/naq8R9JgFh @FBILosAngeles 联邦调查局洛杉矶分局 https://t.co/lmOrsNpgIM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2021499988757577732",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3Ph4daAAQsZV4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021499988757577732"
+          ],
+          "media_source_tweet_id": [
+            "2021515048787603798"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2021546879721566419",
+        "created_at": "2026-02-11T11:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T12:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021546879721566419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "89421672",
+              "start": 3,
+              "username": "USA_China_Talk"
+            },
+            {
+              "end": 98,
+              "id": "349137313",
+              "start": 84,
+              "username": "FBILosAngeles"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Yesterday, a San Bernardino County man, Yaoning “Mike” Sun, 65, of Chino Hills, California, was sentenced by United States District Judge R. Gary Klausner for the Central District of California to 48 months in federal prison for acting as an illegal agent of the People’s Republic of China (PRC), including while serving as the campaign advisor for a political candidate who was",
+              "display_url": "fbi.gov/news/press-rel…",
+              "end": 83,
+              "expanded_url": "http://fbi.gov/news/press-releases/political-operative-sentenced-to-48-months-in-federal-prison-for-acting-as-covert-agent-of-peoples-republic-of-china",
+              "start": 60,
+              "status": 200,
+              "title": "Political Operative Sentenced to 48 Months in Federal Prison for",
+              "unwound_url": "https://www.justice.gov/opa/pr/political-operative-sentenced-48-months-federal-prison-acting-covert-agent-peoples-republic",
+              "url": "https://t.co/naq8R9JgFh"
+            },
+            {
+              "display_url": "pic.x.com/lmOrsNpgIM",
+              "end": 133,
+              "expanded_url": "https://x.com/USA_China_Talk/status/2021515048787603798/photo/1",
+              "media_key": "3_2021499988757577732",
+              "start": 110,
+              "url": "https://t.co/lmOrsNpgIM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021546879721566419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021515048787603798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @USA_China_Talk: 联邦调查局：“政治活动人士因充当中华人民共和国秘密特工被判处48个月联邦监禁”\nhttps://t.co/naq8R9JgFh @FBILosAngeles 联邦调查局洛杉矶分局 https://t.co/lmOrsNpgIM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021499988757577732"
+          ]
+        },
+        "author_id": "89421672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2021515048787603798",
+        "created_at": "2026-02-11T09:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021515048787603798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 78,
+              "id": "349137313",
+              "start": 64,
+              "username": "FBILosAngeles"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Yesterday, a San Bernardino County man, Yaoning “Mike” Sun, 65, of Chino Hills, California, was sentenced by United States District Judge R. Gary Klausner for the Central District of California to 48 months in federal prison for acting as an illegal agent of the People’s Republic of China (PRC), including while serving as the campaign advisor for a political candidate who was",
+              "display_url": "fbi.gov/news/press-rel…",
+              "end": 63,
+              "expanded_url": "http://fbi.gov/news/press-releases/political-operative-sentenced-to-48-months-in-federal-prison-for-acting-as-covert-agent-of-peoples-republic-of-china",
+              "start": 40,
+              "status": 200,
+              "title": "Political Operative Sentenced to 48 Months in Federal Prison for",
+              "unwound_url": "https://www.justice.gov/opa/pr/political-operative-sentenced-48-months-federal-prison-acting-covert-agent-peoples-republic",
+              "url": "https://t.co/naq8R9JgFh"
+            },
+            {
+              "display_url": "pic.x.com/lmOrsNpgIM",
+              "end": 113,
+              "expanded_url": "https://x.com/USA_China_Talk/status/2021515048787603798/photo/1",
+              "media_key": "3_2021499988757577732",
+              "start": 90,
+              "url": "https://t.co/lmOrsNpgIM"
+            },
+            {
+              "display_url": "x.com/FBI/status/202…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/FBI/status/2021313601986789588",
+              "start": 114,
+              "url": "https://t.co/lRXoNQd5uF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021515048787603798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 17236,
+          "like_count": 173,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021313601986789588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "联邦调查局：“政治活动人士因充当中华人民共和国秘密特工被判处48个月联邦监禁”\nhttps://t.co/naq8R9JgFh @FBILosAngeles 联邦调查局洛杉矶分局 https://t.co/lmOrsNpgIM https://t.co/lRXoNQd5uF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州🔜嘉兴🔜昆明",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 874,
+          "like_count": 14674,
+          "listed_count": 0,
+          "media_count": 630,
+          "tweet_count": 2995
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxnfm9K 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxnfm9K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rVGG"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "pinned_tweet_id": "2021109087426286069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618556,
+          "following_count": 170,
+          "like_count": 11,
+          "listed_count": 4282,
+          "media_count": 3686,
+          "tweet_count": 19328
+        },
+        "url": "https://t.co/EJ5I77rVGG",
+        "username": "USA_China_Talk",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-05T16:23:37.000Z",
+        "description": "Official FBI Los Angeles X. Submit tips at https://t.co/4Fu3GEX2Gz. Public info may be used for authorized purposes: https://t.co/9ggc81lbgF.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tips.fbi.gov",
+                "end": 66,
+                "expanded_url": "http://tips.fbi.gov",
+                "start": 43,
+                "url": "https://t.co/4Fu3GEX2Gz"
+              },
+              {
+                "display_url": "justice.gov/doj/privacy-po…",
+                "end": 140,
+                "expanded_url": "http://justice.gov/doj/privacy-policy",
+                "start": 117,
+                "url": "https://t.co/9ggc81lbgF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fbi.gov/losangeles/",
+                "end": 23,
+                "expanded_url": "http://fbi.gov/losangeles/",
+                "start": 0,
+                "url": "https://t.co/2EB0UGgqNX"
+              }
+            ]
+          }
+        },
+        "id": "349137313",
+        "location": "Los Angeles, CA",
+        "name": "FBI Los Angeles",
+        "pinned_tweet_id": "2018854541739917586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957474467388518400/c-m_AyGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138915,
+          "following_count": 131,
+          "like_count": 107,
+          "listed_count": 1345,
+          "media_count": 3414,
+          "tweet_count": 6745
+        },
+        "url": "https://t.co/2EB0UGgqNX",
+        "username": "FBILosAngeles",
+        "verified": true
+      }
+    ]
+  }
+}

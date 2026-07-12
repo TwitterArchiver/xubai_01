@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2003423406486880527",
+    "created_at": "2025-12-23T11:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T12:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003423406486880527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "368205513",
+          "start": 3,
+          "username": "yanbojack"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003423406486880527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003368792215499006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanbojack: 去裸贷\n然后不还\n别人发你裸照\n你就举报他传播淫秽色情信息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2003423406486880527",
+        "created_at": "2025-12-23T11:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T12:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003423406486880527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "368205513",
+              "start": 3,
+              "username": "yanbojack"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003423406486880527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003368792215499006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanbojack: 去裸贷\n然后不还\n别人发你裸照\n你就举报他传播淫秽色情信息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "368205513",
+        "conversation_id": "2003368792215499006",
+        "created_at": "2025-12-23T07:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T08:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003368792215499006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003368792215499006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 24338,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "去裸贷\n然后不还\n别人发你裸照\n你就举报他传播淫秽色情信息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜啥意思。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 769,
+          "like_count": 11350,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 1712
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-05T07:55:43.000Z",
+        "description": "美港A股宏观研究员，做宏观策略，量化。（郑重声明：本账号发布的所有内容严禁在中国互联网转播，所有内容均不构成投资建议）爆料、合作发私信https://t.co/BU9z85ew7D",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yanbojack",
+                "end": 90,
+                "expanded_url": "http://t.me/yanbojack",
+                "start": 67,
+                "url": "https://t.co/BU9z85ew7D"
+              }
+            ]
+          }
+        },
+        "id": "368205513",
+        "location": "Singapore",
+        "name": "杰克船长宏观策略",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1566441302287593473/-PWs9wxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146900,
+          "following_count": 99,
+          "like_count": 795,
+          "listed_count": 1349,
+          "media_count": 11919,
+          "tweet_count": 19885
+        },
+        "username": "yanbojack",
+        "verified": true
+      }
+    ]
+  }
+}

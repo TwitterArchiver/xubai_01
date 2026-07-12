@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "1993939372375425411",
+    "created_at": "2025-11-27T07:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993939372375425411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1475881125553709056",
+          "start": 3,
+          "username": "0xScottlai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993939372375425411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 638
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993766853118972298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0xScottlai: 作為一個土生土長的香港人，我可以說今晚這場大火絕對是人禍\n\n現場是大埔宏福苑，整個屋苑有 8 座大廈。今天下午約 2:51，宏福苑的宏昌閣外牆正在進行維修時，外牆棚架發生火警，已經有網民在 Threads 拍下當時小火的情況，可是在十分鐘後火警已…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1993760945882152960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6tDBFJaQAAW7Xi.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1541,
+        "media_key": "3_1993761471994769408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6tDftEbsAA2zW-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "1993939372375425411",
+        "created_at": "2025-11-27T07:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993939372375425411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1475881125553709056",
+              "start": 3,
+              "username": "0xScottlai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993939372375425411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 638
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993766853118972298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0xScottlai: 作為一個土生土長的香港人，我可以說今晚這場大火絕對是人禍\n\n現場是大埔宏福苑，整個屋苑有 8 座大廈。今天下午約 2:51，宏福苑的宏昌閣外牆正在進行維修時，外牆棚架發生火警，已經有網民在 Threads 拍下當時小火的情況，可是在十分鐘後火警已…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993760945882152960",
+            "3_1993761471994769408"
+          ]
+        },
+        "author_id": "1475881125553709056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "1993766853118972298",
+        "created_at": "2025-11-26T19:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T20:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993766853118972298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbCKadyIn4",
+              "end": 152,
+              "expanded_url": "https://x.com/0xScottlai/status/1993766853118972298/photo/1",
+              "media_key": "3_1993760945882152960",
+              "start": 129,
+              "url": "https://t.co/VbCKadyIn4"
+            },
+            {
+              "display_url": "pic.x.com/VbCKadyIn4",
+              "end": 152,
+              "expanded_url": "https://x.com/0xScottlai/status/1993766853118972298/photo/1",
+              "media_key": "3_1993761471994769408",
+              "start": 129,
+              "url": "https://t.co/VbCKadyIn4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993766853118972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "作為一個土生土長的香港人，我可以說今晚這場大火絕對是人禍\n\n現場是大埔宏福苑，整個屋苑有 8 座大廈。今天下午約 2:51，宏福苑的宏昌閣外牆正在進行維修時，外牆棚架發生火警，已經有網民在 Threads 拍下當時小火的情況，可是在十分鐘後火警已經往上順延\n\n問題一：有住戶表示火警發生時火警鐘未能響起，濃煙突然湧入，多人來不及逃出\n\n問題二：多名網民和住戶在 Threads 已貼出疑似現場其中一座大廈的維修棚架中，有工人吸煙和亂拋煙頭的照片和影片，雖然不能證實是今天發生的，但已經有人認為這是最大機會引發火警的原因，畢竟居民已經多次提醒工友不要再吸煙\n\n問題三：維修背景\n\n這個絕對要講，為什麼是人禍？\n\n在 2024 年年初，宏福苑的屋苑法團通過一項總額約 3.3 億港元的大維修方案，用於整個外牆更新\n\n方案覆蓋 8 座大廈約 1984 戶住戶，每戶需分 6 期繳費，每戶需負擔約 16–18 萬港元，這裡已經很離譜，因為基本上是強迫每戶付錢出來，更別說這次為了節省成本而直接 8 座大廈同時進行維修，增加風險\n\n當時法團拒絕重選並以法律手段回應部分業主，而維修工程當然直接開始，整個屋苑被搭上竹棚架和保護網\n\n但其實，保護網沒有用上最新政府標準所要求的防火網，而是普通的阻燃物料，我附上的第 2 張圖片可以清楚看到，所謂阻燃也沒有成功起到作用，反而棚架比保護網更堅固，證明問題出在【沒有用上防火網】\n\n重點也來了，因為宏福苑是一個私人屋苑，所以不會由政府直接管理，而是由立案法團委聘承建商，也就是私人工程公司\n\n私人工程不需要跟足政府標準，比如說公營工程防火規範，所以他們用的竹棚和普通阻燃圍網，的確是合法，但前面我也提到這是十分高風險\n\n再加上工人吸煙讓火種掉落，近年政府大量引入外勞，也沒有說有什麼條例去監管和控制外勞，那如果這次工程的工人也是外勞呢？\n\n香港工程一判再判早已是常態，為了壓低成本，最底層工人往往薪金最低和培訓不足，監管亦有限，這當然是制度問題，而不是工人本身的問題\n\n所以這不是單一意外\n\n而是由成本導向的維修決策和鬆散監管制度，也因為欠缺防火網和安全文化薄弱，一層一層累積而成的人禍，最後導致今天大家看到的五級大火爆發\n\n當然，這一切未有官方最終調查結論，還需要等待政府公布原因，但在這個世界裡面，有多少出來的資料是真假，大家可以想像到"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 514,
+          "impression_count": 679629,
+          "like_count": 3609,
+          "quote_count": 78,
+          "reply_count": 435,
+          "retweet_count": 638
+        },
+        "reply_settings": "everyone",
+        "text": "作為一個土生土長的香港人，我可以說今晚這場大火絕對是人禍\n\n現場是大埔宏福苑，整個屋苑有 8 座大廈。今天下午約 2:51，宏福苑的宏昌閣外牆正在進行維修時，外牆棚架發生火警，已經有網民在 Threads 拍下當時小火的情況，可是在十分鐘後火警已經往上順延 https://t.co/VbCKadyIn4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 589,
+          "like_count": 7179,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 820
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-28T17:27:47.000Z",
+        "description": "Founder & Chief Everything Officer @monsterblockhk 🇭🇰 @solana_zh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "monsterblockhk"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "solana_zh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/mbhktg",
+                "end": 23,
+                "expanded_url": "https://bit.ly/mbhktg",
+                "start": 0,
+                "url": "https://t.co/jomDc2th2I"
+              }
+            ]
+          }
+        },
+        "id": "1475881125553709056",
+        "location": "HONG KONG",
+        "name": "Scott｜Monsterblockhk",
+        "pinned_tweet_id": "1979810877361807559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894660747692806144/YJc4o-pP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4665,
+          "following_count": 1469,
+          "like_count": 24579,
+          "listed_count": 55,
+          "media_count": 1067,
+          "tweet_count": 6956
+        },
+        "url": "https://t.co/jomDc2th2I",
+        "username": "0xScottlai",
+        "verified": true
+      }
+    ]
+  }
+}

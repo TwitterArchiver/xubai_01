@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1984571952846283182",
+    "created_at": "2025-11-01T17:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T18:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984676007656505452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1254442404410621958",
+          "start": 0,
+          "username": "zwh20081"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984676007656505452",
+    "in_reply_to_user_id": "1254442404410621958",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984571952846283182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwh20081 哇 大佬 交友ing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1984571952846283182",
+        "created_at": "2025-11-01T17:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984676007656505452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254442404410621958",
+              "start": 0,
+              "username": "zwh20081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984676007656505452",
+        "in_reply_to_user_id": "1254442404410621958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984571952846283182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwh20081 哇 大佬 交友ing"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254442404410621958",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337567798169600",
+              "name": "Products - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873034",
+              "name": "AMD"
+            }
+          }
+        ],
+        "conversation_id": "1984571952846283182",
+        "created_at": "2025-11-01T10:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T11:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984571952846283182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984571952846283182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2000,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更新一下置顶qwq\n17岁笨蛋高中生 \n服务器运维&amp;深度学习业余人士 \n北京素鳞智绘科技有限公司 CEO\n北京素鳞科技产业有限公司 AIGC Lab技术开发总监\n异构平台适配+tg@zwh20081 支持各类国产卡与AMD rocm，Intel oneapi喵\n想要朋友w\n喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 470,
+          "like_count": 5145,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-26T16:09:22.000Z",
+        "description": "17岁笨蛋高中生 服务器运维&深度学习业余人士 \n北京素鳞智绘科技有限公司 CEO\n北京素鳞科技产业有限公司 AIGC Lab技术开发总监\n异构平台适配+tg@zwh20081 支持各类国产卡与AMD rocm，Intel oneapi喵\n想要朋友w",
+        "id": "1254442404410621958",
+        "location": "福州",
+        "name": "zwh20081",
+        "pinned_tweet_id": "1984571952846283182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976944068505878529/FfNVRc4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 71,
+          "like_count": 1043,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1067
+        },
+        "username": "zwh20081",
+        "verified": true
+      }
+    ]
+  }
+}

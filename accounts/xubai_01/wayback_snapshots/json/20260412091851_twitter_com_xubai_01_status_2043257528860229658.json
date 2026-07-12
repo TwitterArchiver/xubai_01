@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043257524808527872",
+        "3_2043257524808466432"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1278055867347120128",
+          "name": "Duolingo"
+        }
+      }
+    ],
+    "conversation_id": "2043257528860229658",
+    "created_at": "2026-04-12T09:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T10:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043257528860229658"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5cSpyijpw1",
+          "end": 40,
+          "expanded_url": "https://x.com/xubai_01/status/2043257528860229658/photo/1",
+          "media_key": "3_2043257524808527872",
+          "start": 17,
+          "url": "https://t.co/5cSpyijpw1"
+        },
+        {
+          "display_url": "pic.x.com/5cSpyijpw1",
+          "end": 40,
+          "expanded_url": "https://x.com/xubai_01/status/2043257528860229658/photo/1",
+          "media_key": "3_2043257524808466432",
+          "start": 17,
+          "url": "https://t.co/5cSpyijpw1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043257528860229658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑死我了duolingo小三鸟🤓 https://t.co/5cSpyijpw1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043257524808527872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsb5KbbMAANgPd.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043257524808466432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsb5KbaQAAZzh1.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043257524808527872",
+            "3_2043257524808466432"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "2043257528860229658",
+        "created_at": "2026-04-12T09:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043257528860229658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5cSpyijpw1",
+              "end": 40,
+              "expanded_url": "https://x.com/xubai_01/status/2043257528860229658/photo/1",
+              "media_key": "3_2043257524808527872",
+              "start": 17,
+              "url": "https://t.co/5cSpyijpw1"
+            },
+            {
+              "display_url": "pic.x.com/5cSpyijpw1",
+              "end": 40,
+              "expanded_url": "https://x.com/xubai_01/status/2043257528860229658/photo/1",
+              "media_key": "3_2043257524808466432",
+              "start": 17,
+              "url": "https://t.co/5cSpyijpw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043257528860229658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了duolingo小三鸟🤓 https://t.co/5cSpyijpw1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/10.12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "yuji53719"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 1125,
+          "like_count": 18739,
+          "listed_count": 0,
+          "media_count": 899,
+          "tweet_count": 4550
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2042966832794210815",
+    "created_at": "2026-04-12T01:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T02:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043141455288660208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "992770075147976704",
+          "start": 0,
+          "username": "Sec_211"
+        },
+        {
+          "end": 16,
+          "id": "277445029",
+          "start": 9,
+          "username": "xkajon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043141455288660208",
+    "in_reply_to_user_id": "992770075147976704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042998750382297358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sec_211 @xkajon 税高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2042966832794210815",
+        "created_at": "2026-04-12T01:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043141455288660208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "992770075147976704",
+              "start": 0,
+              "username": "Sec_211"
+            },
+            {
+              "end": 16,
+              "id": "277445029",
+              "start": 9,
+              "username": "xkajon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043141455288660208",
+        "in_reply_to_user_id": "992770075147976704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042998750382297358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sec_211 @xkajon 税高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "992770075147976704",
+        "conversation_id": "2042966832794210815",
+        "created_at": "2026-04-11T16:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042998750382297358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "277445029",
+              "start": 0,
+              "username": "xkajon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042998750382297358",
+        "in_reply_to_user_id": "277445029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 537,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042966832794210815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xkajon 马上开一家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/10.12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "yuji53719"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 1125,
+          "like_count": 18721,
+          "listed_count": 0,
+          "media_count": 897,
+          "tweet_count": 4543
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-05T14:16:45.000Z",
+        "description": "自媒体打工人 ｜专业科技咨询 ｜财税代办｜资深域名玩家 | C++Coding | Xyz域名巨佬",
+        "id": "992770075147976704",
+        "name": "Ashu （有关必回）",
+        "pinned_tweet_id": "1991849597023715479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1103491514464792576/NIvfJc-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 2992,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 960
+        },
+        "username": "Sec_211",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-05T11:39:17.000Z",
+        "description": "🇬🇧UCL本硕｜计算机专业｜雅思7｜中转站站长-只做tob不做toc",
+        "id": "277445029",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "Kai",
+        "pinned_tweet_id": "2042944828758200368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012851255509471233/PG2nwivW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 822,
+          "like_count": 3230,
+          "listed_count": 9,
+          "media_count": 8,
+          "tweet_count": 371
+        },
+        "username": "xkajon",
+        "verified": true
+      }
+    ]
+  }
+}

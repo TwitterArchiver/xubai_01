@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2065113344831578463",
+    "created_at": "2026-06-11T17:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065119999350677660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "4123608315",
+          "start": 0,
+          "username": "c5brm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065119999350677660",
+    "in_reply_to_user_id": "4123608315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065117257471349244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c5brm 我半夜吃完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2065113344831578463",
+        "created_at": "2026-06-11T17:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065119999350677660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "4123608315",
+              "start": 0,
+              "username": "c5brm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065119999350677660",
+        "in_reply_to_user_id": "4123608315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065117257471349244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c5brm 我半夜吃完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4123608315",
+        "conversation_id": "2065113344831578463",
+        "created_at": "2026-06-11T17:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065117257471349244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065117257471349244",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065113344831578463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 双份诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208,
+          "following_count": 1489,
+          "like_count": 24202,
+          "listed_count": 2,
+          "media_count": 1166,
+          "tweet_count": 6281
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-06T02:15:39.000Z",
+        "description": "男／178／57／慢热／广东人🇨🇳／准高三／作息不规律／时常疯言疯语／幽默感0️⃣／喜欢瞎逛／不是很会拍照／平等善待所有人❤️／看主页互fo／欢迎提问👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wang10649",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wang10649",
+                "start": 0,
+                "url": "https://t.co/TAF1OraO76"
+              }
+            ]
+          }
+        },
+        "id": "4123608315",
+        "location": "活力大湾区",
+        "name": "小凯有点忙💦",
+        "pinned_tweet_id": "2054057931562475720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060706182113943553/li1SrnSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 735,
+          "like_count": 6721,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 2121
+        },
+        "url": "https://t.co/TAF1OraO76",
+        "username": "c5brm",
+        "verified": false
+      }
+    ]
+  }
+}

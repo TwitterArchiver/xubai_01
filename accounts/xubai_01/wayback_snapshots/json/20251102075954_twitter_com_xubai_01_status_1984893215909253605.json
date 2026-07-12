@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1984662575481778642",
+    "created_at": "2025-11-02T07:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T08:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984893215909253605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811616942069022720",
+          "start": 0,
+          "username": "Im_CanDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984893215909253605",
+    "in_reply_to_user_id": "1811616942069022720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984662575481778642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_CanDo 或许问问学校公网什么价格 我托管在学校的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_1984662567739138048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4rwFxUbIAA9dJG.jpg",
+        "width": 1439
+      },
+      {
+        "height": 93,
+        "media_key": "3_1984662567776894986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4rwFxdbQAoK8ad.jpg",
+        "width": 259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1984662575481778642",
+        "created_at": "2025-11-02T07:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T08:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984893215909253605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811616942069022720",
+              "start": 0,
+              "username": "Im_CanDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984893215909253605",
+        "in_reply_to_user_id": "1811616942069022720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984662575481778642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_CanDo 或许问问学校公网什么价格 我托管在学校的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984662567739138048",
+            "3_1984662567776894986"
+          ]
+        },
+        "author_id": "1811616942069022720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "1984662575481778642",
+        "created_at": "2025-11-01T16:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984662575481778642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xu3S86aV1M",
+              "end": 165,
+              "expanded_url": "https://x.com/Im_CanDo/status/1984662575481778642/photo/1",
+              "media_key": "3_1984662567739138048",
+              "start": 142,
+              "url": "https://t.co/Xu3S86aV1M"
+            },
+            {
+              "display_url": "pic.x.com/Xu3S86aV1M",
+              "end": 165,
+              "expanded_url": "https://x.com/Im_CanDo/status/1984662575481778642/photo/1",
+              "media_key": "3_1984662567776894986",
+              "start": 142,
+              "url": "https://t.co/Xu3S86aV1M"
+            },
+            {
+              "display_url": "x.com/Im_CanDo/statu…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/Im_CanDo/status/1928192622662930624",
+              "start": 166,
+              "url": "https://t.co/JvA8YuLRbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984662575481778642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "实体服务器突然被卖了，管理技术全懵了。\n服务器暂停运，恢复时间暂无。\n感谢大家这段时间的游玩支持。\n如停运地图文件将会放群文件。\n\n有点不想做服务器了，我不会技术，在上学没地方没时间没公网。\n\n其实一直想去中心化做这个服务器，但是真的没办法，大家都太忙了，我也不知道怎么做激励政策。\n\n感谢大家这段时间的陪伴。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 18485,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928192622662930624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实体服务器突然被卖了，管理技术全懵了。\n服务器暂停运，恢复时间暂无。\n感谢大家这段时间的游玩支持。\n如停运地图文件将会放群文件。\n\n有点不想做服务器了，我不会技术，在上学没地方没时间没公网。\n\n其实一直想去中心化做这个服务器，但是真的没办法，大家都太忙了，我也不知道怎么做激励政策。 https://t.co/Xu3S86aV1M https://t.co/JvA8YuLRbz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 471,
+          "like_count": 5146,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T04:22:04.000Z",
+        "description": "当代艺术家 社会研究者 摄影师 音乐剧爱好 / 阿斯伯格 / 当朋友圈发 / 福瑞新闻@HelloFurryNews / 【https://t.co/gHEGHqBQ9B】Minecraft服务器",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "HelloFurryNews"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mcfurry.cc",
+                "end": 85,
+                "expanded_url": "http://mcfurry.cc",
+                "start": 62,
+                "url": "https://t.co/gHEGHqBQ9B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/im_cando2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/im_cando2",
+                "start": 0,
+                "url": "https://t.co/97wAs4NnZG"
+              }
+            ]
+          }
+        },
+        "id": "1811616942069022720",
+        "location": "-4.2km",
+        "name": "一只小残冬 Cando",
+        "pinned_tweet_id": "1891751637011791973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927686835603476480/zaqoSpcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8319,
+          "following_count": 945,
+          "like_count": 24094,
+          "listed_count": 14,
+          "media_count": 476,
+          "tweet_count": 8123
+        },
+        "url": "https://t.co/97wAs4NnZG",
+        "username": "Im_CanDo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1981294864362054059",
+    "created_at": "2025-10-23T22:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T23:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981494950731927996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981494950731927996",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981410871273541938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1981294864362054059",
+        "created_at": "2025-10-23T22:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T23:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981494950731927996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981494950731927996",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981410871273541938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247054463329656832",
+        "conversation_id": "1981294864362054059",
+        "created_at": "2025-10-23T17:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T18:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981410871273541938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981410871273541938",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981294864362054059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 所以女同学多少一晚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 405,
+          "like_count": 4155,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "Knowledge is кии to the universe｜全沾逝大学牲 ¡Mucho gusto! ｜🌹混沌泛左 加速主義｜pansexual｜數碼愛好者｜🌐漢語 母語吴、普/English OK/日本語 勉強中｜願此行 終抵群星 Associated: @Utsuho_Kyrinyo （键政）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 132,
+                "username": "Utsuho_Kyrinyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quasarne",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quasarne",
+                "start": 0,
+                "url": "https://t.co/c4o2H5gXCH"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "name": "Αστήρない（淡推）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953879721227563010/e8i5i7Fq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 807,
+          "like_count": 57545,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 6899
+        },
+        "url": "https://t.co/c4o2H5gXCH",
+        "username": "quasarne",
+        "verified": false
+      }
+    ]
+  }
+}

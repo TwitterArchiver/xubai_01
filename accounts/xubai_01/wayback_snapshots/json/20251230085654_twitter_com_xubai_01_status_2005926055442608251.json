@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2005839534647296081",
+    "created_at": "2025-12-30T08:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T09:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005926055442608251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982692566715027456",
+          "start": 0,
+          "username": "MaxWsl374246"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005926055442608251",
+    "in_reply_to_user_id": "1982692566715027456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005839534647296081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxWsl374246 抱抱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2005839534647296081",
+        "created_at": "2025-12-30T08:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T09:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005926055442608251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982692566715027456",
+              "start": 0,
+              "username": "MaxWsl374246"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005926055442608251",
+        "in_reply_to_user_id": "1982692566715027456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005839534647296081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxWsl374246 抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982692566715027456",
+        "conversation_id": "2005839534647296081",
+        "created_at": "2025-12-30T03:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T04:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005839534647296081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xubai_01/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xubai_01/status/2005699083412050036",
+              "start": 8,
+              "url": "https://t.co/TPJewHeNfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005839534647296081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005699083412050036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我居然还活着。 https://t.co/TPJewHeNfJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 801,
+          "like_count": 12190,
+          "listed_count": 0,
+          "media_count": 474,
+          "tweet_count": 2119
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-27T06:16:49.000Z",
+        "description": "制造年份09/180+死亡东京塔/🎭/脑子里貌似有好几个人在开应怕😈🔪😖💊😆⏰️😔🪦😶💤/MTF/HRT25.11.6🍥/ฅ( ̳• · • ̳ฅ)同类互fo！/OD（在戒了👿）/有时紫餐/ 逆天劳保生物跌离我远点  (;﹏;)/已退学/终于让我留头发了！🥺",
+        "id": "1982692566715027456",
+        "name": "ChibaMax🍥🏳️‍⚧️😔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988971671286415360/Tst1LoXv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 197,
+          "like_count": 6326,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 744
+        },
+        "username": "MaxWsl374246",
+        "verified": false
+      }
+    ]
+  }
+}

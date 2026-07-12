@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979879272689860608"
+      ],
+      "media_source_tweet_id": [
+        "1979879279736520952"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "1979915351594008626",
+    "created_at": "2025-10-19T14:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T15:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979915351594008626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601893417549967360",
+          "start": 3,
+          "username": "AcboxLiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kymZA10tmi",
+          "end": 47,
+          "expanded_url": "https://x.com/AcboxLiu/status/1979879279736520952/photo/1",
+          "media_key": "3_1979879272689860608",
+          "start": 24,
+          "url": "https://t.co/kymZA10tmi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979915351594008626",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979879279736520952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcboxLiu: 😇新名字嘛，有意思 https://t.co/kymZA10tmi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 627,
+        "media_key": "3_1979879272689860608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nxtWrWgAAzbZw.jpg",
+        "width": 806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979879272689860608"
+          ],
+          "media_source_tweet_id": [
+            "1979879279736520952"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "1979915351594008626",
+        "created_at": "2025-10-19T14:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T15:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979915351594008626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601893417549967360",
+              "start": 3,
+              "username": "AcboxLiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kymZA10tmi",
+              "end": 47,
+              "expanded_url": "https://x.com/AcboxLiu/status/1979879279736520952/photo/1",
+              "media_key": "3_1979879272689860608",
+              "start": 24,
+              "url": "https://t.co/kymZA10tmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979915351594008626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979879279736520952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcboxLiu: 😇新名字嘛，有意思 https://t.co/kymZA10tmi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979879272689860608"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "1979879279736520952",
+        "created_at": "2025-10-19T11:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T12:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979879279736520952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kymZA10tmi",
+              "end": 33,
+              "expanded_url": "https://x.com/AcboxLiu/status/1979879279736520952/photo/1",
+              "media_key": "3_1979879272689860608",
+              "start": 10,
+              "url": "https://t.co/kymZA10tmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979879279736520952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1146,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😇新名字嘛，有意思 https://t.co/kymZA10tmi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 4,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 333
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🐱Github: sheepbox8646/💼日常远程工作/Building ChalkAI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvcLr"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳·西乡",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1964617558675611999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7433,
+          "following_count": 2956,
+          "like_count": 2777,
+          "listed_count": 30,
+          "media_count": 1063,
+          "tweet_count": 5323
+        },
+        "url": "https://t.co/mRP5RDvcLr",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

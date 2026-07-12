@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009274549066715142"
+      ],
+      "media_source_tweet_id": [
+        "2009274554460312055"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009602570302763498",
+    "created_at": "2026-01-09T12:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T13:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009602570302763498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1975500696427581440",
+          "start": 3,
+          "username": "TReverie_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QLEmRHbiiJ",
+          "end": 38,
+          "expanded_url": "https://x.com/TReverie_/status/2009274554460312055/photo/1",
+          "media_key": "3_2009274549066715142",
+          "start": 15,
+          "url": "https://t.co/QLEmRHbiiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009602570302763498",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009274554460312055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TReverie_: https://t.co/QLEmRHbiiJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009274549066715142",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Jgjola0AY_JOb.jpg",
+        "width": 1530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009274549066715142"
+          ],
+          "media_source_tweet_id": [
+            "2009274554460312055"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009602570302763498",
+        "created_at": "2026-01-09T12:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T13:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009602570302763498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1975500696427581440",
+              "start": 3,
+              "username": "TReverie_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QLEmRHbiiJ",
+              "end": 38,
+              "expanded_url": "https://x.com/TReverie_/status/2009274554460312055/photo/1",
+              "media_key": "3_2009274549066715142",
+              "start": 15,
+              "url": "https://t.co/QLEmRHbiiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009602570302763498",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009274554460312055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TReverie_: https://t.co/QLEmRHbiiJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009274549066715142"
+          ]
+        },
+        "author_id": "1975500696427581440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009274554460312055",
+        "created_at": "2026-01-08T14:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009274554460312055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QLEmRHbiiJ",
+              "end": 23,
+              "expanded_url": "https://x.com/TReverie_/status/2009274554460312055/photo/1",
+              "media_key": "3_2009274549066715142",
+              "start": 0,
+              "url": "https://t.co/QLEmRHbiiJ"
+            },
+            {
+              "display_url": "x.com/grok/status/20…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/grok/status/2008876872382202276",
+              "start": 24,
+              "url": "https://t.co/4fasIJIu5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009274554460312055",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 16330,
+          "like_count": 369,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008876872382202276",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/QLEmRHbiiJ https://t.co/4fasIJIu5C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：长春和大湾区（一月中旬｜欢迎随时联系/心情大爆炸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 812,
+          "like_count": 12975,
+          "listed_count": 0,
+          "media_count": 544,
+          "tweet_count": 2431
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "驱逐马列，鞭挞中华！",
+        "id": "1975500696427581440",
+        "location": "London, England",
+        "name": "Tiny Reverie",
+        "pinned_tweet_id": "2000516104544997765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996531878183235584/x-H22fXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4657,
+          "following_count": 834,
+          "like_count": 13914,
+          "listed_count": 39,
+          "media_count": 941,
+          "tweet_count": 3374
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

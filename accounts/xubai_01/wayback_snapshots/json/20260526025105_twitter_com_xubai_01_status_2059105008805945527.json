@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2059097552415568245",
+    "created_at": "2026-05-26T02:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T03:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059105008805945527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1002664853847224320",
+          "start": 0,
+          "username": "CHPAlerts"
+        },
+        {
+          "end": 18,
+          "id": "115705583",
+          "start": 11,
+          "username": "LAPDHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059105008805945527",
+    "in_reply_to_user_id": "1002664853847224320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059097552415568245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CHPAlerts @LAPDHQ 监护权"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_2059097550918123520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNiUCBaAAA_EoC.jpg",
+        "width": 1275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2059097552415568245",
+        "created_at": "2026-05-26T02:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059105008805945527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1002664853847224320",
+              "start": 0,
+              "username": "CHPAlerts"
+            },
+            {
+              "end": 18,
+              "id": "115705583",
+              "start": 11,
+              "username": "LAPDHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059105008805945527",
+        "in_reply_to_user_id": "1002664853847224320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059097552415568245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHPAlerts @LAPDHQ 监护权"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059097550918123520"
+          ]
+        },
+        "author_id": "1002664853847224320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1259995120016912384",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "San Diego",
+              "id": "1012406055941226496",
+              "name": "San Diego"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1259995120016912384",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2059097552415568245",
+        "created_at": "2026-05-26T02:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059097552415568245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 122,
+              "id": "115705583",
+              "start": 115,
+              "username": "LAPDHQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPaSMAzPL7",
+              "end": 166,
+              "expanded_url": "https://x.com/CHPAlerts/status/2059097552415568245/photo/1",
+              "media_key": "3_2059097550918123520",
+              "start": 143,
+              "url": "https://t.co/zPaSMAzPL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059097552415568245",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 33607,
+          "like_count": 257,
+          "quote_count": 12,
+          "reply_count": 100,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "AMBER ALERT - Los Angeles, Riverside and San Diego Counties\nLast seen: Alsace Ave., and Ferndale St., Los Angeles \n@LAPDHQ\n\nIF SEEN CALL 9-1-1 https://t.co/zPaSMAzPL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 1365,
+          "like_count": 22799,
+          "listed_count": 1,
+          "media_count": 1109,
+          "tweet_count": 5740
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-01T21:35:04.000Z",
+        "description": "The California Highway Patrol created this account for the sole purpose of disseminating details and flyers for active Alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chpalerts",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chpalerts",
+                "start": 0,
+                "url": "https://t.co/EhMM0DiVha"
+              }
+            ]
+          }
+        },
+        "id": "1002664853847224320",
+        "location": "California, USA",
+        "name": "CHP - Alerts",
+        "pinned_tweet_id": "2059097552415568245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057114232601427968/CrWsG0wL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254791,
+          "following_count": 209,
+          "like_count": 7,
+          "listed_count": 361,
+          "media_count": 61,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/EhMM0DiVha",
+        "username": "CHPAlerts",
+        "verified": true
+      },
+      {
+        "created_at": "2010-02-19T16:34:43.000Z",
+        "description": "Official account of the LAPD. Not monitored 24/7. Call 911 for emergencies. LAPDHQ on Facebook & Instagram",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lapdonline.org",
+                "end": 23,
+                "expanded_url": "http://www.lapdonline.org/",
+                "start": 0,
+                "url": "https://t.co/Wog46BysMH"
+              }
+            ]
+          }
+        },
+        "id": "115705583",
+        "location": "Los Angeles, CA",
+        "name": "LAPD HQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822125829746544640/5Z5WX1jF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265277,
+          "following_count": 315,
+          "like_count": 9063,
+          "listed_count": 2046,
+          "media_count": 7642,
+          "tweet_count": 21231
+        },
+        "url": "https://t.co/Wog46BysMH",
+        "username": "LAPDHQ",
+        "verified": true
+      }
+    ]
+  }
+}

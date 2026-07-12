@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2000286274692006208",
+    "created_at": "2025-12-15T12:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T13:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000537271473496365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1788761493540143104",
+          "start": 0,
+          "username": "random91238118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000537271473496365",
+    "in_reply_to_user_id": "1788761493540143104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000533699520311693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@random91238118 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2000286274692006208",
+        "created_at": "2025-12-15T12:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T13:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000537271473496365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788761493540143104",
+              "start": 0,
+              "username": "random91238118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000537271473496365",
+        "in_reply_to_user_id": "1788761493540143104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000533699520311693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@random91238118 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788761493540143104",
+        "conversation_id": "2000286274692006208",
+        "created_at": "2025-12-15T11:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T12:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000533699520311693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000533699520311693",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000447347399266737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 还发两次！哇～谢谢🥰🍄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia｜｜爱说梦话/想交朋友。🫠｜网易/火山引擎/阿里云/腾讯云代理商｜接各类企服财税代办｜一直都没钱都是装的身份自己给的｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 661,
+          "like_count": 9290,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1126
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T02:42:35.000Z",
+        "description": "是一只菌菇~\n是男生，喜欢可爱的男孩子\nINTP-A\n已经合法噜\n发啥全看心情\n说不定偶尔爆点福利（？\n开开心心就好w\n喜欢MC，LOL，钢琴，唱歌等等等等（待补充）\n会一点点混音，C艹\n出没于江浙沪\n欢迎找我玩\nV/Q🚪50，正常人熟人扩列免",
+        "id": "1788761493540143104",
+        "name": "九菌菌菌🍄",
+        "pinned_tweet_id": "1946824900595085489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989304244659478528/jec5WFuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4649,
+          "following_count": 1167,
+          "like_count": 43652,
+          "listed_count": 9,
+          "media_count": 257,
+          "tweet_count": 7997
+        },
+        "username": "random91238118",
+        "verified": false
+      }
+    ]
+  }
+}

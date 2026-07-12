@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2021297353546924448",
+    "created_at": "2026-02-11T13:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T14:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021574967985361150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1843165745011986432",
+          "start": 0,
+          "username": "LemonMigo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021574967985361150",
+    "in_reply_to_user_id": "1843165745011986432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021566782696558897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemonMigo 真的真的好实惠～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2021297353546924448",
+        "created_at": "2026-02-11T13:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021574967985361150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1843165745011986432",
+              "start": 0,
+              "username": "LemonMigo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021574967985361150",
+        "in_reply_to_user_id": "1843165745011986432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021566782696558897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemonMigo 真的真的好实惠～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843165745011986432",
+        "conversation_id": "2021297353546924448",
+        "created_at": "2026-02-11T12:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T13:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021566782696558897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021566782696558897",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021297353546924448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 哇喔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州🔜嘉兴🔜昆明",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 874,
+          "like_count": 14683,
+          "listed_count": 0,
+          "media_count": 630,
+          "tweet_count": 2996
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T05:45:45.000Z",
+        "description": "“请不必担忧，我虽说焦虑但仍然坚定，我十分遗憾却未曾放弃”",
+        "id": "1843165745011986432",
+        "location": "从梦里想象出来的伊甸园",
+        "name": "Migoooooooooo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021158197378297856/nJelQ09Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6631,
+          "following_count": 251,
+          "like_count": 872,
+          "listed_count": 12,
+          "media_count": 546,
+          "tweet_count": 7282
+        },
+        "username": "LemonMigo",
+        "verified": true
+      }
+    ]
+  }
+}

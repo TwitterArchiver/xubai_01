@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1978483556138766347",
+    "created_at": "2025-10-16T07:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T08:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978723336365781480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1250197336531144704",
+          "start": 0,
+          "username": "Lorybai_CN"
+        },
+        {
+          "end": 24,
+          "id": "1566105033837449216",
+          "start": 12,
+          "username": "galok_joeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978723336365781480",
+    "in_reply_to_user_id": "1250197336531144704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978664470986559638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lorybai_CN @galok_joeng 好惨。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1978483556138766347",
+        "created_at": "2025-10-16T07:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T08:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978723336365781480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1250197336531144704",
+              "start": 0,
+              "username": "Lorybai_CN"
+            },
+            {
+              "end": 24,
+              "id": "1566105033837449216",
+              "start": 12,
+              "username": "galok_joeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978723336365781480",
+        "in_reply_to_user_id": "1250197336531144704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978664470986559638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lorybai_CN @galok_joeng 好惨。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250197336531144704",
+        "conversation_id": "1978483556138766347",
+        "created_at": "2025-10-16T03:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T04:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978664470986559638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1566105033837449216",
+              "start": 0,
+              "username": "galok_joeng"
+            },
+            {
+              "end": 22,
+              "id": "1840810905833197568",
+              "start": 13,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978664470986559638",
+        "in_reply_to_user_id": "1566105033837449216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978658341816779090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galok_joeng @xubai_01 爆仓了被强平了🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 343,
+          "like_count": 3661,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-14T23:00:57.000Z",
+        "description": "Furry｜SDU undergraduate｜推止于推｜化竞小菜鸡｜ESFP-A｜中文&English＝⭕",
+        "id": "1250197336531144704",
+        "location": "济南",
+        "name": "洛羽白",
+        "pinned_tweet_id": "1978113903277085127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910174344996847616/0oG2oePU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2664,
+          "following_count": 1118,
+          "like_count": 98534,
+          "listed_count": 10,
+          "media_count": 430,
+          "tweet_count": 5789
+        },
+        "username": "Lorybai_CN",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T16:45:28.000Z",
+        "description": "🗣️ 🇭🇰🇯🇵🇬🇧🇹🇼 🔰🇩🇪  これが日常垢です､お喋りが好き!本帳號乃日常主題，歡迎互動！帥帥主人@cloud_lind🙌跟住呢排都冇點諗要搵對象囉，單身又真係幾自由喎🪩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "cloud_lind"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Piano_LV0",
+                "end": 23,
+                "expanded_url": "http://t.me/Piano_LV0",
+                "start": 0,
+                "url": "https://t.co/n2YgsRvalq"
+              }
+            ]
+          }
+        },
+        "id": "1566105033837449216",
+        "location": "第三世界の首都",
+        "name": "嘉樂🤍🧡❤️",
+        "pinned_tweet_id": "1893225763916185632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920686422329024512/vkiFbG3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7972,
+          "following_count": 1093,
+          "like_count": 25034,
+          "listed_count": 9,
+          "media_count": 337,
+          "tweet_count": 7563
+        },
+        "url": "https://t.co/n2YgsRvalq",
+        "username": "galok_joeng",
+        "verified": false
+      }
+    ]
+  }
+}

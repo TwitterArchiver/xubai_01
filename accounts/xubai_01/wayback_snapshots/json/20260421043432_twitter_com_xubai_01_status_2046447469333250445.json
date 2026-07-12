@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046338649500041216"
+      ],
+      "media_source_tweet_id": [
+        "2046338786666459546"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2046447469333250445",
+    "created_at": "2026-04-21T04:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T05:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046447469333250445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2751197421",
+          "start": 3,
+          "username": "aaronp613"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A8tx2d4zls",
+          "end": 92,
+          "expanded_url": "https://x.com/aaronp613/status/2046338786666459546/photo/1",
+          "media_key": "3_2046338649500041216",
+          "start": 69,
+          "url": "https://t.co/A8tx2d4zls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046447469333250445",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4117
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046338786666459546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaronp613: White smoke seen from Apple Park to signify a new CEO https://t.co/A8tx2d4zls"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1576,
+        "media_key": "3_2046338649500041216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYOKOWaQAAHeCL.jpg",
+        "width": 2364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046338649500041216"
+          ],
+          "media_source_tweet_id": [
+            "2046338786666459546"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2046447469333250445",
+        "created_at": "2026-04-21T04:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046447469333250445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2751197421",
+              "start": 3,
+              "username": "aaronp613"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A8tx2d4zls",
+              "end": 92,
+              "expanded_url": "https://x.com/aaronp613/status/2046338786666459546/photo/1",
+              "media_key": "3_2046338649500041216",
+              "start": 69,
+              "url": "https://t.co/A8tx2d4zls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046447469333250445",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4117
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046338786666459546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaronp613: White smoke seen from Apple Park to signify a new CEO https://t.co/A8tx2d4zls"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046338649500041216"
+          ]
+        },
+        "author_id": "2751197421",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2046338786666459546",
+        "created_at": "2026-04-20T21:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T22:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046338786666459546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A8tx2d4zls",
+              "end": 77,
+              "expanded_url": "https://x.com/aaronp613/status/2046338786666459546/photo/1",
+              "media_key": "3_2046338649500041216",
+              "start": 54,
+              "url": "https://t.co/A8tx2d4zls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046338786666459546",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1596,
+          "impression_count": 1755322,
+          "like_count": 59744,
+          "quote_count": 428,
+          "reply_count": 545,
+          "retweet_count": 4117
+        },
+        "reply_settings": "everyone",
+        "text": "White smoke seen from Apple Park to signify a new CEO https://t.co/A8tx2d4zls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n备@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "xuba1_"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1199,
+          "like_count": 20334,
+          "listed_count": 0,
+          "media_count": 973,
+          "tweet_count": 4901
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-25T21:40:48.000Z",
+        "description": "Finding things before they exist.\nAnalyst @MacRumors.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "MacRumors"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aaronperris.com",
+                "end": 23,
+                "expanded_url": "https://aaronperris.com",
+                "start": 0,
+                "url": "https://t.co/k8GLGC8aFp"
+              }
+            ]
+          }
+        },
+        "id": "2751197421",
+        "location": "NYC",
+        "name": "Aaron",
+        "pinned_tweet_id": "2046338786666459546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837168376386371584/AJZZayD4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31218,
+          "following_count": 1535,
+          "like_count": 17655,
+          "listed_count": 327,
+          "media_count": 3667,
+          "tweet_count": 10683
+        },
+        "url": "https://t.co/k8GLGC8aFp",
+        "username": "aaronp613",
+        "verified": true
+      }
+    ]
+  }
+}

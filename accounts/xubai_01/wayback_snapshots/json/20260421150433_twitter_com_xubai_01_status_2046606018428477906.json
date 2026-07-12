@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2046498665699975298",
+    "created_at": "2026-04-21T15:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046606018428477906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1456293979725516801",
+          "start": 0,
+          "username": "Kcat_LiHua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046606018428477906",
+    "in_reply_to_user_id": "1456293979725516801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046498665699975298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kcat_LiHua 看看大包"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2046498665699975298].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2046498665699975298",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2046498665699975298"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2046498665699975298",
+        "created_at": "2026-04-21T15:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046606018428477906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1456293979725516801",
+              "start": 0,
+              "username": "Kcat_LiHua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046606018428477906",
+        "in_reply_to_user_id": "1456293979725516801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046498665699975298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kcat_LiHua 看看大包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n备@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "xuba1_"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 1198,
+          "like_count": 20356,
+          "listed_count": 0,
+          "media_count": 973,
+          "tweet_count": 4907
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-04T16:15:35.000Z",
+        "description": "猫/偶尔兼职人类   \n福瑞控/序列1：作家   \nStoicism",
+        "id": "1456293979725516801",
+        "location": "Shanghai",
+        "name": "狸花猫国太子",
+        "pinned_tweet_id": "2023798072363651305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023797786781904898/n8HG8Cx7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3259,
+          "following_count": 645,
+          "like_count": 65778,
+          "listed_count": 8,
+          "media_count": 1810,
+          "tweet_count": 35854
+        },
+        "username": "Kcat_LiHua",
+        "verified": false
+      }
+    ]
+  }
+}

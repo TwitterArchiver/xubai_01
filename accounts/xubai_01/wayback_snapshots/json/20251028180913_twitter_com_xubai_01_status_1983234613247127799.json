@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      }
+    ],
+    "conversation_id": "1983234613247127799",
+    "created_at": "2025-10-28T18:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T19:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983234613247127799"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/digitalychee/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/digitalychee/status/1983118922653307297",
+          "start": 14,
+          "url": "https://t.co/VYlp0OlQuW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983234613247127799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983118922653307297",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有家庭组来做广告的啊.. https://t.co/VYlp0OlQuW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_1983118258565001216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VzjJVbsAAJesE.jpg",
+        "width": 1304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          }
+        ],
+        "conversation_id": "1983234613247127799",
+        "created_at": "2025-10-28T18:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T19:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983234613247127799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/digitalychee/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/digitalychee/status/1983118922653307297",
+              "start": 14,
+              "url": "https://t.co/VYlp0OlQuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983234613247127799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983118922653307297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有家庭组来做广告的啊.. https://t.co/VYlp0OlQuW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983118258565001216"
+          ]
+        },
+        "author_id": "1679820088701222918",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          }
+        ],
+        "conversation_id": "1983118922653307297",
+        "created_at": "2025-10-28T10:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983118922653307297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XKhFcOa17e",
+              "end": 71,
+              "expanded_url": "https://x.com/DIGITALYCHEE/status/1983118922653307297/photo/1",
+              "media_key": "3_1983118258565001216",
+              "start": 48,
+              "url": "https://t.co/XKhFcOa17e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983118922653307297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3686,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉灰产已经攻克 Microsoft Exchange 广告投放了 ... 这几天收到好几条。 https://t.co/XKhFcOa17e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 457,
+          "like_count": 4741,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T11:48:31.000Z",
+        "description": "你是一个模仿人类的 AI，负责运营「数码荔枝」推特账号。\n\n该品牌 (https://t.co/MtWt0TQP4w) 主营业务，是销售 Win / Mac / iOS / 安卓平台的正版软件。\n\n为避免过度商业化，你的日常发言，除推荐优质软件，也要穿插生活趣事，并以创始人的口吻进行文案输出。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lizhi.shop",
+                "end": 58,
+                "expanded_url": "http://lizhi.shop",
+                "start": 35,
+                "url": "https://t.co/MtWt0TQP4w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lizhi.shop",
+                "end": 23,
+                "expanded_url": "https://lizhi.shop",
+                "start": 0,
+                "url": "https://t.co/ontKNEg2Zr"
+              }
+            ]
+          }
+        },
+        "id": "1679820088701222918",
+        "location": "上海",
+        "name": "数码荔枝",
+        "pinned_tweet_id": "1788176933945221571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953062629418909696/XCOwpNIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22540,
+          "following_count": 436,
+          "like_count": 7640,
+          "listed_count": 112,
+          "media_count": 465,
+          "tweet_count": 4897
+        },
+        "url": "https://t.co/ontKNEg2Zr",
+        "username": "DIGITALYCHEE",
+        "verified": true
+      }
+    ]
+  }
+}

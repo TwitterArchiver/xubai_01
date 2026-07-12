@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2010251645196857345"
+      ],
+      "media_source_tweet_id": [
+        "2010252409533268469"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2010345953388302536",
+    "created_at": "2026-01-11T13:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T14:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010345953388302536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1778981124351672320",
+          "start": 3,
+          "username": "k12a3n_08"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lnNaFGOmfO",
+          "end": 61,
+          "expanded_url": "https://x.com/k12a3n_08/status/2010252409533268469/video/1",
+          "media_key": "13_2010251645196857345",
+          "start": 38,
+          "url": "https://t.co/lnNaFGOmfO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010345953388302536",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010252409533268469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k12a3n_08: wwwwwwwwwwwwwwwwwwwwww https://t.co/lnNaFGOmfO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27871,
+        "height": 1280,
+        "media_key": "13_2010251645196857345",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010251645196857345/img/ZsZRjKZly6HubfTT.jpg",
+        "public_metrics": {
+          "view_count": 18911
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010251645196857345/vid/avc1/320x568/l2LabBI4YD4NpFrQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010251645196857345/vid/avc1/480x852/mZYl7oRRSiwN6il2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010251645196857345/vid/avc1/720x1280/FIh3iTZcVZWz4XXh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010251645196857345/pl/vILxUBI_Y_H40biH.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010251645196857345"
+          ],
+          "media_source_tweet_id": [
+            "2010252409533268469"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010345953388302536",
+        "created_at": "2026-01-11T13:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010345953388302536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1778981124351672320",
+              "start": 3,
+              "username": "k12a3n_08"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lnNaFGOmfO",
+              "end": 61,
+              "expanded_url": "https://x.com/k12a3n_08/status/2010252409533268469/video/1",
+              "media_key": "13_2010251645196857345",
+              "start": 38,
+              "url": "https://t.co/lnNaFGOmfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010345953388302536",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010252409533268469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k12a3n_08: wwwwwwwwwwwwwwwwwwwwww https://t.co/lnNaFGOmfO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010251645196857345"
+          ]
+        },
+        "author_id": "1778981124351672320",
+        "conversation_id": "2010252409533268469",
+        "created_at": "2026-01-11T07:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T08:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010252409533268469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lnNaFGOmfO",
+              "end": 46,
+              "expanded_url": "https://x.com/k12a3n_08/status/2010252409533268469/video/1",
+              "media_key": "13_2010251645196857345",
+              "start": 23,
+              "url": "https://t.co/lnNaFGOmfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010252409533268469",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 50418,
+          "like_count": 1722,
+          "quote_count": 38,
+          "reply_count": 2,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "wwwwwwwwwwwwwwwwwwwwww https://t.co/lnNaFGOmfO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：长春和大湾区（一月中旬｜欢迎随时联系/心情大爆炸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 835,
+          "like_count": 13151,
+          "listed_count": 0,
+          "media_count": 556,
+          "tweet_count": 2496
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T02:59:14.000Z",
+        "description": "08 / CHUNITHM MAX 17.25 / X-VERSE-X 17.07 / maimai 15575 /プロセカ🟣AP420↑ / 夢ステ🌈1015↑ / 太鼓 2025 8段 /",
+        "id": "1778981124351672320",
+        "location": "Aichi",
+        "name": "かん",
+        "pinned_tweet_id": "1958450974151807286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998795749820375040/5dXOgLRV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 461,
+          "like_count": 11634,
+          "listed_count": 0,
+          "media_count": 2363,
+          "tweet_count": 5275
+        },
+        "username": "k12a3n_08",
+        "verified": false
+      }
+    ]
+  }
+}

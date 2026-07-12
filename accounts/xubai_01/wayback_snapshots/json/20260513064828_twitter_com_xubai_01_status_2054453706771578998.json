@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054453702719922176"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2054453706771578998",
+    "created_at": "2026-05-13T06:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054453706771578998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YtxuTbtnBH",
+          "end": 26,
+          "expanded_url": "https://x.com/xubai_01/status/2054453706771578998/photo/1",
+          "media_key": "3_2054453702719922176",
+          "start": 3,
+          "url": "https://t.co/YtxuTbtnBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054453706771578998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "牛逼 https://t.co/YtxuTbtnBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054453702719922176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILiwfYbYAArvLa.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054453702719922176"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2054453706771578998",
+        "created_at": "2026-05-13T06:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054453706771578998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YtxuTbtnBH",
+              "end": 26,
+              "expanded_url": "https://x.com/xubai_01/status/2054453706771578998/photo/1",
+              "media_key": "3_2054453702719922176",
+              "start": 3,
+              "url": "https://t.co/YtxuTbtnBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054453706771578998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "牛逼 https://t.co/YtxuTbtnBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 1263,
+          "like_count": 21998,
+          "listed_count": 0,
+          "media_count": 1071,
+          "tweet_count": 5383
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      }
+    ]
+  }
+}

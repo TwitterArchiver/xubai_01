@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2010717888123171145",
+    "created_at": "2026-01-13T15:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T16:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011102167441293475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546464289602428929",
+          "start": 0,
+          "username": "yuji53719"
+        },
+        {
+          "end": 26,
+          "id": "1913631395714670592",
+          "start": 11,
+          "username": "ldontknowwhoua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011102167441293475",
+    "in_reply_to_user_id": "1546464289602428929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011101428920828053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuji53719 @ldontknowwhoua 我笑的不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2010717888123171145",
+        "created_at": "2026-01-13T15:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011102167441293475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546464289602428929",
+              "start": 0,
+              "username": "yuji53719"
+            },
+            {
+              "end": 26,
+              "id": "1913631395714670592",
+              "start": 11,
+              "username": "ldontknowwhoua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011102167441293475",
+        "in_reply_to_user_id": "1546464289602428929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011101428920828053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuji53719 @ldontknowwhoua 我笑的不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546464289602428929",
+        "conversation_id": "2010717888123171145",
+        "created_at": "2026-01-13T15:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011101428920828053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913631395714670592",
+              "start": 0,
+              "username": "ldontknowwhoua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011101428920828053",
+        "in_reply_to_user_id": "1913631395714670592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010717888123171145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ldontknowwhoua 酸炸奶油我真的笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：东三省、大湾区、四川（一月中旬｜欢迎随时联系/心情大爆炸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜东北",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 845,
+          "like_count": 13300,
+          "listed_count": 0,
+          "media_count": 570,
+          "tweet_count": 2564
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T12:00:07.000Z",
+        "description": "只愿君心似我心 定不负相思意｜本号为碎碎念，平常话会很多！｜脑洞@defeuillaison｜友链：老铁@Makarios327375 小德@Devi114514 小宇@wanzi0209",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "defeuillaison"
+              },
+              {
+                "end": 67,
+                "start": 52,
+                "username": "Makarios327375"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Devi114514"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "wanzi0209"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuji53719",
+                "end": 23,
+                "expanded_url": "http://ngl.link/yuji53719",
+                "start": 0,
+                "url": "https://t.co/M3rw3dploJ"
+              }
+            ]
+          }
+        },
+        "id": "1546464289602428929",
+        "location": "Hong Kong",
+        "name": "鯉",
+        "pinned_tweet_id": "2011015387836715152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010960072005074944/1I25IYrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 2049,
+          "like_count": 22477,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 7539
+        },
+        "url": "https://t.co/M3rw3dploJ",
+        "username": "yuji53719",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T16:31:06.000Z",
+        "description": "日常 @smallyogur",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "smallyogur"
+              }
+            ]
+          }
+        },
+        "id": "1913631395714670592",
+        "name": "油炸酸奶 ‸ .",
+        "pinned_tweet_id": "2008569469673898402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913631836636405760/AoTSO-Hl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 61,
+          "like_count": 976,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 78
+        },
+        "username": "ldontknowwhoua",
+        "verified": false
+      }
+    ]
+  }
+}

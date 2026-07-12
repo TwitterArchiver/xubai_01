@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1978741238502154296",
+    "created_at": "2025-10-16T10:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T11:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978763383282237830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918520790775115776",
+          "start": 0,
+          "username": "kevinyang0803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978763383282237830",
+    "in_reply_to_user_id": "1918520790775115776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978741238502154296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kevinyang0803 我真不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978741230554288128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3XmqlWbkAAKZH9.jpg",
+        "width": 952
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978741230357110784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Xmqkna4AAcGd7.jpg",
+        "width": 952
+      },
+      {
+        "height": 742,
+        "media_key": "3_1978741230579351553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3XmqlcaAAEMF2L.jpg",
+        "width": 1316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1978741238502154296",
+        "created_at": "2025-10-16T10:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T11:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978763383282237830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918520790775115776",
+              "start": 0,
+              "username": "kevinyang0803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978763383282237830",
+        "in_reply_to_user_id": "1918520790775115776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978741238502154296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kevinyang0803 我真不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978741230554288128",
+            "3_1978741230357110784",
+            "3_1978741230579351553"
+          ]
+        },
+        "author_id": "1918520790775115776",
+        "conversation_id": "1978741238502154296",
+        "created_at": "2025-10-16T08:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T09:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978741238502154296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxXRGsS17Q",
+              "end": 97,
+              "expanded_url": "https://x.com/kevinyang0803/status/1978741238502154296/photo/1",
+              "media_key": "3_1978741230554288128",
+              "start": 74,
+              "url": "https://t.co/hxXRGsS17Q"
+            },
+            {
+              "display_url": "pic.x.com/hxXRGsS17Q",
+              "end": 97,
+              "expanded_url": "https://x.com/kevinyang0803/status/1978741238502154296/photo/1",
+              "media_key": "3_1978741230357110784",
+              "start": 74,
+              "url": "https://t.co/hxXRGsS17Q"
+            },
+            {
+              "display_url": "pic.x.com/hxXRGsS17Q",
+              "end": 97,
+              "expanded_url": "https://x.com/kevinyang0803/status/1978741238502154296/photo/1",
+              "media_key": "3_1978741230579351553",
+              "start": 74,
+              "url": "https://t.co/hxXRGsS17Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978741238502154296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 359,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拼多多谁教你的😅半夜多多买菜退个款，我是整个订单都退掉了，结果你他妈傻逼拼多多退款的时候是一个菜一个菜的退，半夜凌晨十几个小额退款直接给我封控了😇 https://t.co/hxXRGsS17Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 347,
+          "like_count": 3697,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T04:19:57.000Z",
+        "description": "2008/17/170/63，深圳男高，ENFJ\n爱好很杂，比如航空/轨道交通\n直男\n想进主播小群欢迎私信😋",
+        "id": "1918520790775115776",
+        "name": "KevinYang",
+        "pinned_tweet_id": "1957874878767628565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956436437718687744/rbQ-F3oi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2853,
+          "following_count": 77,
+          "like_count": 4906,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 1833
+        },
+        "username": "kevinyang0803",
+        "verified": true
+      }
+    ]
+  }
+}

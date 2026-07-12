@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2001702577113829614",
+    "created_at": "2025-12-18T17:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T18:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001702577113829614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1420205241404772352",
+          "start": 3,
+          "username": "YanboOfficial"
+        },
+        {
+          "end": 32,
+          "id": "1537248540640296960",
+          "start": 19,
+          "username": "ClaraChengGo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001702577113829614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001671640174989586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YanboOfficial: @ClaraChengGo 跟考公务员一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2001702577113829614",
+        "created_at": "2025-12-18T17:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T18:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001702577113829614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1420205241404772352",
+              "start": 3,
+              "username": "YanboOfficial"
+            },
+            {
+              "end": 32,
+              "id": "1537248540640296960",
+              "start": 19,
+              "username": "ClaraChengGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001702577113829614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001671640174989586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YanboOfficial: @ClaraChengGo 跟考公务员一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420205241404772352",
+        "conversation_id": "2001658355321098556",
+        "created_at": "2025-12-18T15:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T16:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001671640174989586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1537248540640296960",
+              "start": 0,
+              "username": "ClaraChengGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001671640174989586",
+        "in_reply_to_user_id": "1537248540640296960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001658355321098556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ClaraChengGo 跟考公务员一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 714,
+          "like_count": 10312,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 1326
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T02:11:40.000Z",
+        "description": "21yo.｜prev. DevRel & Now building @WorkWorkOrg｜Drop out｜Digital Nomad & Photoghapher｜Backpacking trip to 18 countries｜i@work-work.org",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "WorkWorkOrg"
+              }
+            ]
+          }
+        },
+        "id": "1420205241404772352",
+        "location": "Remote",
+        "name": "烟波 Yanbo🍡",
+        "pinned_tweet_id": "1963281891341275405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721865807926538240/lGu5XZsR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5429,
+          "following_count": 1550,
+          "like_count": 96475,
+          "listed_count": 31,
+          "media_count": 2456,
+          "tweet_count": 18460
+        },
+        "username": "YanboOfficial",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-16T01:40:02.000Z",
+        "description": "Vibing @openmind_agi @FindYourEdgePod | Crypto + AI + Robotics | Rebel @0xUClub @HKUniversity @ucl @PKU1898 | Gymrat | Ego 👇 Agency 👆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "openmind_agi"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "FindYourEdgePod"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "0xUClub"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "HKUniversity"
+              },
+              {
+                "end": 98,
+                "start": 94,
+                "username": "ucl"
+              },
+              {
+                "end": 107,
+                "start": 99,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1537248540640296960",
+        "location": "Onchain",
+        "name": "ClaraCheng.eth",
+        "pinned_tweet_id": "1968527515183628783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959652030534074368/tbiQKJGs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5103,
+          "following_count": 3549,
+          "like_count": 7258,
+          "listed_count": 65,
+          "media_count": 648,
+          "tweet_count": 4428
+        },
+        "username": "ClaraChengGo",
+        "verified": true
+      }
+    ]
+  }
+}

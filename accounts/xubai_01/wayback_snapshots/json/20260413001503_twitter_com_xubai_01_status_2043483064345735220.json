@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2043127938670080419",
+    "created_at": "2026-04-13T00:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T01:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043483064345735220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887556713429266432",
+          "start": 0,
+          "username": "linlitsuing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043483064345735220",
+    "in_reply_to_user_id": "1887556713429266432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043409162193998113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlitsuing 料子和深圳校服的区别就是厚。棉的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2043127938670080419",
+        "created_at": "2026-04-13T00:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043483064345735220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887556713429266432",
+              "start": 0,
+              "username": "linlitsuing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043483064345735220",
+        "in_reply_to_user_id": "1887556713429266432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043409162193998113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlitsuing 料子和深圳校服的区别就是厚。棉的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887556713429266432",
+        "conversation_id": "2043127938670080419",
+        "created_at": "2026-04-12T19:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043409162193998113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043409162193998113",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043127938670080419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 裤子好丑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/10.12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "yuji53719"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 1142,
+          "like_count": 18968,
+          "listed_count": 1,
+          "media_count": 911,
+          "tweet_count": 4611
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-06T17:39:39.000Z",
+        "description": "2007年/180/side/4.0版本/深圳🌈中文｜我是猫猫😼｜编导在读｜最好的老公🥺@YMColinMessi｜ 永远的哥哥👬@chen_perservera｜好宝宝@Haru_Located ｜魔女妈 🪄@ne_ROOT_mo ｜ 至交好友@KzCynic @XiaomaWOW777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "YMColinMessi"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "chen_perservera"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Haru_Located"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "ne_ROOT_mo"
+              },
+              {
+                "end": 131,
+                "start": 123,
+                "username": "KzCynic"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "XiaomaWOW777"
+              }
+            ]
+          }
+        },
+        "id": "1887556713429266432",
+        "location": "深圳",
+        "name": "奕晴📷",
+        "pinned_tweet_id": "1955978903027376175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042951783010689024/UvnOL11G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7426,
+          "following_count": 1611,
+          "like_count": 18376,
+          "listed_count": 10,
+          "media_count": 1576,
+          "tweet_count": 21622
+        },
+        "username": "linlitsuing",
+        "verified": true
+      }
+    ]
+  }
+}

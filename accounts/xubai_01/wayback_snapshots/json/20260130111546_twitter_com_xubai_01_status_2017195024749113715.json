@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2017152613830246858",
+    "created_at": "2026-01-30T11:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017195024749113715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1769533168858636291",
+          "start": 0,
+          "username": "Gabe35539834111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017195024749113715",
+    "in_reply_to_user_id": "1769533168858636291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017191371732656570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gabe35539834111 ～广州后面来深圳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2017152613830246858",
+        "created_at": "2026-01-30T11:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017195024749113715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1769533168858636291",
+              "start": 0,
+              "username": "Gabe35539834111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017195024749113715",
+        "in_reply_to_user_id": "1769533168858636291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017191371732656570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gabe35539834111 ～广州后面来深圳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769533168858636291",
+        "conversation_id": "2017152613830246858",
+        "created_at": "2026-01-30T11:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017191371732656570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017191371732656570",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017152613830246858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 可以多花23到深圳呀 一起玩哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜行程：大湾区、云川（一月中旬｜欢迎随时联系/心情大爆炸｜友链：@xubaimedia/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜成都",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 863,
+          "like_count": 14110,
+          "listed_count": 0,
+          "media_count": 605,
+          "tweet_count": 2857
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T01:16:11.000Z",
+        "description": "深圳南山enfp 喜欢xnh",
+        "id": "1769533168858636291",
+        "location": "Toronto, Ontario",
+        "name": "Gabe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919412379181596672/LD9aL1GV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 455,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 438
+        },
+        "username": "Gabe35539834111",
+        "verified": false
+      }
+    ]
+  }
+}

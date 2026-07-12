@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2011395490915770541",
+    "created_at": "2026-01-14T11:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T12:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011395490915770541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1669628758507266049",
+          "start": 3,
+          "username": "jwybg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011395490915770541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011138418395529696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jwybg: 以后有人给我发牛子 我就把他的牛子发给下一个男的 互相伤害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2011395490915770541",
+        "created_at": "2026-01-14T11:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011395490915770541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1669628758507266049",
+              "start": 3,
+              "username": "jwybg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011395490915770541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011138418395529696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jwybg: 以后有人给我发牛子 我就把他的牛子发给下一个男的 互相伤害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669628758507266049",
+        "conversation_id": "2011138418395529696",
+        "created_at": "2026-01-13T18:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T19:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011138418395529696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011138418395529696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 47311,
+          "like_count": 439,
+          "quote_count": 7,
+          "reply_count": 63,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "以后有人给我发牛子 我就把他的牛子发给下一个男的 互相伤害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：东三省、大湾区、四川（一月中旬｜欢迎随时联系/心情大爆炸｜@xubaimedia/？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜东北",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 848,
+          "like_count": 13389,
+          "listed_count": 0,
+          "media_count": 570,
+          "tweet_count": 2594
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T08:51:49.000Z",
+        "description": "分享我的腰…160/80/b 🚪v100 备注v              不客观地说 我是个好人",
+        "id": "1669628758507266049",
+        "location": "远距离",
+        "name": "Aoi Morimoto",
+        "pinned_tweet_id": "2006105047466205294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011100227827310592/KNZ6AJIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 61,
+          "like_count": 2036,
+          "listed_count": 6,
+          "media_count": 14,
+          "tweet_count": 89
+        },
+        "username": "jwybg",
+        "verified": false
+      }
+    ]
+  }
+}

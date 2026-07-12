@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2028662605255184802",
+    "created_at": "2026-03-03T18:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T19:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028906860754157767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1722587985781342208",
+          "start": 0,
+          "username": "yankaxh1207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028906860754157767",
+    "in_reply_to_user_id": "1722587985781342208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028826189968937429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yankaxh1207 其实不然"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2028662605255184802",
+        "created_at": "2026-03-03T18:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T19:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028906860754157767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1722587985781342208",
+              "start": 0,
+              "username": "yankaxh1207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028906860754157767",
+        "in_reply_to_user_id": "1722587985781342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028826189968937429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yankaxh1207 其实不然"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722587985781342208",
+        "conversation_id": "2028662605255184802",
+        "created_at": "2026-03-03T13:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028826189968937429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028826189968937429",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028662605255184802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 真的要这样吗😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 880,
+          "like_count": 15360,
+          "listed_count": 0,
+          "media_count": 682,
+          "tweet_count": 3268
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-09T12:12:39.000Z",
+        "description": "@lamotogether\n 🇨🇳 14y.o. Co-Founder Builder Coder\nI am organizing a hackathon with my team",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "lamotogether"
+              }
+            ]
+          }
+        },
+        "id": "1722587985781342208",
+        "location": "☜ WHAT IS IT????????",
+        "name": "BillW Gong",
+        "pinned_tweet_id": "1962065387937579033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021856437794906112/L0l72EPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 633,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 819
+        },
+        "username": "yankaxh1207",
+        "verified": true
+      }
+    ]
+  }
+}

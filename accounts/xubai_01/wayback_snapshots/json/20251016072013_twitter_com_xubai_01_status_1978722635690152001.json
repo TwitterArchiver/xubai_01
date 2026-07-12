@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1978712282067792279",
+    "created_at": "2025-10-16T07:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T08:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978722635690152001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        },
+        {
+          "end": 19,
+          "id": "1685499489493323776",
+          "start": 8,
+          "username": "GuiMengNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978722635690152001",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978717436661944517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 @GuiMengNya emm其实还是要买企业微信高级功能-会议，大概30，那就无限制了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1978712282067792279",
+        "created_at": "2025-10-16T07:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T08:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978722635690152001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            },
+            {
+              "end": 19,
+              "id": "1685499489493323776",
+              "start": 8,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978722635690152001",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978717436661944517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 @GuiMengNya emm其实还是要买企业微信高级功能-会议，大概30，那就无限制了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "1978712282067792279",
+        "created_at": "2025-10-16T06:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T07:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978717436661944517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978717436661944517",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978717265232027936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 你好，就算认证了企业微信对外开会议也只有40mins"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 343,
+          "like_count": 3656,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 発達障害者教育研究 言語学 撮影 音ゲー ツイ廃 男ママ タメ口 / Arcaea PTT 10.57 maimai 13,339 / CN EN JP KR / 🤍 @CyronANNO @wanzi0209 / sub @aoim31 無言フォロー失礼 / 音ゲーマー相互募集中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "CyronANNO"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 132,
+                "start": 125,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/jvbZ5Ctab_",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/jvbZ5Ctab_",
+                "start": 0,
+                "url": "https://t.co/8ENTIZcmwF"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "1974425094366859542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967602635726544896/5qI2tBuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 1494,
+          "like_count": 14932,
+          "listed_count": 2,
+          "media_count": 719,
+          "tweet_count": 3605
+        },
+        "url": "https://t.co/8ENTIZcmwF",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| 自殺準備中 / 音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1974986190827999646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 300,
+          "like_count": 4907,
+          "listed_count": 7,
+          "media_count": 141,
+          "tweet_count": 1640
+        },
+        "username": "GuiMengNya",
+        "verified": false
+      }
+    ]
+  }
+}

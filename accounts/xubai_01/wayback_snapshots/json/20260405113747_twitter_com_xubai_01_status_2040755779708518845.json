@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040666597459902464"
+      ],
+      "media_source_tweet_id": [
+        "2040666600810921997"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2040755779708518845",
+    "created_at": "2026-04-05T11:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T12:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040755779708518845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841988608825466880",
+          "start": 3,
+          "username": "america"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dq3JXDBrKH",
+          "end": 36,
+          "expanded_url": "https://x.com/america/status/2040666600810921997/photo/1",
+          "media_key": "3_2040666597459902464",
+          "start": 13,
+          "url": "https://t.co/dq3JXDBrKH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040755779708518845",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1394
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040666600810921997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @america: https://t.co/dq3JXDBrKH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_2040666597459902464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFHndV6aQAAoA3h.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040666597459902464"
+          ],
+          "media_source_tweet_id": [
+            "2040666600810921997"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2040755779708518845",
+        "created_at": "2026-04-05T11:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040755779708518845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841988608825466880",
+              "start": 3,
+              "username": "america"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dq3JXDBrKH",
+              "end": 36,
+              "expanded_url": "https://x.com/america/status/2040666600810921997/photo/1",
+              "media_key": "3_2040666597459902464",
+              "start": 13,
+              "url": "https://t.co/dq3JXDBrKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040755779708518845",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1394
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040666600810921997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @america: https://t.co/dq3JXDBrKH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040666597459902464"
+          ]
+        },
+        "author_id": "1841988608825466880",
+        "conversation_id": "2040666600810921997",
+        "created_at": "2026-04-05T05:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T06:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040666600810921997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dq3JXDBrKH",
+              "end": 23,
+              "expanded_url": "https://x.com/america/status/2040666600810921997/photo/1",
+              "media_key": "3_2040666597459902464",
+              "start": 0,
+              "url": "https://t.co/dq3JXDBrKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040666600810921997",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 221739,
+          "like_count": 15631,
+          "quote_count": 76,
+          "reply_count": 501,
+          "retweet_count": 1394
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dq3JXDBrKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "yuji53719"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 1076,
+          "like_count": 17946,
+          "listed_count": 0,
+          "media_count": 865,
+          "tweet_count": 4297
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-03T23:48:27.000Z",
+        "description": "PAC Founded by @ElonMusk to support candidates who champion Secure Borders, Sensible Spending, Safe Cities, Fair Justice System, Free Speech and Self-Protection",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "ElonMusk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "theamericapac.org",
+                "end": 23,
+                "expanded_url": "https://theamericapac.org",
+                "start": 0,
+                "url": "https://t.co/PdGFm7qcgm"
+              }
+            ]
+          }
+        },
+        "id": "1841988608825466880",
+        "location": "USA",
+        "name": "America",
+        "pinned_tweet_id": "2012218370058252341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842003465448398848/U3EZmdUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192285,
+          "following_count": 1,
+          "like_count": 764,
+          "listed_count": 2087,
+          "media_count": 2360,
+          "tweet_count": 3704
+        },
+        "url": "https://t.co/PdGFm7qcgm",
+        "username": "america",
+        "verified": true
+      }
+    ]
+  }
+}

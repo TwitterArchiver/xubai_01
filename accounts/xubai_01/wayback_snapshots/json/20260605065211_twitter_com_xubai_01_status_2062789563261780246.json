@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2062727369501315114",
+    "created_at": "2026-06-05T06:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T07:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062789563261780246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1407975550967156738",
+          "start": 0,
+          "username": "SunnyMQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062789563261780246",
+    "in_reply_to_user_id": "1407975550967156738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062789256897351731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SunnyMQ1 想要吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2062727369501315114",
+        "created_at": "2026-06-05T06:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062789563261780246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1407975550967156738",
+              "start": 0,
+              "username": "SunnyMQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062789563261780246",
+        "in_reply_to_user_id": "1407975550967156738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062789256897351731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SunnyMQ1 想要吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407975550967156738",
+        "conversation_id": "2062727369501315114",
+        "created_at": "2026-06-05T06:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062789256897351731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062789256897351731",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062727369501315114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 太酷了！金属卡质感拉满"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 1465,
+          "like_count": 23733,
+          "listed_count": 2,
+          "media_count": 1168,
+          "tweet_count": 6117
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-24T08:15:47.000Z",
+        "description": "💜 Web3 Builder & Connector \n🎙 CN & EN Host | 1000+ AMAs | 日本語勉強中 🇯🇵\n📍Always DYOR | Meme | Alpha Diamonds\n🌈 Core Builder @talk99 | Lifelong Learner",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 120,
+                "username": "talk99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Web3Bridging",
+                "end": 23,
+                "expanded_url": "https://t.me/Web3Bridging",
+                "start": 0,
+                "url": "https://t.co/tSIhEhV99D"
+              }
+            ]
+          }
+        },
+        "id": "1407975550967156738",
+        "name": "Sunny Tang | Bird🕊️",
+        "pinned_tweet_id": "1808043216941506910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816674952457912322/7ec3E-Aq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8325,
+          "following_count": 2894,
+          "like_count": 12660,
+          "listed_count": 26,
+          "media_count": 433,
+          "tweet_count": 7823
+        },
+        "url": "https://t.co/tSIhEhV99D",
+        "username": "SunnyMQ1",
+        "verified": true
+      }
+    ]
+  }
+}

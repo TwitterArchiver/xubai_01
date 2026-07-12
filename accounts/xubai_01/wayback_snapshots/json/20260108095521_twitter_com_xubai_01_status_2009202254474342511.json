@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2008924787016671232"
+      ],
+      "media_source_tweet_id": [
+        "2008924818096492560"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009202254474342511",
+    "created_at": "2026-01-08T09:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T10:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009202254474342511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1719649836306481152",
+          "start": 3,
+          "username": "lynhng550771731"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NVobTReAXR",
+          "end": 57,
+          "expanded_url": "https://x.com/lynhng550771731/status/2008924818096492560/video/1",
+          "media_key": "7_2008924787016671232",
+          "start": 34,
+          "url": "https://t.co/NVobTReAXR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009202254474342511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008924818096492560",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lynhng550771731: 克强被猪排饭难吃到化成灰 https://t.co/NVobTReAXR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24356,
+        "height": 720,
+        "media_key": "7_2008924787016671232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2008924787016671232/pu/img/wcX71cPLAAt_tYhl.jpg",
+        "public_metrics": {
+          "view_count": 269
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008924787016671232/pu/vid/avc1/360x270/Fc5EPzMoZv9KyH8T.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008924787016671232/pu/vid/avc1/480x360/wHXBj89cBEnHRvf8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008924787016671232/pu/vid/avc1/960x720/1aPCCl-R_Six2Dmh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2008924787016671232/pu/pl/PTd5i48LQJX8BkKk.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008924787016671232"
+          ],
+          "media_source_tweet_id": [
+            "2008924818096492560"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009202254474342511",
+        "created_at": "2026-01-08T09:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009202254474342511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1719649836306481152",
+              "start": 3,
+              "username": "lynhng550771731"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVobTReAXR",
+              "end": 57,
+              "expanded_url": "https://x.com/lynhng550771731/status/2008924818096492560/video/1",
+              "media_key": "7_2008924787016671232",
+              "start": 34,
+              "url": "https://t.co/NVobTReAXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009202254474342511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008924818096492560",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lynhng550771731: 克强被猪排饭难吃到化成灰 https://t.co/NVobTReAXR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008924787016671232"
+          ]
+        },
+        "author_id": "1719649836306481152",
+        "conversation_id": "2008924818096492560",
+        "created_at": "2026-01-07T15:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008924818096492560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVobTReAXR",
+              "end": 36,
+              "expanded_url": "https://x.com/lynhng550771731/status/2008924818096492560/video/1",
+              "media_key": "7_2008924787016671232",
+              "start": 13,
+              "url": "https://t.co/NVobTReAXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008924818096492560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 620,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "克强被猪排饭难吃到化成灰 https://t.co/NVobTReAXR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜行程：长春（待定）/珠三角（2月）｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 808,
+          "like_count": 12903,
+          "listed_count": 0,
+          "media_count": 541,
+          "tweet_count": 2387
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T09:37:53.000Z",
+        "description": "•中表朱江温胡  支持🍑当0😋\n•民同蒋宋蒋汪  🚫蒋张  🐈相关\n•我是辱追姐自推全否定注意避雷\n•卢关扩列私我  🚫品柜吱嘿mmr\n•史同姐港娱妹饿死妹纽卡妹快来找我玩",
+        "id": "1719649836306481152",
+        "location": "Singapore",
+        "name": "火茶_02",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001180335124701184/uKacjzW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 25,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 199
+        },
+        "username": "lynhng550771731",
+        "verified": false
+      }
+    ]
+  }
+}

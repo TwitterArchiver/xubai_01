@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987165271661154304",
+        "3_1987165271673708544"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "1987165289344344290",
+    "created_at": "2025-11-08T14:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T15:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987165289344344290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eAJCMyLCS6",
+          "end": 46,
+          "expanded_url": "https://x.com/xubai_01/status/1987165289344344290/photo/1",
+          "media_key": "3_1987165271661154304",
+          "start": 23,
+          "url": "https://t.co/eAJCMyLCS6"
+        },
+        {
+          "display_url": "pic.x.com/eAJCMyLCS6",
+          "end": 46,
+          "expanded_url": "https://x.com/xubai_01/status/1987165289344344290/photo/1",
+          "media_key": "3_1987165271673708544",
+          "start": 23,
+          "url": "https://t.co/eAJCMyLCS6"
+        },
+        {
+          "display_url": "x.com/miemietwt/stat…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/miemietwt/status/1987105964731064501",
+          "start": 47,
+          "url": "https://t.co/fiIfyNk1UA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987165289344344290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987105964731064501",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我能懂。（抽着玩的😠\n（草闻久了有点香是为啥 https://t.co/eAJCMyLCS6 https://t.co/fiIfyNk1UA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1987165289344344290].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1987165289344344290",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1987165289344344290"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987165271661154304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PUST9bEAA4-LG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987165271673708544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PUSUAaoAAXrd2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987105945714061312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OeVFlacAAw0li.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987105945714061312"
+          ]
+        },
+        "author_id": "1695800924273598464",
+        "conversation_id": "1987105964731064501",
+        "created_at": "2025-11-08T10:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987105964731064501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljYlWGqCk1",
+              "end": 35,
+              "expanded_url": "https://x.com/miemieTwT/status/1987105964731064501/photo/1",
+              "media_key": "3_1987105945714061312",
+              "start": 12,
+              "url": "https://t.co/ljYlWGqCk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987105964731064501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 861,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完饭连抽两根的爽谁懂 https://t.co/ljYlWGqCk1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 503,
+          "like_count": 5716,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T14:10:31.000Z",
+        "description": "06 switch 我有厌蠢症 脾气不好",
+        "id": "1695800924273598464",
+        "name": "咩",
+        "pinned_tweet_id": "1985220928792601039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958574309829742592/aZZyHkID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4567,
+          "following_count": 286,
+          "like_count": 4890,
+          "listed_count": 6,
+          "media_count": 59,
+          "tweet_count": 1541
+        },
+        "username": "miemieTwT",
+        "verified": false
+      }
+    ]
+  }
+}

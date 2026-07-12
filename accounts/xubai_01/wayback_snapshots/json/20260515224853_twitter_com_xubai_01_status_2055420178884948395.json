@@ -1,0 +1,561 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055420175680442368"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+          "id": "1836137739353292800",
+          "name": "2024 US Election"
+        }
+      }
+    ],
+    "conversation_id": "2055237199680147827",
+    "created_at": "2026-05-15T22:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T23:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055420178884948395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1236513840008962048",
+          "start": 0,
+          "username": "XING64590591"
+        },
+        {
+          "end": 25,
+          "id": "1698116287497633792",
+          "start": 14,
+          "username": "QJWE160525"
+        },
+        {
+          "end": 36,
+          "id": "1381631795007905793",
+          "start": 26,
+          "username": "soos19203"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RW3k71cOII",
+          "end": 66,
+          "expanded_url": "https://x.com/xubai_01/status/2055420178884948395/photo/1",
+          "media_key": "3_2055420175680442368",
+          "start": 43,
+          "url": "https://t.co/RW3k71cOII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055420178884948395",
+    "in_reply_to_user_id": "1236513840008962048",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055417946927993010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XING64590591 @QJWE160525 @soos19203 trump https://t.co/RW3k71cOII"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1434,
+        "media_key": "3_2055420175680442368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZRwnuakAA0LLP.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055420175680442368"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2055237199680147827",
+        "created_at": "2026-05-15T22:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T23:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055420178884948395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1236513840008962048",
+              "start": 0,
+              "username": "XING64590591"
+            },
+            {
+              "end": 25,
+              "id": "1698116287497633792",
+              "start": 14,
+              "username": "QJWE160525"
+            },
+            {
+              "end": 36,
+              "id": "1381631795007905793",
+              "start": 26,
+              "username": "soos19203"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RW3k71cOII",
+              "end": 66,
+              "expanded_url": "https://x.com/xubai_01/status/2055420178884948395/photo/1",
+              "media_key": "3_2055420175680442368",
+              "start": 43,
+              "url": "https://t.co/RW3k71cOII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055420178884948395",
+        "in_reply_to_user_id": "1236513840008962048",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055417946927993010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XING64590591 @QJWE160525 @soos19203 trump https://t.co/RW3k71cOII"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236513840008962048",
+        "conversation_id": "2055237199680147827",
+        "created_at": "2026-05-15T22:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T23:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055417946927993010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            },
+            {
+              "end": 21,
+              "id": "1698116287497633792",
+              "start": 10,
+              "username": "QJWE160525"
+            },
+            {
+              "end": 32,
+              "id": "1381631795007905793",
+              "start": 22,
+              "username": "soos19203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055417946927993010",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055417430089101624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 @QJWE160525 @soos19203 Whoever wearing tight suits supposed to be defeated?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1817,
+          "following_count": 1272,
+          "like_count": 22205,
+          "listed_count": 0,
+          "media_count": 1082,
+          "tweet_count": 5455
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-08T04:47:39.000Z",
+        "description": "Electronics Technician, student seek for a degree on STEM, traveler, longing for staying with family.中文y English.",
+        "id": "1236513840008962048",
+        "location": "Honolulu, HI",
+        "name": "XHennery",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033052737676730368/3IIpjJa3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 268,
+          "like_count": 4528,
+          "listed_count": 0,
+          "media_count": 1470,
+          "tweet_count": 3579
+        },
+        "username": "XING64590591",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T23:30:59.000Z",
+        "description": "0.5平常不怎么玩儿，是个烧包，专业dd人，爱看小男孩，胶衣，胶液赛高。\n瑟瑟无国界",
+        "id": "1698116287497633792",
+        "name": "红叶渺渺",
+        "pinned_tweet_id": "2043055516742512649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784628937680941056/lKh_wJsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 1754,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 380
+        },
+        "username": "QJWE160525",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-12T15:34:41.000Z",
+        "description": "台灣台北",
+        "id": "1381631795007905793",
+        "name": "星宇星宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908909192628563968/3uI4VgzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 3410,
+          "like_count": 79849,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 4340
+        },
+        "username": "soos19203",
+        "verified": false
+      }
+    ]
+  }
+}

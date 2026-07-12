@@ -1,0 +1,643 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009699862011412480",
+        "3_2009699877538680833",
+        "13_2009699885344313344"
+      ],
+      "media_source_tweet_id": [
+        "2009837603974262942",
+        "2009837603974262942",
+        "2009837603974262942"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+          "id": "1502374025170882561",
+          "name": "WhatsApp"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2009869717717299331",
+    "created_at": "2026-01-10T06:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T07:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009869717717299331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yZY1xkf5tc",
+          "end": 124,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2009837603974262942/video/1",
+          "media_key": "3_2009699862011412480",
+          "start": 101,
+          "url": "https://t.co/yZY1xkf5tc"
+        },
+        {
+          "display_url": "pic.x.com/yZY1xkf5tc",
+          "end": 124,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2009837603974262942/video/1",
+          "media_key": "3_2009699877538680833",
+          "start": 101,
+          "url": "https://t.co/yZY1xkf5tc"
+        },
+        {
+          "display_url": "pic.x.com/yZY1xkf5tc",
+          "end": 124,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2009837603974262942/video/1",
+          "media_key": "13_2009699885344313344",
+          "start": 101,
+          "url": "https://t.co/yZY1xkf5tc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009869717717299331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009837603974262942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿：DeepSeek 客服页面里的 GIF 功能疑似直接调用了 WhatsApp 的库，没做关键词过滤。\n随手一搜“8964”“习近平”，就能跳出一堆梗图 https://t.co/yZY1xkf5tc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2009699862011412480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-PjYGxXgAA8go0.jpg",
+        "width": 723
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2009699877538680833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-PjZAnW0AE3OhZ.jpg",
+        "width": 699
+      },
+      {
+        "duration_ms": 40366,
+        "height": 1920,
+        "media_key": "13_2009699885344313344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009699885344313344/img/s36SuP8Ez1ajH3nh.jpg",
+        "public_metrics": {
+          "view_count": 49968
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009699885344313344/vid/avc1/880x1920/sapU5jg93WLYTO5Z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009699885344313344/vid/avc1/480x1046/z0EXsSjsGjgXg7xU.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009699885344313344/vid/avc1/320x698/E3quCF_q2U1sS-Xi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009699885344313344/vid/avc1/720x1570/Wvowq07sHaJb4x_y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009699885344313344/pl/K_MelHZFHHtCv0mV.m3u8"
+          }
+        ],
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009699862011412480",
+            "3_2009699877538680833",
+            "13_2009699885344313344"
+          ],
+          "media_source_tweet_id": [
+            "2009837603974262942",
+            "2009837603974262942",
+            "2009837603974262942"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2009869717717299331",
+        "created_at": "2026-01-10T06:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009869717717299331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZY1xkf5tc",
+              "end": 124,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2009837603974262942/video/1",
+              "media_key": "3_2009699862011412480",
+              "start": 101,
+              "url": "https://t.co/yZY1xkf5tc"
+            },
+            {
+              "display_url": "pic.x.com/yZY1xkf5tc",
+              "end": 124,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2009837603974262942/video/1",
+              "media_key": "3_2009699877538680833",
+              "start": 101,
+              "url": "https://t.co/yZY1xkf5tc"
+            },
+            {
+              "display_url": "pic.x.com/yZY1xkf5tc",
+              "end": 124,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2009837603974262942/video/1",
+              "media_key": "13_2009699885344313344",
+              "start": 101,
+              "url": "https://t.co/yZY1xkf5tc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009869717717299331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009837603974262942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿：DeepSeek 客服页面里的 GIF 功能疑似直接调用了 WhatsApp 的库，没做关键词过滤。\n随手一搜“8964”“习近平”，就能跳出一堆梗图 https://t.co/yZY1xkf5tc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009699862011412480",
+            "3_2009699877538680833",
+            "13_2009699885344313344"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2009837603974262942",
+        "created_at": "2026-01-10T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009837603974262942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZY1xkf5tc",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2009837603974262942/video/1",
+              "media_key": "3_2009699862011412480",
+              "start": 81,
+              "url": "https://t.co/yZY1xkf5tc"
+            },
+            {
+              "display_url": "pic.x.com/yZY1xkf5tc",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2009837603974262942/video/1",
+              "media_key": "3_2009699877538680833",
+              "start": 81,
+              "url": "https://t.co/yZY1xkf5tc"
+            },
+            {
+              "display_url": "pic.x.com/yZY1xkf5tc",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2009837603974262942/video/1",
+              "media_key": "13_2009699885344313344",
+              "start": 81,
+              "url": "https://t.co/yZY1xkf5tc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009837603974262942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 111169,
+          "like_count": 763,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：DeepSeek 客服页面里的 GIF 功能疑似直接调用了 WhatsApp 的库，没做关键词过滤。\n随手一搜“8964”“习近平”，就能跳出一堆梗图 https://t.co/yZY1xkf5tc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：长春和大湾区（一月中旬｜欢迎随时联系/心情大爆炸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 814,
+          "like_count": 13037,
+          "listed_count": 0,
+          "media_count": 548,
+          "tweet_count": 2458
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2009609361061298427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177431,
+          "following_count": 994,
+          "like_count": 8667,
+          "listed_count": 8512,
+          "media_count": 39862,
+          "tweet_count": 46798
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

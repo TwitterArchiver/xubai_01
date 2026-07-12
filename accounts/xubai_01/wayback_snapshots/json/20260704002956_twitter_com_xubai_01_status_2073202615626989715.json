@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2073179588516254105",
+    "created_at": "2026-07-04T00:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T01:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073202615626989715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1946188524472213504",
+          "start": 0,
+          "username": "ooobsess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073202615626989715",
+    "in_reply_to_user_id": "1946188524472213504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073201858609385804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooobsess 被发现了～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2073179588516254105",
+        "created_at": "2026-07-04T00:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T01:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073202615626989715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1946188524472213504",
+              "start": 0,
+              "username": "ooobsess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073202615626989715",
+        "in_reply_to_user_id": "1946188524472213504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073201858609385804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooobsess 被发现了～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946188524472213504",
+        "conversation_id": "2073179588516254105",
+        "created_at": "2026-07-04T00:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T01:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073201858609385804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073201858609385804",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073179588516254105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 你也要润啦？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 1633,
+          "like_count": 25411,
+          "listed_count": 2,
+          "media_count": 1267,
+          "tweet_count": 6747
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-18T12:41:40.000Z",
+        "description": "全推特最著名的小傻瓜🌸\n专写推特上超有趣的推友🥰\n偶尔正经，大部分可爱🥺\n如果你被我写到，那就是被我写到啦💕\n想让我写写你？留下ID吧～我看到也不一定会写哦🫡",
+        "id": "1946188524472213504",
+        "location": "Hong Kong",
+        "name": "来",
+        "pinned_tweet_id": "2069700784967610753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030915515820965888/3oIGkdZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 822,
+          "like_count": 9031,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 2930
+        },
+        "url": "",
+        "username": "ooobsess",
+        "verified": true
+      }
+    ]
+  }
+}

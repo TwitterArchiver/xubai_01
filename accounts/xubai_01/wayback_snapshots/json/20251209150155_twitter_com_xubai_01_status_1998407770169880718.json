@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1998052771422208203",
+    "created_at": "2025-12-09T15:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T16:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998407770169880718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1963589602633289733",
+          "start": 0,
+          "username": "ceongpo_nogdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998407770169880718",
+    "in_reply_to_user_id": "1840810905833197568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998407529718858229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceongpo_nogdu 我有好几个2251科目短期借款找不到 我要闹了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1998052771422208203",
+        "created_at": "2025-12-09T15:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T16:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998407770169880718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1963589602633289733",
+              "start": 0,
+              "username": "ceongpo_nogdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998407770169880718",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998407529718858229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceongpo_nogdu 我有好几个2251科目短期借款找不到 我要闹了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1998052771422208203",
+        "created_at": "2025-12-09T15:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T16:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998407529718858229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1963589602633289733",
+              "start": 0,
+              "username": "ceongpo_nogdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998407529718858229",
+        "in_reply_to_user_id": "1963589602633289733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998406495419986325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceongpo_nogdu 那很好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜理论上行实践不会😡/人｜江浙沪常驻｜Founder @xubaimedia｜可能是个人，但是离神很远了。｜爱说梦话/想交朋友。🫠｜年底会计人格上身了要做账心情很不好请不要惹我（最后通牒）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 633,
+          "like_count": 8392,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 954
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T13:07:07.000Z",
+        "description": "初冬的雪终于分隔两个世界……",
+        "id": "1963589602633289733",
+        "name": "拌绿豆粉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963589812025528320/WoYBg47U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 173,
+          "like_count": 4101,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 665
+        },
+        "username": "ceongpo_nogdu",
+        "verified": false
+      }
+    ]
+  }
+}

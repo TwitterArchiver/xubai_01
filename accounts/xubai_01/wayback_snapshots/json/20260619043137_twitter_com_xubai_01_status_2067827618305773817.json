@@ -1,0 +1,657 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631722483521921029",
+          "name": "Stripe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041046235",
+          "name": "Stripe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      }
+    ],
+    "conversation_id": "2067565016149287245",
+    "created_at": "2026-06-19T04:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T05:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067827618305773817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        },
+        {
+          "end": 18,
+          "id": "1488080791125237760",
+          "start": 8,
+          "username": "MengXi969"
+        },
+        {
+          "end": 26,
+          "id": "102812444",
+          "start": 19,
+          "username": "stripe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067827618305773817",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067785803535990927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 @MengXi969 @stripe 好哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631722483521921029",
+              "name": "Stripe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041046235",
+              "name": "Stripe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          }
+        ],
+        "conversation_id": "2067565016149287245",
+        "created_at": "2026-06-19T04:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067827618305773817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            },
+            {
+              "end": 18,
+              "id": "1488080791125237760",
+              "start": 8,
+              "username": "MengXi969"
+            },
+            {
+              "end": 26,
+              "id": "102812444",
+              "start": 19,
+              "username": "stripe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067827618305773817",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067785803535990927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 @MengXi969 @stripe 好哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631722483521921029",
+              "name": "Stripe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041046235",
+              "name": "Stripe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          }
+        ],
+        "conversation_id": "2067565016149287245",
+        "created_at": "2026-06-19T01:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067785803535990927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            },
+            {
+              "end": 20,
+              "id": "1488080791125237760",
+              "start": 10,
+              "username": "MengXi969"
+            },
+            {
+              "end": 28,
+              "id": "102812444",
+              "start": 21,
+              "username": "stripe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067785803535990927",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067565016149287245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 @MengXi969 @stripe 他好像 API intergration 需要单独用 CLI 设置权限\n可以去开发文档看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 1523,
+          "like_count": 24674,
+          "listed_count": 2,
+          "media_count": 1196,
+          "tweet_count": 6424
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6161,
+          "following_count": 3062,
+          "like_count": 53465,
+          "listed_count": 21,
+          "media_count": 3266,
+          "tweet_count": 13674
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion @_entropyhq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_entropyhq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvNBL"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2362,
+          "following_count": 3175,
+          "like_count": 94998,
+          "listed_count": 6,
+          "media_count": 1195,
+          "tweet_count": 6831
+        },
+        "url": "https://t.co/TIHBlJvNBL",
+        "username": "MengXi969",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-07T22:43:34.000Z",
+        "description": "Stripe builds programmable financial services. Help: @stripesupport. Read: @stripepress @WorksInProgMag. Status: @stripestatus.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "stripesupport"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "stripepress"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "WorksInProgMag"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "stripestatus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stripe.com",
+                "end": 23,
+                "expanded_url": "http://stripe.com",
+                "start": 0,
+                "url": "https://t.co/1dBQAW35Wr"
+              }
+            ]
+          }
+        },
+        "id": "102812444",
+        "location": "San Francisco US + Dublin IE",
+        "name": "Stripe",
+        "pinned_tweet_id": "2067636201985630323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970187852572250113/hhDZmj7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285686,
+          "following_count": 561,
+          "like_count": 7785,
+          "listed_count": 3140,
+          "media_count": 512,
+          "tweet_count": 35636
+        },
+        "url": "https://t.co/1dBQAW35Wr",
+        "username": "stripe",
+        "verified": true
+      }
+    ]
+  }
+}

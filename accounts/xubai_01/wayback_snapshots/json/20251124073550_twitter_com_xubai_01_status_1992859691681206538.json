@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1992833282959183964",
+    "created_at": "2025-11-24T07:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T08:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992859691681206538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "958587661240950785",
+          "start": 0,
+          "username": "lokesh4002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992859691681206538",
+    "in_reply_to_user_id": "958587661240950785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992833282959183964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lokesh4002 老师没有了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1992833282959183964",
+        "created_at": "2025-11-24T07:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992859691681206538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "958587661240950785",
+              "start": 0,
+              "username": "lokesh4002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992859691681206538",
+        "in_reply_to_user_id": "958587661240950785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992833282959183964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lokesh4002 老师没有了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "958587661240950785",
+        "conversation_id": "1992833282959183964",
+        "created_at": "2025-11-24T05:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992833282959183964"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "JaMeShElEn159357",
+              "probability": 0.4888,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lokesh4002/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/lokesh4002/status/1992831210645766146",
+              "start": 17,
+              "url": "https://t.co/zpclBCL4u5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992833282959183964",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 870,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992831210645766146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "JaMeShElEn159357 https://t.co/zpclBCL4u5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 574,
+          "like_count": 7011,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 790
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-31T06:28:02.000Z",
+        "description": "不谈政治/福瑞控/简中/繁中👌English👌/地铁打工人/gay/side/不约/可以扩列/需要回关可以私信/里推🔞：@jameshelen114 /telegram:https://t.co/t1D6lCHwHl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "jameshelen114"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/jameshelen0324",
+                "end": 108,
+                "expanded_url": "http://t.me/jameshelen0324",
+                "start": 85,
+                "url": "https://t.co/t1D6lCHwHl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://google.com",
+                "start": 0,
+                "url": "https://t.co/pNjeo7lm9O"
+              }
+            ]
+          }
+        },
+        "id": "958587661240950785",
+        "location": "天津",
+        "name": "夏天🔜TRT",
+        "pinned_tweet_id": "1990955954670874831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987178518133022724/yau0d1HB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8778,
+          "following_count": 4076,
+          "like_count": 43835,
+          "listed_count": 9,
+          "media_count": 1561,
+          "tweet_count": 19029
+        },
+        "url": "https://t.co/pNjeo7lm9O",
+        "username": "lokesh4002",
+        "verified": false
+      }
+    ]
+  }
+}

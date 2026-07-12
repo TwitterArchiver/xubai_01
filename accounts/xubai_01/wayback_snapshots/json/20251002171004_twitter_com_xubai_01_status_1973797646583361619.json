@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1973769517794025789",
+    "created_at": "2025-10-02T17:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T18:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973797646583361619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1488080791125237760",
+          "start": 0,
+          "username": "MengXi969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973797646583361619",
+    "in_reply_to_user_id": "1488080791125237760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973769517794025789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MengXi969 哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1973769517794025789",
+        "created_at": "2025-10-02T17:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T18:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973797646583361619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488080791125237760",
+              "start": 0,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973797646583361619",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973769517794025789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MengXi969 哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488080791125237760",
+        "conversation_id": "1973769517794025789",
+        "created_at": "2025-10-02T15:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T16:18:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973769483136520596",
+          "1973769517794025789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973769517794025789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天要早起回杭州\n算上服务区休息时间14h起步🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈@xubai22｜梦到啥就发啥！2010年的｜一个什么圈子都混一点的莫名其妙的人。｜上学命苦，回来一看手机更命苦！｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "xubai22"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1965052451901591691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 266,
+          "like_count": 2994,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "14 y.r. / Full-Stack / CTFer / Middle School Student / Nexaorion & LightXi Inc.\n👉Work at @nexaorion @LankoZone\n💕@SnowballLoveyou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 89,
+                "username": "nexaorion"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "LankoZone"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "SnowballLoveyou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvNBL"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 2312,
+          "like_count": 49640,
+          "listed_count": 3,
+          "media_count": 533,
+          "tweet_count": 3389
+        },
+        "url": "https://t.co/TIHBlJvNBL",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

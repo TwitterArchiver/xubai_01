@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "1984237757766766985",
+    "created_at": "2025-12-17T13:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T14:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001276384233353408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1457364958841225222",
+          "start": 0,
+          "username": "u7ed2x2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001276384233353408",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984237757766766985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@u7ed2x2 右边是啥app哇 Apple Wallet嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1984237741710938112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4lttpCakAAtQ7q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1984237757766766985",
+        "created_at": "2025-12-17T13:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001276384233353408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001276384233353408",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984237757766766985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 右边是啥app哇 Apple Wallet嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984237741710938112"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984237757766766985",
+        "created_at": "2025-10-31T12:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984237757766766985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "DeFi meets real-world spending. ether.fi lets you earn with ETH, BTC, and stablecoins while accessing a crypto Visa card — all non-custodial and fully yours.",
+              "display_url": "Ether.fi",
+              "end": 46,
+              "expanded_url": "http://Ether.fi",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2000948707274186754/h_4NufbA?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2000948707274186754/h_4NufbA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 23,
+              "status": 200,
+              "title": "Save, Grow, Spend. Do more with your crypto | ether.fi",
+              "unwound_url": "https://www.ether.fi/",
+              "url": "https://t.co/PyJFVt0KwO"
+            },
+            {
+              "description": "DeFi meets real-world spending. ether.fi lets you earn with ETH, BTC, and stablecoins while accessing a crypto Visa card — all non-custodial and fully yours.",
+              "display_url": "Ether.fi",
+              "end": 154,
+              "expanded_url": "http://Ether.fi",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2000948707274186754/h_4NufbA?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2000948707274186754/h_4NufbA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 131,
+              "status": 200,
+              "title": "Save, Grow, Spend. Do more with your crypto | ether.fi",
+              "unwound_url": "https://www.ether.fi/",
+              "url": "https://t.co/PyJFVt0KwO"
+            },
+            {
+              "display_url": "pic.x.com/H8OtklRwQZ",
+              "end": 203,
+              "expanded_url": "https://x.com/lolirest/status/1984237757766766985/photo/1",
+              "media_key": "3_1984237741710938112",
+              "start": 180,
+              "url": "https://t.co/H8OtklRwQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984237757766766985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1251,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整理了目前所有的卡，也就GCash、ZEN还有https://t.co/PyJFVt0KwO的虚拟卡用得上，其它几个月前还在用的卡都可以去吃灰了...\n\nGCash ATM无损取现\n\nZEN会自动阻止线下刷卡时的DCC交易，让商家只能选择EDC，国外用很方便\n\nhttps://t.co/PyJFVt0KwO自托管+每笔都有返现\n\n最后再留两个POS刷给自己 https://t.co/H8OtklRwQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜网易/火山引擎/阿里云/腾讯云代理商｜接各类企服财税代办｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 698,
+          "like_count": 9954,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 1240
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "往返港深的🇸🇬 / godqwq@倒过来是里账",
+        "id": "1457364958841225222",
+        "location": "香橙港式大学",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 436,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 63
+        },
+        "username": "u7ed2x2",
+        "verified": false
+      }
+    ]
+  }
+}

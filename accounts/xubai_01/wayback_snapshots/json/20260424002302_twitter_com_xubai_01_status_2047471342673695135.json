@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1227714833300090881",
+          "name": "Google Fi"
+        }
+      }
+    ],
+    "conversation_id": "2047125219920281845",
+    "created_at": "2026-04-24T00:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T01:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047471342673695135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1322420550384275457",
+          "start": 0,
+          "username": "jaylenngx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047471342673695135",
+    "in_reply_to_user_id": "1322420550384275457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047125219920281845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jaylenngx 巨额在哪 如果是为了保号没必要开googlefi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047125209208033280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjZiBmXkAAePwN.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1227714833300090881",
+              "name": "Google Fi"
+            }
+          }
+        ],
+        "conversation_id": "2047125219920281845",
+        "created_at": "2026-04-24T00:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T01:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047471342673695135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1322420550384275457",
+              "start": 0,
+              "username": "jaylenngx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047471342673695135",
+        "in_reply_to_user_id": "1322420550384275457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047125219920281845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jaylenngx 巨额在哪 如果是为了保号没必要开googlefi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047125209208033280"
+          ]
+        },
+        "author_id": "1322420550384275457",
+        "conversation_id": "2047125219920281845",
+        "created_at": "2026-04-23T01:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047125219920281845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lE4ipc0F9r",
+              "end": 157,
+              "expanded_url": "https://x.com/jaylenngx/status/2047125219920281845/photo/1",
+              "media_key": "3_2047125209208033280",
+              "start": 134,
+              "url": "https://t.co/lE4ipc0F9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047125219920281845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 12184,
+          "like_count": 23,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "‼️Google Fi eSIM 巨额账单来了，奉劝各位踩坑的小伙伴们赶紧销号吧！\n\n开通不足一周，短信没收发一条，流量没用一 M，却产生了 24 刀的巨额账单！吓得我汗直流，这样下去卡里存的那点美金瞬间得被吸完！\n\n这里我教大家如何销户，如何免费把账单处理干净！👇 https://t.co/lE4ipc0F9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n备@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "xuba1_"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1204,
+          "like_count": 20499,
+          "listed_count": 0,
+          "media_count": 984,
+          "tweet_count": 4951
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-31T06:10:15.000Z",
+        "description": "关注我，很多东西你都可以复刻：\n从土木到外贸 SOHO | 数字游民实战中 💳 专注跨境支付： 美卡/ITIN/加密货币链路闭环 🤖 AI + 联盟营销： 探索 AI 赋能跨境业务新玩法 📱 全球网络： 各国 eSIM/社媒前沿玩法/工具控 ✍️ 持续输出硬核教程，陪你打破信息差，一起出海搞钱。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lnk.bio/jaylenng",
+                "end": 23,
+                "expanded_url": "https://lnk.bio/jaylenng",
+                "start": 0,
+                "url": "https://t.co/NJabahg8FW"
+              }
+            ]
+          }
+        },
+        "id": "1322420550384275457",
+        "location": "San Jose, CA",
+        "name": "不惑X nitama.de",
+        "pinned_tweet_id": "2033379589830173040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003510084744228865/e3DN9to9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8632,
+          "following_count": 4257,
+          "like_count": 3054,
+          "listed_count": 21,
+          "media_count": 339,
+          "tweet_count": 3621
+        },
+        "url": "https://t.co/NJabahg8FW",
+        "username": "jaylenngx",
+        "verified": true
+      }
+    ]
+  }
+}

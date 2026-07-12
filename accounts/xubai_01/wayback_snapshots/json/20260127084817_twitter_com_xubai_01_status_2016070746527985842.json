@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2015846603291283543",
+    "created_at": "2026-01-27T08:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T09:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016070746527985842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1017986178794979328",
+          "start": 0,
+          "username": "SwnaOrdulfs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016070746527985842",
+    "in_reply_to_user_id": "1017986178794979328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016054877458464976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SwnaOrdulfs 😭好喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2015846603291283543",
+        "created_at": "2026-01-27T08:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T09:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016070746527985842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1017986178794979328",
+              "start": 0,
+              "username": "SwnaOrdulfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016070746527985842",
+        "in_reply_to_user_id": "1017986178794979328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016054877458464976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SwnaOrdulfs 😭好喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1017986178794979328",
+        "conversation_id": "2015846603291283543",
+        "created_at": "2026-01-27T07:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016054877458464976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016054877458464976",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015846603291283543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 兄弟教我兄弟🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜行程：大湾区、云川（一月中旬｜欢迎随时联系/心情大爆炸｜友链：@xubaimedia/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜成都",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 860,
+          "like_count": 13981,
+          "listed_count": 0,
+          "media_count": 596,
+          "tweet_count": 2815
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-14T04:16:33.000Z",
+        "description": "Thank you for your support occasionally.🌎\n感谢你的偶尔支持。🌏\n🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2Xh8E_zBhO85O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2Xh8E_zBhO85OTMx",
+                "start": 0,
+                "url": "https://t.co/zqnVSI1OsI"
+              }
+            ]
+          }
+        },
+        "id": "1017986178794979328",
+        "name": "OcO",
+        "pinned_tweet_id": "1879464372000735409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921266251147423744/EQXg1t1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 777,
+          "like_count": 439226,
+          "listed_count": 12,
+          "media_count": 2015,
+          "tweet_count": 23534
+        },
+        "url": "https://t.co/zqnVSI1OsI",
+        "username": "SwnaOrdulfs",
+        "verified": false
+      }
+    ]
+  }
+}

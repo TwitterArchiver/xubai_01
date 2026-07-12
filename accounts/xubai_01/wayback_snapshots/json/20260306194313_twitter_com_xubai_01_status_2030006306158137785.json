@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2029607696954274244",
+    "created_at": "2026-03-06T19:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T20:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030006306158137785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1328537445609172992",
+          "start": 0,
+          "username": "1Fchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030006306158137785",
+    "in_reply_to_user_id": "1328537445609172992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029607696954274244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1Fchan 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2029607696954274244",
+        "created_at": "2026-03-06T19:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030006306158137785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1328537445609172992",
+              "start": 0,
+              "username": "1Fchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030006306158137785",
+        "in_reply_to_user_id": "1328537445609172992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029607696954274244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1Fchan 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1328537445609172992",
+        "conversation_id": "2029607696954274244",
+        "created_at": "2026-03-05T17:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T18:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029607696954274244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029607696954274244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19178,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被可爱xnh喜欢真的会开心好久嘿嘿😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 914,
+          "like_count": 15573,
+          "listed_count": 0,
+          "media_count": 702,
+          "tweet_count": 3366
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-17T03:16:38.000Z",
+        "description": "这里是F酱⭐️｜我永远喜欢西魔幽💜｜有四只耳朵🐱｜NMLG-B｜摄影器材师｜索尼大法好｜欢迎找我聊酒店飞机铁道｜梦想是财务自由",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fchyan",
+                "end": 23,
+                "expanded_url": "https://t.me/fchyan",
+                "start": 0,
+                "url": "https://t.co/RgOsWOv3jo"
+              }
+            ]
+          }
+        },
+        "id": "1328537445609172992",
+        "location": "22°33′32″N, 114°07′40″E",
+        "name": "Fchan",
+        "pinned_tweet_id": "1777335652323045399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006318913433571328/LgOQdNX9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6229,
+          "following_count": 1078,
+          "like_count": 8717,
+          "listed_count": 10,
+          "media_count": 573,
+          "tweet_count": 5092
+        },
+        "url": "https://t.co/RgOsWOv3jo",
+        "username": "1Fchan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2062727369501315114",
+    "created_at": "2026-06-08T14:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063993183189827686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1566105977492893696",
+          "start": 0,
+          "username": "shinewaic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063993183189827686",
+    "in_reply_to_user_id": "1566105977492893696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063941824428069134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinewaic 应该不行 因为需要调用stripe的金融账户功能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2062727369501315114",
+        "created_at": "2026-06-08T14:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063993183189827686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1566105977492893696",
+              "start": 0,
+              "username": "shinewaic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063993183189827686",
+        "in_reply_to_user_id": "1566105977492893696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063941824428069134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinewaic 应该不行 因为需要调用stripe的金融账户功能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566105977492893696",
+        "conversation_id": "2062727369501315114",
+        "created_at": "2026-06-08T11:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063941824428069134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063941824428069134",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062783080906285084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 英國公司可以辦這種卡片嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 1466,
+          "like_count": 23987,
+          "listed_count": 2,
+          "media_count": 1176,
+          "tweet_count": 6218
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-03T16:49:09.000Z",
+        "description": "INFP   藝術家？🌚\n🚪18/128（",
+        "id": "1566105977492893696",
+        "location": "United Kingdom",
+        "name": "SWC",
+        "pinned_tweet_id": "1939735052398838070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585847329793384449/6mVSq3Er_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 210,
+          "like_count": 3029,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1105
+        },
+        "username": "shinewaic",
+        "verified": false
+      }
+    ]
+  }
+}

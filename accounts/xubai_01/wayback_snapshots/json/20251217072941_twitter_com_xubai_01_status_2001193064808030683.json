@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2001193064808030683",
+    "created_at": "2025-12-17T07:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T08:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001193064808030683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1689804290850709504",
+          "start": 3,
+          "username": "wan_kylea"
+        },
+        {
+          "end": 27,
+          "id": "1767040816986656768",
+          "start": 15,
+          "username": "MeviuslX_Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001193064808030683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001160126150181021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wan_kylea: @MeviuslX_Xl 随老祖宗图灵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2001193064808030683",
+        "created_at": "2025-12-17T07:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T08:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001193064808030683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1689804290850709504",
+              "start": 3,
+              "username": "wan_kylea"
+            },
+            {
+              "end": 27,
+              "id": "1767040816986656768",
+              "start": 15,
+              "username": "MeviuslX_Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001193064808030683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001160126150181021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wan_kylea: @MeviuslX_Xl 随老祖宗图灵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689804290850709504",
+        "conversation_id": "2001135984805863823",
+        "created_at": "2025-12-17T05:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T06:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001160126150181021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767040816986656768",
+              "start": 0,
+              "username": "MeviuslX_Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001160126150181021",
+        "in_reply_to_user_id": "1767040816986656768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2906,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001135984805863823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeviuslX_Xl 随老祖宗图灵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia｜爱说梦话/想交朋友。🫠｜网易/火山引擎/阿里云/腾讯云代理商｜接各类企服财税代办｜一直都没钱都是装的身份自己给的｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 689,
+          "like_count": 9802,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-11T01:02:07.000Z",
+        "description": "我爱自己",
+        "id": "1689804290850709504",
+        "location": "停尸间",
+        "name": "娴靜",
+        "pinned_tweet_id": "1932280906020163891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996119621091688449/z_X79N1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 75,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 398
+        },
+        "username": "wan_kylea",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T04:12:28.000Z",
+        "description": "一只笨笨的邪恶小魅魔｜可以叫我小梅，或者梅子干也行｜很喜欢很喜欢的酸汤面姐姐大人@wang3289 ，小梅的妈咪@miya051223｜有点腹黑毒舌，但是很好相处，想认识好多好多朋友｜目前精神状态有点差，但是在努力克服啦｜最后……这里有提问箱⬇️可以问小梅任何问题哦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "wang3289"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "miya051223"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/MeviuslX_Xl843…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/MeviuslX_Xl84305",
+                "start": 0,
+                "url": "https://t.co/raPAD3y7nK"
+              }
+            ]
+          }
+        },
+        "id": "1767040816986656768",
+        "location": "魔王城",
+        "name": "ℳℯ𝓋𝒾𝓊𝓈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957098651299581952/LUPlmVG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13027,
+          "following_count": 1078,
+          "like_count": 18358,
+          "listed_count": 28,
+          "media_count": 1125,
+          "tweet_count": 8751
+        },
+        "url": "https://t.co/raPAD3y7nK",
+        "username": "MeviuslX_Xl",
+        "verified": false
+      }
+    ]
+  }
+}

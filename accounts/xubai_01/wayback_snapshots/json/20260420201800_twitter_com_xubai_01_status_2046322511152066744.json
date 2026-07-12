@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045809878799978496"
+      ],
+      "media_source_tweet_id": [
+        "2045809889587716217"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2046322511152066744",
+    "created_at": "2026-04-20T20:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T21:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046322511152066744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2372778043",
+          "start": 3,
+          "username": "skyguoCypherium"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/elGoUK7aEZ",
+          "end": 51,
+          "expanded_url": "https://x.com/skyguoCypherium/status/2045809889587716217/photo/1",
+          "media_key": "3_2045809878799978496",
+          "start": 28,
+          "url": "https://t.co/elGoUK7aEZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046322511152066744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045809889587716217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skyguoCypherium: 日你妈，退钱 https://t.co/elGoUK7aEZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 987,
+        "media_key": "3_2045809878799978496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQtPt_bkAASqxh.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045809878799978496"
+          ],
+          "media_source_tweet_id": [
+            "2045809889587716217"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2046322511152066744",
+        "created_at": "2026-04-20T20:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T21:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046322511152066744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2372778043",
+              "start": 3,
+              "username": "skyguoCypherium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/elGoUK7aEZ",
+              "end": 51,
+              "expanded_url": "https://x.com/skyguoCypherium/status/2045809889587716217/photo/1",
+              "media_key": "3_2045809878799978496",
+              "start": 28,
+              "url": "https://t.co/elGoUK7aEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046322511152066744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045809889587716217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skyguoCypherium: 日你妈，退钱 https://t.co/elGoUK7aEZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045809878799978496"
+          ]
+        },
+        "author_id": "2372778043",
+        "conversation_id": "2045809889587716217",
+        "created_at": "2026-04-19T10:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045809889587716217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/elGoUK7aEZ",
+              "end": 30,
+              "expanded_url": "https://x.com/skyguoCypherium/status/2045809889587716217/photo/1",
+              "media_key": "3_2045809878799978496",
+              "start": 7,
+              "url": "https://t.co/elGoUK7aEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045809889587716217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 229587,
+          "like_count": 696,
+          "quote_count": 14,
+          "reply_count": 227,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "日你妈，退钱 https://t.co/elGoUK7aEZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n备@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "xuba1_"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1196,
+          "like_count": 20294,
+          "listed_count": 0,
+          "media_count": 970,
+          "tweet_count": 4885
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2014-03-04T23:06:39.000Z",
+        "description": "@CypheriumChain Commander in Chief. $CPH https://t.co/LgubsvDmiO",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "CPH"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "CypheriumChain"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/cypherium_supe…",
+                "end": 64,
+                "expanded_url": "https://t.me/cypherium_supergroup",
+                "start": 41,
+                "url": "https://t.co/LgubsvDmiO"
+              }
+            ]
+          }
+        },
+        "id": "2372778043",
+        "name": "Sky G.cph",
+        "pinned_tweet_id": "2037397927065506277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905108613578006528/R3JzJ1p4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22685,
+          "following_count": 1305,
+          "like_count": 16428,
+          "listed_count": 133,
+          "media_count": 1283,
+          "tweet_count": 15432
+        },
+        "username": "skyguoCypherium",
+        "verified": true
+      }
+    ]
+  }
+}

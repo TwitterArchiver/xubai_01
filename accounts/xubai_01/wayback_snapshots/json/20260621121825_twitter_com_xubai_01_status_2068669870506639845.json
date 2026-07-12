@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068669866765410304"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2068669870506639845",
+    "created_at": "2026-06-21T12:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068669870506639845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vuH0HqJ05D",
+          "end": 37,
+          "expanded_url": "https://x.com/xubai_01/status/2068669870506639845/photo/1",
+          "media_key": "3_2068669866765410304",
+          "start": 14,
+          "url": "https://t.co/vuH0HqJ05D"
+        },
+        {
+          "display_url": "x.com/weexcn/status/…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/weexcn/status/2068664572920430887",
+          "start": 38,
+          "url": "https://t.co/ln8eyUm1Vd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068669870506639845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068664572920430887",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我chovy，你来真的啊！ https://t.co/vuH0HqJ05D https://t.co/ln8eyUm1Vd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_2068669866765410304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVkSJYbYAABXQi.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068669866765410304"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2068669870506639845",
+        "created_at": "2026-06-21T12:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068669870506639845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuH0HqJ05D",
+              "end": 37,
+              "expanded_url": "https://x.com/xubai_01/status/2068669870506639845/photo/1",
+              "media_key": "3_2068669866765410304",
+              "start": 14,
+              "url": "https://t.co/vuH0HqJ05D"
+            },
+            {
+              "display_url": "x.com/weexcn/status/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/weexcn/status/2068664572920430887",
+              "start": 38,
+              "url": "https://t.co/ln8eyUm1Vd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068669870506639845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068664572920430887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我chovy，你来真的啊！ https://t.co/vuH0HqJ05D https://t.co/ln8eyUm1Vd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872904921970032640",
+        "conversation_id": "2068610995862516193",
+        "created_at": "2026-06-21T11:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068664572920430887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068664572920430887",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068641131102163285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 关注了，记得教我打羽毛球"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2260,
+          "following_count": 1537,
+          "like_count": 24730,
+          "listed_count": 2,
+          "media_count": 1202,
+          "tweet_count": 6445
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-28T07:18:33.000Z",
+        "description": "🤝大使合作（X）：@MacCook_Weex @Hally_WEEX\n\n📲 API交易 ：https://t.co/kdixCnILeG\n\n👉  新人礼包：https://t.co/0z6jn3eQeR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "MacCook_Weex"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Hally_WEEX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "app.sensor.weex.tech:8106/t/B6A",
+                "end": 68,
+                "expanded_url": "https://app.sensor.weex.tech:8106/t/B6A",
+                "start": 45,
+                "url": "https://t.co/kdixCnILeG"
+              },
+              {
+                "display_url": "weex.com/zh-CN/register…",
+                "end": 101,
+                "expanded_url": "https://www.weex.com/zh-CN/register?vipCode=lxhh",
+                "start": 78,
+                "url": "https://t.co/0z6jn3eQeR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weex_group",
+                "end": 23,
+                "expanded_url": "https://t.me/weex_group",
+                "start": 0,
+                "url": "https://t.co/fKUe4p1Ach"
+              }
+            ]
+          }
+        },
+        "id": "1872904921970032640",
+        "name": "WEEX中文",
+        "pinned_tweet_id": "2067520182051098782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063901560493821952/iaFZSBFK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16556,
+          "following_count": 407,
+          "like_count": 4164,
+          "listed_count": 34,
+          "media_count": 3914,
+          "tweet_count": 7782
+        },
+        "url": "https://t.co/fKUe4p1Ach",
+        "username": "WeexCn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1984843949799063607",
+    "created_at": "2025-11-02T08:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T09:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984893854181704094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1254442404410621958",
+          "start": 0,
+          "username": "zwh20081"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984893854181704094",
+    "in_reply_to_user_id": "1254442404410621958",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984843949799063607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwh20081 哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 893,
+        "media_key": "3_1984843947387367424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4uVDdKbsAA1Cpi.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1984843949799063607",
+        "created_at": "2025-11-02T08:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T09:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984893854181704094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254442404410621958",
+              "start": 0,
+              "username": "zwh20081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984893854181704094",
+        "in_reply_to_user_id": "1254442404410621958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984843949799063607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwh20081 哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984843947387367424"
+          ]
+        },
+        "author_id": "1254442404410621958",
+        "conversation_id": "1984843949799063607",
+        "created_at": "2025-11-02T04:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T05:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984843949799063607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJEynJUpKm",
+              "end": 35,
+              "expanded_url": "https://x.com/zwh20081/status/1984843949799063607/photo/1",
+              "media_key": "3_1984843947387367424",
+              "start": 12,
+              "url": "https://t.co/bJEynJUpKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984843949799063607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 852,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回家依旧免费冰淇淋起手 https://t.co/bJEynJUpKm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 471,
+          "like_count": 5153,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-26T16:09:22.000Z",
+        "description": "17岁笨蛋高中生 服务器运维&深度学习业余人士 ＆Solart Tech打工人\n北京素鳞智绘科技有限公司 CEO\n北京素鳞科技产业有限公司 AIGC Lab技术开发总监\n异构平台适配+tg@zwh20081 支持各类国产卡与AMD rocm，Intel oneapi喵\nzwh20081@solart.pro 商务",
+        "id": "1254442404410621958",
+        "location": "福州",
+        "name": "zwh20081",
+        "pinned_tweet_id": "1984571952846283182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976944068505878529/FfNVRc4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 75,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1115
+        },
+        "username": "zwh20081",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2072343522313957453",
+    "created_at": "2026-07-01T16:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072360467348226273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2262723812",
+          "start": 0,
+          "username": "abskoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072360467348226273",
+    "in_reply_to_user_id": "2262723812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072343522313957453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abskoop 我还是显示要受邀注册😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2072341266600448000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJvZvkaUAAxljM.jpg",
+        "width": 2640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2072343522313957453",
+        "created_at": "2026-07-01T16:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072360467348226273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2262723812",
+              "start": 0,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072360467348226273",
+        "in_reply_to_user_id": "2262723812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072343522313957453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abskoop 我还是显示要受邀注册😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072341266600448000"
+          ]
+        },
+        "author_id": "2262723812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2072343522313957453",
+        "created_at": "2026-07-01T15:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072343522313957453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8FtO3LOKp",
+              "end": 77,
+              "expanded_url": "https://x.com/abskoop/status/2072343522313957453/photo/1",
+              "media_key": "3_2072341266600448000",
+              "start": 54,
+              "url": "https://t.co/k8FtO3LOKp"
+            },
+            {
+              "display_url": "x.com/abskoop/status…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/abskoop/status/2071536198292770936",
+              "start": 78,
+              "url": "https://t.co/YsJZvmFCXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072343522313957453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7954,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071536198292770936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "腾讯为海外用户开发的这款支付软件TenPayGo开放注册了\n\n我还绑卡成功了 找机会试试付款先 看看啥样的 https://t.co/k8FtO3LOKp https://t.co/YsJZvmFCXL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2364,
+          "following_count": 1621,
+          "like_count": 25189,
+          "listed_count": 2,
+          "media_count": 1249,
+          "tweet_count": 6658
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "🔍 挖掘互联网宝藏工具｜AI 工具 · 开源项目 · 在线工具 · 效率神器\n投稿 欢迎 DM｜备用号 @ahhhhfs\n🔔 TG 频道：https://t.co/OmSvNms9yl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 92,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 69,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752341,
+          "following_count": 1254,
+          "like_count": 26000,
+          "listed_count": 2712,
+          "media_count": 24547,
+          "tweet_count": 62217
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

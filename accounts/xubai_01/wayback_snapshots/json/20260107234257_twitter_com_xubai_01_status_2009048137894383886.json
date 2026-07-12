@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008561219268210691"
+      ],
+      "media_source_tweet_id": [
+        "2008561226100645910"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2009048137894383886",
+    "created_at": "2026-01-07T23:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T00:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009048137894383886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RqkYnParNM",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/2008561226100645910/photo/1",
+          "media_key": "3_2008561219268210691",
+          "start": 11,
+          "url": "https://t.co/RqkYnParNM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009048137894383886",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008561226100645910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/RqkYnParNM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2008561219268210691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_XyYAbcAM0bdC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008561219268210691"
+          ],
+          "media_source_tweet_id": [
+            "2008561226100645910"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2009048137894383886",
+        "created_at": "2026-01-07T23:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T00:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009048137894383886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RqkYnParNM",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/2008561226100645910/photo/1",
+              "media_key": "3_2008561219268210691",
+              "start": 11,
+              "url": "https://t.co/RqkYnParNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009048137894383886",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008561226100645910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/RqkYnParNM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008561219268210691"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2008561226100645910",
+        "created_at": "2026-01-06T15:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008561226100645910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RqkYnParNM",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2008561226100645910/photo/1",
+              "media_key": "3_2008561219268210691",
+              "start": 0,
+              "url": "https://t.co/RqkYnParNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008561226100645910",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 46018,
+          "like_count": 1608,
+          "quote_count": 19,
+          "reply_count": 30,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RqkYnParNM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜行程：长春（待定）/珠三角（2月）｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 806,
+          "like_count": 12891,
+          "listed_count": 0,
+          "media_count": 538,
+          "tweet_count": 2377
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删/推广自辩",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2006331356943696335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98270,
+          "following_count": 2608,
+          "like_count": 43917,
+          "listed_count": 136,
+          "media_count": 3531,
+          "tweet_count": 7882
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

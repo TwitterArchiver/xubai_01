@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2042507270903468297",
+    "created_at": "2026-04-10T09:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042528443192217897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1963589602633289733",
+          "start": 0,
+          "username": "ceongpo_nogdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042528443192217897",
+    "in_reply_to_user_id": "1963589602633289733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042507270903468297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceongpo_nogdu 内圈贴贴～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_2042507263966089216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhxiO_akAANF-x.jpg",
+        "width": 740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2042507270903468297",
+        "created_at": "2026-04-10T09:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042528443192217897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1963589602633289733",
+              "start": 0,
+              "username": "ceongpo_nogdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042528443192217897",
+        "in_reply_to_user_id": "1963589602633289733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042507270903468297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceongpo_nogdu 内圈贴贴～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042507263966089216"
+          ]
+        },
+        "author_id": "1963589602633289733",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2042507270903468297",
+        "created_at": "2026-04-10T07:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042507270903468297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "@ceongpo_nogdu mutual circle (indicative). Based on public data from the last 30 days. No login required.",
+              "display_url": "nareaitter.appwrite.network/en/ceongpo_nog…",
+              "end": 80,
+              "expanded_url": "https://nareaitter.appwrite.network/en/ceongpo_nogdu",
+              "start": 57,
+              "status": 200,
+              "title": "@ceongpo_nogdu",
+              "unwound_url": "https://nareaitter.appwrite.network/en/ceongpo_nogdu",
+              "url": "https://t.co/9LmlJSCf3V"
+            },
+            {
+              "display_url": "pic.x.com/7IhJlx9gja",
+              "end": 104,
+              "expanded_url": "https://x.com/ceongpo_nogdu/status/2042507270903468297/photo/1",
+              "media_key": "3_2042507263966089216",
+              "start": 81,
+              "url": "https://t.co/7IhJlx9gja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042507270903468297",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Twitter Mutual Circle — grid view of your X interactions\nhttps://t.co/9LmlJSCf3V https://t.co/7IhJlx9gja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "yuji53719"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 1116,
+          "like_count": 18508,
+          "listed_count": 0,
+          "media_count": 889,
+          "tweet_count": 4474
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-04T13:07:07.000Z",
+        "description": "这就是生活吗？难道一个有理智的人，一个愿意有所作为的人，每天想要做的，就是这些吗？",
+        "id": "1963589602633289733",
+        "name": "拌绿豆粉",
+        "pinned_tweet_id": "2039973093272375534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034072466260430848/2O3CZV0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 944,
+          "like_count": 24187,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 3358
+        },
+        "username": "ceongpo_nogdu",
+        "verified": false
+      }
+    ]
+  }
+}

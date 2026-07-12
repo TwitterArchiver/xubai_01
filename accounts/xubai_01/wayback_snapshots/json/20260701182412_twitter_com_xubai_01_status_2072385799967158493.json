@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2072224303857447049",
+    "created_at": "2026-07-01T18:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T19:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072385799967158493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "zhwevea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072385799967158493",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072224303857447049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhwevea 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2072224303857447049",
+        "created_at": "2026-07-01T18:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072385799967158493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072385799967158493",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072224303857447049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhwevea 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "2072224303857447049",
+        "created_at": "2026-07-01T07:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072224303857447049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072224303857447049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7458,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我被温州中学国际部录取了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2372,
+          "following_count": 1626,
+          "like_count": 25255,
+          "listed_count": 2,
+          "media_count": 1254,
+          "tweet_count": 6693
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 想要每天耍乐到处玩 ✈️｜❤想要成为技术大拿 📲💡｜👊：@lovelyshuimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7586,
+          "following_count": 434,
+          "like_count": 33500,
+          "listed_count": 23,
+          "media_count": 2620,
+          "tweet_count": 20511
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true
+      }
+    ]
+  }
+}

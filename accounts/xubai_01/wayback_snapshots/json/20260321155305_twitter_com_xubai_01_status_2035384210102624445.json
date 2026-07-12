@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2035221590615761350",
+    "created_at": "2026-03-21T15:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T16:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035384210102624445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989547619576905728",
+          "start": 0,
+          "username": "ynbb_ssr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035384210102624445",
+    "in_reply_to_user_id": "1989547619576905728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035384092792168488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynbb_ssr 吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2035221590615761350",
+        "created_at": "2026-03-21T15:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035384210102624445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989547619576905728",
+              "start": 0,
+              "username": "ynbb_ssr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035384210102624445",
+        "in_reply_to_user_id": "1989547619576905728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035384092792168488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynbb_ssr 吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989547619576905728",
+        "conversation_id": "2035221590615761350",
+        "created_at": "2026-03-21T15:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035384092792168488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035384092792168488",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035221590615761350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 吃！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1473,
+          "following_count": 979,
+          "like_count": 16395,
+          "listed_count": 0,
+          "media_count": 781,
+          "tweet_count": 3771
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T04:14:58.000Z",
+        "description": "02，摩羯♑，ISFJ\n‖172(±2)-61(±2)-side偏0只做M(存疑)\n‖理想型:无能的丈夫\n‖主线任务:活着就好\n‖这里是自己的碎碎念～\n‖芋泥是不会放弃擦边的！(都是照骗，现实查无此人\n‖私信随缘(会尽量看的！\n‖对象位置🔥火热招募中！\n放个匿名箱\nhttps://t.co/1v2H6BPOcD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ynbb46595",
+                "end": 156,
+                "expanded_url": "https://ngl.link/ynbb46595",
+                "start": 133,
+                "url": "https://t.co/1v2H6BPOcD"
+              }
+            ]
+          }
+        },
+        "id": "1989547619576905728",
+        "name": "是芋泥波波口牙",
+        "pinned_tweet_id": "2001158933592072667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989548029393973248/eCJM3yDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3075,
+          "following_count": 830,
+          "like_count": 21978,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 4389
+        },
+        "username": "ynbb_ssr",
+        "verified": false
+      }
+    ]
+  }
+}

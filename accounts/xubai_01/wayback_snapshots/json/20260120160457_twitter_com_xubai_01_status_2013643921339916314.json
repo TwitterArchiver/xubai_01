@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2013643921339916314",
+    "created_at": "2026-01-20T16:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T17:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013643921339916314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1271652280438308864",
+          "start": 3,
+          "username": "Jaciezyt"
+        },
+        {
+          "end": 30,
+          "id": "1581738468547301376",
+          "start": 14,
+          "username": "ProbiusOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013643921339916314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013620294276042824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jaciezyt: @ProbiusOfficial 绷不住了 这咋取证，全是错误数据"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2013643921339916314",
+        "created_at": "2026-01-20T16:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013643921339916314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1271652280438308864",
+              "start": 3,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 30,
+              "id": "1581738468547301376",
+              "start": 14,
+              "username": "ProbiusOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013643921339916314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013620294276042824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jaciezyt: @ProbiusOfficial 绷不住了 这咋取证，全是错误数据"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271652280438308864",
+        "conversation_id": "2013594134049661102",
+        "created_at": "2026-01-20T14:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013620294276042824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581738468547301376",
+              "start": 0,
+              "username": "ProbiusOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013620294276042824",
+        "in_reply_to_user_id": "1581738468547301376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 395,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013594134049661102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProbiusOfficial 绷不住了 这咋取证，全是错误数据"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜行程：大湾区、云川（一月中旬｜欢迎随时联系/心情大爆炸｜友链：@xubaimedia/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 857,
+          "like_count": 13795,
+          "listed_count": 0,
+          "media_count": 585,
+          "tweet_count": 2743
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 即将过期JK | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅🚢 | Former Dev @levimc_org | 愿望是大家都能天天开心❤ | 分身 @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 101,
+                "username": "levimc_org"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFiZW"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "𝓙𝓪𝓬𝓲𝓮 𝓩𝔂𝓽 ❄🏳️",
+        "pinned_tweet_id": "1997887382092443786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3590,
+          "following_count": 832,
+          "like_count": 56037,
+          "listed_count": 12,
+          "media_count": 1156,
+          "tweet_count": 13786
+        },
+        "url": "https://t.co/v1k3icFiZW",
+        "username": "Jaciezyt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T20:07:43.000Z",
+        "description": "founder of @cyclens_tech | CTF教程 - HelloCTF: https://t.co/qIGhtUfXk2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "cyclens_tech"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hello-ctf.com",
+                "end": 68,
+                "expanded_url": "https://hello-ctf.com/",
+                "start": 45,
+                "url": "https://t.co/qIGhtUfXk2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ProbiusOfficial",
+                "end": 23,
+                "expanded_url": "https://github.com/ProbiusOfficial",
+                "start": 0,
+                "url": "https://t.co/E9lZZ7BIjH"
+              }
+            ]
+          }
+        },
+        "id": "1581738468547301376",
+        "location": "Koprulu Sector Aiur",
+        "name": "探姬 | Hello-CTF 🚩",
+        "pinned_tweet_id": "2008997963495034978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998788213247541248/eoyKSlKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8662,
+          "following_count": 502,
+          "like_count": 14252,
+          "listed_count": 46,
+          "media_count": 1917,
+          "tweet_count": 12421
+        },
+        "url": "https://t.co/E9lZZ7BIjH",
+        "username": "ProbiusOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

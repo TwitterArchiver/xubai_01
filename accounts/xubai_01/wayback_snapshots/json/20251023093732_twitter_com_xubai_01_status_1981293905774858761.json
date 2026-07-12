@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1981240707043229939",
+    "created_at": "2025-10-23T09:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T10:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981293905774858761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1382030386683793408",
+          "start": 0,
+          "username": "RimusTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981293905774858761",
+    "in_reply_to_user_id": "1382030386683793408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981240707043229939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RimusTW 这怎么搞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981240700294275072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37H63uWIAAC4hR.jpg",
+        "width": 1039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1981240707043229939",
+        "created_at": "2025-10-23T09:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T10:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981293905774858761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1382030386683793408",
+              "start": 0,
+              "username": "RimusTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981293905774858761",
+        "in_reply_to_user_id": "1382030386683793408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981240707043229939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RimusTW 这怎么搞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981240700294275072"
+          ]
+        },
+        "author_id": "1382030386683793408",
+        "conversation_id": "1981240707043229939",
+        "created_at": "2025-10-23T06:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T07:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981240707043229939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/re22Olnjv0",
+              "end": 90,
+              "expanded_url": "https://x.com/RimusTW/status/1981240707043229939/photo/1",
+              "media_key": "3_1981240700294275072",
+              "start": 67,
+              "url": "https://t.co/re22Olnjv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981240707043229939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 178,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了薅个羊毛把24年初就弹kyc一直没管的stripe给搞好了，现在我的手机也可以是pos机了😋\n（就是好像听说这玩意费率高的吓人x https://t.co/re22Olnjv0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 399,
+          "like_count": 4079,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-13T17:58:27.000Z",
+        "description": "普普通通莱姆菌，喜欢科技产物，正在学习编程，随便捣腾摄影，爱好胡乱挖坑⚠️ 上海摸鱼🐈‍⬛｜佛系百合厨，正经双性恋，TG群组纵火犯，在迷茫和矛盾中前行｜🌌 感谢大家的陪伴 🌃 无论是今天明天还是昨天，祝你天天开心！｜ 淡推中 对象: @Lemon_Beebalm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 117,
+                "username": "Lemon_Beebalm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimusdream",
+                "end": 23,
+                "expanded_url": "https://t.me/rimusdream",
+                "start": 0,
+                "url": "https://t.co/6v1fJC2q0i"
+              }
+            ]
+          }
+        },
+        "id": "1382030386683793408",
+        "location": "IP归属地：GN-Z11星系",
+        "name": "莱姆菌 _ 🪁 🍂 ✨",
+        "pinned_tweet_id": "1949920553810465236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668895392476581888/Ap1uwBDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 2309,
+          "like_count": 150589,
+          "listed_count": 16,
+          "media_count": 1711,
+          "tweet_count": 25687
+        },
+        "url": "https://t.co/6v1fJC2q0i",
+        "username": "RimusTW",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2003415228017705374",
+    "created_at": "2025-12-23T10:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T11:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003415228017705374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/afeisignify__/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/afeisignify__/status/2003071758421885292",
+          "start": 18,
+          "url": "https://t.co/8qOmAxwUiZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003415228017705374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003071758421885292",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我什么时候可以到被圈子批斗的地步。 https://t.co/8qOmAxwUiZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2003415228017705374",
+        "created_at": "2025-12-23T10:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T11:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003415228017705374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/afeisignify__/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/afeisignify__/status/2003071758421885292",
+              "start": 18,
+              "url": "https://t.co/8qOmAxwUiZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003415228017705374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003071758421885292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我什么时候可以到被圈子批斗的地步。 https://t.co/8qOmAxwUiZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888908122947010560",
+        "conversation_id": "2003071758421885292",
+        "created_at": "2025-12-22T11:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003071758421885292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003071758421885292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5897,
+          "like_count": 48,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实我也有点担心哪天自己爆典了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜啥意思。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 769,
+          "like_count": 11345,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 1710
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T11:09:37.000Z",
+        "description": "泥嚎 偶素俊雄｜喜欢的人：@falltal979｜渡桥激推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "falltal979"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.163.com/artist?id=3443…",
+                "end": 23,
+                "expanded_url": "http://music.163.com/artist?id=34439537&userid=2074403262",
+                "start": 0,
+                "url": "https://t.co/JyLeCIKDaS"
+              }
+            ]
+          }
+        },
+        "id": "1888908122947010560",
+        "location": "乌苏里江里",
+        "name": "俊雄雄雄_AFeiSigniFy",
+        "pinned_tweet_id": "1924135154689445896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972855882980765696/Rvwaqrd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 1736,
+          "like_count": 32529,
+          "listed_count": 2,
+          "media_count": 724,
+          "tweet_count": 7150
+        },
+        "url": "https://t.co/JyLeCIKDaS",
+        "username": "AFeiSigniFy__",
+        "verified": false
+      }
+    ]
+  }
+}

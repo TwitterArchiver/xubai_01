@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1983561395959640269",
+    "created_at": "2025-10-29T16:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T17:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983574801789960520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918520790775115776",
+          "start": 0,
+          "username": "kevinyang0803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983574801789960520",
+    "in_reply_to_user_id": "1918520790775115776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983561395959640269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kevinyang0803 有意思。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1983561395959640269",
+        "created_at": "2025-10-29T16:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983574801789960520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918520790775115776",
+              "start": 0,
+              "username": "kevinyang0803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983574801789960520",
+        "in_reply_to_user_id": "1918520790775115776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983561395959640269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kevinyang0803 有意思。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918520790775115776",
+        "conversation_id": "1983561395959640269",
+        "created_at": "2025-10-29T15:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983561395959640269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983561395959640269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界上蠢人真的很多，是那种单纯意义上的蠢，不是什么道德或者理解问题，就是他妈很蠢，妈的遇到好多个了我操，真的求求了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 457,
+          "like_count": 4806,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T04:19:57.000Z",
+        "description": "2008/17/170/63，深圳男高，ENFJ\n爱好很杂，比如航空/轨道交通\n直男\n想进主播小群欢迎私信😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KevinYangPress…",
+                "end": 23,
+                "expanded_url": "https://t.me/KevinYangPressConference",
+                "start": 0,
+                "url": "https://t.co/11vceEuK0w"
+              }
+            ]
+          }
+        },
+        "id": "1918520790775115776",
+        "name": "KevinYang",
+        "pinned_tweet_id": "1957874878767628565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956436437718687744/rbQ-F3oi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2933,
+          "following_count": 80,
+          "like_count": 5096,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 1952
+        },
+        "url": "https://t.co/11vceEuK0w",
+        "username": "kevinyang0803",
+        "verified": false
+      }
+    ]
+  }
+}

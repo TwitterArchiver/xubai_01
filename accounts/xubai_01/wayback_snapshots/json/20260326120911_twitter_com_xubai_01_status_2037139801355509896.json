@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2037070005511348625",
+    "created_at": "2026-03-26T12:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037139801355509896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2008556067618533376",
+          "start": 0,
+          "username": "zhao67954"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037139801355509896",
+    "in_reply_to_user_id": "2008556067618533376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037138336222240898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhao67954 你先说的 信你🤓☝️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2037070005511348625",
+        "created_at": "2026-03-26T12:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037139801355509896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2008556067618533376",
+              "start": 0,
+              "username": "zhao67954"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037139801355509896",
+        "in_reply_to_user_id": "2008556067618533376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037138336222240898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhao67954 你先说的 信你🤓☝️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008556067618533376",
+        "conversation_id": "2037070005511348625",
+        "created_at": "2026-03-26T12:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037138336222240898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037138336222240898",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037070005511348625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 我认真的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 1026,
+          "like_count": 17064,
+          "listed_count": 0,
+          "media_count": 821,
+          "tweet_count": 4055
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T15:07:56.000Z",
+        "description": "",
+        "id": "2008556067618533376",
+        "name": "Li Suiyue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008830204614152192/uP-ScB8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 32,
+          "like_count": 1042,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 306
+        },
+        "username": "zhao67954",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2002706460090994944",
+    "created_at": "2025-12-22T12:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T13:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003075441272504749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1513514070271422475",
+          "start": 0,
+          "username": "sl_caho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003075441272504749",
+    "in_reply_to_user_id": "1513514070271422475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003066573674971343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sl_caho 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2002706460090994944",
+        "created_at": "2025-12-22T12:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T13:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003075441272504749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1513514070271422475",
+              "start": 0,
+              "username": "sl_caho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003075441272504749",
+        "in_reply_to_user_id": "1513514070271422475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003066573674971343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sl_caho 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513514070271422475",
+        "conversation_id": "2002706460090994944",
+        "created_at": "2025-12-22T11:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003066573674971343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003066573674971343",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002706460090994944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 普兰养胃至今"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：武汉/长沙/昆明｜欢迎随时dm我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 754,
+          "like_count": 11064,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 1621
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T13:47:39.000Z",
+        "description": "Member of XIG .Personality Individuality Liberation\nENTJ-A Focus on Politics \nMail: i.am@caho.cc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "page.caho.cc",
+                "end": 23,
+                "expanded_url": "https://page.caho.cc/",
+                "start": 0,
+                "url": "https://t.co/ODiCfqruO5"
+              }
+            ]
+          }
+        },
+        "id": "1513514070271422475",
+        "location": "Washington, D.C.",
+        "name": "Sen.L.C Ho",
+        "pinned_tweet_id": "1888954184021561344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995492490519203840/k6Vi5esg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 575,
+          "like_count": 11833,
+          "listed_count": 6,
+          "media_count": 267,
+          "tweet_count": 1614
+        },
+        "url": "https://t.co/ODiCfqruO5",
+        "username": "sl_caho",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1999512667879346408",
+    "created_at": "2025-12-12T23:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T00:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999625293615779934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887556713429266432",
+          "start": 0,
+          "username": "linlitsuing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999625293615779934",
+    "in_reply_to_user_id": "1887556713429266432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999549220815053140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlitsuing 谢谢～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1999512667879346408",
+        "created_at": "2025-12-12T23:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T00:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999625293615779934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887556713429266432",
+              "start": 0,
+              "username": "linlitsuing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999625293615779934",
+        "in_reply_to_user_id": "1887556713429266432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999549220815053140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlitsuing 谢谢～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887556713429266432",
+        "conversation_id": "1999512667879346408",
+        "created_at": "2025-12-12T18:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T19:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999549220815053140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999549220815053140",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999512667879346408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 生日快乐哦🎂🎈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/人/实名上网｜ADHD&中抑重焦｜Founder @xubaimedia｜｜爱说梦话/想交朋友。🫠｜年底会计人格上身了要做账心情很不好请不要惹我（最后通牒）｜接各类企服财税代办｜一直都没钱都是装的身份自己给的｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 642,
+          "like_count": 8828,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T17:39:39.000Z",
+        "description": "2007年/180/side/4.0版本/深圳🌈中文｜我是猫猫😼｜编导在读｜老公🥺@YMColinMessi｜ 最好的哥哥👬@chen_perservera｜魔女妈 🪄@ne_ROOT_mo ｜ 至交好友@KzCynic @XiaomaWOW777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "YMColinMessi"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "chen_perservera"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "ne_ROOT_mo"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "username": "KzCynic"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "XiaomaWOW777"
+              }
+            ]
+          }
+        },
+        "id": "1887556713429266432",
+        "location": "深圳",
+        "name": "奕晴",
+        "pinned_tweet_id": "1955978903027376175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955740396941926402/Vwt2tIdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6839,
+          "following_count": 1369,
+          "like_count": 13910,
+          "listed_count": 10,
+          "media_count": 1206,
+          "tweet_count": 17651
+        },
+        "username": "linlitsuing",
+        "verified": true
+      }
+    ]
+  }
+}

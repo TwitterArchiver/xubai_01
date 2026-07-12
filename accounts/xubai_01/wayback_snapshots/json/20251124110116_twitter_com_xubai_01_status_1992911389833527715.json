@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1992704192470044699",
+    "created_at": "2025-11-24T11:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T12:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992911389833527715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1920734319360045058",
+          "start": 0,
+          "username": "HanaLily334"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992911389833527715",
+    "in_reply_to_user_id": "1920734319360045058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992869001232613537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanaLily334 还好 29"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1992704192470044699",
+        "created_at": "2025-11-24T11:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T12:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992911389833527715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1920734319360045058",
+              "start": 0,
+              "username": "HanaLily334"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992911389833527715",
+        "in_reply_to_user_id": "1920734319360045058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992869001232613537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanaLily334 还好 29"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920734319360045058",
+        "conversation_id": "1992704192470044699",
+        "created_at": "2025-11-24T08:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T09:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992869001232613537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992869001232613537",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992704192470044699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 直连会很贵的吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 575,
+          "like_count": 7019,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T06:55:33.000Z",
+        "description": "初来乍到，请多多指教",
+        "id": "1920734319360045058",
+        "name": "HanaLily",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920736052609720320/L1Nw-_HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 64,
+          "like_count": 247,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 241
+        },
+        "username": "HanaLily334",
+        "verified": false
+      }
+    ]
+  }
+}

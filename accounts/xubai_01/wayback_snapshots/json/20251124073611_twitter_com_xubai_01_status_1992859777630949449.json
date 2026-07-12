@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1992704192470044699",
+    "created_at": "2025-11-24T07:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T08:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992859777630949449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1828367229873987587",
+          "start": 0,
+          "username": "Ryouhachisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992859777630949449",
+    "in_reply_to_user_id": "1828367229873987587",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992760461927035343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ryouhachisaki yes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1992704192470044699",
+        "created_at": "2025-11-24T07:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992859777630949449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1828367229873987587",
+              "start": 0,
+              "username": "Ryouhachisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992859777630949449",
+        "in_reply_to_user_id": "1828367229873987587",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992760461927035343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ryouhachisaki yes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828367229873987587",
+        "conversation_id": "1992704192470044699",
+        "created_at": "2025-11-24T01:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T02:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992760461927035343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992760461927035343",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992704192470044699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 什么？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 574,
+          "like_count": 7013,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 791
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T09:41:42.000Z",
+        "description": "IP：TW | 活在难以置信的噩梦，令人难以置信的经历 | 小猫咪会想吃鱼鱼吗 | 🎵#千曦の推歌 | 拟猫论猫少年主义猫@tutu65537 素勘宝宝@sukan_520 小猫🐱@ForsakenDreamm 大猫🐱@KZRGMK8964 哥哥@Boat_wind_moon 可爱周刊 @sunsiyu2007",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "千曦の推歌"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "tutu65537"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "sukan_520"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "ForsakenDreamm"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "KZRGMK8964"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "Boat_wind_moon"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "sunsiyu2007"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.linwayne.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://blog.linwayne.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/c3I5B8qjcn"
+              }
+            ]
+          }
+        },
+        "id": "1828367229873987587",
+        "location": "好戏…开场！",
+        "name": "凌羽千曦",
+        "pinned_tweet_id": "1986723959757541718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988309553054969856/QcTG6co0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 1061,
+          "like_count": 24848,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 4770
+        },
+        "url": "https://t.co/c3I5B8qjcn",
+        "username": "Ryouhachisaki",
+        "verified": false
+      }
+    ]
+  }
+}

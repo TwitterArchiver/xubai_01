@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2009686513085448348",
+    "created_at": "2026-01-09T17:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T18:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009686513085448348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1602320477347000325",
+          "start": 3,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009686513085448348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009452525548884228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @landiantech: 微软封杀假 MAS 激活工具时不慎将真 MAS 也封杀，现在用户若要执行命令激活需要先禁用 Win10/11 安全防护。网友截图显示，在执行激活命令时被微软拦截，显示木马病毒 FakeMas，这应该是最近有人注册类似域名投毒引起微软关注后添加的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2009452506716491787",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-MCaIfa0AsE10n.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2009686513085448348",
+        "created_at": "2026-01-09T17:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T18:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009686513085448348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1602320477347000325",
+              "start": 3,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009686513085448348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009452525548884228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @landiantech: 微软封杀假 MAS 激活工具时不慎将真 MAS 也封杀，现在用户若要执行命令激活需要先禁用 Win10/11 安全防护。网友截图显示，在执行激活命令时被微软拦截，显示木马病毒 FakeMas，这应该是最近有人注册类似域名投毒引起微软关注后添加的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009452506716491787"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2009452525548884228",
+        "created_at": "2026-01-09T02:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T03:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009452525548884228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ourl.co/111545?x",
+              "end": 165,
+              "expanded_url": "https://ourl.co/111545?x",
+              "start": 142,
+              "unwound_url": "https://www.landiannews.com/archives/111545.html?utm_source=x.com&utm_medium=social&utm_campaign=%E5%BE%AE%E8%BD%AF%E5%B0%81%E6%9D%80%E5%81%87MAS%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7%E6%97%B6%E4%B8%8D%E6%85%8E%E5%B0%86%E7%9C%9FMAS%E4%B9%9F%E5%B0%81%E6%9D%80+%E7%94%A8%E6%88%B7%E6%BF%80%E6%B4%BB%E9%9C%80%E8%A6%81%E6%8F%90%E5%89%8D%E5%85%B3%E9%97%AD%E5%AE%89%E5%85%A8%E9%98%B2%E6%8A%A4",
+              "url": "https://t.co/sTiGjhqG4Y"
+            },
+            {
+              "display_url": "pic.x.com/O6cxnKm2h4",
+              "end": 189,
+              "expanded_url": "https://x.com/landiantech/status/2009452525548884228/photo/1",
+              "media_key": "3_2009452506716491787",
+              "start": 166,
+              "url": "https://t.co/O6cxnKm2h4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009452525548884228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 18280,
+          "like_count": 81,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "微软封杀假 MAS 激活工具时不慎将真 MAS 也封杀，现在用户若要执行命令激活需要先禁用 Win10/11 安全防护。网友截图显示，在执行激活命令时被微软拦截，显示木马病毒 FakeMas，这应该是最近有人注册类似域名投毒引起微软关注后添加的拦截规则，但问题是真 MAS 也被拦截：https://t.co/sTiGjhqG4Y https://t.co/O6cxnKm2h4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：长春和大湾区（一月中旬｜欢迎随时联系/心情大爆炸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 814,
+          "like_count": 13026,
+          "listed_count": 0,
+          "media_count": 548,
+          "tweet_count": 2453
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 订阅频道：https://t.co/xzeoUEoPcU 联系方式：https://t.co/LJK1g3biPp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/landiansub",
+                "end": 48,
+                "expanded_url": "https://t.me/landiansub",
+                "start": 25,
+                "url": "https://t.co/xzeoUEoPcU"
+              },
+              {
+                "display_url": "t.me/id7371",
+                "end": 77,
+                "expanded_url": "https://t.me/id7371",
+                "start": 54,
+                "url": "https://t.co/LJK1g3biPp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31315,
+          "following_count": 643,
+          "like_count": 3855,
+          "listed_count": 255,
+          "media_count": 4561,
+          "tweet_count": 13425
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

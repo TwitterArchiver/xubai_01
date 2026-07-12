@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2052086849729114355",
+    "created_at": "2026-05-07T07:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052297179029786841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1427196954791059458",
+          "start": 0,
+          "username": "znmnmnmnm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052297179029786841",
+    "in_reply_to_user_id": "1427196954791059458",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052288050215137712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@znmnmnmnm xiaoyi969"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2052086849729114355",
+        "created_at": "2026-05-07T07:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052297179029786841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1427196954791059458",
+              "start": 0,
+              "username": "znmnmnmnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052297179029786841",
+        "in_reply_to_user_id": "1427196954791059458",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052288050215137712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@znmnmnmnm xiaoyi969"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427196954791059458",
+        "conversation_id": "2052086849729114355",
+        "created_at": "2026-05-07T07:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052288050215137712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052288050215137712",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052086849729114355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@xubai_01 所以哪里能看老板下海🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/小洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 1253,
+          "like_count": 21654,
+          "listed_count": 0,
+          "media_count": 1056,
+          "tweet_count": 5296
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-16T09:14:19.000Z",
+        "description": "20-某垃圾一本在读-喜欢发电的小男孩一枚捏，别让我逮到你😡狠狠发电啊啊啊啊🥵🥵🥵",
+        "id": "1427196954791059458",
+        "location": "不在地球上",
+        "name": "需。徐.许，续.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834498110477017088/c_SSrXVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 505,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 652
+        },
+        "username": "znmnmnmnm",
+        "verified": false
+      }
+    ]
+  }
+}

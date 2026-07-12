@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2035417974824464729",
+    "created_at": "2026-03-21T18:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T19:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035417974824464729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1873620948961951744",
+          "start": 3,
+          "username": "XiaomaWOW777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035417974824464729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035005941729694194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaomaWOW777: 普通恋爱关系 ×\n开放式关系 ×\n跟你没什么关系 ✓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2035417974824464729",
+        "created_at": "2026-03-21T18:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T19:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035417974824464729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1873620948961951744",
+              "start": 3,
+              "username": "XiaomaWOW777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035417974824464729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035005941729694194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaomaWOW777: 普通恋爱关系 ×\n开放式关系 ×\n跟你没什么关系 ✓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873620948961951744",
+        "conversation_id": "2035005941729694194",
+        "created_at": "2026-03-20T14:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035005941729694194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035005941729694194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5945,
+          "like_count": 117,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "普通恋爱关系 ×\n开放式关系 ×\n跟你没什么关系 ✓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1473,
+          "following_count": 979,
+          "like_count": 16410,
+          "listed_count": 0,
+          "media_count": 783,
+          "tweet_count": 3779
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-30T06:44:00.000Z",
+        "description": "最爱的老公：@horace_yee 备用号：@xiaomalaoshi777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "horace_yee"
+              },
+              {
+                "end": 38,
+                "start": 22,
+                "username": "xiaomalaoshi777"
+              }
+            ]
+          }
+        },
+        "id": "1873620948961951744",
+        "name": "小马",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030257095740973056/Ofrr5JOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6536,
+          "following_count": 710,
+          "like_count": 12838,
+          "listed_count": 15,
+          "media_count": 474,
+          "tweet_count": 9333
+        },
+        "username": "XiaomaWOW777",
+        "verified": false
+      }
+    ]
+  }
+}

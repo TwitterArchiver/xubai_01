@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1998770258140860582",
+    "created_at": "2025-12-12T11:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T12:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999438003685740843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3225544857",
+          "start": 0,
+          "username": "jiuhaoqiu_No_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999438003685740843",
+    "in_reply_to_user_id": "3225544857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998770258140860582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuhaoqiu_No_9 咩嘢来的 我听唔明啊..（我的塑料粤语"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7592,
+        "height": 720,
+        "media_key": "7_1998769947816898565",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1998769947816898565/pu/img/dLr_8SSkvKOK8M1h.jpg",
+        "public_metrics": {
+          "view_count": 249
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998769947816898565/pu/vid/avc1/480x270/l8zj7NG2V3dxkAla.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998769947816898565/pu/vid/avc1/640x360/jRgu7BEvlNIUPd51.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998769947816898565/pu/vid/avc1/1280x720/TqAX_FQpM8YY2BQH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1998769947816898565/pu/pl/wOIxMoeWUw3Tjxeq.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1998770258140860582",
+        "created_at": "2025-12-12T11:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999438003685740843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3225544857",
+              "start": 0,
+              "username": "jiuhaoqiu_No_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999438003685740843",
+        "in_reply_to_user_id": "3225544857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998770258140860582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuhaoqiu_No_9 咩嘢来的 我听唔明啊..（我的塑料粤语"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1998769947816898565"
+          ]
+        },
+        "author_id": "3225544857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          }
+        ],
+        "conversation_id": "1998770258140860582",
+        "created_at": "2025-12-10T15:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T16:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998770258140860582"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "审美积累"
+            },
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "Fursuit"
+            },
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "Furry"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "ケモノ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IppXRKmQZZ",
+              "end": 50,
+              "expanded_url": "https://x.com/jiuhaoqiu_No_9/status/1998770258140860582/video/1",
+              "media_key": "7_1998769947816898565",
+              "start": 27,
+              "url": "https://t.co/IppXRKmQZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998770258140860582",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 587,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#审美积累\n#Fursuit\n#Furry\n#ケモノ https://t.co/IppXRKmQZZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜理论上行实践不会😡/人/实名上网｜ADHD&中抑重焦｜Founder @xubaimedia｜｜爱说梦话/想交朋友。🫠｜年底会计人格上身了要做账心情很不好请不要惹我（最后通牒）｜接各类企服财税代办｜一直都没钱都是装的身份自己给的｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 637,
+          "like_count": 8755,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 1029
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-01T00:15:07.000Z",
+        "description": "Chinese🇨🇳/A DOG/无情的电影Bot/书📚，影🎦，音🎵，Furry🐺/私人小号:@JHQ_sweety/学习小号:@bahaoqiu_no_8 /INFJ-A 5w4/我推:@prime_idol/中文⭕English⭕日本語🔰廣東話🔰/🪡:@ynxiolu33031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "JHQ_sweety"
+              },
+              {
+                "end": 77,
+                "start": 63,
+                "username": "bahaoqiu_no_8"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "prime_idol"
+              },
+              {
+                "end": 140,
+                "start": 127,
+                "username": "ynxiolu33031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/1A8TmDEM…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/1A8TmDEMbd/",
+                "start": 0,
+                "url": "https://t.co/48xWm79ZoQ"
+              }
+            ]
+          }
+        },
+        "id": "3225544857",
+        "location": "ShenZhen,China",
+        "name": "九号球 (ナインボール/NO.9)",
+        "pinned_tweet_id": "1995017544076603492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996075464444837893/jqgx86MA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3973,
+          "following_count": 3712,
+          "like_count": 33012,
+          "listed_count": 6,
+          "media_count": 3414,
+          "tweet_count": 10522
+        },
+        "url": "https://t.co/48xWm79ZoQ",
+        "username": "jiuhaoqiu_No_9",
+        "verified": false
+      }
+    ]
+  }
+}

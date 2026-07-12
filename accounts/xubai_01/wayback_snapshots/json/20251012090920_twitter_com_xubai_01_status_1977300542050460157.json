@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1977269897785917919",
+    "created_at": "2025-10-12T09:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T10:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977300542050460157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1302118861995536387",
+          "start": 0,
+          "username": "Jiaxi_Cui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977300542050460157",
+    "in_reply_to_user_id": "1302118861995536387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977290996640891381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiaxi_Cui 无所谓啦嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1977269897785917919",
+        "created_at": "2025-10-12T09:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T10:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977300542050460157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1302118861995536387",
+              "start": 0,
+              "username": "Jiaxi_Cui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977300542050460157",
+        "in_reply_to_user_id": "1302118861995536387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977290996640891381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiaxi_Cui 无所谓啦嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1302118861995536387",
+        "conversation_id": "1977269897785917919",
+        "created_at": "2025-10-12T08:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T09:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977290996640891381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977290996640891381",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977269897785917919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 订单号遮一遮（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜梦到啥就发啥！2010年的｜一个什么圈子都混一点的莫名其妙的人。｜上学命苦，回来一看手机更命苦！｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 307,
+          "like_count": 3373,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-05T05:38:34.000Z",
+        "description": "Video AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scholar.google.com/citations?user…",
+                "end": 23,
+                "expanded_url": "https://scholar.google.com/citations?user=QRV7CjgAAAAJ",
+                "start": 0,
+                "url": "https://t.co/HnAKMxn4aS"
+              }
+            ]
+          }
+        },
+        "id": "1302118861995536387",
+        "location": "BeiJing",
+        "name": "Panda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677124881144770560/W6zZ-Zux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15022,
+          "following_count": 832,
+          "like_count": 2455,
+          "listed_count": 141,
+          "media_count": 418,
+          "tweet_count": 2244
+        },
+        "url": "https://t.co/HnAKMxn4aS",
+        "username": "Jiaxi_Cui",
+        "verified": true
+      }
+    ]
+  }
+}

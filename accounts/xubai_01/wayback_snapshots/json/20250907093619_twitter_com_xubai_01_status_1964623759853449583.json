@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964623750831489024"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "1964623759853449583",
+    "created_at": "2025-09-07T09:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T10:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964623759853449583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1A1n2wNrHc",
+          "end": 39,
+          "expanded_url": "https://x.com/xubai_01/status/1964623759853449583/photo/1",
+          "media_key": "3_1964623750831489024",
+          "start": 16,
+          "url": "https://t.co/1A1n2wNrHc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964623759853449583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "剪完头发就是典型的安卓人格✍️ https://t.co/1A1n2wNrHc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1964623759853449583].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1964623759853449583",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1964623759853449583"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964623750831489024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0O-5HGbQAAFehB.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "@xubai21｜一个人。｜gay0.5｜欢迎互推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "xubai21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "许白的回忆里",
+        "name": "许白",
+        "pinned_tweet_id": "1921545745993261070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962871355994746882/BW4i3aWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 186,
+          "like_count": 2356,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

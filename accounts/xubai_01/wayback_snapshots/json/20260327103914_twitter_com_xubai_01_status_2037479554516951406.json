@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037479550746259456"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2037479554516951406",
+    "created_at": "2026-03-27T10:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037479554516951406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tsyg1vSFfV",
+          "end": 35,
+          "expanded_url": "https://x.com/xubai_01/status/2037479554516951406/photo/1",
+          "media_key": "3_2037479550746259456",
+          "start": 12,
+          "url": "https://t.co/Tsyg1vSFfV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037479554516951406",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前情提要：你个蠢猩猩😡 https://t.co/Tsyg1vSFfV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037479550746259456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaU2ztacAAio4D.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037479550746259456"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2037479554516951406",
+        "created_at": "2026-03-27T10:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037479554516951406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tsyg1vSFfV",
+              "end": 35,
+              "expanded_url": "https://x.com/xubai_01/status/2037479554516951406/photo/1",
+              "media_key": "3_2037479550746259456",
+              "start": 12,
+              "url": "https://t.co/Tsyg1vSFfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037479554516951406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前情提要：你个蠢猩猩😡 https://t.co/Tsyg1vSFfV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 1036,
+          "like_count": 17141,
+          "listed_count": 0,
+          "media_count": 827,
+          "tweet_count": 4108
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      }
+    ]
+  }
+}

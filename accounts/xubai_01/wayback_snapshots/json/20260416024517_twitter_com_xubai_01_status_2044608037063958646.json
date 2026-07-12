@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044608033477791744"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2044585114022129853",
+    "created_at": "2026-04-16T02:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T03:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044608037063958646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1552953814570844160",
+          "start": 0,
+          "username": "MapleFrostWolf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0OeAtqZXCt",
+          "end": 45,
+          "expanded_url": "https://x.com/xubai_01/status/2044608037063958646/photo/1",
+          "media_key": "3_2044608033477791744",
+          "start": 22,
+          "url": "https://t.co/0OeAtqZXCt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044608037063958646",
+    "in_reply_to_user_id": "1552953814570844160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044585114022129853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MapleFrostWolf 我也有（） https://t.co/0OeAtqZXCt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044608033477791744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_oLHRakAArm58.jpg",
+        "width": 947
+      },
+      {
+        "height": 2188,
+        "media_key": "3_2044585106715869184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_TUmbagAANWq_.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044608033477791744"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2044585114022129853",
+        "created_at": "2026-04-16T02:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044608037063958646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552953814570844160",
+              "start": 0,
+              "username": "MapleFrostWolf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0OeAtqZXCt",
+              "end": 45,
+              "expanded_url": "https://x.com/xubai_01/status/2044608037063958646/photo/1",
+              "media_key": "3_2044608033477791744",
+              "start": 22,
+              "url": "https://t.co/0OeAtqZXCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044608037063958646",
+        "in_reply_to_user_id": "1552953814570844160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044585114022129853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MapleFrostWolf 我也有（） https://t.co/0OeAtqZXCt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044585106715869184"
+          ]
+        },
+        "author_id": "1552953814570844160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2044585114022129853",
+        "created_at": "2026-04-16T01:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044585114022129853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wyeafrq4Lb",
+              "end": 56,
+              "expanded_url": "https://x.com/MapleFrostWolf/status/2044585114022129853/photo/1",
+              "media_key": "3_2044585106715869184",
+              "start": 33,
+              "url": "https://t.co/wyeafrq4Lb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044585114022129853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 655,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于支持万事达Apple Pay了\n以后请叫我中卡哥（指中国银行 https://t.co/wyeafrq4Lb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n备@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "xuba1_"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 1168,
+          "like_count": 19570,
+          "listed_count": 0,
+          "media_count": 934,
+          "tweet_count": 4734
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T09:47:07.000Z",
+        "description": "数码科技迷📱日常分享 🐦 CyberSec Wolfy 🐺 Novice Photografur 📸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maplefrost.eu",
+                "end": 23,
+                "expanded_url": "http://maplefrost.eu",
+                "start": 0,
+                "url": "https://t.co/pWJz13QrpM"
+              }
+            ]
+          }
+        },
+        "id": "1552953814570844160",
+        "location": "Tromsø, Norway",
+        "name": "🐺枫霜 MapleFrost",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033371691855036416/Ee2Bx2-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 442,
+          "like_count": 15289,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 1401
+        },
+        "url": "https://t.co/pWJz13QrpM",
+        "username": "MapleFrostWolf",
+        "verified": false
+      }
+    ]
+  }
+}

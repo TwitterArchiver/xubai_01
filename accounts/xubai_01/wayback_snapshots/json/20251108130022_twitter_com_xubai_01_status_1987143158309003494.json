@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987143148662120448",
+        "3_1987143148662104064"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "1987143158309003494",
+    "created_at": "2025-11-08T13:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T14:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987143158309003494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nNK0nWEGV8",
+          "end": 33,
+          "expanded_url": "https://x.com/xubai_01/status/1987143158309003494/photo/1",
+          "media_key": "3_1987143148662120448",
+          "start": 10,
+          "url": "https://t.co/nNK0nWEGV8"
+        },
+        {
+          "display_url": "pic.x.com/nNK0nWEGV8",
+          "end": 33,
+          "expanded_url": "https://x.com/xubai_01/status/1987143158309003494/photo/1",
+          "media_key": "3_1987143148662104064",
+          "start": 10,
+          "url": "https://t.co/nNK0nWEGV8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987143158309003494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎我草下户这么快啊 https://t.co/nNK0nWEGV8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987143148662120448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PAKlXbYAALrHK.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987143148662104064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PAKlXbIAAGsWK.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987143148662120448",
+            "3_1987143148662104064"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "1987143158309003494",
+        "created_at": "2025-11-08T13:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987143158309003494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNK0nWEGV8",
+              "end": 33,
+              "expanded_url": "https://x.com/xubai_01/status/1987143158309003494/photo/1",
+              "media_key": "3_1987143148662120448",
+              "start": 10,
+              "url": "https://t.co/nNK0nWEGV8"
+            },
+            {
+              "display_url": "pic.x.com/nNK0nWEGV8",
+              "end": 33,
+              "expanded_url": "https://x.com/xubai_01/status/1987143158309003494/photo/1",
+              "media_key": "3_1987143148662104064",
+              "start": 10,
+              "url": "https://t.co/nNK0nWEGV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987143158309003494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我草下户这么快啊 https://t.co/nNK0nWEGV8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 502,
+          "like_count": 5710,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 558
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008203760951275520",
+        "3_2008203760989024256"
+      ],
+      "media_source_tweet_id": [
+        "2008203771839668516",
+        "2008203771839668516"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2008569843507957775",
+    "created_at": "2026-01-06T16:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T17:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008569843507957775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568630739662696448",
+          "start": 3,
+          "username": "trg_maimai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ypwDrpn8R1",
+          "end": 39,
+          "expanded_url": "https://x.com/trg_maimai/status/2008203771839668516/photo/1",
+          "media_key": "3_2008203760951275520",
+          "start": 16,
+          "url": "https://t.co/ypwDrpn8R1"
+        },
+        {
+          "display_url": "pic.x.com/ypwDrpn8R1",
+          "end": 39,
+          "expanded_url": "https://x.com/trg_maimai/status/2008203771839668516/photo/1",
+          "media_key": "3_2008203760989024256",
+          "start": 16,
+          "url": "https://t.co/ypwDrpn8R1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008569843507957775",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008203771839668516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trg_maimai: https://t.co/ypwDrpn8R1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008203760951275520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G96SrkAasAAGEKp.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2008203760989024256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G96SrkJasAAtivb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008203760951275520",
+            "3_2008203760989024256"
+          ],
+          "media_source_tweet_id": [
+            "2008203771839668516",
+            "2008203771839668516"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2008569843507957775",
+        "created_at": "2026-01-06T16:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T17:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008569843507957775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568630739662696448",
+              "start": 3,
+              "username": "trg_maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypwDrpn8R1",
+              "end": 39,
+              "expanded_url": "https://x.com/trg_maimai/status/2008203771839668516/photo/1",
+              "media_key": "3_2008203760951275520",
+              "start": 16,
+              "url": "https://t.co/ypwDrpn8R1"
+            },
+            {
+              "display_url": "pic.x.com/ypwDrpn8R1",
+              "end": 39,
+              "expanded_url": "https://x.com/trg_maimai/status/2008203771839668516/photo/1",
+              "media_key": "3_2008203760989024256",
+              "start": 16,
+              "url": "https://t.co/ypwDrpn8R1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008569843507957775",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008203771839668516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trg_maimai: https://t.co/ypwDrpn8R1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008203760951275520",
+            "3_2008203760989024256"
+          ]
+        },
+        "author_id": "1568630739662696448",
+        "conversation_id": "2008203771839668516",
+        "created_at": "2026-01-05T15:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T16:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008203771839668516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypwDrpn8R1",
+              "end": 23,
+              "expanded_url": "https://x.com/trg_maimai/status/2008203771839668516/photo/1",
+              "media_key": "3_2008203760951275520",
+              "start": 0,
+              "url": "https://t.co/ypwDrpn8R1"
+            },
+            {
+              "display_url": "pic.x.com/ypwDrpn8R1",
+              "end": 23,
+              "expanded_url": "https://x.com/trg_maimai/status/2008203771839668516/photo/1",
+              "media_key": "3_2008203760989024256",
+              "start": 0,
+              "url": "https://t.co/ypwDrpn8R1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008203771839668516",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 37351,
+          "like_count": 857,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ypwDrpn8R1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜行程：长春（待定）/珠三角（2月）｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 807,
+          "like_count": 12832,
+          "listed_count": 0,
+          "media_count": 537,
+          "tweet_count": 2357
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T16:01:37.000Z",
+        "description": "maimai player from Thailand 🇹🇭, KoP6th 1st runner up 🥈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@trg_maimai",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@trg_maimai",
+                "start": 0,
+                "url": "https://t.co/LnN1vle8Rb"
+              }
+            ]
+          }
+        },
+        "id": "1568630739662696448",
+        "name": "TRG",
+        "pinned_tweet_id": "2008096073529909272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673207136757878785/Ll1Gic7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12991,
+          "following_count": 437,
+          "like_count": 4997,
+          "listed_count": 10,
+          "media_count": 622,
+          "tweet_count": 1252
+        },
+        "url": "https://t.co/LnN1vle8Rb",
+        "username": "trg_maimai",
+        "verified": true
+      }
+    ]
+  }
+}

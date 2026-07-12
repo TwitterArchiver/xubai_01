@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2035983344052453538",
+    "created_at": "2026-03-23T18:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T19:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036144740018839748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1471310582070464512",
+          "start": 0,
+          "username": "L_eacc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036144740018839748",
+    "in_reply_to_user_id": "1471310582070464512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035983344052453538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L_eacc 字节跳动损失惨重。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2035983344052453538",
+        "created_at": "2026-03-23T18:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T19:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036144740018839748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1471310582070464512",
+              "start": 0,
+              "username": "L_eacc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036144740018839748",
+        "in_reply_to_user_id": "1471310582070464512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035983344052453538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L_eacc 字节跳动损失惨重。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471310582070464512",
+        "conversation_id": "2035983344052453538",
+        "created_at": "2026-03-23T07:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035983344052453538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainBuild_2024…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/RainBuild_2024/status/2035668798049853727",
+              "start": 34,
+              "url": "https://t.co/eX8wRqHMpO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035983344052453538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 21060,
+          "like_count": 83,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035668798049853727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在这里我宣布一件事，在一个月之后，我跟字节跳动的合作期就彻底结束了 https://t.co/eX8wRqHMpO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 992,
+          "like_count": 16633,
+          "listed_count": 0,
+          "media_count": 794,
+          "tweet_count": 3873
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-16T02:46:07.000Z",
+        "description": "e/acc | #AI #玩卡 #充电头 #软路由 | crypto @lyle_defi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "AI"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "玩卡"
+              },
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "充电头"
+              },
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "软路由"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "lyle_defi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lyle.im",
+                "end": 23,
+                "expanded_url": "http://lyle.im",
+                "start": 0,
+                "url": "https://t.co/b8u4UkU7Ha"
+              }
+            ]
+          }
+        },
+        "id": "1471310582070464512",
+        "name": "ℓ",
+        "pinned_tweet_id": "1966435896472883577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962784054484574208/7TTI45B1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6119,
+          "following_count": 313,
+          "like_count": 19875,
+          "listed_count": 34,
+          "media_count": 1291,
+          "tweet_count": 10719
+        },
+        "url": "https://t.co/b8u4UkU7Ha",
+        "username": "L_eacc",
+        "verified": false
+      }
+    ]
+  }
+}

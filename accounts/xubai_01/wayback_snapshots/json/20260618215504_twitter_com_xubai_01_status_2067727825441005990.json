@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067727821552926720"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2067541577862668718",
+    "created_at": "2026-06-18T21:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T22:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067727825441005990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796031897753276417",
+          "start": 0,
+          "username": "xiaoduoya_"
+        },
+        {
+          "end": 22,
+          "id": "1488080791125237760",
+          "start": 12,
+          "username": "MengXi969"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cn9DziF0kD",
+          "end": 51,
+          "expanded_url": "https://x.com/xubai_01/status/2067727825441005990/photo/1",
+          "media_key": "3_2067727821552926720",
+          "start": 28,
+          "url": "https://t.co/cn9DziF0kD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067727825441005990",
+    "in_reply_to_user_id": "1796031897753276417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067593739674268144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoduoya_ @MengXi969 人之常情 https://t.co/cn9DziF0kD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067727821552926720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLILf5fawAAqjbe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067727821552926720"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2067541577862668718",
+        "created_at": "2026-06-18T21:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T22:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067727825441005990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796031897753276417",
+              "start": 0,
+              "username": "xiaoduoya_"
+            },
+            {
+              "end": 22,
+              "id": "1488080791125237760",
+              "start": 12,
+              "username": "MengXi969"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cn9DziF0kD",
+              "end": 51,
+              "expanded_url": "https://x.com/xubai_01/status/2067727825441005990/photo/1",
+              "media_key": "3_2067727821552926720",
+              "start": 28,
+              "url": "https://t.co/cn9DziF0kD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067727825441005990",
+        "in_reply_to_user_id": "1796031897753276417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067593739674268144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoduoya_ @MengXi969 人之常情 https://t.co/cn9DziF0kD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796031897753276417",
+        "conversation_id": "2067541577862668718",
+        "created_at": "2026-06-18T13:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067593739674268144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488080791125237760",
+              "start": 0,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067593739674268144",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067541577862668718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MengXi969 stripe卡面好好看\n甚至还是world elite（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 1518,
+          "like_count": 24653,
+          "listed_count": 2,
+          "media_count": 1195,
+          "tweet_count": 6417
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-30T04:12:43.000Z",
+        "description": "嗨，我是小多。\n🤔16岁 热爱AI&Web3的高中生 独立Vibe Coding开发者 兴趣使然\n⭐️教程+日常分享 把推特当第二个朋友圈\n接触币圈是一个特殊的机遇，等我有时间再慢慢道来......\n\n所有推文都不构成投资建议 DYOR\n有任何问题欢迎TG私信我🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/heyxiaoduo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/heyxiaoduo",
+                "start": 0,
+                "url": "https://t.co/VHEVeomtMg"
+              }
+            ]
+          }
+        },
+        "id": "1796031897753276417",
+        "location": "Web3&AI | 商务合作·平台返佣·个人项目 →",
+        "name": "HeyXiaoDuo_",
+        "pinned_tweet_id": "2045072469929959587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796031965281517568/jjRXAPI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 436,
+          "like_count": 3048,
+          "listed_count": 4,
+          "media_count": 304,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/VHEVeomtMg",
+        "username": "xiaoduoya_",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion @_entropyhq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_entropyhq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvNBL"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2358,
+          "following_count": 3168,
+          "like_count": 94938,
+          "listed_count": 6,
+          "media_count": 1193,
+          "tweet_count": 6827
+        },
+        "url": "https://t.co/TIHBlJvNBL",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988564235212013568"
+      ],
+      "media_source_tweet_id": [
+        "1988564245122871488"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "1988565042498064630",
+    "created_at": "2025-11-12T11:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T12:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988565042498064630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869325756255657984",
+          "start": 3,
+          "username": "Eremus426531"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0xwFRWivIj",
+          "end": 41,
+          "expanded_url": "https://x.com/Eremus426531/status/1988564245122871488/photo/1",
+          "media_key": "3_1988564235212013568",
+          "start": 18,
+          "url": "https://t.co/0xwFRWivIj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988565042498064630",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988564245122871488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eremus426531: https://t.co/0xwFRWivIj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 412,
+        "media_key": "3_1988564235212013568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jMotTbwAAFg5M.jpg",
+        "width": 667
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988564235212013568"
+          ],
+          "media_source_tweet_id": [
+            "1988564245122871488"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "1988565042498064630",
+        "created_at": "2025-11-12T11:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988565042498064630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869325756255657984",
+              "start": 3,
+              "username": "Eremus426531"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0xwFRWivIj",
+              "end": 41,
+              "expanded_url": "https://x.com/Eremus426531/status/1988564245122871488/photo/1",
+              "media_key": "3_1988564235212013568",
+              "start": 18,
+              "url": "https://t.co/0xwFRWivIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988565042498064630",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988564245122871488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Eremus426531: https://t.co/0xwFRWivIj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988564235212013568"
+          ]
+        },
+        "author_id": "1869325756255657984",
+        "conversation_id": "1988564245122871488",
+        "created_at": "2025-11-12T11:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988564245122871488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0xwFRWivIj",
+              "end": 23,
+              "expanded_url": "https://x.com/Eremus426531/status/1988564245122871488/photo/1",
+              "media_key": "3_1988564235212013568",
+              "start": 0,
+              "url": "https://t.co/0xwFRWivIj"
+            },
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/hsn8086/status/1988299407880790485",
+              "start": 24,
+              "url": "https://t.co/V5yshhX3Xu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988564245122871488",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988299407880790485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/0xwFRWivIj https://t.co/V5yshhX3Xu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州临平/上城/拱墅版",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 535,
+          "like_count": 6099,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T10:16:19.000Z",
+        "description": "L(G)BT│有对象│二次元│术力口，粥，1999│cs专业│爱好数学，哲学│推水月，镜音连│请和我交朋友🥺🥺",
+        "id": "1869325756255657984",
+        "name": "Eremus",
+        "pinned_tweet_id": "1898748238171357564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921920701474217984/vvAzeLf4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1231,
+          "like_count": 21310,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 6098
+        },
+        "username": "Eremus426531",
+        "verified": false
+      }
+    ]
+  }
+}

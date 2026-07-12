@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2031407349743948061",
+    "created_at": "2026-03-10T20:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T21:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031467737185399289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1952023948625133568",
+          "start": 0,
+          "username": "linbuye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031467737185399289",
+    "in_reply_to_user_id": "1952023948625133568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031407349743948061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linbuye 拿拖鞋拍拍😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2031407349743948061",
+        "created_at": "2026-03-10T20:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T21:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031467737185399289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1952023948625133568",
+              "start": 0,
+              "username": "linbuye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031467737185399289",
+        "in_reply_to_user_id": "1952023948625133568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031407349743948061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linbuye 拿拖鞋拍拍😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952023948625133568",
+        "conversation_id": "2031407349743948061",
+        "created_at": "2026-03-10T16:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T17:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031407349743948061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031407349743948061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青春小男高的烦恼：哥我鸡巴涨的痛死了我日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 921,
+          "like_count": 15810,
+          "listed_count": 0,
+          "media_count": 729,
+          "tweet_count": 3483
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T15:09:20.000Z",
+        "description": "🌈 爱好摄影/编程/方言 心之所向是你",
+        "id": "1952023948625133568",
+        "location": "云南",
+        "name": "不野（月照银山版）",
+        "pinned_tweet_id": "1964747180247511468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952024184592470016/eIqTqmZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 1526,
+          "like_count": 4109,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2921
+        },
+        "username": "linbuye",
+        "verified": false
+      }
+    ]
+  }
+}

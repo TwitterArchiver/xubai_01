@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978483548811345920"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "1978483556138766347",
+    "created_at": "2025-10-15T15:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T16:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978483556138766347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CymNn5talY",
+          "end": 34,
+          "expanded_url": "https://x.com/xubai_01/status/1978483556138766347/photo/1",
+          "media_key": "3_1978483548811345920",
+          "start": 11,
+          "url": "https://t.co/CymNn5talY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978483556138766347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不要逗我啊 别跌了😭 https://t.co/CymNn5talY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1253,
+        "media_key": "3_1978483548811345920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3T8TiDawAAHPyT.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978483548811345920"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "1978483556138766347",
+        "created_at": "2025-10-15T15:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T16:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978483556138766347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CymNn5talY",
+              "end": 34,
+              "expanded_url": "https://x.com/xubai_01/status/1978483556138766347/photo/1",
+              "media_key": "3_1978483548811345920",
+              "start": 11,
+              "url": "https://t.co/CymNn5talY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978483556138766347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要逗我啊 别跌了😭 https://t.co/CymNn5talY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 339,
+          "like_count": 3585,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 280
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

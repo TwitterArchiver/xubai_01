@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2058399844952338614",
+    "created_at": "2026-05-24T17:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058595888155820316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "224922425",
+          "start": 0,
+          "username": "acxgRMTY"
+        },
+        {
+          "end": 24,
+          "id": "998163902939648000",
+          "start": 10,
+          "username": "Layer2hunters"
+        },
+        {
+          "end": 37,
+          "id": "1584480975186075649",
+          "start": 25,
+          "username": "playcambria"
+        },
+        {
+          "end": 52,
+          "id": "1723719536128790528",
+          "start": 38,
+          "username": "communitybria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058595888155820316",
+    "in_reply_to_user_id": "224922425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058435223533363566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acxgRMTY @Layer2hunters @playcambria @communitybria wtf吓哭了啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 57,
+        "media_key": "3_2058435169309396992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEH4WPbkAAn2AT.png",
+        "width": 132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2058399844952338614",
+        "created_at": "2026-05-24T17:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058595888155820316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "224922425",
+              "start": 0,
+              "username": "acxgRMTY"
+            },
+            {
+              "end": 24,
+              "id": "998163902939648000",
+              "start": 10,
+              "username": "Layer2hunters"
+            },
+            {
+              "end": 37,
+              "id": "1584480975186075649",
+              "start": 25,
+              "username": "playcambria"
+            },
+            {
+              "end": 52,
+              "id": "1723719536128790528",
+              "start": 38,
+              "username": "communitybria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058595888155820316",
+        "in_reply_to_user_id": "224922425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058435223533363566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acxgRMTY @Layer2hunters @playcambria @communitybria wtf吓哭了啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058435169309396992"
+          ]
+        },
+        "author_id": "224922425",
+        "conversation_id": "2058399844952338614",
+        "created_at": "2026-05-24T06:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058435223533363566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "998163902939648000",
+              "start": 0,
+              "username": "Layer2hunters"
+            },
+            {
+              "end": 27,
+              "id": "1584480975186075649",
+              "start": 15,
+              "username": "playcambria"
+            },
+            {
+              "end": 42,
+              "id": "1723719536128790528",
+              "start": 28,
+              "username": "communitybria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvsvucOPGV",
+              "end": 87,
+              "expanded_url": "https://x.com/acxgRMTY/status/2058435223533363566/photo/1",
+              "media_key": "3_2058435169309396992",
+              "start": 64,
+              "url": "https://t.co/MvsvucOPGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058435223533363566",
+        "in_reply_to_user_id": "998163902939648000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058399844952338614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Layer2hunters @playcambria @communitybria faker来了都流泪，donk过来也白给 https://t.co/MvsvucOPGV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 1294,
+          "like_count": 22700,
+          "listed_count": 1,
+          "media_count": 1104,
+          "tweet_count": 5701
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2010-12-10T06:07:31.000Z",
+        "description": "🫡 菜得抠脚的撸毛玩家 | 💸 穷得叮当响的NFT收藏家\n💀 无常损失比本金还多的DeFi慈善家 | 📉 买跌卖涨的投资糕手\n✳️Abs Giga chad | 🎮 Gigaverse创作者 | 赚钱靠运气亏钱靠实力",
+        "id": "224922425",
+        "location": "未来里",
+        "name": "日日平常心✳️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945430886515609600/8LznYwq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3631,
+          "following_count": 444,
+          "like_count": 17807,
+          "listed_count": 81,
+          "media_count": 648,
+          "tweet_count": 7347
+        },
+        "username": "acxgRMTY",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-20T11:29:54.000Z",
+        "description": "N0.1Game Cambria：https://t.co/WKmXX9GWL3\n\nBullish on @playcambria $RSGP\n\n@AbstractChain  Streamer: https://t.co/F5InFLQOhB",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 71,
+                "start": 66,
+                "tag": "RSGP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "playcambria"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "AbstractChain"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lobby.cambria.gg/?code=chan",
+                "end": 40,
+                "expanded_url": "https://lobby.cambria.gg/?code=chan",
+                "start": 17,
+                "url": "https://t.co/WKmXX9GWL3"
+              },
+              {
+                "display_url": "portal.abs.xyz/stream/CNchan",
+                "end": 122,
+                "expanded_url": "https://portal.abs.xyz/stream/CNchan",
+                "start": 99,
+                "url": "https://t.co/F5InFLQOhB"
+              }
+            ]
+          }
+        },
+        "id": "998163902939648000",
+        "name": "CN-CHAN | CAMBRIA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034446269083779072/vFWEqNvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18977,
+          "following_count": 2180,
+          "like_count": 16108,
+          "listed_count": 40,
+          "media_count": 1469,
+          "tweet_count": 9232
+        },
+        "username": "Layer2hunters",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-24T09:44:42.000Z",
+        "description": "Diablo-like dungeon crawler with onchain stakes. \nRisk Keys, loot as much as you can, cash out USDC.\n\nLive on @AbstractChain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 110,
+                "username": "AbstractChain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cambria.gg",
+                "end": 23,
+                "expanded_url": "https://cambria.gg",
+                "start": 0,
+                "url": "https://t.co/ZSt6uWg8eM"
+              }
+            ]
+          }
+        },
+        "id": "1584480975186075649",
+        "location": "New Cambria",
+        "name": "Cambria",
+        "pinned_tweet_id": "2057479617183653914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008573576379760640/AIKzC1UK_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51410,
+          "following_count": 1057,
+          "like_count": 14162,
+          "listed_count": 256,
+          "media_count": 68,
+          "tweet_count": 1197
+        },
+        "url": "https://t.co/ZSt6uWg8eM",
+        "username": "playcambria",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-12T15:09:14.000Z",
+        "description": "cambrilio $1b thesis\n\nmain: @playcambria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "playcambria"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lobby.cambria.gg",
+                "end": 23,
+                "expanded_url": "https://lobby.cambria.gg",
+                "start": 0,
+                "url": "https://t.co/zsZpCjrxtx"
+              }
+            ]
+          }
+        },
+        "id": "1723719536128790528",
+        "location": "PLAY NOW ➡️",
+        "name": "Cambria Community",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055716803968417792/B0v6n8s1_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11968,
+          "following_count": 400,
+          "like_count": 6909,
+          "listed_count": 126,
+          "media_count": 101,
+          "tweet_count": 1663
+        },
+        "url": "https://t.co/zsZpCjrxtx",
+        "username": "communitybria",
+        "verified": true
+      }
+    ]
+  }
+}

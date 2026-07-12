@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2012368458093334886",
+    "created_at": "2026-01-17T03:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T04:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012368458093334886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1165044876297134080",
+          "start": 3,
+          "username": "realNyarime"
+        },
+        {
+          "end": 29,
+          "id": "216590231",
+          "start": 17,
+          "username": "_4Knowledge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012368458093334886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012263196782985364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realNyarime: @_4Knowledge 挑战一下CF就复活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2012368458093334886",
+        "created_at": "2026-01-17T03:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012368458093334886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1165044876297134080",
+              "start": 3,
+              "username": "realNyarime"
+            },
+            {
+              "end": 29,
+              "id": "216590231",
+              "start": 17,
+              "username": "_4Knowledge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012368458093334886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012263196782985364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realNyarime: @_4Knowledge 挑战一下CF就复活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2012135197995843685",
+        "created_at": "2026-01-16T20:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T21:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012263196782985364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "216590231",
+              "start": 0,
+              "username": "_4Knowledge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012263196782985364",
+        "in_reply_to_user_id": "216590231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012135197995843685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_4Knowledge 挑战一下CF就复活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：东三省、大湾区、四川（一月中旬｜欢迎随时联系/心情大爆炸｜@xubaimedia/？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜东北",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 850,
+          "like_count": 13547,
+          "listed_count": 0,
+          "media_count": 576,
+          "tweet_count": 2656
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8012,
+          "following_count": 633,
+          "like_count": 9118,
+          "listed_count": 23,
+          "media_count": 720,
+          "tweet_count": 5986
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-17T05:01:25.000Z",
+        "description": "Just a regular person in a mysterious Eastern land ✨\nExploring the real China beyond headlines.\nCurious? Ask me, I’ll share what I see.",
+        "id": "216590231",
+        "location": "North Korea",
+        "name": "Sam Zhou",
+        "pinned_tweet_id": "2010373003004014682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004466897413357568/XwIz0t7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 817,
+          "like_count": 1605,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 1452
+        },
+        "username": "_4Knowledge",
+        "verified": true
+      }
+    ]
+  }
+}

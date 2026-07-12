@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2007854268943130985",
+    "created_at": "2026-01-05T05:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T06:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008042521189089711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894622523033358336",
+          "start": 0,
+          "username": "QXY_WARD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008042521189089711",
+    "in_reply_to_user_id": "1894622523033358336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008021047824814440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QXY_WARD 过签证了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2007854268943130985",
+        "created_at": "2026-01-05T05:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T06:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008042521189089711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894622523033358336",
+              "start": 0,
+              "username": "QXY_WARD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008042521189089711",
+        "in_reply_to_user_id": "1894622523033358336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008021047824814440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QXY_WARD 过签证了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894622523033358336",
+        "conversation_id": "2007854268943130985",
+        "created_at": "2026-01-05T03:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T04:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008021047824814440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008021047824814440",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007854268943130985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 拍完了放回去😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜武汉",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 807,
+          "like_count": 12755,
+          "listed_count": 0,
+          "media_count": 532,
+          "tweet_count": 2335
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T05:36:40.000Z",
+        "description": "mtf🏳️‍⚧️(x)/翻唱歌手/喜欢ZARD/邓紫棋\n用声音传递情感/用旋律刻下梦想/浏览我会主动fo/🍥HRT2025.8.4/WARD UNLIMITED",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.kuaishou.com/2wC1DAB",
+                "end": 23,
+                "expanded_url": "https://v.kuaishou.com/2wC1DAB",
+                "start": 0,
+                "url": "https://t.co/JUQFpsYn0T"
+              }
+            ]
+          }
+        },
+        "id": "1894622523033358336",
+        "location": "Hong Kong",
+        "name": "是小怡呀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007252470503026688/7exiVGjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 1064,
+          "like_count": 1790,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 1096
+        },
+        "url": "https://t.co/JUQFpsYn0T",
+        "username": "QXY_WARD",
+        "verified": false
+      }
+    ]
+  }
+}

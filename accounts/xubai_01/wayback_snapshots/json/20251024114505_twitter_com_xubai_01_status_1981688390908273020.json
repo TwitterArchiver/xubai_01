@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1981394156166795515",
+    "created_at": "2025-10-24T11:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T12:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981688390908273020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        },
+        {
+          "end": 21,
+          "id": "1947628431572623364",
+          "start": 10,
+          "username": "XubaiMedia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981688390908273020",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981653128404758962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu @XubaiMedia 当然可以！😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1981394156166795515",
+        "created_at": "2025-10-24T11:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T12:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981688390908273020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            },
+            {
+              "end": 21,
+              "id": "1947628431572623364",
+              "start": 10,
+              "username": "XubaiMedia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981688390908273020",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981653128404758962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu @XubaiMedia 当然可以！😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "1981394156166795515",
+        "created_at": "2025-10-24T09:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T10:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981653128404758962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            },
+            {
+              "end": 21,
+              "id": "1947628431572623364",
+              "start": 10,
+              "username": "XubaiMedia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981653128404758962",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981394156166795515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 @XubaiMedia 我可以join嘛🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 410,
+          "like_count": 4219,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🟦TypeScript重度依赖/🐱Github: sheepbox8646/💼日常远程工作/Building ChalkAI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvcLr"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳·西乡",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1964617558675611999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7606,
+          "following_count": 2967,
+          "like_count": 2791,
+          "listed_count": 29,
+          "media_count": 1076,
+          "tweet_count": 5386
+        },
+        "url": "https://t.co/mRP5RDvcLr",
+        "username": "AcboxLiu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-22T12:03:22.000Z",
+        "description": "🙋我们是一家来自中国海南的综合性互联网服务集团类企业，致力于让中国大陆用户使用到便捷易用的在线服务。🔰请注意此号仅发布简中内容。｜Xubai Group",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.xubainet.cn",
+                "end": 23,
+                "expanded_url": "http://blog.xubainet.cn",
+                "start": 0,
+                "url": "https://t.co/MTQoMilkJb"
+              }
+            ]
+          }
+        },
+        "id": "1947628431572623364",
+        "location": "Hainan,PRC",
+        "name": "Hainan XuBai Media Co.,Ltd",
+        "pinned_tweet_id": "1965012488321483054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947641104305950721/mFpuJB3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 41,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/MTQoMilkJb",
+        "username": "XubaiMedia",
+        "verified": false
+      }
+    ]
+  }
+}

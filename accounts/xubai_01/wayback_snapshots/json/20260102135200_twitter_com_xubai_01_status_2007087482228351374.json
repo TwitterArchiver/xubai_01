@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2007020208104644833",
+    "created_at": "2026-01-02T13:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T14:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007087482228351374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1970981813448560640",
+          "start": 0,
+          "username": "NewHpttxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007087482228351374",
+    "in_reply_to_user_id": "1970981813448560640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007084632056139846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NewHpttxg 吃吃你的🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2007020208104644833",
+        "created_at": "2026-01-02T13:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007087482228351374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1970981813448560640",
+              "start": 0,
+              "username": "NewHpttxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007087482228351374",
+        "in_reply_to_user_id": "1970981813448560640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007084632056139846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewHpttxg 吃吃你的🔥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970981813448560640",
+        "conversation_id": "2007020208104644833",
+        "created_at": "2026-01-02T13:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007084632056139846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007084632056139846",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007080824056017114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 那更舒服了🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 807,
+          "like_count": 12506,
+          "listed_count": 0,
+          "media_count": 514,
+          "tweet_count": 2259
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T22:41:08.000Z",
+        "description": "卷毛修勾 @hpttxg 在推特大封号运动中被打倒了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "hpttxg"
+              }
+            ]
+          }
+        },
+        "id": "1970981813448560640",
+        "name": "刻刻",
+        "pinned_tweet_id": "1999067245352517676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999100849931362304/mQ_mxdyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1848,
+          "following_count": 247,
+          "like_count": 3862,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 1739
+        },
+        "username": "NewHpttxg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1970536784074539114",
+    "created_at": "2025-10-02T15:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T16:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973772233459085631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1126154089216262145",
+          "start": 0,
+          "username": "ArtsSuraimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973772233459085631",
+    "in_reply_to_user_id": "1126154089216262145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973772110683369848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArtsSuraimu 嘿嘿🦦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1970536784074539114",
+        "created_at": "2025-10-02T15:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T16:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973772233459085631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1126154089216262145",
+              "start": 0,
+              "username": "ArtsSuraimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973772233459085631",
+        "in_reply_to_user_id": "1126154089216262145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973772110683369848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArtsSuraimu 嘿嘿🦦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1126154089216262145",
+        "conversation_id": "1970536784074539114",
+        "created_at": "2025-10-02T15:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T16:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973772110683369848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973772110683369848",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973771024668963287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 这样啊 辛苦啦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈@xubai22｜梦到啥就发啥！2010年的｜一个什么圈子都混一点的莫名其妙的人。｜上学命苦，回来一看手机更命苦！｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "xubai22"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1965052451901591691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 266,
+          "like_count": 2990,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 220
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "The Slime-Type vTuber. Traveller. Opinions are own. 属性鼠鹿，性别男/无性别，找不到对象，政治属性不明，喜欢鹿乃子、史莱姆（利姆露）、小埋、@ddvd233 日本語を少しい話せます Deutsch kann ich auch ein bissl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 96,
+                "username": "ddvd233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimurosuraimu",
+                "end": 23,
+                "expanded_url": "https://t.me/rimurosuraimu",
+                "start": 0,
+                "url": "https://t.co/IDEk4qoiBq"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu スライム 史莱姆",
+        "pinned_tweet_id": "1961942536651776399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966898166998953984/PqrvBn8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10941,
+          "following_count": 2543,
+          "like_count": 94048,
+          "listed_count": 49,
+          "media_count": 584,
+          "tweet_count": 5810
+        },
+        "url": "https://t.co/IDEk4qoiBq",
+        "username": "ArtsSuraimu",
+        "verified": true
+      }
+    ]
+  }
+}

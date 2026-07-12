@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1987908705074237575",
+    "created_at": "2025-11-11T10:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T11:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988186755263328614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1242074475400548352",
+          "start": 0,
+          "username": "A1oneSKy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988186755263328614",
+    "in_reply_to_user_id": "1242074475400548352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988184537969684937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1oneSKy 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 224,
+        "media_key": "3_1988184533691424768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dzTK6aYAAu3t0.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1987908705074237575",
+        "created_at": "2025-11-11T10:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T11:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988186755263328614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1242074475400548352",
+              "start": 0,
+              "username": "A1oneSKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988186755263328614",
+        "in_reply_to_user_id": "1242074475400548352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988184537969684937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1oneSKy 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988184533691424768"
+          ]
+        },
+        "author_id": "1242074475400548352",
+        "conversation_id": "1987908705074237575",
+        "created_at": "2025-11-11T09:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T10:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988184537969684937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKedF8rJrv",
+              "end": 33,
+              "expanded_url": "https://x.com/A1oneSKy/status/1988184537969684937/photo/1",
+              "media_key": "3_1988184533691424768",
+              "start": 10,
+              "url": "https://t.co/lKedF8rJrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988184537969684937",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988183560008900835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 https://t.co/lKedF8rJrv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 528,
+          "like_count": 5930,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T13:03:36.000Z",
+        "description": "한국어나 다른 언어 내용 포함가능",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.site",
+                "end": 23,
+                "expanded_url": "https://alonesky.site",
+                "start": 0,
+                "url": "https://t.co/oEkdekCfAG"
+              }
+            ]
+          }
+        },
+        "id": "1242074475400548352",
+        "name": "𝓐𝓛𝓸𝓷𝓮𝓢𝓚𝔂",
+        "pinned_tweet_id": "1567905692379664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950855415992078337/jdc1F1qB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 1363,
+          "like_count": 4406,
+          "listed_count": 4,
+          "media_count": 4514,
+          "tweet_count": 16048
+        },
+        "url": "https://t.co/oEkdekCfAG",
+        "username": "A1oneSKy",
+        "verified": false
+      }
+    ]
+  }
+}

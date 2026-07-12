@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2007316423790715027",
+    "created_at": "2026-01-03T05:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T06:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007316423790715027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927723608035430400",
+          "start": 3,
+          "username": "Skyukaria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007316423790715027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006782294997250167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Skyukaria: 神人来了 p上两个大雷我自己都没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2007316423790715027",
+        "created_at": "2026-01-03T05:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007316423790715027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927723608035430400",
+              "start": 3,
+              "username": "Skyukaria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007316423790715027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006782294997250167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Skyukaria: 神人来了 p上两个大雷我自己都没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927723608035430400",
+        "conversation_id": "2006782294997250167",
+        "created_at": "2026-01-01T17:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006782294997250167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fulsn_serein/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/fulsn_serein/status/2006774401455501329",
+              "start": 19,
+              "url": "https://t.co/EqNnPjF3Sj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006782294997250167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 827,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006774401455501329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神人来了 p上两个大雷我自己都没绷住 https://t.co/EqNnPjF3Sj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 808,
+          "like_count": 12575,
+          "listed_count": 0,
+          "media_count": 517,
+          "tweet_count": 2271
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T13:49:51.000Z",
+        "description": "キャラデ勉強中 音ゲー好き コイビト@FULSN_Serein 裏垢@QAQ_Yuka_TAT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "FULSN_Serein"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "QAQ_Yuka_TAT"
+              }
+            ]
+          }
+        },
+        "id": "1927723608035430400",
+        "name": "γu✩kα",
+        "pinned_tweet_id": "1938644846979490147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988660674311122946/UKWtNRro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 371,
+          "like_count": 2872,
+          "listed_count": 4,
+          "media_count": 307,
+          "tweet_count": 1600
+        },
+        "username": "Skyukaria",
+        "verified": false
+      }
+    ]
+  }
+}

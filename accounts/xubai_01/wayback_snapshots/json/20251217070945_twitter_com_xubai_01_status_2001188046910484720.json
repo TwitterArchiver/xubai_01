@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2001188046910484720",
+    "created_at": "2025-12-17T07:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T08:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001188046910484720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/starnekovo/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/starnekovo/status/2001174022919528543",
+          "start": 14,
+          "url": "https://t.co/bl6fO7WELm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001188046910484720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001174022919528543",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "羡慕懂硬件和系统开发的师傅 https://t.co/bl6fO7WELm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2001188046910484720",
+        "created_at": "2025-12-17T07:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T08:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001188046910484720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/starnekovo/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/starnekovo/status/2001174022919528543",
+              "start": 14,
+              "url": "https://t.co/bl6fO7WELm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001188046910484720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001174022919528543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕懂硬件和系统开发的师傅 https://t.co/bl6fO7WELm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2001104777145680353",
+        "created_at": "2025-12-17T06:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T07:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001174022919528543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001174022919528543",
+        "in_reply_to_user_id": "28530405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001104777145680353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat 羡慕懂硬件和系统开发的师傅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia｜爱说梦话/想交朋友。🫠｜网易/火山引擎/阿里云/腾讯云代理商｜接各类企服财税代办｜一直都没钱都是装的身份自己给的｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 687,
+          "like_count": 9767,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1202
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛系統。System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com",
+                "end": 23,
+                "expanded_url": "https://starneko.com",
+                "start": 0,
+                "url": "https://t.co/9NEqS9sljx"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "牛奶猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979924394630619136/ScimS47h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4380,
+          "following_count": 2117,
+          "like_count": 32412,
+          "listed_count": 17,
+          "media_count": 1331,
+          "tweet_count": 11232
+        },
+        "url": "https://t.co/9NEqS9sljx",
+        "username": "StarNekOvO",
+        "verified": true
+      }
+    ]
+  }
+}

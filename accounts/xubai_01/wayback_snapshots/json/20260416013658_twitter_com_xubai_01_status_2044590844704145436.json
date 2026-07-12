@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2044590765855449088",
+        "3_2044590765834440704"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2044590844704145436",
+    "created_at": "2026-04-16T01:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044590844704145436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fhJKAoBxDn",
+          "end": 43,
+          "expanded_url": "https://x.com/xubai_01/status/2044590844704145436/video/1",
+          "media_key": "13_2044590765855449088",
+          "start": 20,
+          "url": "https://t.co/fhJKAoBxDn"
+        },
+        {
+          "display_url": "pic.x.com/fhJKAoBxDn",
+          "end": 43,
+          "expanded_url": "https://x.com/xubai_01/status/2044590844704145436/video/1",
+          "media_key": "3_2044590765834440704",
+          "start": 20,
+          "url": "https://t.co/fhJKAoBxDn"
+        },
+        {
+          "display_url": "x.com/raz_09_/status…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/raz_09_/status/2044481240607428711",
+          "start": 44,
+          "url": "https://t.co/7bRBAj852Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044590844704145436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044481240607428711",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "卧槽chromebook要$1000啊 https://t.co/fhJKAoBxDn https://t.co/7bRBAj852Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45166,
+        "height": 1280,
+        "media_key": "13_2044590765855449088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044590765855449088/img/guwsXw0vzkqvosCj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044590765855449088/vid/avc1/320x568/cJItrGsuiocbqLod.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044590765855449088/vid/avc1/480x852/LlhhTPyGbCIa5DdN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044590765855449088/vid/avc1/720x1280/o7iF-jjVBYPV1HVB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044590765855449088/pl/hJBfL5yER8FFVX_-.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 903,
+        "media_key": "3_2044590765834440704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_YeASbEAAAYU6.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044590765855449088",
+            "3_2044590765834440704"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2044590844704145436",
+        "created_at": "2026-04-16T01:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044590844704145436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhJKAoBxDn",
+              "end": 43,
+              "expanded_url": "https://x.com/xubai_01/status/2044590844704145436/video/1",
+              "media_key": "13_2044590765855449088",
+              "start": 20,
+              "url": "https://t.co/fhJKAoBxDn"
+            },
+            {
+              "display_url": "pic.x.com/fhJKAoBxDn",
+              "end": 43,
+              "expanded_url": "https://x.com/xubai_01/status/2044590844704145436/video/1",
+              "media_key": "3_2044590765834440704",
+              "start": 20,
+              "url": "https://t.co/fhJKAoBxDn"
+            },
+            {
+              "display_url": "x.com/raz_09_/status…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/raz_09_/status/2044481240607428711",
+              "start": 44,
+              "url": "https://t.co/7bRBAj852Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044590844704145436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044481240607428711",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "卧槽chromebook要$1000啊 https://t.co/fhJKAoBxDn https://t.co/7bRBAj852Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577922795652222976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2044478961342947480",
+        "created_at": "2026-04-15T18:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T19:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044481240607428711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044481240607428711",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044478961342947480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@xubai_01 哇chromebook"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n备@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "xuba1_"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 1164,
+          "like_count": 19514,
+          "listed_count": 0,
+          "media_count": 933,
+          "tweet_count": 4729
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-06T07:25:04.000Z",
+        "description": "🏳️‍🌈 可以叫我锅盖 现驻湖南 16y 湖南常驻 高二半休学状态 喜欢交朋友/旅游/数码🤓 欢迎找我聊天/扩列\n这个号主要发一些碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+dnsaGi32xeI1N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+dnsaGi32xeI1NmU1",
+                "start": 0,
+                "url": "https://t.co/Sr1nmqiD33"
+              }
+            ]
+          }
+        },
+        "id": "1577922795652222976",
+        "name": "锅盖盖盖🏳️‍🌈",
+        "pinned_tweet_id": "2042314887872090535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034275252285685760/F7FppXtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 290,
+          "like_count": 6750,
+          "listed_count": 2,
+          "media_count": 419,
+          "tweet_count": 1510
+        },
+        "url": "https://t.co/Sr1nmqiD33",
+        "username": "Raz_09_",
+        "verified": true
+      }
+    ]
+  }
+}

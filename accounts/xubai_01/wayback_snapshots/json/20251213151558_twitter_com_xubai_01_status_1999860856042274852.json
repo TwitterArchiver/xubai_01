@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1999854899874734351",
+    "created_at": "2025-12-13T15:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T16:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999860856042274852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986970902349926400",
+          "start": 0,
+          "username": "ch3rryzhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999860856042274852",
+    "in_reply_to_user_id": "1986970902349926400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999854899874734351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ch3rryzhu 推特人均选压抑中.."
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1999854899874734351].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1999854899874734351",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1999854899874734351"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1999854899874734351",
+        "created_at": "2025-12-13T15:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999860856042274852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986970902349926400",
+              "start": 0,
+              "username": "ch3rryzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999860856042274852",
+        "in_reply_to_user_id": "1986970902349926400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999854899874734351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ch3rryzhu 推特人均选压抑中.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia｜｜爱说梦话/想交朋友。🫠｜网易/火山引擎/阿里云/腾讯云代理商｜接各类企服财税代办｜一直都没钱都是装的身份自己给的｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 646,
+          "like_count": 8947,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T01:36:04.000Z",
+        "description": "某人的阴暗负能量里推 / 熟人Only / 没有R18",
+        "id": "1986970902349926400",
+        "name": "Ch3rry",
+        "pinned_tweet_id": "1986972829913653740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986971451585654784/x2z8YXia_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 34,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "username": "ch3rryzhu",
+        "verified": false
+      }
+    ]
+  }
+}

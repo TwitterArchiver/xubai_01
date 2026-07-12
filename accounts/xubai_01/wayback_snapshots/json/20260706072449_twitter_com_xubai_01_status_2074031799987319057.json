@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2074020101159027072",
+    "created_at": "2026-07-06T07:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074031799987319057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2058728395899367424",
+          "start": 0,
+          "username": "Shiyouuux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074031799987319057",
+    "in_reply_to_user_id": "2058728395899367424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074030157401313687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiyouuux 你说是吧是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2074020101159027072",
+        "created_at": "2026-07-06T07:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074031799987319057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2058728395899367424",
+              "start": 0,
+              "username": "Shiyouuux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074031799987319057",
+        "in_reply_to_user_id": "2058728395899367424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074030157401313687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiyouuux 你说是吧是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058728395899367424",
+        "conversation_id": "2074020101159027072",
+        "created_at": "2026-07-06T07:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074030157401313687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074030157401313687",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074020101159027072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 正太牛逼（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2408,
+          "following_count": 1643,
+          "like_count": 25586,
+          "listed_count": 2,
+          "media_count": 1282,
+          "tweet_count": 6857
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-25T01:57:01.000Z",
+        "description": "🏳️‍🌈 05 友跨\n可能出现的内容有：校服 白袜 CS 音游等\n日常为主 当朋友圈发了 清水无里推\n欢迎来和我互动 但是不约谢谢\n喜欢看点furry 以及一切可爱的东西😋\n最好的宝宝@Huazzz_11😘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Huazzz_11"
+              }
+            ]
+          }
+        },
+        "id": "2058728395899367424",
+        "location": "localhost",
+        "name": "施酉🍪",
+        "pinned_tweet_id": "2061824178639053229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060717471556919300/xQcm4Q7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 329,
+          "like_count": 1455,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 522
+        },
+        "url": "",
+        "username": "Shiyouuux",
+        "verified": true
+      }
+    ]
+  }
+}

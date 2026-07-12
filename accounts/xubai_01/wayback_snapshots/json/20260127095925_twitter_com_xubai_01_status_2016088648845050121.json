@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2016054814308753408"
+      ],
+      "media_source_tweet_id": [
+        "2016054875147342011"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016088648845050121",
+    "created_at": "2026-01-27T09:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T10:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016088648845050121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690570637499154432",
+          "start": 3,
+          "username": "saonanaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3hdHh9nONV",
+          "end": 42,
+          "expanded_url": "https://x.com/saonanaa/status/2016054875147342011/video/1",
+          "media_key": "13_2016054814308753408",
+          "start": 19,
+          "url": "https://t.co/3hdHh9nONV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016088648845050121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016054875147342011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saonanaa: 你已急哭 https://t.co/3hdHh9nONV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43966,
+        "height": 720,
+        "media_key": "13_2016054814308753408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016054814308753408/img/ouyGBELLN2-bzvXa.jpg",
+        "public_metrics": {
+          "view_count": 77
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016054814308753408/vid/avc1/404x270/uCOYJVsbgDdq6CeO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016054814308753408/vid/avc1/540x360/HmoaagXoeJFftjoq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016054814308753408/vid/avc1/1080x720/BBHbdqhV8vdBRfoc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016054814308753408/pl/_mbEEe3Hvrh7zCHs.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016054814308753408"
+          ],
+          "media_source_tweet_id": [
+            "2016054875147342011"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016088648845050121",
+        "created_at": "2026-01-27T09:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T10:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016088648845050121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690570637499154432",
+              "start": 3,
+              "username": "saonanaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3hdHh9nONV",
+              "end": 42,
+              "expanded_url": "https://x.com/saonanaa/status/2016054875147342011/video/1",
+              "media_key": "13_2016054814308753408",
+              "start": 19,
+              "url": "https://t.co/3hdHh9nONV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016088648845050121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016054875147342011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saonanaa: 你已急哭 https://t.co/3hdHh9nONV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016054814308753408"
+          ]
+        },
+        "author_id": "1690570637499154432",
+        "conversation_id": "2016054875147342011",
+        "created_at": "2026-01-27T07:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016054875147342011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3hdHh9nONV",
+              "end": 28,
+              "expanded_url": "https://x.com/saonanaa/status/2016054875147342011/video/1",
+              "media_key": "13_2016054814308753408",
+              "start": 5,
+              "url": "https://t.co/3hdHh9nONV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016054875147342011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你已急哭 https://t.co/3hdHh9nONV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜行程：大湾区、云川（一月中旬｜欢迎随时联系/心情大爆炸｜友链：@xubaimedia/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜成都",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 860,
+          "like_count": 13994,
+          "listed_count": 0,
+          "media_count": 597,
+          "tweet_count": 2821
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜在日常中发现 旅行爱好者 📸｜开发.NET应用👩‍💻｜大坏猫：@lovelyshuimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "2002749269015777340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002735211898089472/5MAuttCj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6760,
+          "following_count": 419,
+          "like_count": 33263,
+          "listed_count": 15,
+          "media_count": 2248,
+          "tweet_count": 19086
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

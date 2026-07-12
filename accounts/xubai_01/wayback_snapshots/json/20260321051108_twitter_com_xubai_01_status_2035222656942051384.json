@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2035164494125834423",
+    "created_at": "2026-03-21T05:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T06:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035222656942051384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034487540527587328",
+          "start": 0,
+          "username": "Lain1984326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035222656942051384",
+    "in_reply_to_user_id": "2034487540527587328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035214849308000443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lain1984326 两套房贷 一辆电摩分期.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2035164494125834423",
+        "created_at": "2026-03-21T05:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T06:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035222656942051384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034487540527587328",
+              "start": 0,
+              "username": "Lain1984326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035222656942051384",
+        "in_reply_to_user_id": "2034487540527587328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035214849308000443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lain1984326 两套房贷 一辆电摩分期.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034487540527587328",
+        "conversation_id": "2035164494125834423",
+        "created_at": "2026-03-21T04:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T05:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035214849308000443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035214849308000443",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035164494125834423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 所以你15岁就背上房贷车贷了吗，真是恐怖如斯，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，列表人机号不代表我喜好🤯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 972,
+          "like_count": 16335,
+          "listed_count": 0,
+          "media_count": 776,
+          "tweet_count": 3734
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-19T04:30:11.000Z",
+        "description": "我只存于他人记忆之中...\n\n民主社会主义 | Meme | 百合 | 战犯 | 极客 | Python学习中 | \nDemocratic Socialism | Meme | Yuri | HOI4 | Geek | Python Learner |",
+        "id": "2034487540527587328",
+        "location": "Tokyo, Japan",
+        "name": "玲音𝕷𝖆𝖎𝖓🌹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034502652529352704/nvfdRCjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 105,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 75
+        },
+        "username": "Lain1984326",
+        "verified": false
+      }
+    ]
+  }
+}

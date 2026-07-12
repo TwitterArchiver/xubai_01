@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1958247360104116651",
+    "created_at": "2025-08-21T05:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T06:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958404497933549980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1788761493540143104",
+          "start": 0,
+          "username": "random91238118"
+        },
+        {
+          "end": 28,
+          "id": "1887556713429266432",
+          "start": 16,
+          "username": "linlitsuing"
+        },
+        {
+          "end": 41,
+          "id": "1614826297091592198",
+          "start": 29,
+          "username": "Winter_yoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958404497933549980",
+    "in_reply_to_user_id": "1788761493540143104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958381350123438147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@random91238118 @linlitsuing @Winter_yoki 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1958247360104116651",
+        "created_at": "2025-08-21T05:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T06:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958404497933549980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788761493540143104",
+              "start": 0,
+              "username": "random91238118"
+            },
+            {
+              "end": 28,
+              "id": "1887556713429266432",
+              "start": 16,
+              "username": "linlitsuing"
+            },
+            {
+              "end": 41,
+              "id": "1614826297091592198",
+              "start": 29,
+              "username": "Winter_yoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958404497933549980",
+        "in_reply_to_user_id": "1788761493540143104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958381350123438147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@random91238118 @linlitsuing @Winter_yoki 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788761493540143104",
+        "conversation_id": "1958247360104116651",
+        "created_at": "2025-08-21T04:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T05:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958381350123438147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887556713429266432",
+              "start": 0,
+              "username": "linlitsuing"
+            },
+            {
+              "end": 25,
+              "id": "1614826297091592198",
+              "start": 13,
+              "username": "Winter_yoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958381350123438147",
+        "in_reply_to_user_id": "1887556713429266432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958375102124630386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlitsuing @Winter_yoki 干什么干什么什么意思！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "@xubai21｜一个人。｜gay0.5｜欢迎互推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "xubai21"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "@xubai21的家里面",
+        "name": "许白",
+        "pinned_tweet_id": "1921545745993261070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942659356492783616/49Kzra0l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 175,
+          "like_count": 2178,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 143
+        },
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T02:42:35.000Z",
+        "description": "是一只菌菇~\n是男生，喜欢可爱的男孩子\nINTP-A\n已经合法噜\n发啥全看心情\n说不定偶尔爆点福利（？\n开开心心就好w\n喜欢MC，LOL，钢琴，唱歌等等等等（待补充）\n会一点点混音，C艹\n出没于江浙沪\n欢迎找我玩\nV/Q🚪50，正常人熟人扩列免",
+        "id": "1788761493540143104",
+        "name": "九菌菌菌🍄（在家躺尸版）",
+        "pinned_tweet_id": "1946824900595085489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938466163161505792/js4J1U0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4778,
+          "following_count": 1129,
+          "like_count": 42941,
+          "listed_count": 7,
+          "media_count": 244,
+          "tweet_count": 7497
+        },
+        "username": "random91238118",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T17:39:39.000Z",
+        "description": "2007年/180/14/0.5/4.0版本号/深圳🌈简繁中文/Eng/日本語👍😘我是猫猫😼｜精神洁癖重｜我的好哥哥@chen_perservera ｜宝宝@shimaojiu @7Sered ｜妈妈@ne_ROOT_mo ｜ 关注@KzCynic 可爱小狗🐕谢谢喵｜马霍公婆俩99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "chen_perservera"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "shimaojiu"
+              },
+              {
+                "end": 96,
+                "start": 89,
+                "username": "7Sered"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "ne_ROOT_mo"
+              },
+              {
+                "end": 124,
+                "start": 116,
+                "username": "KzCynic"
+              }
+            ]
+          }
+        },
+        "id": "1887556713429266432",
+        "location": "深圳",
+        "name": "奕晴",
+        "pinned_tweet_id": "1955978903027376175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955740396941926402/Vwt2tIdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5962,
+          "following_count": 1138,
+          "like_count": 9350,
+          "listed_count": 8,
+          "media_count": 861,
+          "tweet_count": 13410
+        },
+        "username": "linlitsuing",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-16T03:26:15.000Z",
+        "description": "16岁已成年男高 🌈0.5  | 随缘互fo | 绿泡泡🚪30可聊天 | 也许是一些日常或者是碎碎念... | 发q用的小号: @W1nter_yoki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "W1nter_yoki"
+              }
+            ]
+          }
+        },
+        "id": "1614826297091592198",
+        "name": "冬麦yoki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943990815006621696/I60Si81x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9296,
+          "following_count": 891,
+          "like_count": 17861,
+          "listed_count": 9,
+          "media_count": 945,
+          "tweet_count": 12461
+        },
+        "username": "Winter_yoki",
+        "verified": false
+      }
+    ]
+  }
+}

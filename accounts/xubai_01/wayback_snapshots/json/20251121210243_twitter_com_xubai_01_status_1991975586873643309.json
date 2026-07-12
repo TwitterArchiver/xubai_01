@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1347260913552789506",
+          "name": "Apple iMessage"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1991975586873643309",
+    "created_at": "2025-11-21T21:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T22:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991975586873643309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1819327280482865152",
+          "start": 3,
+          "username": "hzyj772"
+        },
+        {
+          "end": 25,
+          "id": "1697556693947973632",
+          "start": 13,
+          "username": "Rovenus_902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991975586873643309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991778238524510255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hzyj772: @Rovenus_902 热心iMessage用户朋友没开spam过滤的失主）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347260913552789506",
+              "name": "Apple iMessage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1991975586873643309",
+        "created_at": "2025-11-21T21:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T22:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991975586873643309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1819327280482865152",
+              "start": 3,
+              "username": "hzyj772"
+            },
+            {
+              "end": 25,
+              "id": "1697556693947973632",
+              "start": 13,
+              "username": "Rovenus_902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991975586873643309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991778238524510255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hzyj772: @Rovenus_902 热心iMessage用户朋友没开spam过滤的失主）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819327280482865152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347260913552789506",
+              "name": "Apple iMessage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1991592840401678513",
+        "created_at": "2025-11-21T07:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T08:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991778238524510255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697556693947973632",
+              "start": 0,
+              "username": "Rovenus_902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991778238524510255",
+        "in_reply_to_user_id": "1697556693947973632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991592840401678513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rovenus_902 热心iMessage用户朋友没开spam过滤的失主）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 568,
+          "like_count": 6857,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 755
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T11:00:13.000Z",
+        "description": "是@phia50611171的可爱猫猫～🐱这和我们人前是Les并不矛盾，所以还是ppl🎀｜情侣号兼色推：@mt1zsyxil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "phia50611171"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "mt1zsyxil"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xlog.477771.xyz",
+                "end": 23,
+                "expanded_url": "http://xlog.477771.xyz",
+                "start": 0,
+                "url": "https://t.co/QY9nt2EU0a"
+              }
+            ]
+          }
+        },
+        "id": "1819327280482865152",
+        "location": "#7 0.4kV变压台",
+        "name": "燕檁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984549670404882432/XHLn_YLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 292,
+          "like_count": 52956,
+          "listed_count": 1,
+          "media_count": 743,
+          "tweet_count": 7047
+        },
+        "url": "https://t.co/QY9nt2EU0a",
+        "username": "hzyj772",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-01T10:27:24.000Z",
+        "description": "不要咀嚼小小的悲观而忘记整个世界｜有对象 别骚扰我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pome.vip/pls9ravn",
+                "end": 23,
+                "expanded_url": "https://pome.vip/pls9ravn",
+                "start": 0,
+                "url": "https://t.co/UCwvEJx1ZF"
+              }
+            ]
+          }
+        },
+        "id": "1697556693947973632",
+        "location": "猫猫岛🐈‍⬛",
+        "name": "薰主",
+        "pinned_tweet_id": "1985764733316972552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987612132176011264/XpNStHdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 122,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/UCwvEJx1ZF",
+        "username": "Rovenus_902",
+        "verified": false
+      }
+    ]
+  }
+}

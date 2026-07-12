@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2028766112813650276",
+    "created_at": "2026-03-04T05:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T06:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029063740180853095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1963589602633289733",
+          "start": 0,
+          "username": "ceongpo_nogdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029063740180853095",
+    "in_reply_to_user_id": "1963589602633289733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029061490331009522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceongpo_nogdu 人的贪欲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2028766112813650276",
+        "created_at": "2026-03-04T05:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029063740180853095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1963589602633289733",
+              "start": 0,
+              "username": "ceongpo_nogdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029063740180853095",
+        "in_reply_to_user_id": "1963589602633289733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029061490331009522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceongpo_nogdu 人的贪欲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963589602633289733",
+        "conversation_id": "2028766112813650276",
+        "created_at": "2026-03-04T05:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029061490331009522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029061490331009522",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029052614294565101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 昨天就给你私发了捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 910,
+          "like_count": 15411,
+          "listed_count": 0,
+          "media_count": 688,
+          "tweet_count": 3302
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-04T13:07:07.000Z",
+        "description": "世界在日出之时便预备了狂欢的排演",
+        "id": "1963589602633289733",
+        "name": "拌绿豆粉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963589812025528320/WoYBg47U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 736,
+          "like_count": 16119,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2137
+        },
+        "username": "ceongpo_nogdu",
+        "verified": false
+      }
+    ]
+  }
+}

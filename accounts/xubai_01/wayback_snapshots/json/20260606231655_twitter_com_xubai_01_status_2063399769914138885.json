@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1552999895572705280",
+          "name": "Bank of America"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026461334",
+          "name": "Bank of America"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      }
+    ],
+    "conversation_id": "2063399769914138885",
+    "created_at": "2026-06-06T23:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T00:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063399769914138885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alin2088/statu…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/alin2088/status/2063250571285643659",
+          "start": 78,
+          "url": "https://t.co/rTu18dZOct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063399769914138885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063250571285643659",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人在美国无身份首选美国银行（Bank of America），任意银行第一证件前提为美国身份文件，签证不算，驾照或者州身份证可以。\n人不在美国首选华美银行 https://t.co/rTu18dZOct"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063250544978964480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIjcGgaMAAWvpp.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1552999895572705280",
+              "name": "Bank of America"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026461334",
+              "name": "Bank of America"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "2063399769914138885",
+        "created_at": "2026-06-06T23:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063399769914138885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alin2088/statu…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/alin2088/status/2063250571285643659",
+              "start": 78,
+              "url": "https://t.co/rTu18dZOct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063399769914138885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063250571285643659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人在美国无身份首选美国银行（Bank of America），任意银行第一证件前提为美国身份文件，签证不算，驾照或者州身份证可以。\n人不在美国首选华美银行 https://t.co/rTu18dZOct"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063250544978964480"
+          ]
+        },
+        "author_id": "1621850894148202496",
+        "conversation_id": "2063250571285643659",
+        "created_at": "2026-06-06T13:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063250571285643659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TewKcUFidx",
+              "end": 70,
+              "expanded_url": "https://x.com/ALin2088/status/2063250571285643659/photo/1",
+              "media_key": "3_2063250544978964480",
+              "start": 47,
+              "url": "https://t.co/TewKcUFidx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063250571285643659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6635,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请问大家，图上这些美国银行，哪个靠谱，并且容易办一些，准备办一个用来入金，懂得请告知，感谢🙏 https://t.co/TewKcUFidx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 1455,
+          "like_count": 23843,
+          "listed_count": 2,
+          "media_count": 1172,
+          "tweet_count": 6153
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-04T12:39:45.000Z",
+        "description": "#蓝V互关\nA股·港股·美股玩家，科技追随者\nWeb3 / 币圈 / AI 初学者\n在 X 碎碎念，记录我的世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "蓝V互关"
+              }
+            ]
+          }
+        },
+        "id": "1621850894148202496",
+        "name": "苏林SuLin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062299303474061312/k7Kl4BnI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2764,
+          "following_count": 2916,
+          "like_count": 81,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 150
+        },
+        "username": "ALin2088",
+        "verified": true
+      }
+    ]
+  }
+}

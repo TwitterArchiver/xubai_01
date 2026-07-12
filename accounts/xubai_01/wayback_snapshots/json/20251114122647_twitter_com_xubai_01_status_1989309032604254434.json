@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1989262867166838989",
+    "created_at": "2025-11-14T12:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T13:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989309032604254434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2316118549",
+          "start": 0,
+          "username": "sleepwithjoker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989309032604254434",
+    "in_reply_to_user_id": "2316118549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989279202965885049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sleepwithjoker 不查"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1989262867166838989",
+        "created_at": "2025-11-14T12:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989309032604254434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2316118549",
+              "start": 0,
+              "username": "sleepwithjoker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989309032604254434",
+        "in_reply_to_user_id": "2316118549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989279202965885049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sleepwithjoker 不查"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2316118549",
+        "conversation_id": "1989262867166838989",
+        "created_at": "2025-11-14T10:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T11:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989279202965885049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989279202965885049",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989262867166838989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 深圳的一等座肯定查票的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜广州👉深圳",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 542,
+          "like_count": 6403,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-28T21:43:49.000Z",
+        "description": "#ElonWentCrazy\n#TrumpIsMoron\n#GOLD",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 0,
+                "tag": "ElonWentCrazy"
+              },
+              {
+                "end": 28,
+                "start": 15,
+                "tag": "TrumpIsMoron"
+              },
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "GOLD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cibc.com",
+                "end": 23,
+                "expanded_url": "https://cibc.com",
+                "start": 0,
+                "url": "https://t.co/urARo0NPur"
+              }
+            ]
+          }
+        },
+        "id": "2316118549",
+        "location": "Vancouver",
+        "name": "菩提 - 劝人卖房、劝人学CS计算机、劝人投芯片/黄金ETF推特第一个人😄😄😄😄",
+        "pinned_tweet_id": "1832489721387463166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972982163801788416/YrLVKcfK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 636,
+          "like_count": 3082,
+          "listed_count": 4,
+          "media_count": 378,
+          "tweet_count": 6582
+        },
+        "url": "https://t.co/urARo0NPur",
+        "username": "sleepwithjoker",
+        "verified": false
+      }
+    ]
+  }
+}

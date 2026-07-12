@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2061117584066613477",
+    "created_at": "2026-06-01T04:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T05:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061300632666124640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1004911053971419136",
+          "start": 0,
+          "username": "erizo_tofu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061300632666124640",
+    "in_reply_to_user_id": "1004911053971419136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061121363142910039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erizo_tofu ？我不过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2061117584066613477",
+        "created_at": "2026-06-01T04:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061300632666124640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1004911053971419136",
+              "start": 0,
+              "username": "erizo_tofu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061300632666124640",
+        "in_reply_to_user_id": "1004911053971419136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061121363142910039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erizo_tofu ？我不过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004911053971419136",
+        "conversation_id": "2061117584066613477",
+        "created_at": "2026-05-31T16:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061121363142910039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061121363142910039",
+        "in_reply_to_user_id": "1004911053971419136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 881,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061117584066613477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过的私信我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 1446,
+          "like_count": 23429,
+          "listed_count": 2,
+          "media_count": 1145,
+          "tweet_count": 5997
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-08T02:20:40.000Z",
+        "description": "深圳│原 粥 铁│喜欢柚木普│鈴木勝☪️单推│中文＆English＆Español＆日本語を勉強中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siriuswmo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/siriuswmo1",
+                "start": 0,
+                "url": "https://t.co/V0B9atJvnn"
+              }
+            ]
+          }
+        },
+        "id": "1004911053971419136",
+        "name": "一块豆腐鸭",
+        "pinned_tweet_id": "1654795860272619521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011312593215033344/goIc9T1Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5761,
+          "following_count": 4365,
+          "like_count": 170523,
+          "listed_count": 9,
+          "media_count": 2165,
+          "tweet_count": 34431
+        },
+        "url": "https://t.co/V0B9atJvnn",
+        "username": "erizo_tofu",
+        "verified": false
+      }
+    ]
+  }
+}

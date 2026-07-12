@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1999512667879346408",
+    "created_at": "2025-12-13T03:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T04:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999676584991817861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1585128375466840064",
+          "start": 0,
+          "username": "naiq1qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999676584991817861",
+    "in_reply_to_user_id": "1585128375466840064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999670219107893258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naiq1qi 谢谢～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1999512667879346408",
+        "created_at": "2025-12-13T03:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T04:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999676584991817861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1585128375466840064",
+              "start": 0,
+              "username": "naiq1qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999676584991817861",
+        "in_reply_to_user_id": "1585128375466840064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999670219107893258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naiq1qi 谢谢～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585128375466840064",
+        "conversation_id": "1999512667879346408",
+        "created_at": "2025-12-13T02:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T03:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999670219107893258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999670219107893258",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999512667879346408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 お誕生日おめでとう！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/人/实名上网｜ADHD&中抑重焦｜Founder @xubaimedia｜｜爱说梦话/想交朋友。🫠｜年底会计人格上身了要做账心情很不好请不要惹我（最后通牒）｜接各类企服财税代办｜一直都没钱都是装的身份自己给的｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 643,
+          "like_count": 8847,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 1053
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T04:37:19.000Z",
+        "description": "奈祈なき  梦到哪句说哪句 稍微带点负能\n 当朋友圈发 qq2630253667  微信扩列\n愿上岸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naki49390",
+                "end": 23,
+                "expanded_url": "https://ngl.link/naki49390",
+                "start": 0,
+                "url": "https://t.co/sITS6E5BqS"
+              }
+            ]
+          }
+        },
+        "id": "1585128375466840064",
+        "location": "鏡音レンの心",
+        "name": "祈り",
+        "pinned_tweet_id": "1992958652513411393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988987614641483776/ovVkm-0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 301,
+          "like_count": 2972,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/sITS6E5BqS",
+        "username": "naiq1qi",
+        "verified": false
+      }
+    ]
+  }
+}

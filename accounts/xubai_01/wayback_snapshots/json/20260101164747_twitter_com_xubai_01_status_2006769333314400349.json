@@ -1,0 +1,764 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006708235546365952",
+        "3_2006708234296434688",
+        "3_2006708234317422592",
+        "3_2006708233386262528"
+      ],
+      "media_source_tweet_id": [
+        "2006708239308828799",
+        "2006708239308828799",
+        "2006708239308828799",
+        "2006708239308828799"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      }
+    ],
+    "conversation_id": "2006769333314400349",
+    "created_at": "2026-01-01T16:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T17:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006769333314400349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1420377473901072390",
+          "start": 3,
+          "username": "Timfurry233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xrgRVDGsCG",
+          "end": 75,
+          "expanded_url": "https://x.com/Timfurry233/status/2006708239308828799/photo/1",
+          "media_key": "3_2006708235546365952",
+          "start": 52,
+          "url": "https://t.co/xrgRVDGsCG"
+        },
+        {
+          "display_url": "pic.x.com/xrgRVDGsCG",
+          "end": 75,
+          "expanded_url": "https://x.com/Timfurry233/status/2006708239308828799/photo/1",
+          "media_key": "3_2006708234296434688",
+          "start": 52,
+          "url": "https://t.co/xrgRVDGsCG"
+        },
+        {
+          "display_url": "pic.x.com/xrgRVDGsCG",
+          "end": 75,
+          "expanded_url": "https://x.com/Timfurry233/status/2006708239308828799/photo/1",
+          "media_key": "3_2006708234317422592",
+          "start": 52,
+          "url": "https://t.co/xrgRVDGsCG"
+        },
+        {
+          "display_url": "pic.x.com/xrgRVDGsCG",
+          "end": 75,
+          "expanded_url": "https://x.com/Timfurry233/status/2006708239308828799/photo/1",
+          "media_key": "3_2006708233386262528",
+          "start": 52,
+          "url": "https://t.co/xrgRVDGsCG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006769333314400349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006708239308828799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Timfurry233: 2026年，用上新年的第一台电脑，我家终于垮上信息高速公路啦！！！！ https://t.co/xrgRVDGsCG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2006708235546365952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lCghuXkAADpAA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2006708234296434688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lCgdEXIAAO0gs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2006708234317422592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lCgdJXYAAWopf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006708233386262528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lCgZrXAAAIToL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006708235546365952",
+            "3_2006708234296434688",
+            "3_2006708234317422592",
+            "3_2006708233386262528"
+          ],
+          "media_source_tweet_id": [
+            "2006708239308828799",
+            "2006708239308828799",
+            "2006708239308828799",
+            "2006708239308828799"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2006769333314400349",
+        "created_at": "2026-01-01T16:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006769333314400349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1420377473901072390",
+              "start": 3,
+              "username": "Timfurry233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrgRVDGsCG",
+              "end": 75,
+              "expanded_url": "https://x.com/Timfurry233/status/2006708239308828799/photo/1",
+              "media_key": "3_2006708235546365952",
+              "start": 52,
+              "url": "https://t.co/xrgRVDGsCG"
+            },
+            {
+              "display_url": "pic.x.com/xrgRVDGsCG",
+              "end": 75,
+              "expanded_url": "https://x.com/Timfurry233/status/2006708239308828799/photo/1",
+              "media_key": "3_2006708234296434688",
+              "start": 52,
+              "url": "https://t.co/xrgRVDGsCG"
+            },
+            {
+              "display_url": "pic.x.com/xrgRVDGsCG",
+              "end": 75,
+              "expanded_url": "https://x.com/Timfurry233/status/2006708239308828799/photo/1",
+              "media_key": "3_2006708234317422592",
+              "start": 52,
+              "url": "https://t.co/xrgRVDGsCG"
+            },
+            {
+              "display_url": "pic.x.com/xrgRVDGsCG",
+              "end": 75,
+              "expanded_url": "https://x.com/Timfurry233/status/2006708239308828799/photo/1",
+              "media_key": "3_2006708233386262528",
+              "start": 52,
+              "url": "https://t.co/xrgRVDGsCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006769333314400349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006708239308828799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Timfurry233: 2026年，用上新年的第一台电脑，我家终于垮上信息高速公路啦！！！！ https://t.co/xrgRVDGsCG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006708235546365952",
+            "3_2006708234296434688",
+            "3_2006708234317422592",
+            "3_2006708233386262528"
+          ]
+        },
+        "author_id": "1420377473901072390",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2006708239308828799",
+        "created_at": "2026-01-01T12:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T13:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006708239308828799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrgRVDGsCG",
+              "end": 58,
+              "expanded_url": "https://x.com/Timfurry233/status/2006708239308828799/photo/1",
+              "media_key": "3_2006708235546365952",
+              "start": 35,
+              "url": "https://t.co/xrgRVDGsCG"
+            },
+            {
+              "display_url": "pic.x.com/xrgRVDGsCG",
+              "end": 58,
+              "expanded_url": "https://x.com/Timfurry233/status/2006708239308828799/photo/1",
+              "media_key": "3_2006708234296434688",
+              "start": 35,
+              "url": "https://t.co/xrgRVDGsCG"
+            },
+            {
+              "display_url": "pic.x.com/xrgRVDGsCG",
+              "end": 58,
+              "expanded_url": "https://x.com/Timfurry233/status/2006708239308828799/photo/1",
+              "media_key": "3_2006708234317422592",
+              "start": 35,
+              "url": "https://t.co/xrgRVDGsCG"
+            },
+            {
+              "display_url": "pic.x.com/xrgRVDGsCG",
+              "end": 58,
+              "expanded_url": "https://x.com/Timfurry233/status/2006708239308828799/photo/1",
+              "media_key": "3_2006708233386262528",
+              "start": 35,
+              "url": "https://t.co/xrgRVDGsCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006708239308828799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 936,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026年，用上新年的第一台电脑，我家终于垮上信息高速公路啦！！！！ https://t.co/xrgRVDGsCG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 803,
+          "like_count": 12377,
+          "listed_count": 0,
+          "media_count": 498,
+          "tweet_count": 2215
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T13:36:23.000Z",
+        "description": "wikifur维基兽！/立志成为编程兽/咱是一只furry哦！⚠️偶尔会有🔞内容啦( ˃̶̤́ ꒳ ˂̶̤̀ )，懂一点点前端代码啦，但还很生疏💻中文⭕️English⭕️/日本语❌机翻telegram: https://t.co/5gGVDFM0WF blog: https://t.co/sjwsjkH2Lt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/im_furry_Data",
+                "end": 126,
+                "expanded_url": "http://t.me/im_furry_Data",
+                "start": 103,
+                "url": "https://t.co/5gGVDFM0WF"
+              },
+              {
+                "display_url": "furries.fun",
+                "end": 156,
+                "expanded_url": "https://furries.fun",
+                "start": 133,
+                "url": "https://t.co/sjwsjkH2Lt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "furries.fun",
+                "end": 23,
+                "expanded_url": "https://furries.fun",
+                "start": 0,
+                "url": "https://t.co/sjwsjkH2Lt"
+              }
+            ]
+          }
+        },
+        "id": "1420377473901072390",
+        "location": "毛毛之家: furryhome.cn",
+        "name": "xiaohuangbo🔜大学",
+        "pinned_tweet_id": "1998775629785813199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957346714417037312/nxpCXagl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4034,
+          "following_count": 2938,
+          "like_count": 28785,
+          "listed_count": 17,
+          "media_count": 502,
+          "tweet_count": 2908
+        },
+        "url": "https://t.co/sjwsjkH2Lt",
+        "username": "Timfurry233",
+        "verified": true
+      }
+    ]
+  }
+}

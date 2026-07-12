@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1977231583691329904",
+    "created_at": "2025-10-12T10:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T11:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977314973115367539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1488080791125237760",
+          "start": 0,
+          "username": "MengXi969"
+        },
+        {
+          "end": 20,
+          "id": "1271652280438308864",
+          "start": 11,
+          "username": "Jasonzyt"
+        },
+        {
+          "end": 29,
+          "id": "1929345774711975937",
+          "start": 21,
+          "username": "xubai21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977314973115367539",
+    "in_reply_to_user_id": "1488080791125237760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977314453793480806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MengXi969 @Jasonzyt @xubai21 那很思考了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1977231583691329904",
+        "created_at": "2025-10-12T10:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T11:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977314973115367539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488080791125237760",
+              "start": 0,
+              "username": "MengXi969"
+            },
+            {
+              "end": 20,
+              "id": "1271652280438308864",
+              "start": 11,
+              "username": "Jasonzyt"
+            },
+            {
+              "end": 29,
+              "id": "1929345774711975937",
+              "start": 21,
+              "username": "xubai21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977314973115367539",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977314453793480806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MengXi969 @Jasonzyt @xubai21 那很思考了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488080791125237760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "1977231583691329904",
+        "created_at": "2025-10-12T10:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T11:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977314453793480806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jasonzyt"
+            },
+            {
+              "end": 18,
+              "id": "1929345774711975937",
+              "start": 10,
+              "username": "xubai21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977314453793480806",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977314129917673535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasonzyt @xubai21 我用我妈的神秘Master Card过了验证（\n因为我那张HK bin虚拟卡欠费了过不了验证（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜梦到啥就发啥！2010年的｜一个什么圈子都混一点的莫名其妙的人。｜上学命苦，回来一看手机更命苦！｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 310,
+          "like_count": 3383,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 252
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "14 y.r. / Full-Stack / CTFer / Middle School Student / Nexaorion & LightXi Inc.\n👉Work at @nexaorion @LankoZone\n💕@SnowballLoveyou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 89,
+                "username": "nexaorion"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "LankoZone"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "SnowballLoveyou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvNBL"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 2358,
+          "like_count": 52009,
+          "listed_count": 3,
+          "media_count": 570,
+          "tweet_count": 3588
+        },
+        "url": "https://t.co/TIHBlJvNBL",
+        "username": "MengXi969",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 17岁 事电波系少女 | 低浓度宅 | 也许算全栈 Dev | 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Radio DE BH6SLW | 交通迷 ✈🚅🚢 | Formerly at @levimc_org | 愿望是大家都能天天开心 以自己想要的方式生活 ❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "levimc_org"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "🐱ZYT🏳️⭐️ w (๑╹◡╹๑) w",
+        "pinned_tweet_id": "1957296402964570559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953728269284782080/GDrgKAQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 675,
+          "like_count": 47386,
+          "listed_count": 4,
+          "media_count": 975,
+          "tweet_count": 11811
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jasonzyt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T01:14:34.000Z",
+        "description": "叫我许白就好啦～｜🏳️‍🌈/183/64kg/嘉兴杭州常驻/🔞含大量nsfw内容慎入/表推@xubai_01｜想每天都开开心心的/付费内容@xubai23/定制请直接私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "xubai_01"
+              },
+              {
+                "end": 77,
+                "start": 69,
+                "username": "xubai23"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/TQGeHJ5goL"
+              }
+            ]
+          }
+        },
+        "id": "1929345774711975937",
+        "location": "浙江嘉兴",
+        "name": "Little Xubai（互推ing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929346041641668608/baBg2M6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 626,
+          "like_count": 10617,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 837
+        },
+        "url": "https://t.co/TQGeHJ5goL",
+        "username": "xubai21",
+        "verified": false
+      }
+    ]
+  }
+}

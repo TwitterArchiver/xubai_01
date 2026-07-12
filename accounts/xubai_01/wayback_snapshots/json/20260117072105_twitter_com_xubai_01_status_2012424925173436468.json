@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012424919666298880"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2012424925173436468",
+    "created_at": "2026-01-17T07:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T08:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012424925173436468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/So8NDEdxVR",
+          "end": 25,
+          "expanded_url": "https://x.com/xubai_01/status/2012424925173436468/photo/1",
+          "media_key": "3_2012424919666298880",
+          "start": 2,
+          "url": "https://t.co/So8NDEdxVR"
+        },
+        {
+          "display_url": "x.com/xubai_01/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/xubai_01/status/2012388331922092375",
+          "start": 26,
+          "url": "https://t.co/dJyyjWODoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012424925173436468",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012388331922092375",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/So8NDEdxVR https://t.co/dJyyjWODoj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2012424925173436468].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2012424925173436468",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2012424925173436468"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_2012424919666298880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2RzVnakAAUBmK.jpg",
+        "width": 1024
+      },
+      {
+        "height": 695,
+        "media_key": "3_2012388325718720512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1whSibgAAIFQy.jpg",
+        "width": 599
+      },
+      {
+        "height": 464,
+        "media_key": "3_2012388325638979584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1whSPawAAICQ-.jpg",
+        "width": 936
+      },
+      {
+        "height": 317,
+        "media_key": "3_2012388325613780992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1whSJaQAAE43O.jpg",
+        "width": 806
+      },
+      {
+        "height": 170,
+        "media_key": "3_2012388325592805376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1whSEaMAANGXv.jpg",
+        "width": 493
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012388325718720512",
+            "3_2012388325638979584",
+            "3_2012388325613780992",
+            "3_2012388325592805376"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012388331922092375",
+        "created_at": "2026-01-17T04:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T05:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012388331922092375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vpFbVdEL4V",
+              "end": 31,
+              "expanded_url": "https://x.com/xubai_01/status/2012388331922092375/photo/1",
+              "media_key": "3_2012388325718720512",
+              "start": 8,
+              "url": "https://t.co/vpFbVdEL4V"
+            },
+            {
+              "display_url": "pic.x.com/vpFbVdEL4V",
+              "end": 31,
+              "expanded_url": "https://x.com/xubai_01/status/2012388331922092375/photo/1",
+              "media_key": "3_2012388325638979584",
+              "start": 8,
+              "url": "https://t.co/vpFbVdEL4V"
+            },
+            {
+              "display_url": "pic.x.com/vpFbVdEL4V",
+              "end": 31,
+              "expanded_url": "https://x.com/xubai_01/status/2012388331922092375/photo/1",
+              "media_key": "3_2012388325613780992",
+              "start": 8,
+              "url": "https://t.co/vpFbVdEL4V"
+            },
+            {
+              "display_url": "pic.x.com/vpFbVdEL4V",
+              "end": 31,
+              "expanded_url": "https://x.com/xubai_01/status/2012388331922092375/photo/1",
+              "media_key": "3_2012388325592805376",
+              "start": 8,
+              "url": "https://t.co/vpFbVdEL4V"
+            },
+            {
+              "display_url": "x.com/qingmeimm/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/qingmeimm/status/2012087188046111084",
+              "start": 32,
+              "url": "https://t.co/MPIMScHPLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012388331922092375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012087188046111084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某人要翻车了。 https://t.co/vpFbVdEL4V https://t.co/MPIMScHPLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：东三省、大湾区、四川（一月中旬｜欢迎随时联系/心情大爆炸｜@xubaimedia/？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜东北",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 849,
+          "like_count": 13611,
+          "listed_count": 0,
+          "media_count": 578,
+          "tweet_count": 2679
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

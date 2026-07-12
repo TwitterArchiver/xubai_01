@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2036620436596040024",
+    "created_at": "2026-03-26T07:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037070865956024373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1263504138307899392",
+          "start": 0,
+          "username": "im_magneto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037070865956024373",
+    "in_reply_to_user_id": "1263504138307899392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036620436596040024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@im_magneto 查查我🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2036620436596040024",
+        "created_at": "2026-03-26T07:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037070865956024373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1263504138307899392",
+              "start": 0,
+              "username": "im_magneto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037070865956024373",
+        "in_reply_to_user_id": "1263504138307899392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036620436596040024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@im_magneto 查查我🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263504138307899392",
+        "conversation_id": "2036620436596040024",
+        "created_at": "2026-03-25T01:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T02:34:28.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036617680585957442",
+          "2036620436596040024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036620436596040024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 35530,
+          "like_count": 269,
+          "quote_count": 1,
+          "reply_count": 56,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个学弟，我反复讲了很多遍代码组成和细节。\n他磨了四个月，依赖ai和祖传代码，完全没有自己写，甚至过不了编译，结构一坨，弯曲不可用。\n然后我接手了，我一个下午就完成了一大半……\n这种学弟真应该被我查死😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 1017,
+          "like_count": 17000,
+          "listed_count": 0,
+          "media_count": 821,
+          "tweet_count": 4034
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-21T16:17:25.000Z",
+        "description": "20岁 ENFJ(溫良的利他主義者)/\nTAG 可爱 & Furry & 小男孩🥰/\nAKA 小图灵(Turing)，熱愛計算機學科、生物學科/\nAddr 三亞||西安||成都/\n歡迎光臨我的Blog https://t.co/xLebzdwYc1 / \n如果我们不熟（互动很少）我是不会给泥联系方式or里推的 /",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fmcf.cc",
+                "end": 124,
+                "expanded_url": "https://fmcf.cc",
+                "start": 101,
+                "url": "https://t.co/xLebzdwYc1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fmcf.cc",
+                "end": 23,
+                "expanded_url": "https://fmcf.cc",
+                "start": 0,
+                "url": "https://t.co/xLebzdwYc1"
+              }
+            ]
+          }
+        },
+        "id": "1263504138307899392",
+        "location": "Sanya, PRC ",
+        "name": "全麦面包🍞",
+        "pinned_tweet_id": "2013274396925075619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583759739749441537/Q5PVXn-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 669,
+          "like_count": 12222,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 5146
+        },
+        "url": "https://t.co/xLebzdwYc1",
+        "username": "im_magneto",
+        "verified": true
+      }
+    ]
+  }
+}

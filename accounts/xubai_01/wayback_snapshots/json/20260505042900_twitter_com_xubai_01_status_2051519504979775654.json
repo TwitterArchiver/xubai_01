@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2051519504979775654",
+    "created_at": "2026-05-05T04:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051519504979775654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1771721622447165440",
+          "start": 3,
+          "username": "starry1145"
+        },
+        {
+          "end": 24,
+          "id": "1163059050",
+          "start": 16,
+          "username": "LmhdbAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051519504979775654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051337299204637010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @starry1145: @LmhdbAi 这金正日怎么还装个义眼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2051519504979775654",
+        "created_at": "2026-05-05T04:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051519504979775654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1771721622447165440",
+              "start": 3,
+              "username": "starry1145"
+            },
+            {
+              "end": 24,
+              "id": "1163059050",
+              "start": 16,
+              "username": "LmhdbAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051519504979775654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051337299204637010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @starry1145: @LmhdbAi 这金正日怎么还装个义眼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771721622447165440",
+        "conversation_id": "2050961478258487383",
+        "created_at": "2026-05-04T16:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051337299204637010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1163059050",
+              "start": 0,
+              "username": "LmhdbAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051337299204637010",
+        "in_reply_to_user_id": "1163059050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 21839,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050961478258487383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LmhdbAi 这金正日怎么还装个义眼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "xuba1_"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1243,
+          "like_count": 21437,
+          "listed_count": 0,
+          "media_count": 1051,
+          "tweet_count": 5254
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-24T02:12:15.000Z",
+        "description": "",
+        "id": "1771721622447165440",
+        "name": "六月雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925522316244434944/8861kk7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "starry1145",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-09T14:14:02.000Z",
+        "description": "谷歌重度爱好者 | 喜欢 Vibe Coding  |  AI 最忠实的奴仆 | 撸毛买BTC\n\n推文仅表达个人观点，偶尔恰饭\n\n商务 COLLAB DM ：https://t.co/1654QpWKYU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/amaoLucky",
+                "end": 102,
+                "expanded_url": "https://t.me/amaoLucky",
+                "start": 79,
+                "url": "https://t.co/1654QpWKYU"
+              }
+            ]
+          }
+        },
+        "id": "1163059050",
+        "name": "撸毛换大饼 · Ai",
+        "pinned_tweet_id": "2049107102699012130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051322282669412352/BakFSDFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17773,
+          "following_count": 5331,
+          "like_count": 39776,
+          "listed_count": 60,
+          "media_count": 2131,
+          "tweet_count": 45982
+        },
+        "username": "LmhdbAi",
+        "verified": true
+      }
+    ]
+  }
+}

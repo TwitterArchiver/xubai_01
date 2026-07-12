@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2061352814937326037",
+    "created_at": "2026-06-01T14:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061456389218959869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2279407860",
+          "start": 0,
+          "username": "bailyLU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061456389218959869",
+    "in_reply_to_user_id": "2279407860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061352814937326037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bailyLU 美国都不盖章了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2061352814937326037",
+        "created_at": "2026-06-01T14:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061456389218959869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2279407860",
+              "start": 0,
+              "username": "bailyLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061456389218959869",
+        "in_reply_to_user_id": "2279407860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061352814937326037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bailyLU 美国都不盖章了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2279407860",
+        "conversation_id": "2061352814937326037",
+        "created_at": "2026-06-01T07:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061352814937326037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061352814937326037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14691,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年开始真的不盖章了...\n全部电子记录了🇪🇺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 1443,
+          "like_count": 23442,
+          "listed_count": 2,
+          "media_count": 1147,
+          "tweet_count": 6006
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-06T18:00:04.000Z",
+        "description": "🎉 大家好，我是贝利 ✈️ 全球云居民☁️ 让我们一起花费更少，享受更好 📍 机票｜酒店｜信用卡｜数码科技 🍎主业留学移民工作（EU）💳 研究信用卡积分、省钱玩法 & 旅行黑科技 👥 社群｜知识星球：「贝利和他的小伙伴们」 📬 联络我：bailylu@icloud.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baily.life",
+                "end": 23,
+                "expanded_url": "http://baily.life",
+                "start": 0,
+                "url": "https://t.co/uk7nmQ1sDP"
+              }
+            ]
+          }
+        },
+        "id": "2279407860",
+        "location": "Milan",
+        "name": "贝利Baily",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987211914146160645/NFElt4XN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13826,
+          "following_count": 820,
+          "like_count": 4473,
+          "listed_count": 49,
+          "media_count": 1351,
+          "tweet_count": 5283
+        },
+        "url": "https://t.co/uk7nmQ1sDP",
+        "username": "bailyLU",
+        "verified": true
+      }
+    ]
+  }
+}

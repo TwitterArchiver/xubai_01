@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2059101662187282630",
+    "created_at": "2026-05-26T05:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059144126185300141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1157861690",
+          "start": 0,
+          "username": "AMBERAlert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059144126185300141",
+    "in_reply_to_user_id": "1157861690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059101662187282630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AMBERAlert 没事就好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 167,
+        "media_key": "3_2059101599419478016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNl_r3WMAAqb1N.jpg",
+        "width": 128
+      },
+      {
+        "height": 153,
+        "media_key": "3_2059101620273577984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNmA5jWgAATgVi.jpg",
+        "width": 118
+      },
+      {
+        "height": 126,
+        "media_key": "3_2059101641211531264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNmCHjWUAALyqR.jpg",
+        "width": 177
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2059101662187282630",
+        "created_at": "2026-05-26T05:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059144126185300141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1157861690",
+              "start": 0,
+              "username": "AMBERAlert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059144126185300141",
+        "in_reply_to_user_id": "1157861690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059101662187282630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AMBERAlert 没事就好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059101599419478016",
+            "3_2059101620273577984",
+            "3_2059101641211531264"
+          ]
+        },
+        "author_id": "1157861690",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          }
+        ],
+        "conversation_id": "2059101662187282630",
+        "created_at": "2026-05-26T02:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059101662187282630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "LosAngeles"
+            },
+            {
+              "end": 23,
+              "start": 12,
+              "tag": "California"
+            },
+            {
+              "end": 35,
+              "start": 24,
+              "tag": "AMBERAlert"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Missing From: Los Angeles, CA. Missing Date: Sun, May 24 2026. This AMBER Alert has been activated by the CHP on behalf of the Los Angeles Police Department. Ruben and Daleza Fregoso were last seen on May 24, 2026 at approximately 0400, hours in Los Angeles. Daleza Fregoso was abducted by Ruben Fregoso and they are believed to be in a white 2019 Land Rover Discovery CA-9DAW715.",
+              "display_url": "bit.ly/4vfwOat",
+              "end": 95,
+              "expanded_url": "https://bit.ly/4vfwOat",
+              "images": [
+                {
+                  "height": 335,
+                  "url": "https://pbs.twimg.com/news_img/2059101666377355264/UK6QhRGK?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059101666377355264/UK6QhRGK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "@AMBER Alert: Have you seen this child? Daleza Fergoso",
+              "unwound_url": "https://www.missingkids.org/poster/AMBER/31667/15565/screen",
+              "url": "https://t.co/MtBeIlN3uT"
+            },
+            {
+              "display_url": "pic.x.com/S9LUdLNe54",
+              "end": 120,
+              "expanded_url": "https://x.com/AMBERAlert/status/2059101662187282630/photo/1",
+              "media_key": "3_2059101599419478016",
+              "start": 97,
+              "url": "https://t.co/S9LUdLNe54"
+            },
+            {
+              "display_url": "pic.x.com/S9LUdLNe54",
+              "end": 120,
+              "expanded_url": "https://x.com/AMBERAlert/status/2059101662187282630/photo/1",
+              "media_key": "3_2059101620273577984",
+              "start": 97,
+              "url": "https://t.co/S9LUdLNe54"
+            },
+            {
+              "display_url": "pic.x.com/S9LUdLNe54",
+              "end": 120,
+              "expanded_url": "https://x.com/AMBERAlert/status/2059101662187282630/photo/1",
+              "media_key": "3_2059101641211531264",
+              "start": 97,
+              "url": "https://t.co/S9LUdLNe54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059101662187282630",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10231,
+          "like_count": 117,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "#LosAngeles #California #AMBERAlert For most current information, go to https://t.co/MtBeIlN3uT. https://t.co/S9LUdLNe54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 1369,
+          "like_count": 22848,
+          "listed_count": 2,
+          "media_count": 1113,
+          "tweet_count": 5769
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-07T18:06:30.000Z",
+        "description": "Account managed by @NCMEC. AMBER Alert is a program of the Department of Justice. Only U.S. AMBER Alerts are shared on this account.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 19,
+                "username": "NCMEC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "missingkids.org/gethelpnow/amb…",
+                "end": 23,
+                "expanded_url": "http://www.missingkids.org/gethelpnow/amber",
+                "start": 0,
+                "url": "https://t.co/oGOF1a3Egc"
+              }
+            ]
+          }
+        },
+        "id": "1157861690",
+        "location": "Alexandria, VA",
+        "name": "AMBER Alert",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/459711289715994624/peKDm6Xv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109160,
+          "following_count": 88,
+          "like_count": 169,
+          "listed_count": 668,
+          "media_count": 49,
+          "tweet_count": 3720
+        },
+        "url": "https://t.co/oGOF1a3Egc",
+        "username": "AMBERAlert",
+        "verified": true
+      }
+    ]
+  }
+}

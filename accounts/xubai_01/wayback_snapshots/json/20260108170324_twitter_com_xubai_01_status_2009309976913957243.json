@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2009309976913957243",
+    "created_at": "2026-01-08T17:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T18:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009309976913957243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1736375109374689280",
+          "start": 3,
+          "username": "xuehhh174115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009309976913957243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009249831559287280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuehhh174115: 抖音推特来回刷是不是没有人找你啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2009309976913957243",
+        "created_at": "2026-01-08T17:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T18:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009309976913957243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1736375109374689280",
+              "start": 3,
+              "username": "xuehhh174115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009309976913957243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009249831559287280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuehhh174115: 抖音推特来回刷是不是没有人找你啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736375109374689280",
+        "conversation_id": "2009249831559287280",
+        "created_at": "2026-01-08T13:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009249831559287280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009249831559287280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14769,
+          "like_count": 125,
+          "quote_count": 3,
+          "reply_count": 119,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "抖音推特来回刷是不是没有人找你啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：长春和大湾区（一月中旬｜欢迎随时联系/心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 811,
+          "like_count": 12930,
+          "listed_count": 0,
+          "media_count": 541,
+          "tweet_count": 2408
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T13:17:53.000Z",
+        "description": "谁叫我妈妈，就拉黑谁，不接推广，无门\n                  \n   想和小狗做好多好多事日记本\n    不关注我不回私信",
+        "id": "1736375109374689280",
+        "location": "♡",
+        "name": "芥末巧克力",
+        "pinned_tweet_id": "2008123687384633469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823716770924150784/psq2lkyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3625,
+          "following_count": 83,
+          "like_count": 2517,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1450
+        },
+        "username": "xuehhh174115",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2002306949279514842",
+    "created_at": "2025-12-20T09:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T10:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002315886481592674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546464289602428929",
+          "start": 0,
+          "username": "yuji53719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002315886481592674",
+    "in_reply_to_user_id": "1546464289602428929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002315163920220169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuji53719 没有接广也没人给我买。我涨粉了一定接😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2002306949279514842",
+        "created_at": "2025-12-20T09:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T10:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002315886481592674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546464289602428929",
+              "start": 0,
+              "username": "yuji53719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002315886481592674",
+        "in_reply_to_user_id": "1546464289602428929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002315163920220169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuji53719 没有接广也没人给我买。我涨粉了一定接😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546464289602428929",
+        "conversation_id": "2002306949279514842",
+        "created_at": "2025-12-20T09:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T10:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002315163920220169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002315163920220169",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002314862639427605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 恭喜主播接广！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜一月行程：武汉｜欢迎随时dm我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 737,
+          "like_count": 10671,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 1487
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T12:00:07.000Z",
+        "description": "只愿君心似我心 定不负相思意｜本号为碎碎念，平常话会很多！｜脑洞推@defeuillaison",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "defeuillaison"
+              }
+            ]
+          }
+        },
+        "id": "1546464289602428929",
+        "location": "床",
+        "name": "鯉",
+        "pinned_tweet_id": "2001525042254062062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928725740377485313/6RhiFLBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 1670,
+          "like_count": 14587,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 4307
+        },
+        "username": "yuji53719",
+        "verified": true
+      }
+    ]
+  }
+}

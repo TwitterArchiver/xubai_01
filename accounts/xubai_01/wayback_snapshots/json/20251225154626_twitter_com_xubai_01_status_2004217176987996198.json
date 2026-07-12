@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2004215416911286425",
+    "created_at": "2025-12-25T15:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T16:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004217176987996198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000116169198665729",
+          "start": 0,
+          "username": "Kevinyang080303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004217176987996198",
+    "in_reply_to_user_id": "2000116169198665729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004215416911286425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kevinyang080303 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2004215416911286425",
+        "created_at": "2025-12-25T15:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T16:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004217176987996198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000116169198665729",
+              "start": 0,
+              "username": "Kevinyang080303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004217176987996198",
+        "in_reply_to_user_id": "2000116169198665729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004215416911286425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kevinyang080303 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000116169198665729",
+        "conversation_id": "2004215416911286425",
+        "created_at": "2025-12-25T15:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T16:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004215416911286425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kevinayng0803/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/kevinayng0803/status/2004211541831569896",
+              "start": 33,
+              "url": "https://t.co/AUQDIFfIOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004215416911286425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004211541831569896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么我正主都没有😭😭😭\n我什么时候有财务了？还打款，好高级✋😭🤚 https://t.co/AUQDIFfIOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜啥意思。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 783,
+          "like_count": 11800,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 1888
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T08:11:37.000Z",
+        "description": "08/170/63，深圳男高，ENFJ，爱好很杂，比如航空／轨道交通，欢迎主动来找我🥰🥰",
+        "id": "2000116169198665729",
+        "name": "KevinYang(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000116542110085120/Cs0_EbnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 31,
+          "like_count": 610,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 162
+        },
+        "username": "Kevinyang080303",
+        "verified": true
+      }
+    ]
+  }
+}

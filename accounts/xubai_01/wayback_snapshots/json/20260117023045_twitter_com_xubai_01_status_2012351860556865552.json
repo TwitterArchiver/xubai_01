@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2012351860556865552",
+    "created_at": "2026-01-17T02:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T03:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012351860556865552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683218035602255872",
+          "start": 3,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012351860556865552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012285593355538528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jlxc2001: 我刚刚试了换梯子，买境外eSIM流量卡，换设备等等操作，死活加载不出来推特的消息，我甚至怀疑过是不是自己账号被封了，然后问了一下海外的网友。他们说他们的推也加载不出来消息了，我才知道又是推特的服务器崩了（\n不过神奇的是，Apple Push依然能够正…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2012351860556865552",
+        "created_at": "2026-01-17T02:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T03:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012351860556865552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683218035602255872",
+              "start": 3,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012351860556865552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012285593355538528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jlxc2001: 我刚刚试了换梯子，买境外eSIM流量卡，换设备等等操作，死活加载不出来推特的消息，我甚至怀疑过是不是自己账号被封了，然后问了一下海外的网友。他们说他们的推也加载不出来消息了，我才知道又是推特的服务器崩了（\n不过神奇的是，Apple Push依然能够正…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683218035602255872",
+        "conversation_id": "2012285593355538528",
+        "created_at": "2026-01-16T22:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T23:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012285593355538528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012285593355538528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2901,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚试了换梯子，买境外eSIM流量卡，换设备等等操作，死活加载不出来推特的消息，我甚至怀疑过是不是自己账号被封了，然后问了一下海外的网友。他们说他们的推也加载不出来消息了，我才知道又是推特的服务器崩了（\n不过神奇的是，Apple Push依然能够正常的推送推特的消息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：东三省、大湾区、四川（一月中旬｜欢迎随时联系/心情大爆炸｜@xubaimedia/？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜东北",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 850,
+          "like_count": 13517,
+          "listed_count": 0,
+          "media_count": 575,
+          "tweet_count": 2649
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7wSN1"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9697,
+          "following_count": 126,
+          "like_count": 308,
+          "listed_count": 22,
+          "media_count": 557,
+          "tweet_count": 1351
+        },
+        "url": "https://t.co/pIA1Q7wSN1",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

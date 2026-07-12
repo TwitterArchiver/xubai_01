@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032061266035163140",
+        "3_2032061266030944256"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2032061269285687351",
+    "created_at": "2026-03-12T11:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032061269285687351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yNqUTz4LYo",
+          "end": 34,
+          "expanded_url": "https://x.com/xubai_01/status/2032061269285687351/photo/1",
+          "media_key": "3_2032061266035163140",
+          "start": 11,
+          "url": "https://t.co/yNqUTz4LYo"
+        },
+        {
+          "display_url": "pic.x.com/yNqUTz4LYo",
+          "end": 34,
+          "expanded_url": "https://x.com/xubai_01/status/2032061269285687351/photo/1",
+          "media_key": "3_2032061266030944256",
+          "start": 11,
+          "url": "https://t.co/yNqUTz4LYo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032061269285687351",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "算得快死了。我都忘了 https://t.co/yNqUTz4LYo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2032061266035163140",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNU9IPbQAQkBMH.jpg",
+        "width": 473
+      },
+      {
+        "height": 768,
+        "media_key": "3_2032061266030944256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNU9IOa4AAeE0I.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032061266035163140",
+            "3_2032061266030944256"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2032061269285687351",
+        "created_at": "2026-03-12T11:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032061269285687351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yNqUTz4LYo",
+              "end": 34,
+              "expanded_url": "https://x.com/xubai_01/status/2032061269285687351/photo/1",
+              "media_key": "3_2032061266035163140",
+              "start": 11,
+              "url": "https://t.co/yNqUTz4LYo"
+            },
+            {
+              "display_url": "pic.x.com/yNqUTz4LYo",
+              "end": 34,
+              "expanded_url": "https://x.com/xubai_01/status/2032061269285687351/photo/1",
+              "media_key": "3_2032061266030944256",
+              "start": 11,
+              "url": "https://t.co/yNqUTz4LYo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032061269285687351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算得快死了。我都忘了 https://t.co/yNqUTz4LYo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 916,
+          "like_count": 15880,
+          "listed_count": 0,
+          "media_count": 732,
+          "tweet_count": 3497
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      }
+    ]
+  }
+}

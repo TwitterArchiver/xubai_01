@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006583416222003203",
+        "3_2006583416222101504"
+      ],
+      "media_source_tweet_id": [
+        "2006583427458638208",
+        "2006583427458638208"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2006633991148052932",
+    "created_at": "2026-01-01T07:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T08:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006633991148052932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "BaoZheFanQie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K9zded1iC2",
+          "end": 49,
+          "expanded_url": "https://x.com/BaoZheFanQie/status/2006583427458638208/photo/1",
+          "media_key": "3_2006583416222003203",
+          "start": 26,
+          "url": "https://t.co/K9zded1iC2"
+        },
+        {
+          "display_url": "pic.x.com/K9zded1iC2",
+          "end": 49,
+          "expanded_url": "https://x.com/BaoZheFanQie/status/2006583427458638208/photo/1",
+          "media_key": "3_2006583416222101504",
+          "start": 26,
+          "url": "https://t.co/K9zded1iC2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006633991148052932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006583427458638208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BaoZheFanQie: 这又是你们谁？ https://t.co/K9zded1iC2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006583416222003203",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9jQ_FgaMAMko46.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006583416222101504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9jQ_FgbsAAR6U2.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006583416222003203",
+            "3_2006583416222101504"
+          ],
+          "media_source_tweet_id": [
+            "2006583427458638208",
+            "2006583427458638208"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006633991148052932",
+        "created_at": "2026-01-01T07:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T08:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006633991148052932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "BaoZheFanQie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K9zded1iC2",
+              "end": 49,
+              "expanded_url": "https://x.com/BaoZheFanQie/status/2006583427458638208/photo/1",
+              "media_key": "3_2006583416222003203",
+              "start": 26,
+              "url": "https://t.co/K9zded1iC2"
+            },
+            {
+              "display_url": "pic.x.com/K9zded1iC2",
+              "end": 49,
+              "expanded_url": "https://x.com/BaoZheFanQie/status/2006583427458638208/photo/1",
+              "media_key": "3_2006583416222101504",
+              "start": 26,
+              "url": "https://t.co/K9zded1iC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006633991148052932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006583427458638208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BaoZheFanQie: 这又是你们谁？ https://t.co/K9zded1iC2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006583416222003203",
+            "3_2006583416222101504"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006583427458638208",
+        "created_at": "2026-01-01T04:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T05:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006583427458638208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K9zded1iC2",
+              "end": 31,
+              "expanded_url": "https://x.com/BaoZheFanQie/status/2006583427458638208/photo/1",
+              "media_key": "3_2006583416222003203",
+              "start": 8,
+              "url": "https://t.co/K9zded1iC2"
+            },
+            {
+              "display_url": "pic.x.com/K9zded1iC2",
+              "end": 31,
+              "expanded_url": "https://x.com/BaoZheFanQie/status/2006583427458638208/photo/1",
+              "media_key": "3_2006583416222101504",
+              "start": 8,
+              "url": "https://t.co/K9zded1iC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006583427458638208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 22493,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这又是你们谁？ https://t.co/K9zded1iC2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 803,
+          "like_count": 12347,
+          "listed_count": 0,
+          "media_count": 492,
+          "tweet_count": 2199
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄生活推🍅\n丨以记录生活发梗图为主，图源全部来自墙内\n丨愿世界和平，希望大家能多多关注🙏\n丨如果有需要提问的也可以直接私信或者问题下 at 我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+urAuBM8Y6J8zM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+urAuBM8Y6J8zMzVl",
+                "start": 0,
+                "url": "https://t.co/R2tlnuzVJI"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "name": "包着🍅籽的🍅",
+        "pinned_tweet_id": "2003661446446813210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998730140923346944/O5gaNMZb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3838,
+          "following_count": 2951,
+          "like_count": 1636,
+          "listed_count": 6,
+          "media_count": 950,
+          "tweet_count": 8886
+        },
+        "url": "https://t.co/R2tlnuzVJI",
+        "username": "BaoZheFanQie",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058009062265266176"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Los Angeles",
+          "id": "856860708847222784",
+          "name": "Los Angeles"
+        }
+      }
+    ],
+    "conversation_id": "2058009065478033588",
+    "created_at": "2026-05-23T02:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:05:38.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058006409602900194",
+      "2058006621566251208",
+      "2058009065478033588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZKNxIEeJ9g",
+          "end": 73,
+          "expanded_url": "https://x.com/xubai_01/status/2058009065478033588/photo/1",
+          "media_key": "3_2058009062265266176",
+          "start": 50,
+          "url": "https://t.co/ZKNxIEeJ9g"
+        },
+        {
+          "display_url": "x.com/chpalerts/stat…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/chpalerts/status/2058004453341675769",
+          "start": 74,
+          "url": "https://t.co/QGnCOjyVGm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058009065478033588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058004453341675769",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我正在吃饭，希望它没事！\n所以是谁天天都在抢小孩啊，这是我这周收到的第二个ANBER ALERT了 https://t.co/ZKNxIEeJ9g https://t.co/QGnCOjyVGm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058009062265266176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-EVpzbIAAp_jY.jpg",
+        "width": 942
+      },
+      {
+        "height": 1650,
+        "media_key": "3_2058004451869556736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-AJSvbgAAMzM6.jpg",
+        "width": 1275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2058006409602900194",
+        "created_at": "2026-05-23T02:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:05:38.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058006409602900194",
+          "2058006621566251208",
+          "2058009065478033588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chpalerts/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/chpalerts/status/2058004453341675769",
+              "start": 13,
+              "url": "https://t.co/QGnCOjyVGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058006409602900194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058004453341675769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我正在吃饭，希望它没事！ https://t.co/QGnCOjyVGm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2058006621566251208",
+        "created_at": "2026-05-23T02:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:05:38.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058006409602900194",
+          "2058006621566251208",
+          "2058009065478033588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chpalerts/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/chpalerts/status/2058004453341675769",
+              "start": 50,
+              "url": "https://t.co/QGnCOjyVGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058006621566251208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058004453341675769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我正在吃饭，希望它没事！\n所以是谁天天都在抢小孩啊，这是我这周收到的第二个ANBER ALERT了 https://t.co/QGnCOjyVGm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058009062265266176"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2058009065478033588",
+        "created_at": "2026-05-23T02:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:05:38.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058006409602900194",
+          "2058006621566251208",
+          "2058009065478033588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZKNxIEeJ9g",
+              "end": 73,
+              "expanded_url": "https://x.com/xubai_01/status/2058009065478033588/photo/1",
+              "media_key": "3_2058009062265266176",
+              "start": 50,
+              "url": "https://t.co/ZKNxIEeJ9g"
+            },
+            {
+              "display_url": "x.com/chpalerts/stat…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/chpalerts/status/2058004453341675769",
+              "start": 74,
+              "url": "https://t.co/QGnCOjyVGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058009065478033588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058004453341675769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我正在吃饭，希望它没事！\n所以是谁天天都在抢小孩啊，这是我这周收到的第二个ANBER ALERT了 https://t.co/ZKNxIEeJ9g https://t.co/QGnCOjyVGm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058004451869556736"
+          ]
+        },
+        "author_id": "1002664853847224320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1259995120016912384",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1259995120016912384",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2058004453341675769",
+        "created_at": "2026-05-23T01:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058004453341675769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xdz7MnZLY0",
+              "end": 147,
+              "expanded_url": "https://x.com/CHPAlerts/status/2058004453341675769/photo/1",
+              "media_key": "3_2058004451869556736",
+              "start": 124,
+              "url": "https://t.co/Xdz7MnZLY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058004453341675769",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 325,
+          "impression_count": 310618,
+          "like_count": 3027,
+          "quote_count": 41,
+          "reply_count": 803,
+          "retweet_count": 1569
+        },
+        "reply_settings": "everyone",
+        "text": "AMBER ALERT - Los Angeles and Orange Counties\nLast seen: Hampden Terrace and Sherwood Avenue, Alhambra\n\nIF SEEN, CALL 9-1-1 https://t.co/Xdz7MnZLY0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 1293,
+          "like_count": 22595,
+          "listed_count": 1,
+          "media_count": 1102,
+          "tweet_count": 5681
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-01T21:35:04.000Z",
+        "description": "The California Highway Patrol created this account for the sole purpose of disseminating details and flyers for active Alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chpalerts",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chpalerts",
+                "start": 0,
+                "url": "https://t.co/EhMM0DiVha"
+              }
+            ]
+          }
+        },
+        "id": "1002664853847224320",
+        "location": "California, USA",
+        "name": "CHP - Alerts",
+        "pinned_tweet_id": "2056325300250939555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057114232601427968/CrWsG0wL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254362,
+          "following_count": 209,
+          "like_count": 7,
+          "listed_count": 360,
+          "media_count": 55,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/EhMM0DiVha",
+        "username": "CHPAlerts",
+        "verified": true
+      }
+    ]
+  }
+}

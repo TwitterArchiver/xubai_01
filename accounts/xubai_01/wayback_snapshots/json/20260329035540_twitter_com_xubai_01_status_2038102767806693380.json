@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038102764505731072"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2038102767806693380",
+    "created_at": "2026-03-29T03:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T04:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038102767806693380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6mYBjrq4Et",
+          "end": 33,
+          "expanded_url": "https://x.com/xubai_01/status/2038102767806693380/photo/1",
+          "media_key": "3_2038102764505731072",
+          "start": 10,
+          "url": "https://t.co/6mYBjrq4Et"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038102767806693380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？？我真没看到🤯🤯 https://t.co/6mYBjrq4Et"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038102764505731072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjLqn4bEAAUWzX.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038102764505731072"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2038102767806693380",
+        "created_at": "2026-03-29T03:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T04:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038102767806693380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mYBjrq4Et",
+              "end": 33,
+              "expanded_url": "https://x.com/xubai_01/status/2038102767806693380/photo/1",
+              "media_key": "3_2038102764505731072",
+              "start": 10,
+              "url": "https://t.co/6mYBjrq4Et"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038102767806693380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？我真没看到🤯🤯 https://t.co/6mYBjrq4Et"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 1045,
+          "like_count": 17314,
+          "listed_count": 0,
+          "media_count": 831,
+          "tweet_count": 4156
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      }
+    ]
+  }
+}

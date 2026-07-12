@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2026670739223707750",
+    "created_at": "2026-02-25T14:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T15:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026670739223707750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1516582189772644352",
+          "start": 3,
+          "username": "Master_HanChan"
+        },
+        {
+          "end": 36,
+          "id": "1581738468547301376",
+          "start": 20,
+          "username": "ProbiusOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026670739223707750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026254952885321892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Master_HanChan: @ProbiusOfficial 山寨币吗 给我看呆了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2026670739223707750",
+        "created_at": "2026-02-25T14:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026670739223707750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1516582189772644352",
+              "start": 3,
+              "username": "Master_HanChan"
+            },
+            {
+              "end": 36,
+              "id": "1581738468547301376",
+              "start": 20,
+              "username": "ProbiusOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026670739223707750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026254952885321892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Master_HanChan: @ProbiusOfficial 山寨币吗 给我看呆了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516582189772644352",
+        "conversation_id": "2026216188100157762",
+        "created_at": "2026-02-24T11:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026254952885321892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581738468547301376",
+              "start": 0,
+              "username": "ProbiusOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026254952885321892",
+        "in_reply_to_user_id": "1581738468547301376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2592,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026216188100157762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProbiusOfficial 山寨币吗 给我看呆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 867,
+          "like_count": 15129,
+          "listed_count": 0,
+          "media_count": 662,
+          "tweet_count": 3149
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-20T00:59:14.000Z",
+        "description": "在职安全运营渗透工程师 | 国内某安全厂商离职员工 | 网络安全学徒 | 恶意程序开发学徒 | 二级市场合约新韭菜 | 定投纳斯达克100 | 定投标普500 | PriceAction价格行为交易学者 | 日内交易持续亏损者 | 喜欢DIY各类板子 安卓搞机爱好者 | 2025新的梦想:成为日内稳定盈利交易者💤",
+        "id": "1516582189772644352",
+        "location": "id;whoami;pwd",
+        "name": "Master_寒蝉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619947570385784833/LH3Y7mSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 860,
+          "like_count": 14283,
+          "listed_count": 14,
+          "media_count": 173,
+          "tweet_count": 3370
+        },
+        "username": "Master_HanChan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T20:07:43.000Z",
+        "description": "founder of @cyclens_tech | CTF教程 - HelloCTF: https://t.co/qIGhtUfXk2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "cyclens_tech"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hello-ctf.com",
+                "end": 68,
+                "expanded_url": "https://hello-ctf.com/",
+                "start": 45,
+                "url": "https://t.co/qIGhtUfXk2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ProbiusOfficial",
+                "end": 23,
+                "expanded_url": "https://github.com/ProbiusOfficial",
+                "start": 0,
+                "url": "https://t.co/E9lZZ7BIjH"
+              }
+            ]
+          }
+        },
+        "id": "1581738468547301376",
+        "location": "Koprulu Sector Aiur",
+        "name": "探姬 | Hello-CTF 🚩",
+        "pinned_tweet_id": "2008997963495034978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998788213247541248/eoyKSlKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8885,
+          "following_count": 508,
+          "like_count": 14409,
+          "listed_count": 47,
+          "media_count": 1962,
+          "tweet_count": 12602
+        },
+        "url": "https://t.co/E9lZZ7BIjH",
+        "username": "ProbiusOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

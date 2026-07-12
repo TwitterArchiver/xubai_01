@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031789850274512903"
+      ],
+      "media_source_tweet_id": [
+        "2031789861980815374"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2031955411944047085",
+    "created_at": "2026-03-12T04:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T05:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031955411944047085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759467211511775232",
+          "start": 3,
+          "username": "darilB2498971"
+        },
+        {
+          "end": 27,
+          "id": "2262723812",
+          "start": 19,
+          "username": "abskoop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RwKKZewir6",
+          "end": 53,
+          "expanded_url": "https://x.com/darilB2498971/status/2031789861980815374/photo/1",
+          "media_key": "3_2031789850274512903",
+          "start": 30,
+          "url": "https://t.co/RwKKZewir6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031955411944047085",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031789861980815374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @darilB2498971: @abskoop 。 https://t.co/RwKKZewir6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031789850274512903",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJeGpvbQAcMFrh.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031789850274512903"
+          ],
+          "media_source_tweet_id": [
+            "2031789861980815374"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2031955411944047085",
+        "created_at": "2026-03-12T04:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T05:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031955411944047085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759467211511775232",
+              "start": 3,
+              "username": "darilB2498971"
+            },
+            {
+              "end": 27,
+              "id": "2262723812",
+              "start": 19,
+              "username": "abskoop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RwKKZewir6",
+              "end": 53,
+              "expanded_url": "https://x.com/darilB2498971/status/2031789861980815374/photo/1",
+              "media_key": "3_2031789850274512903",
+              "start": 30,
+              "url": "https://t.co/RwKKZewir6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031955411944047085",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031789861980815374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @darilB2498971: @abskoop 。 https://t.co/RwKKZewir6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031789850274512903"
+          ]
+        },
+        "author_id": "1759467211511775232",
+        "conversation_id": "2031767891134361627",
+        "created_at": "2026-03-11T17:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031789861980815374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2262723812",
+              "start": 0,
+              "username": "abskoop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RwKKZewir6",
+              "end": 34,
+              "expanded_url": "https://x.com/darilB2498971/status/2031789861980815374/photo/1",
+              "media_key": "3_2031789850274512903",
+              "start": 11,
+              "url": "https://t.co/RwKKZewir6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031789861980815374",
+        "in_reply_to_user_id": "2262723812",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 72205,
+          "like_count": 257,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031767891134361627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abskoop 。 https://t.co/RwKKZewir6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 918,
+          "like_count": 15851,
+          "listed_count": 0,
+          "media_count": 730,
+          "tweet_count": 3492
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-19T06:37:53.000Z",
+        "description": "爱好是地狱笑话和猎奇段子",
+        "id": "1759467211511775232",
+        "location": "距离你0.3km",
+        "name": "多利-B",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759467360837378048/kjwPTWbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 13,
+          "like_count": 8119,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 3600
+        },
+        "username": "darilB2498971",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746906,
+          "following_count": 1255,
+          "like_count": 26044,
+          "listed_count": 2705,
+          "media_count": 23981,
+          "tweet_count": 61231
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

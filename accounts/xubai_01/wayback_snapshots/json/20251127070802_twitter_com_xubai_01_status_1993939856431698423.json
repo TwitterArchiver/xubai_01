@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1993623984374734886",
+    "created_at": "2025-11-27T07:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993939856431698423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1503516796493590530",
+          "start": 0,
+          "username": "orangefish_stew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993939856431698423",
+    "in_reply_to_user_id": "1503516796493590530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993623984374734886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orangefish_stew 何意味。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993623928678572032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rGZoSa4AA3sdr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1993623984374734886",
+        "created_at": "2025-11-27T07:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993939856431698423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1503516796493590530",
+              "start": 0,
+              "username": "orangefish_stew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993939856431698423",
+        "in_reply_to_user_id": "1503516796493590530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993623984374734886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangefish_stew 何意味。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993623928678572032"
+          ]
+        },
+        "author_id": "1503516796493590530",
+        "conversation_id": "1993623984374734886",
+        "created_at": "2025-11-26T10:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993623984374734886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0PR7PKJdub",
+              "end": 28,
+              "expanded_url": "https://x.com/orangefish_stew/status/1993623984374734886/photo/1",
+              "media_key": "3_1993623928678572032",
+              "start": 5,
+              "url": "https://t.co/0PR7PKJdub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993623984374734886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16588,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦。。 https://t.co/0PR7PKJdub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 590,
+          "like_count": 7187,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T23:42:07.000Z",
+        "description": "何处有香丘｜17在校高中牲｜INFP｜代词随意｜🏳️‍🌈🏳️‍⚧️喜欢男的｜老公@AstHL_Tomiaki｜友链:@aigekwaii66",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "AstHL_Tomiaki"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "aigekwaii66"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangefish_ste…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/orangefish_stew2",
+                "start": 0,
+                "url": "https://t.co/CnV3d7HHBn"
+              }
+            ]
+          }
+        },
+        "id": "1503516796493590530",
+        "location": "青岛",
+        "name": "橙汁烩鱼",
+        "pinned_tweet_id": "1951227998113579191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7600,
+          "following_count": 2228,
+          "like_count": 46810,
+          "listed_count": 2,
+          "media_count": 465,
+          "tweet_count": 7393
+        },
+        "url": "https://t.co/CnV3d7HHBn",
+        "username": "orangefish_stew",
+        "verified": false
+      }
+    ]
+  }
+}

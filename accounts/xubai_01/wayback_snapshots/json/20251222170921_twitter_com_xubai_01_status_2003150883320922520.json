@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003072516584280064"
+      ],
+      "media_source_tweet_id": [
+        "2003072523995627871"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2003150883320922520",
+    "created_at": "2025-12-22T17:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T18:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003150883320922520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1109624192746414081",
+          "start": 3,
+          "username": "qiancaobuzhiqiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lNJD10t322",
+          "end": 60,
+          "expanded_url": "https://x.com/qiancaobuzhiqiu/status/2003072523995627871/photo/1",
+          "media_key": "3_2003072516584280064",
+          "start": 37,
+          "url": "https://t.co/lNJD10t322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003150883320922520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003072523995627871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiancaobuzhiqiu: 收到了澳洲朋友送的好玩的礼物。 https://t.co/lNJD10t322"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003072516584280064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xX11JakAAJAxB.jpg",
+        "width": 1578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003072516584280064"
+          ],
+          "media_source_tweet_id": [
+            "2003072523995627871"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2003150883320922520",
+        "created_at": "2025-12-22T17:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T18:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003150883320922520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1109624192746414081",
+              "start": 3,
+              "username": "qiancaobuzhiqiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNJD10t322",
+              "end": 60,
+              "expanded_url": "https://x.com/qiancaobuzhiqiu/status/2003072523995627871/photo/1",
+              "media_key": "3_2003072516584280064",
+              "start": 37,
+              "url": "https://t.co/lNJD10t322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003150883320922520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003072523995627871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiancaobuzhiqiu: 收到了澳洲朋友送的好玩的礼物。 https://t.co/lNJD10t322"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003072516584280064"
+          ]
+        },
+        "author_id": "1109624192746414081",
+        "conversation_id": "2003072523995627871",
+        "created_at": "2025-12-22T11:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003072523995627871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNJD10t322",
+              "end": 39,
+              "expanded_url": "https://x.com/qiancaobuzhiqiu/status/2003072523995627871/photo/1",
+              "media_key": "3_2003072516584280064",
+              "start": 16,
+              "url": "https://t.co/lNJD10t322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003072523995627871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5458,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "收到了澳洲朋友送的好玩的礼物。 https://t.co/lNJD10t322"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜啥意思。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 761,
+          "like_count": 11190,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 1652
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-24T01:13:18.000Z",
+        "description": "做一个生活家。",
+        "id": "1109624192746414081",
+        "location": "Osaka-fu, Japan",
+        "name": "浅草不知秋～姚远",
+        "pinned_tweet_id": "1542383329596411904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1231559248548515840/VC2mRMgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47228,
+          "following_count": 2782,
+          "like_count": 67289,
+          "listed_count": 200,
+          "media_count": 9905,
+          "tweet_count": 32523
+        },
+        "username": "qiancaobuzhiqiu",
+        "verified": true
+      }
+    ]
+  }
+}

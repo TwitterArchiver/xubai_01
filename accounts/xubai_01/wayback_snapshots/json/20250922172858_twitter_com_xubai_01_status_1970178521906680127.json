@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970178514902298624"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "1970178521906680127",
+    "created_at": "2025-09-22T17:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T18:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970178521906680127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ni6ypCV3Jy",
+          "end": 33,
+          "expanded_url": "https://x.com/xubai_01/status/1970178521906680127/photo/1",
+          "media_key": "3_1970178514902298624",
+          "start": 10,
+          "url": "https://t.co/Ni6ypCV3Jy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970178521906680127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鱼妹老师你喝醉了吗 https://t.co/Ni6ypCV3Jy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970178514902298624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1d667zbsAA3KzG.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970178514902298624"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "1970178521906680127",
+        "created_at": "2025-09-22T17:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970178521906680127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ni6ypCV3Jy",
+              "end": 33,
+              "expanded_url": "https://x.com/xubai_01/status/1970178521906680127/photo/1",
+              "media_key": "3_1970178514902298624",
+              "start": 10,
+              "url": "https://t.co/Ni6ypCV3Jy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970178521906680127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鱼妹老师你喝醉了吗 https://t.co/Ni6ypCV3Jy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈@xubai22｜一个什么圈子都混一点的莫名其妙的人。｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "xubai22"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1965052451901591691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962871355994746882/BW4i3aWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 242,
+          "like_count": 2654,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

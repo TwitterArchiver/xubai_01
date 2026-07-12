@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066432052023697408"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2066432056352280796",
+    "created_at": "2026-06-15T08:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066432056352280796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kxja0c6aTa",
+          "end": 29,
+          "expanded_url": "https://x.com/xubai_01/status/2066432056352280796/photo/1",
+          "media_key": "3_2066432052023697408",
+          "start": 6,
+          "url": "https://t.co/kxja0c6aTa"
+        },
+        {
+          "display_url": "x.com/gmwallethk/sta…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/gmwallethk/status/2066375353355133124",
+          "start": 30,
+          "url": "https://t.co/Gmg7eRaI41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066432056352280796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066375353355133124",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你这是啥😈 https://t.co/kxja0c6aTa https://t.co/Gmg7eRaI41"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2066432052023697408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1xAL1aoAAixi_.jpg",
+        "width": 636
+      },
+      {
+        "height": 1531,
+        "media_key": "3_2066375101327855616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK09NN9b0AAJiZJ.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066432052023697408"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2066432056352280796",
+        "created_at": "2026-06-15T08:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066432056352280796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxja0c6aTa",
+              "end": 29,
+              "expanded_url": "https://x.com/xubai_01/status/2066432056352280796/photo/1",
+              "media_key": "3_2066432052023697408",
+              "start": 6,
+              "url": "https://t.co/kxja0c6aTa"
+            },
+            {
+              "display_url": "x.com/gmwallethk/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/gmwallethk/status/2066375353355133124",
+              "start": 30,
+              "url": "https://t.co/Gmg7eRaI41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066432056352280796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066375353355133124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你这是啥😈 https://t.co/kxja0c6aTa https://t.co/Gmg7eRaI41"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066375101327855616"
+          ]
+        },
+        "author_id": "1992255920777392128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066375353355133124",
+        "created_at": "2026-06-15T04:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066375353355133124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D7TMgdjUwp",
+              "end": 66,
+              "expanded_url": "https://x.com/GMWalletHK/status/2066375353355133124/photo/1",
+              "media_key": "3_2066375101327855616",
+              "start": 43,
+              "url": "https://t.co/D7TMgdjUwp"
+            },
+            {
+              "display_url": "x.com/GMWalletHK/sta…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/GMWalletHK/status/2066034285841375454",
+              "start": 67,
+              "url": "https://t.co/TBND0BsQqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066375353355133124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2530,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066034285841375454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没钱吃饭了，抢的10块钱已经入金搜哈了，中午就吃水煮吧，大家看看荤素都有，健康均衡😋 https://t.co/D7TMgdjUwp https://t.co/TBND0BsQqa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 76,
+                "username": "xuba1_"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "yuji53719"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 129,
+                "start": 122,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 1510,
+          "like_count": 24473,
+          "listed_count": 2,
+          "media_count": 1175,
+          "tweet_count": 6358
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-22T15:37:19.000Z",
+        "description": "GM Wallet 全力开发中，GM Pay（EPusdt）开发者。欢迎来到开放，包容的加密世界. Eng: @GMWallet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "GMWallet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gmwallet.app",
+                "end": 23,
+                "expanded_url": "https://gmwallet.app",
+                "start": 0,
+                "url": "https://t.co/5JpPjEdY2t"
+              }
+            ]
+          }
+        },
+        "id": "1992255920777392128",
+        "location": "香港",
+        "name": "GM Wallet 华语",
+        "pinned_tweet_id": "2060372840600535213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055265518660329472/d81zgfCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3842,
+          "following_count": 807,
+          "like_count": 11293,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 8281
+        },
+        "url": "https://t.co/5JpPjEdY2t",
+        "username": "GMWalletHK",
+        "verified": true
+      }
+    ]
+  }
+}

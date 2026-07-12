@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2043129033312067902",
+    "created_at": "2026-04-12T08:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043244769862959425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "993886755878191104",
+          "start": 0,
+          "username": "tokiseki_kurumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043244769862959425",
+    "in_reply_to_user_id": "993886755878191104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043142550547259657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiseki_kurumi 按床位算还是按房间算（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2043129033312067902",
+        "created_at": "2026-04-12T08:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043244769862959425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "993886755878191104",
+              "start": 0,
+              "username": "tokiseki_kurumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043244769862959425",
+        "in_reply_to_user_id": "993886755878191104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043142550547259657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiseki_kurumi 按床位算还是按房间算（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "993886755878191104",
+        "conversation_id": "2043129033312067902",
+        "created_at": "2026-04-12T01:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043142550547259657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043142550547259657",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 579,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043140992996647402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 没看懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/10.12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "yuji53719"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 1125,
+          "like_count": 18728,
+          "listed_count": 0,
+          "media_count": 897,
+          "tweet_count": 4544
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-08T16:14:02.000Z",
+        "description": "你好喵 介里岁\n一只买了一堆镜头但是不太会拍照的娃娃（？\nINTJ? 女变态！喜欢灵魂级别的还原w！ \n平时看看番上上学拍拍照（什\n日常正片混发的xp克苏鲁！想要看涩涩和娃去亮点喵~\n好友门槛100美元！发我口令红包解锁~！↓岁岁不妙屋x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/eietheenblacks…",
+                "end": 23,
+                "expanded_url": "https://t.me/eietheenblacksilk",
+                "start": 0,
+                "url": "https://t.co/hCc1qMgSfr"
+              }
+            ]
+          }
+        },
+        "id": "993886755878191104",
+        "location": "USC, Los Angeles",
+        "name": "岁",
+        "pinned_tweet_id": "2011442766094753890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722437313131896832/7vTc_ZqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25963,
+          "following_count": 14599,
+          "like_count": 2216,
+          "listed_count": 65,
+          "media_count": 2908,
+          "tweet_count": 9638
+        },
+        "url": "https://t.co/hCc1qMgSfr",
+        "username": "tokiseki_kurumi",
+        "verified": true
+      }
+    ]
+  }
+}

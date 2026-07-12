@@ -1,0 +1,521 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023732519620014082",
+        "3_2023732519661916160"
+      ],
+      "media_source_tweet_id": [
+        "2023732532991213730",
+        "2023732532991213730"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2023763862428979701",
+    "created_at": "2026-02-17T14:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T15:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023763862428979701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1398222440279408644",
+          "start": 3,
+          "username": "Find_X2_Pro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WXIDOk71ir",
+          "end": 63,
+          "expanded_url": "https://x.com/Find_X2_Pro/status/2023732532991213730/photo/1",
+          "media_key": "3_2023732519620014082",
+          "start": 40,
+          "url": "https://t.co/WXIDOk71ir"
+        },
+        {
+          "display_url": "pic.x.com/WXIDOk71ir",
+          "end": 63,
+          "expanded_url": "https://x.com/Find_X2_Pro/status/2023732532991213730/photo/1",
+          "media_key": "3_2023732519661916160",
+          "start": 40,
+          "url": "https://t.co/WXIDOk71ir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023763862428979701",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023732532991213730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Find_X2_Pro: 春節だから地下鉄無料で乗れるんだけど笑笑笑笑 https://t.co/WXIDOk71ir"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023732519620014082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBW-ASBbcAIq3V1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023732519661916160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBW-ASLa0AAVA_E.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023732519620014082",
+            "3_2023732519661916160"
+          ],
+          "media_source_tweet_id": [
+            "2023732532991213730",
+            "2023732532991213730"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023763862428979701",
+        "created_at": "2026-02-17T14:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023763862428979701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1398222440279408644",
+              "start": 3,
+              "username": "Find_X2_Pro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WXIDOk71ir",
+              "end": 63,
+              "expanded_url": "https://x.com/Find_X2_Pro/status/2023732532991213730/photo/1",
+              "media_key": "3_2023732519620014082",
+              "start": 40,
+              "url": "https://t.co/WXIDOk71ir"
+            },
+            {
+              "display_url": "pic.x.com/WXIDOk71ir",
+              "end": 63,
+              "expanded_url": "https://x.com/Find_X2_Pro/status/2023732532991213730/photo/1",
+              "media_key": "3_2023732519661916160",
+              "start": 40,
+              "url": "https://t.co/WXIDOk71ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023763862428979701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023732532991213730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Find_X2_Pro: 春節だから地下鉄無料で乗れるんだけど笑笑笑笑 https://t.co/WXIDOk71ir"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023732519620014082",
+            "3_2023732519661916160"
+          ]
+        },
+        "author_id": "1398222440279408644",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023732532991213730",
+        "created_at": "2026-02-17T12:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023732532991213730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WXIDOk71ir",
+              "end": 46,
+              "expanded_url": "https://x.com/Find_X2_Pro/status/2023732532991213730/photo/1",
+              "media_key": "3_2023732519620014082",
+              "start": 23,
+              "url": "https://t.co/WXIDOk71ir"
+            },
+            {
+              "display_url": "pic.x.com/WXIDOk71ir",
+              "end": 46,
+              "expanded_url": "https://x.com/Find_X2_Pro/status/2023732532991213730/photo/1",
+              "media_key": "3_2023732519661916160",
+              "start": 23,
+              "url": "https://t.co/WXIDOk71ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023732532991213730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 13105,
+          "like_count": 343,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "春節だから地下鉄無料で乗れるんだけど笑笑笑笑 https://t.co/WXIDOk71ir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州🔜嘉兴",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 855,
+          "like_count": 14819,
+          "listed_count": 0,
+          "media_count": 641,
+          "tweet_count": 3048
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-28T10:19:58.000Z",
+        "description": "中国/LEICA Q📷",
+        "id": "1398222440279408644",
+        "name": "か",
+        "pinned_tweet_id": "1990051830274068890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722522017340289024/dj4XdGTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 709,
+          "like_count": 16048,
+          "listed_count": 10,
+          "media_count": 1076,
+          "tweet_count": 8287
+        },
+        "username": "Find_X2_Pro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2043326581654036959",
+    "created_at": "2026-04-12T14:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043329889743646870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1629391238687518721",
+          "start": 0,
+          "username": "Sakumi_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043329889743646870",
+    "in_reply_to_user_id": "1629391238687518721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043326581654036959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakumi_2333 那你给我买😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2043326581654036959",
+        "created_at": "2026-04-12T14:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043329889743646870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1629391238687518721",
+              "start": 0,
+              "username": "Sakumi_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043329889743646870",
+        "in_reply_to_user_id": "1629391238687518721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043326581654036959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakumi_2333 那你给我买😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629391238687518721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597176467456",
+              "name": "Sports/Outdoor - Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026482869",
+              "name": "Nike"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026482869",
+              "name": "Nike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248316002317643776",
+              "name": "Athletic apparel"
+            }
+          }
+        ],
+        "conversation_id": "2043326581654036959",
+        "created_at": "2026-04-12T13:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043326581654036959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xubai_01/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xubai_01/status/2043127938670080419",
+              "start": 8,
+              "url": "https://t.co/c3jVKbSmMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043326581654036959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043127938670080419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下不得不买了 https://t.co/c3jVKbSmMx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/10.12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "yuji53719"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 1134,
+          "like_count": 18800,
+          "listed_count": 0,
+          "media_count": 903,
+          "tweet_count": 4568
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-25T08:02:06.000Z",
+        "description": "ISFP-T",
+        "id": "1629391238687518721",
+        "name": "蒼雪Aoyuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975004071489941504/rP2BpwVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 314,
+          "like_count": 4555,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1118
+        },
+        "username": "Sakumi_2333",
+        "verified": false
+      }
+    ]
+  }
+}

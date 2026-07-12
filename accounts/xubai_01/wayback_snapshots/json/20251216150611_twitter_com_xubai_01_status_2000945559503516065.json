@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2000801579377868937",
+    "created_at": "2025-12-16T15:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T16:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000945559503516065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1235870523265073153",
+          "start": 0,
+          "username": "ye06782480"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000945559503516065",
+    "in_reply_to_user_id": "1235870523265073153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000801579377868937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye06782480 我的牛子磨破皮了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2000801579377868937",
+        "created_at": "2025-12-16T15:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T16:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000945559503516065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1235870523265073153",
+              "start": 0,
+              "username": "ye06782480"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000945559503516065",
+        "in_reply_to_user_id": "1235870523265073153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000801579377868937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye06782480 我的牛子磨破皮了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235870523265073153",
+        "conversation_id": "2000801579377868937",
+        "created_at": "2025-12-16T05:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000801579377868937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XfromEee/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/XfromEee/status/2000552479713534117",
+              "start": 16,
+              "url": "https://t.co/5SHw2TYq2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000801579377868937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 742,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000552479713534117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "穷人的娱乐项目只有打飞机了。🛫 https://t.co/5SHw2TYq2K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia｜爱说梦话/想交朋友。🫠｜网易/火山引擎/阿里云/腾讯云代理商｜接各类企服财税代办｜一直都没钱都是装的身份自己给的｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 685,
+          "like_count": 9687,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 1183
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-06T10:11:20.000Z",
+        "description": "这里是四百亿（百百）/水瓶💦/172cm/04年/美院在读🦪/情绪不定的furry/超级探店侠/榴莲究极梦男🥵🥵\n目前武汉读书，几乎没有什么雷点，欢迎找我玩噢🤪🤪",
+        "id": "1235870523265073153",
+        "name": "四百亿OvO",
+        "pinned_tweet_id": "1936638615347778003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912573762345836544/4jylRKcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5873,
+          "following_count": 779,
+          "like_count": 4455,
+          "listed_count": 9,
+          "media_count": 252,
+          "tweet_count": 4439
+        },
+        "username": "ye06782480",
+        "verified": false
+      }
+    ]
+  }
+}

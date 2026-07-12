@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2028766112813650276",
+    "created_at": "2026-03-04T04:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029052614294565101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1963589602633289733",
+          "start": 0,
+          "username": "ceongpo_nogdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029052614294565101",
+    "in_reply_to_user_id": "1963589602633289733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028766112813650276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceongpo_nogdu 报名！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2028766112813650276",
+        "created_at": "2026-03-04T04:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029052614294565101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1963589602633289733",
+              "start": 0,
+              "username": "ceongpo_nogdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029052614294565101",
+        "in_reply_to_user_id": "1963589602633289733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028766112813650276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceongpo_nogdu 报名！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963589602633289733",
+        "conversation_id": "2028766112813650276",
+        "created_at": "2026-03-03T09:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T10:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028766112813650276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ceongpo_nogdu/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ceongpo_nogdu/status/2028706821683519943",
+              "start": 14,
+              "url": "https://t.co/RZNHeZ39ME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028766112813650276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4377,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028706821683519943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想要雪地字的宝宝可以报名🥰 https://t.co/RZNHeZ39ME"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 907,
+          "like_count": 15406,
+          "listed_count": 0,
+          "media_count": 687,
+          "tweet_count": 3298
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-04T13:07:07.000Z",
+        "description": "世界在日出之时便预备了狂欢的排演",
+        "id": "1963589602633289733",
+        "name": "拌绿豆粉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963589812025528320/WoYBg47U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 736,
+          "like_count": 16118,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2136
+        },
+        "username": "ceongpo_nogdu",
+        "verified": false
+      }
+    ]
+  }
+}

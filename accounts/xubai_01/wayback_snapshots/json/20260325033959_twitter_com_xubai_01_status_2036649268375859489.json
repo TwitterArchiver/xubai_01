@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2036308394433499455",
+    "created_at": "2026-03-25T03:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T04:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036649268375859489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967931854004379648",
+          "start": 0,
+          "username": "ABLumenix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036649268375859489",
+    "in_reply_to_user_id": "1967931854004379648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036613616573837539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABLumenix 没有！😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2036308394433499455",
+        "created_at": "2026-03-25T03:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036649268375859489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967931854004379648",
+              "start": 0,
+              "username": "ABLumenix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036649268375859489",
+        "in_reply_to_user_id": "1967931854004379648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036613616573837539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABLumenix 没有！😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967931854004379648",
+        "conversation_id": "2036308394433499455",
+        "created_at": "2026-03-25T01:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T02:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036613616573837539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036613616573837539",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036308394433499455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 都还完了嘛！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 1004,
+          "like_count": 16820,
+          "listed_count": 0,
+          "media_count": 810,
+          "tweet_count": 3947
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-16T12:41:52.000Z",
+        "description": "可以叫我光启！是正统深圳（过期）男高║🏠深圳║ 🏫南京║🇨🇳中文普通话、益阳话&🇬🇧English available║🏳️‍🌈性别等于取向，可以聊涩但要尊重边界║欢迎私信扩列║不涉政治",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ablumenix",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ablumenix",
+                "start": 0,
+                "url": "https://t.co/mSRC5a6mi5"
+              }
+            ]
+          }
+        },
+        "id": "1967931854004379648",
+        "name": "Alben_Lumenix_光启",
+        "pinned_tweet_id": "2026347282573242730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967932005221576705/pdsqDSH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 294,
+          "like_count": 560,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/mSRC5a6mi5",
+        "username": "ABLumenix",
+        "verified": false
+      }
+    ]
+  }
+}

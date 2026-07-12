@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2025915287757877616",
+    "created_at": "2026-02-23T12:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T13:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025915789078106474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1819200907231535104",
+          "start": 0,
+          "username": "FO3559188115960"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025915789078106474",
+    "in_reply_to_user_id": "1819200907231535104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025915287757877616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FO3559188115960 崩不住了还有屏蔽关卡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2025915287757877616",
+        "created_at": "2026-02-23T12:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025915789078106474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1819200907231535104",
+              "start": 0,
+              "username": "FO3559188115960"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025915789078106474",
+        "in_reply_to_user_id": "1819200907231535104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025915287757877616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FO3559188115960 崩不住了还有屏蔽关卡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819200907231535104",
+        "conversation_id": "2025915287757877616",
+        "created_at": "2026-02-23T12:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025915287757877616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025915287757877616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不喜欢可以屏蔽哈，我可不想一直跟你无厘头说来说去，你不会屏蔽我会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 862,
+          "like_count": 15059,
+          "listed_count": 0,
+          "media_count": 653,
+          "tweet_count": 3113
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-02T02:38:06.000Z",
+        "description": "。",
+        "id": "1819200907231535104",
+        "name": "FO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025617267162054656/9gg3Z2BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 12,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 491
+        },
+        "username": "FO3559188115960",
+        "verified": false
+      }
+    ]
+  }
+}

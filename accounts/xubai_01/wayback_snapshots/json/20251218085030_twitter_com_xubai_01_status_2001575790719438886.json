@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2001575790719438886",
+    "created_at": "2025-12-18T08:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T09:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001575790719438886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xubai_01/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/xubai_01/status/2001548280703156256",
+          "start": 4,
+          "url": "https://t.co/C50c5qNi0O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001575790719438886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001548280703156256",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拿到了 https://t.co/C50c5qNi0O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2001575790719438886",
+        "created_at": "2025-12-18T08:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T09:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001575790719438886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xubai_01/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/xubai_01/status/2001548280703156256",
+              "start": 4,
+              "url": "https://t.co/C50c5qNi0O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001575790719438886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001548280703156256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拿到了 https://t.co/C50c5qNi0O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2001548280703156256",
+        "created_at": "2025-12-18T07:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T08:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001548280703156256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001548280703156256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手机被班主任短暂收了 信息技术课上来冒个泡 五点后再上来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 707,
+          "like_count": 10176,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 1282
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

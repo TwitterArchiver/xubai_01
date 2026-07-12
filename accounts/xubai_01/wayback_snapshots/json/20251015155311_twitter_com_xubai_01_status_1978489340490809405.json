@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1978469811253649857",
+    "created_at": "2025-10-15T15:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T16:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978489340490809405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1076874986416005125",
+          "start": 0,
+          "username": "AirCcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978489340490809405",
+    "in_reply_to_user_id": "1076874986416005125",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978489151092875675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AirCcw 那也不是哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1978469811253649857",
+        "created_at": "2025-10-15T15:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T16:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978489340490809405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1076874986416005125",
+              "start": 0,
+              "username": "AirCcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978489340490809405",
+        "in_reply_to_user_id": "1076874986416005125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978489151092875675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AirCcw 那也不是哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1076874986416005125",
+        "conversation_id": "1978469811253649857",
+        "created_at": "2025-10-15T15:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T16:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978489151092875675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978489151092875675",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978484547840061731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 那问题就是出在公司没有还钱给你，你自己还债咯，真的是天使投资人啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 339,
+          "like_count": 3597,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-23T16:19:38.000Z",
+        "description": "Always on the way 这样寂寞就追不上我. 喜欢提前一年规划自己的旅游行程但是受够了一个人旅行. 大湾区程序员牛马. 🔝🌈. 机酒卡爱好者. web3从业者. 欢迎各路大神骚扰",
+        "id": "1076874986416005125",
+        "location": "大湾区",
+        "name": "ccw air",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1077264631641460736/arI5YDxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 833,
+          "like_count": 3371,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1031
+        },
+        "username": "AirCcw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028678001257545729",
+        "3_2028678001249193984",
+        "3_2028678001249112064",
+        "3_2028678001299456000"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028678010350759984",
+    "created_at": "2026-03-03T03:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T04:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028678010350759984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pDf95om6e1",
+          "end": 28,
+          "expanded_url": "https://x.com/xubai_01/status/2028678010350759984/photo/1",
+          "media_key": "3_2028678001257545729",
+          "start": 5,
+          "url": "https://t.co/pDf95om6e1"
+        },
+        {
+          "display_url": "pic.x.com/pDf95om6e1",
+          "end": 28,
+          "expanded_url": "https://x.com/xubai_01/status/2028678010350759984/photo/1",
+          "media_key": "3_2028678001249193984",
+          "start": 5,
+          "url": "https://t.co/pDf95om6e1"
+        },
+        {
+          "display_url": "pic.x.com/pDf95om6e1",
+          "end": 28,
+          "expanded_url": "https://x.com/xubai_01/status/2028678010350759984/photo/1",
+          "media_key": "3_2028678001249112064",
+          "start": 5,
+          "url": "https://t.co/pDf95om6e1"
+        },
+        {
+          "display_url": "pic.x.com/pDf95om6e1",
+          "end": 28,
+          "expanded_url": "https://x.com/xubai_01/status/2028678010350759984/photo/1",
+          "media_key": "3_2028678001299456000",
+          "start": 5,
+          "url": "https://t.co/pDf95om6e1"
+        },
+        {
+          "display_url": "x.com/lingjiaxin233/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/lingjiaxin233/status/2028633062024884353",
+          "start": 29,
+          "url": "https://t.co/GdPnHevPKW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028678010350759984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028633062024884353",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我错了😭 https://t.co/pDf95om6e1 https://t.co/GdPnHevPKW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028678001257545729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdP5MybAAEApV3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028678001249193984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdP5MwbkAACfky.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028678001249112064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdP5MwaUAAhwdw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028678001299456000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdP5M8agAABxWy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2046,
+        "media_key": "3_2028633056169586688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcnBDSacAAAIwV.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028678001257545729",
+            "3_2028678001249193984",
+            "3_2028678001249112064",
+            "3_2028678001299456000"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028678010350759984",
+        "created_at": "2026-03-03T03:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028678010350759984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pDf95om6e1",
+              "end": 28,
+              "expanded_url": "https://x.com/xubai_01/status/2028678010350759984/photo/1",
+              "media_key": "3_2028678001257545729",
+              "start": 5,
+              "url": "https://t.co/pDf95om6e1"
+            },
+            {
+              "display_url": "pic.x.com/pDf95om6e1",
+              "end": 28,
+              "expanded_url": "https://x.com/xubai_01/status/2028678010350759984/photo/1",
+              "media_key": "3_2028678001249193984",
+              "start": 5,
+              "url": "https://t.co/pDf95om6e1"
+            },
+            {
+              "display_url": "pic.x.com/pDf95om6e1",
+              "end": 28,
+              "expanded_url": "https://x.com/xubai_01/status/2028678010350759984/photo/1",
+              "media_key": "3_2028678001249112064",
+              "start": 5,
+              "url": "https://t.co/pDf95om6e1"
+            },
+            {
+              "display_url": "pic.x.com/pDf95om6e1",
+              "end": 28,
+              "expanded_url": "https://x.com/xubai_01/status/2028678010350759984/photo/1",
+              "media_key": "3_2028678001299456000",
+              "start": 5,
+              "url": "https://t.co/pDf95om6e1"
+            },
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/lingjiaxin233/status/2028633062024884353",
+              "start": 29,
+              "url": "https://t.co/GdPnHevPKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028678010350759984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028633062024884353",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我错了😭 https://t.co/pDf95om6e1 https://t.co/GdPnHevPKW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028633056169586688"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2028633062024884353",
+        "created_at": "2026-03-03T00:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T01:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028633062024884353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/23kZwsyhl8",
+              "end": 47,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2028633062024884353/photo/1",
+              "media_key": "3_2028633056169586688",
+              "start": 24,
+              "url": "https://t.co/23kZwsyhl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028633062024884353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 506,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你购买了这个产品，你就同时拥有了苹果与自卑 https://t.co/23kZwsyhl8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 881,
+          "like_count": 15344,
+          "listed_count": 0,
+          "media_count": 681,
+          "tweet_count": 3253
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "如果你没有被我block那你应该感到幸福/不见证，不讨论政治不感兴趣/侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2028481477584003271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 734,
+          "like_count": 8890,
+          "listed_count": 5,
+          "media_count": 203,
+          "tweet_count": 2555
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

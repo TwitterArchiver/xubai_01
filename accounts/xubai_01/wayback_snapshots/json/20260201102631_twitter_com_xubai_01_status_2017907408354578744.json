@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017835235078197248"
+      ],
+      "media_source_tweet_id": [
+        "2017835236953124912"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2017907408354578744",
+    "created_at": "2026-02-01T10:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T11:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017907408354578744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1925425906291822592",
+          "start": 3,
+          "username": "JIANIAO2587"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AMUF7poa95",
+          "end": 46,
+          "expanded_url": "https://x.com/JIANIAO2587/status/2017835236953124912/photo/1",
+          "media_key": "3_2017835235078197248",
+          "start": 23,
+          "url": "https://t.co/AMUF7poa95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017907408354578744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017835236953124912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JIANIAO2587: 某地区红包 https://t.co/AMUF7poa95"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 414,
+        "media_key": "3_2017835235078197248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HADKdJIaUAAV_fn.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017835235078197248"
+          ],
+          "media_source_tweet_id": [
+            "2017835236953124912"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2017907408354578744",
+        "created_at": "2026-02-01T10:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017907408354578744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1925425906291822592",
+              "start": 3,
+              "username": "JIANIAO2587"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AMUF7poa95",
+              "end": 46,
+              "expanded_url": "https://x.com/JIANIAO2587/status/2017835236953124912/photo/1",
+              "media_key": "3_2017835235078197248",
+              "start": 23,
+              "url": "https://t.co/AMUF7poa95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017907408354578744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017835236953124912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JIANIAO2587: 某地区红包 https://t.co/AMUF7poa95"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017835235078197248"
+          ]
+        },
+        "author_id": "1925425906291822592",
+        "conversation_id": "2017835236953124912",
+        "created_at": "2026-02-01T05:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T06:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017835236953124912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AMUF7poa95",
+              "end": 29,
+              "expanded_url": "https://x.com/JIANIAO2587/status/2017835236953124912/photo/1",
+              "media_key": "3_2017835235078197248",
+              "start": 6,
+              "url": "https://t.co/AMUF7poa95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017835236953124912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 142,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某地区红包 https://t.co/AMUF7poa95"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜行程：大湾区、云川（一月中旬｜欢迎随时联系/心情大爆炸｜友链：@xubaimedia/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜成都",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 866,
+          "like_count": 14255,
+          "listed_count": 0,
+          "media_count": 610,
+          "tweet_count": 2904
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T05:38:20.000Z",
+        "description": "男/43岁/176cm/50kg       喃桐🏳️‍🌈/见光死/不线下/枕头控/不恋爱/朋友圈/活人基本回fo塞满tl🥵/纯纯的抽象/地雷会到处炸人捅洗你喵😡/喜欢在无人安静小角落的乐色桶里🦌管/发图只为了想自己开心/提问链接↓（问题前面记得扣一个1让我分辨真人人机）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianiao25871",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianiao25871",
+                "start": 0,
+                "url": "https://t.co/vPF54Oatso"
+              }
+            ]
+          }
+        },
+        "id": "1925425906291822592",
+        "name": "文案bot",
+        "pinned_tweet_id": "1953405403968270384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003403088317857792/QoBLu4OU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 1162,
+          "like_count": 19203,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 2679
+        },
+        "url": "https://t.co/vPF54Oatso",
+        "username": "JIANIAO2587",
+        "verified": false
+      }
+    ]
+  }
+}

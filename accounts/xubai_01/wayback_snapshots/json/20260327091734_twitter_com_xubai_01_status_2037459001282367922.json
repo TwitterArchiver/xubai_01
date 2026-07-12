@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2037417821299433960",
+    "created_at": "2026-03-27T09:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T10:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037459001282367922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1611246341728120835",
+          "start": 0,
+          "username": "Aureliax17QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037459001282367922",
+    "in_reply_to_user_id": "1611246341728120835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037417821299433960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aureliax17QwQ 我们用企业微信喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2037417821299433960",
+        "created_at": "2026-03-27T09:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037459001282367922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1611246341728120835",
+              "start": 0,
+              "username": "Aureliax17QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037459001282367922",
+        "in_reply_to_user_id": "1611246341728120835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037417821299433960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aureliax17QwQ 我们用企业微信喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2037417821299433960",
+        "created_at": "2026-03-27T06:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037417821299433960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037417821299433960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1514,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道为什么小药娘找不到工作吗？\n因为药娘卸载了钉钉（丁丁）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 1035,
+          "like_count": 17126,
+          "listed_count": 0,
+          "media_count": 825,
+          "tweet_count": 4095
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费但失败的心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜炸柜了｜想倾诉或聊天可以tg找我说话（或者私信哦～）|tg：https://t.co/5kLEQoTlFF |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 96,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 73,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 239,
+          "like_count": 5030,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1214
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2060376093769580638",
+    "created_at": "2026-05-29T19:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060450742104903813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1024699964071522305",
+          "start": 0,
+          "username": "moonpay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060450742104903813",
+    "in_reply_to_user_id": "1024699964071522305",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060376093769580638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonpay i neeeeed！🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2060376093769580638",
+        "created_at": "2026-05-29T19:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060450742104903813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1024699964071522305",
+              "start": 0,
+              "username": "moonpay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060450742104903813",
+        "in_reply_to_user_id": "1024699964071522305",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060376093769580638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonpay i neeeeed！🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1024699964071522305",
+        "conversation_id": "2060376093769580638",
+        "created_at": "2026-05-29T15:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060376093769580638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060376093769580638",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 95530,
+          "like_count": 1943,
+          "quote_count": 26,
+          "reply_count": 1952,
+          "retweet_count": 228
+        },
+        "reply_settings": "everyone",
+        "text": "who needs $20?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 1418,
+          "like_count": 23216,
+          "listed_count": 2,
+          "media_count": 1132,
+          "tweet_count": 5921
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-01T16:54:44.000Z",
+        "description": "The easy way for people and AI to buy, sell, and use crypto. In the UK? Follow @MoonPay_UK. DM for 24/7 support.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 79,
+                "username": "MoonPay_UK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "go.moonpay.com/x",
+                "end": 23,
+                "expanded_url": "http://go.moonpay.com/x",
+                "start": 0,
+                "url": "https://t.co/vgqtWU0qWQ"
+              }
+            ]
+          }
+        },
+        "id": "1024699964071522305",
+        "name": "MoonPay 🟣",
+        "pinned_tweet_id": "2057446446710866206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974903278400872448/XgE1PBG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320226,
+          "following_count": 25089,
+          "like_count": 164668,
+          "listed_count": 1092,
+          "media_count": 6025,
+          "tweet_count": 31690
+        },
+        "url": "https://t.co/vgqtWU0qWQ",
+        "username": "moonpay",
+        "verified": true
+      }
+    ]
+  }
+}

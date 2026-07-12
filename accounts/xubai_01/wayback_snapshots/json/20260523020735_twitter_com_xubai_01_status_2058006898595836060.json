@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2058004453341675769",
+    "created_at": "2026-05-23T02:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058006898595836060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1002664853847224320",
+          "start": 0,
+          "username": "CHPAlerts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058006898595836060",
+    "in_reply_to_user_id": "1002664853847224320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058004453341675769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CHPAlerts 到底谁天天抢小孩啊bro🥲🥲前天不是刚有一个吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_2058004451869556736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-AJSvbgAAMzM6.jpg",
+        "width": 1275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2058004453341675769",
+        "created_at": "2026-05-23T02:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058006898595836060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1002664853847224320",
+              "start": 0,
+              "username": "CHPAlerts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058006898595836060",
+        "in_reply_to_user_id": "1002664853847224320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058004453341675769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHPAlerts 到底谁天天抢小孩啊bro🥲🥲前天不是刚有一个吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058004451869556736"
+          ]
+        },
+        "author_id": "1002664853847224320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1259995120016912384",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1259995120016912384",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2058004453341675769",
+        "created_at": "2026-05-23T01:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058004453341675769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xdz7MnZLY0",
+              "end": 147,
+              "expanded_url": "https://x.com/CHPAlerts/status/2058004453341675769/photo/1",
+              "media_key": "3_2058004451869556736",
+              "start": 124,
+              "url": "https://t.co/Xdz7MnZLY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058004453341675769",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 239035,
+          "like_count": 2547,
+          "quote_count": 28,
+          "reply_count": 586,
+          "retweet_count": 1315
+        },
+        "reply_settings": "everyone",
+        "text": "AMBER ALERT - Los Angeles and Orange Counties\nLast seen: Hampden Terrace and Sherwood Avenue, Alhambra\n\nIF SEEN, CALL 9-1-1 https://t.co/Xdz7MnZLY0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 1292,
+          "like_count": 22593,
+          "listed_count": 1,
+          "media_count": 1101,
+          "tweet_count": 5675
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-01T21:35:04.000Z",
+        "description": "The California Highway Patrol created this account for the sole purpose of disseminating details and flyers for active Alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chpalerts",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chpalerts",
+                "start": 0,
+                "url": "https://t.co/EhMM0DiVha"
+              }
+            ]
+          }
+        },
+        "id": "1002664853847224320",
+        "location": "California, USA",
+        "name": "CHP - Alerts",
+        "pinned_tweet_id": "2056325300250939555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057114232601427968/CrWsG0wL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254161,
+          "following_count": 209,
+          "like_count": 7,
+          "listed_count": 359,
+          "media_count": 55,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/EhMM0DiVha",
+        "username": "CHPAlerts",
+        "verified": true
+      }
+    ]
+  }
+}

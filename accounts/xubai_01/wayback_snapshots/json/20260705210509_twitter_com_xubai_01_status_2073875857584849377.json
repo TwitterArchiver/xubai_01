@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2073859400331374684",
+    "created_at": "2026-07-05T21:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T22:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073875857584849377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1450893562686541824",
+          "start": 0,
+          "username": "KK404error"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073875857584849377",
+    "in_reply_to_user_id": "1450893562686541824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073871294899384665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK404error 有道理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2073859400331374684",
+        "created_at": "2026-07-05T21:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T22:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073875857584849377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1450893562686541824",
+              "start": 0,
+              "username": "KK404error"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073875857584849377",
+        "in_reply_to_user_id": "1450893562686541824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073871294899384665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK404error 有道理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450893562686541824",
+        "conversation_id": "2073859400331374684",
+        "created_at": "2026-07-05T20:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073871294899384665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073871294899384665",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073859400331374684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 直接一转卤肉饭吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2408,
+          "following_count": 1643,
+          "like_count": 25541,
+          "listed_count": 2,
+          "media_count": 1277,
+          "tweet_count": 6826
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-20T18:36:02.000Z",
+        "description": "叫我KK就好，或者你更喜欢叫卡玛/石头爱好者/偏头痛易感/OCPD/\n\nJe veux la gloire à mes genoux/推荐个喵叽VPN 点链接可以看看↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=rK222yWf",
+                "start": 0,
+                "url": "https://t.co/WQ2VbNLB1c"
+              }
+            ]
+          }
+        },
+        "id": "1450893562686541824",
+        "location": "十一万四千五百一十四米",
+        "name": "Karma·Kaslana",
+        "pinned_tweet_id": "2045976882647302523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035518449146056704/w7UGd6OR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12697,
+          "following_count": 5369,
+          "like_count": 78254,
+          "listed_count": 22,
+          "media_count": 1643,
+          "tweet_count": 40324
+        },
+        "url": "https://t.co/WQ2VbNLB1c",
+        "username": "KK404error",
+        "verified": false
+      }
+    ]
+  }
+}

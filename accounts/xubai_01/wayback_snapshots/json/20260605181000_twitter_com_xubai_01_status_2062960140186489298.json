@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2062727369501315114",
+    "created_at": "2026-06-05T18:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T19:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062960140186489298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "999582546521395200",
+          "start": 0,
+          "username": "WeWorkWeChat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062960140186489298",
+    "in_reply_to_user_id": "999582546521395200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062862316505584066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeWorkWeChat 开个美国公司 没有可以找我代办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2062727369501315114",
+        "created_at": "2026-06-05T18:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062960140186489298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "999582546521395200",
+              "start": 0,
+              "username": "WeWorkWeChat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062960140186489298",
+        "in_reply_to_user_id": "999582546521395200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062862316505584066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeWorkWeChat 开个美国公司 没有可以找我代办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "999582546521395200",
+        "conversation_id": "2062727369501315114",
+        "created_at": "2026-06-05T11:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062862316505584066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062862316505584066",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062727369501315114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 教我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 1469,
+          "like_count": 23763,
+          "listed_count": 2,
+          "media_count": 1168,
+          "tweet_count": 6128
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-24T09:27:05.000Z",
+        "description": "",
+        "id": "999582546521395200",
+        "location": "江苏, 中华人民共和国",
+        "name": "吳祿海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033013360506363904/6i_VK1-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 354,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 821
+        },
+        "username": "WeWorkWeChat",
+        "verified": false
+      }
+    ]
+  }
+}

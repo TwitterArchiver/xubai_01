@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1990923048976085462",
+    "created_at": "2025-11-19T11:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T12:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991100033052426751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752058960230699009",
+          "start": 0,
+          "username": "flan112934"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991100033052426751",
+    "in_reply_to_user_id": "1752058960230699009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990924815843447122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flan112934 这是胡辣汤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1990923048976085462",
+        "created_at": "2025-11-19T11:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T12:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991100033052426751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752058960230699009",
+              "start": 0,
+              "username": "flan112934"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991100033052426751",
+        "in_reply_to_user_id": "1752058960230699009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990924815843447122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flan112934 这是胡辣汤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752058960230699009",
+        "conversation_id": "1990923048976085462",
+        "created_at": "2025-11-18T23:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T00:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990924815843447122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990924815843447122",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990923048976085462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 甜汤好喝😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 554,
+          "like_count": 6639,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-29T19:59:52.000Z",
+        "description": "将自己浸淫在甜蜜的梦之中，为沉寂埋下无数的伏笔\n20 | 坐标浙江 | 🌈 | furry（暂时无设） | 音游吃且浓度极高 | 见证勿关\n日常号（可能雷到你的点：有时负能和极端个人主义）\n负面：@dzxy1123\n支持互关，扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "dzxy1123"
+              }
+            ]
+          }
+        },
+        "id": "1752058960230699009",
+        "name": "砜岚",
+        "pinned_tweet_id": "1977423859637981378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896438783207440384/hrWm1wzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 387,
+          "like_count": 4503,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1203
+        },
+        "username": "flan112934",
+        "verified": false
+      }
+    ]
+  }
+}

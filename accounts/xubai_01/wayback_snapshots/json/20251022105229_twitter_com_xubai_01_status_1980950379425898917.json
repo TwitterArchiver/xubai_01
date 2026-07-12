@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1980617323234095485",
+    "created_at": "2025-10-22T10:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T11:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980950379425898917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "543386522",
+          "start": 0,
+          "username": "lewangx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980950379425898917",
+    "in_reply_to_user_id": "543386522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980617323234095485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lewangx 哇 感觉是我理想的办公室😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1980617309761724416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yQ8xBWYAAUkVX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1980617323234095485",
+        "created_at": "2025-10-22T10:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980950379425898917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "543386522",
+              "start": 0,
+              "username": "lewangx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980950379425898917",
+        "in_reply_to_user_id": "543386522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980617323234095485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lewangx 哇 感觉是我理想的办公室😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980617309761724416"
+          ]
+        },
+        "author_id": "543386522",
+        "conversation_id": "1980617323234095485",
+        "created_at": "2025-10-21T12:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980617323234095485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGD23BJB1C",
+              "end": 42,
+              "expanded_url": "https://x.com/lewangx/status/1980617323234095485/photo/1",
+              "media_key": "3_1980617309761724416",
+              "start": 19,
+              "url": "https://t.co/jGD23BJB1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980617323234095485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 49157,
+          "like_count": 255,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新增了一个新办公室，可以看到黄浦江😁 https://t.co/jGD23BJB1C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 397,
+          "like_count": 4002,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-02T12:51:52.000Z",
+        "description": "Creating AI toys 👉 @FoloToy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "FoloToy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lewang.dev",
+                "end": 23,
+                "expanded_url": "https://lewang.dev",
+                "start": 0,
+                "url": "https://t.co/4Rc9PovNiz"
+              }
+            ]
+          }
+        },
+        "id": "543386522",
+        "name": "LE",
+        "pinned_tweet_id": "1890000920387408100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888538309930151936/l-NFLGCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34184,
+          "following_count": 572,
+          "like_count": 2425,
+          "listed_count": 415,
+          "media_count": 925,
+          "tweet_count": 3951
+        },
+        "url": "https://t.co/4Rc9PovNiz",
+        "username": "lewangx",
+        "verified": false
+      }
+    ]
+  }
+}

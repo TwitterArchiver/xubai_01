@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1990873623750750543",
+    "created_at": "2025-11-18T20:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T21:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990873623750750543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "34799361",
+          "start": 3,
+          "username": "dok2001"
+        },
+        {
+          "end": 126,
+          "id": "32499999",
+          "start": 115,
+          "username": "Cloudflare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990873623750750543",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1437
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990791419653484646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dok2001: I won’t mince words: earlier today we failed our customers and the broader Internet when a problem in @Cloudflare  network imp…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1990873623750750543",
+        "created_at": "2025-11-18T20:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T21:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990873623750750543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "34799361",
+              "start": 3,
+              "username": "dok2001"
+            },
+            {
+              "end": 126,
+              "id": "32499999",
+              "start": 115,
+              "username": "Cloudflare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990873623750750543",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1437
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990791419653484646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dok2001: I won’t mince words: earlier today we failed our customers and the broader Internet when a problem in @Cloudflare  network imp…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "34799361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traffic",
+              "id": "1037076073719025664",
+              "name": "Traffic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          }
+        ],
+        "conversation_id": "1990791419653484646",
+        "created_at": "2025-11-18T14:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T15:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990791419653484646"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 237,
+              "normalized_text": "Cloudflare",
+              "probability": 0.8208,
+              "start": 228,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 113,
+              "id": "32499999",
+              "start": 102,
+              "username": "Cloudflare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990791419653484646",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 113,
+                "id": "32499999",
+                "start": 102,
+                "username": "Cloudflare"
+              }
+            ]
+          },
+          "text": "I won’t mince words: earlier today we failed our customers and the broader Internet when a problem in @Cloudflare  network impacted large amounts of traffic that rely on us. The sites, businesses, and organizations that rely on Cloudflare depend on us being available and I apologize for the impact that we caused.\n\nTransparency about what happened matters, and we plan to share a breakdown with more details in a few hours. In short, a latent bug in a service underpinning our bot mitigation capability started to crash after a routine configuration change we made. That cascaded into a broad degradation to our network and other services. This was not an attack.\n\nThat issue, impact it caused, and time to resolution is unacceptable. Work is already underway to make sure it does not happen again, but I know it caused real pain today. The trust our customers place in us is what we value the most and we are going to do what it takes to earn that back."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1651,
+          "impression_count": 1482163,
+          "like_count": 12574,
+          "quote_count": 428,
+          "reply_count": 629,
+          "retweet_count": 1437
+        },
+        "reply_settings": "everyone",
+        "text": "I won’t mince words: earlier today we failed our customers and the broader Internet when a problem in @Cloudflare  network impacted large amounts of traffic that rely on us. The sites, businesses, and organizations that rely on Cloudflare depend on us being available and I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 553,
+          "like_count": 6587,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-24T01:26:07.000Z",
+        "description": "I help invent the future.  CTO @cloudflare.  Angel investor.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "cloudflare"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://www.cloudflare.com",
+                "start": 0,
+                "url": "https://t.co/sDFdHkSsjO"
+              }
+            ]
+          }
+        },
+        "id": "34799361",
+        "location": "Austin, TX",
+        "name": "Dane Knecht 🦭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933364396434001920/nNinLkYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28963,
+          "following_count": 1866,
+          "like_count": 9287,
+          "listed_count": 151,
+          "media_count": 86,
+          "tweet_count": 4508
+        },
+        "url": "https://t.co/sDFdHkSsjO",
+        "username": "dok2001",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-17T17:58:28.000Z",
+        "description": "Cloudflare is the world’s leading #ConnectivityCloud, and we have our eyes set on an ambitious goal — to help build a #BetterInternet.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 34,
+                "tag": "ConnectivityCloud"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "tag": "BetterInternet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cloudflare.com",
+                "end": 23,
+                "expanded_url": "https://www.cloudflare.com/",
+                "start": 0,
+                "url": "https://t.co/6WEmQXqEvH"
+              }
+            ]
+          }
+        },
+        "id": "32499999",
+        "location": "300+ cities in 100+ countries",
+        "name": "Cloudflare",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600539069217480704/RzK50Sks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248140,
+          "following_count": 5406,
+          "like_count": 5894,
+          "listed_count": 2620,
+          "media_count": 5872,
+          "tweet_count": 47362
+        },
+        "url": "https://t.co/6WEmQXqEvH",
+        "username": "Cloudflare",
+        "verified": true
+      }
+    ]
+  }
+}

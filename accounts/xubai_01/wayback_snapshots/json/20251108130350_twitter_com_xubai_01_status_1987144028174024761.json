@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1987138816034140483",
+    "created_at": "2025-11-08T13:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T14:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987144028174024761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691566339524321281",
+          "start": 0,
+          "username": "zongtianshuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987144028174024761",
+    "in_reply_to_user_id": "1691566339524321281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987143719183917555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zongtianshuo 江浙沪家长标准话术"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1987138816034140483",
+        "created_at": "2025-11-08T13:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987144028174024761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691566339524321281",
+              "start": 0,
+              "username": "zongtianshuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987144028174024761",
+        "in_reply_to_user_id": "1691566339524321281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987143719183917555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zongtianshuo 江浙沪家长标准话术"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691566339524321281",
+        "conversation_id": "1987138816034140483",
+        "created_at": "2025-11-08T13:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987143719183917555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987143719183917555",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987138816034140483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 \"不能见网友\"哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 502,
+          "like_count": 5710,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T21:43:54.000Z",
+        "description": "渴望路演的踪天朔Leo\n网易云, Twitter, Ins, Spoti.\n2006. 现居香港，偶尔北京深圳\n友链：@kisaragi0326091",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 59,
+                "username": "kisaragi0326091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/ykbhX5ZXMM",
+                "end": 23,
+                "expanded_url": "https://discord.gg/ykbhX5ZXMM",
+                "start": 0,
+                "url": "https://t.co/ygO64bHJ86"
+              }
+            ]
+          }
+        },
+        "id": "1691566339524321281",
+        "location": "Beijing",
+        "name": "踪天朔Leo",
+        "pinned_tweet_id": "1775165848178807228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979720526877642752/F6UvP_Lk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1848,
+          "following_count": 378,
+          "like_count": 25285,
+          "listed_count": 5,
+          "media_count": 855,
+          "tweet_count": 10094
+        },
+        "url": "https://t.co/ygO64bHJ86",
+        "username": "zongtianshuo",
+        "verified": false
+      }
+    ]
+  }
+}

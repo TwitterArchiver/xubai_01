@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1996973492605276509",
+    "created_at": "2025-12-06T02:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T03:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997133134211715530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1819327280482865152",
+          "start": 0,
+          "username": "hzyj772"
+        },
+        {
+          "end": 17,
+          "id": "1929345774711975937",
+          "start": 9,
+          "username": "xubai21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997133134211715530",
+    "in_reply_to_user_id": "1819327280482865152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997010358800986537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzyj772 @xubai21 好不容易到千粉的里推😭👊👊👊我不得劲😭😭我难受死了😭😭😭"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [xubai21].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "xubai21",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "xubai21"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_1997010347333742592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7bOVI2bcAAqqdn.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1996973492605276509",
+        "created_at": "2025-12-06T02:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T03:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997133134211715530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1819327280482865152",
+              "start": 0,
+              "username": "hzyj772"
+            },
+            {
+              "end": 17,
+              "id": "1929345774711975937",
+              "start": 9,
+              "username": "xubai21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997133134211715530",
+        "in_reply_to_user_id": "1819327280482865152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997010358800986537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzyj772 @xubai21 好不容易到千粉的里推😭👊👊👊我不得劲😭😭我难受死了😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997010347333742592"
+          ]
+        },
+        "author_id": "1819327280482865152",
+        "conversation_id": "1996973492605276509",
+        "created_at": "2025-12-05T18:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T19:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997010358800986537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            },
+            {
+              "end": 18,
+              "id": "1929345774711975937",
+              "start": 10,
+              "username": "xubai21"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTgBc3pE5P",
+              "end": 42,
+              "expanded_url": "https://x.com/hzyj772/status/1997010358800986537/photo/1",
+              "media_key": "3_1997010347333742592",
+              "start": 19,
+              "url": "https://t.co/FTgBc3pE5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997010358800986537",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996973492605276509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 @xubai21 https://t.co/FTgBc3pE5P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜可能是个人，但是离神很远了。｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 605,
+          "like_count": 7879,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 908
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T11:00:13.000Z",
+        "description": "是@phia50611171的可爱猫猫～🐱这和我们人前是Les并不矛盾，所以还是ppl🎀｜情侣号兼色推：@mt1zsyxil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "phia50611171"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "mt1zsyxil"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xlog.477771.xyz",
+                "end": 23,
+                "expanded_url": "http://xlog.477771.xyz",
+                "start": 0,
+                "url": "https://t.co/QY9nt2EU0a"
+              }
+            ]
+          }
+        },
+        "id": "1819327280482865152",
+        "location": "#7 0.4kV变压台",
+        "name": "燕檁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984549670404882432/XHLn_YLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 302,
+          "like_count": 54975,
+          "listed_count": 1,
+          "media_count": 787,
+          "tweet_count": 7379
+        },
+        "url": "https://t.co/QY9nt2EU0a",
+        "username": "hzyj772",
+        "verified": true
+      }
+    ]
+  }
+}

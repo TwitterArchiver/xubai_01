@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1977269897785917919",
+    "created_at": "2025-10-12T07:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T08:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977273266751651964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1722587985781342208",
+          "start": 0,
+          "username": "yankaxh1207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977273266751651964",
+    "in_reply_to_user_id": "1722587985781342208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977273161784906109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yankaxh1207 不到啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1977269897785917919",
+        "created_at": "2025-10-12T07:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977273266751651964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1722587985781342208",
+              "start": 0,
+              "username": "yankaxh1207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977273266751651964",
+        "in_reply_to_user_id": "1722587985781342208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977273161784906109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yankaxh1207 不到啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722587985781342208",
+        "conversation_id": "1977269897785917919",
+        "created_at": "2025-10-12T07:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977273161784906109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977273161784906109",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977269897785917919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 杭州有什么好玩的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜梦到啥就发啥！2010年的｜一个什么圈子都混一点的莫名其妙的人。｜上学命苦，回来一看手机更命苦！｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 306,
+          "like_count": 3371,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-09T12:12:39.000Z",
+        "description": "14yo 🇨🇳 Builder & Founder. Turning ideas into tools that solve real problems. Building @AstraCoreLz & @CoderLinkAPP｜Planning @YouthGalaJUNIOR｜Born for Dreams.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "AstraCoreLz"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "CoderLinkAPP"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "YouthGalaJUNIOR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/billwgong",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/billwgong",
+                "start": 0,
+                "url": "https://t.co/U8mWBdgoYN"
+              }
+            ]
+          }
+        },
+        "id": "1722587985781342208",
+        "location": "☜ WHAT IS IT????????",
+        "name": "BillW Gong @yankaxh1207 🔥",
+        "pinned_tweet_id": "1962065387937579033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952716923546009600/3nQb6yj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 448,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/U8mWBdgoYN",
+        "username": "yankaxh1207",
+        "verified": true
+      }
+    ]
+  }
+}

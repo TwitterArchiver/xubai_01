@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2030766827232755809",
+    "created_at": "2026-03-08T22:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T23:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030766827232755809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1867596733884379136",
+          "start": 3,
+          "username": "VmikufansV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030766827232755809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030635969398075509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VmikufansV: 学校里有人翻墙被晶了😱全校通报了😨哈人😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2030766827232755809",
+        "created_at": "2026-03-08T22:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T23:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030766827232755809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1867596733884379136",
+              "start": 3,
+              "username": "VmikufansV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030766827232755809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030635969398075509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VmikufansV: 学校里有人翻墙被晶了😱全校通报了😨哈人😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867596733884379136",
+        "conversation_id": "2030635969398075509",
+        "created_at": "2026-03-08T13:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030635969398075509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030635969398075509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 308185,
+          "like_count": 512,
+          "quote_count": 2,
+          "reply_count": 65,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "学校里有人翻墙被晶了😱全校通报了😨哈人😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 917,
+          "like_count": 15673,
+          "listed_count": 0,
+          "media_count": 709,
+          "tweet_count": 3414
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-13T15:46:06.000Z",
+        "description": "荆棘之路通往何处丨\n爱来自@N/A|\n🍥09/02/2023",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vmikufansv",
+                "end": 23,
+                "expanded_url": "https://t.me/vmikufansv",
+                "start": 0,
+                "url": "https://t.co/Y4FXp5SvZP"
+              }
+            ]
+          }
+        },
+        "id": "1867596733884379136",
+        "location": "若叶2丁目2-12",
+        "name": "共价键ovo",
+        "pinned_tweet_id": "1867600061368254576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867597015129178112/AjHYA7j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 240,
+          "like_count": 330,
+          "listed_count": 5,
+          "media_count": 810,
+          "tweet_count": 4082
+        },
+        "url": "https://t.co/Y4FXp5SvZP",
+        "username": "VmikufansV",
+        "verified": false
+      }
+    ]
+  }
+}

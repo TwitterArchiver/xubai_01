@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2003116629992075347",
+    "created_at": "2025-12-23T05:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T06:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003333018518454571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1834946697375649792",
+          "start": 0,
+          "username": "smhx09586"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003333018518454571",
+    "in_reply_to_user_id": "1834946697375649792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003332810237706670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smhx09586 难喝。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2003116629992075347",
+        "created_at": "2025-12-23T05:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T06:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003333018518454571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1834946697375649792",
+              "start": 0,
+              "username": "smhx09586"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003333018518454571",
+        "in_reply_to_user_id": "1834946697375649792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003332810237706670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smhx09586 难喝。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834946697375649792",
+        "conversation_id": "2003116629992075347",
+        "created_at": "2025-12-23T05:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T06:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003332810237706670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003332810237706670",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003116629992075347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 我一直觉得这很难喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜啥意思。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 764,
+          "like_count": 11254,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 1671
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T13:26:23.000Z",
+        "description": "普通男生🌈0.5｜08｜ISFP-T 天蝎｜不要上来就问我敏感话题｜喜欢豪猫｜拧巴喜欢碎碎念 废话真的真的很多｜躺着真的好舒服｜啥都发｜微卡颜🥺 ｜语言表达能力为0，不太会说话见谅｜欢迎友好扩列哦（三无❎）｜宝宝@chwn224534🤤｜日推号@nhngxn132065｜随机互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 106,
+                "username": "chwn224534"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "nhngxn132065"
+              }
+            ]
+          }
+        },
+        "id": "1834946697375649792",
+        "location": "济南",
+        "name": "青木",
+        "pinned_tweet_id": "1976654469850157434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928502648019496962/YnB2nhYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 238,
+          "like_count": 8787,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 1690
+        },
+        "username": "smhx09586",
+        "verified": false
+      }
+    ]
+  }
+}

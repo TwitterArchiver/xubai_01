@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405571471955533827",
+          "name": "USD Coin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1405571471955533827",
+          "name": "USD Coin"
+        }
+      }
+    ],
+    "conversation_id": "2070595856542384151",
+    "created_at": "2026-06-26T21:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T22:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070618599514124696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1036587095135936513",
+          "start": 0,
+          "username": "willzero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070618599514124696",
+    "in_reply_to_user_id": "1036587095135936513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070595856542384151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willzero what\nusdc咋开的 我只有三个法币"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2070595162393485312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLw7VGgbIAA2ZmE.jpg",
+        "width": 1186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          }
+        ],
+        "conversation_id": "2070595856542384151",
+        "created_at": "2026-06-26T21:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T22:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070618599514124696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036587095135936513",
+              "start": 0,
+              "username": "willzero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070618599514124696",
+        "in_reply_to_user_id": "1036587095135936513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070595856542384151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willzero what\nusdc咋开的 我只有三个法币"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070595162393485312"
+          ]
+        },
+        "author_id": "1036587095135936513",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          }
+        ],
+        "conversation_id": "2070595856542384151",
+        "created_at": "2026-06-26T19:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T20:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070595856542384151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/to7agh4T3F",
+              "end": 95,
+              "expanded_url": "https://x.com/willzero/status/2070595856542384151/photo/1",
+              "media_key": "3_2070595162393485312",
+              "start": 72,
+              "url": "https://t.co/to7agh4T3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070595856542384151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "stripe us越来越nb了，通过Treasury直接usdc充值，然后用stripe正经的美国银行卡消费，还有2%的返现 666，完美闭环 https://t.co/to7agh4T3F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 1583,
+          "like_count": 24868,
+          "listed_count": 2,
+          "media_count": 1222,
+          "tweet_count": 6513
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-03T12:09:57.000Z",
+        "description": "🤖 走在路上的独立开发者\n🚀 All in AI 社区主创成员\n💬 热衷交流分享，喜欢结交新朋友\n🛠️ 探讨技术，享受生活\n——\nGhost Programmer & Novelty seekers",
+        "id": "1036587095135936513",
+        "location": "Los Angeles, CA",
+        "name": "will",
+        "pinned_tweet_id": "2068572597873168697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1036590869711712257/UqN0AkqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2212,
+          "following_count": 1950,
+          "like_count": 337,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 3404
+        },
+        "url": "",
+        "username": "willzero",
+        "verified": true
+      }
+    ]
+  }
+}

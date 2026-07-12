@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1995872266316644421",
+    "created_at": "2025-12-03T06:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T07:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996110520701931956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850533852764377088",
+          "start": 0,
+          "username": "AndrowSmith2619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996110520701931956",
+    "in_reply_to_user_id": "1850533852764377088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995873635496853949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AndrowSmith2619 还好 我不在中国大陆😋👊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1995872266316644421",
+        "created_at": "2025-12-03T06:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T07:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996110520701931956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850533852764377088",
+              "start": 0,
+              "username": "AndrowSmith2619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996110520701931956",
+        "in_reply_to_user_id": "1850533852764377088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995873635496853949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AndrowSmith2619 还好 我不在中国大陆😋👊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850533852764377088",
+        "conversation_id": "1995872266316644421",
+        "created_at": "2025-12-02T15:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995873635496853949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995873635496853949",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995872266316644421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 实名上推，亲自冲塔，不怕国保哪天差业绩来你家敲门吗😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜可能是个人，但是离神很远了。｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 602,
+          "like_count": 7641,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 880
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T13:44:14.000Z",
+        "description": "English🇬🇧/日本語🇯🇵/中文🇹🇼  LGBTQ🏳️‍🌈🏳️‍⚧️  BL/GL👿/TypeScript/Node JS/可爱xnh🥵/  ❌🔞/友好😘/🌎言论自由/反审查&反侦察科普🚨/欢迎关注🥺/19yo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jamerick1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jamerick1",
+                "start": 0,
+                "url": "https://t.co/Dd1TPz7RH2"
+              }
+            ]
+          }
+        },
+        "id": "1850533852764377088",
+        "location": "距离你1.7km",
+        "name": "Kenny_小楓 ❄️",
+        "pinned_tweet_id": "1966190137303585051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924492537580204033/RHs71WIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 112,
+          "like_count": 1840,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/Dd1TPz7RH2",
+        "username": "AndrowSmith2619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2032232002154647865",
+    "created_at": "2026-03-12T23:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T00:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032232002154647865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1769078117052854272",
+          "start": 3,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032232002154647865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032027612307157401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huahuojiang_: 我有個朋友（台灣人）天天都看陸抖學了一堆大陸的爛梗整天何意味何意味，我打算下次去他家把他頭打掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2032232002154647865",
+        "created_at": "2026-03-12T23:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T00:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032232002154647865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1769078117052854272",
+              "start": 3,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032232002154647865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032027612307157401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huahuojiang_: 我有個朋友（台灣人）天天都看陸抖學了一堆大陸的爛梗整天何意味何意味，我打算下次去他家把他頭打掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769078117052854272",
+        "conversation_id": "2032027612307157401",
+        "created_at": "2026-03-12T09:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:34:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032027508674355695",
+          "2032027612307157401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032027612307157401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 867,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我有個朋友（台灣人）天天都看陸抖學了一堆大陸的爛梗整天何意味何意味，我打算下次去他家把他頭打掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 916,
+          "like_count": 15895,
+          "listed_count": 0,
+          "media_count": 733,
+          "tweet_count": 3503
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2031764184460063217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6947,
+          "following_count": 3585,
+          "like_count": 98358,
+          "listed_count": 18,
+          "media_count": 6811,
+          "tweet_count": 89830
+        },
+        "username": "huahuojiang_",
+        "verified": true
+      }
+    ]
+  }
+}

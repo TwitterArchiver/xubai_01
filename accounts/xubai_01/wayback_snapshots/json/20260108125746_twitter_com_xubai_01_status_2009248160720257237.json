@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2009248160720257237",
+    "created_at": "2026-01-08T12:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T13:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009248160720257237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1670705567688704001",
+          "start": 3,
+          "username": "RailhamChiMing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009248160720257237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008690691032182923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RailhamChiMing: 对长得可爱的年上毫无抵抗力w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2009248160720257237",
+        "created_at": "2026-01-08T12:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T13:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009248160720257237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1670705567688704001",
+              "start": 3,
+              "username": "RailhamChiMing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009248160720257237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008690691032182923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RailhamChiMing: 对长得可爱的年上毫无抵抗力w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670705567688704001",
+        "conversation_id": "2008690691032182923",
+        "created_at": "2026-01-07T00:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T01:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008690691032182923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008690691032182923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8400,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "对长得可爱的年上毫无抵抗力w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜行程：长春（待定）/珠三角（2月）｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 811,
+          "like_count": 12915,
+          "listed_count": 0,
+          "media_count": 541,
+          "tweet_count": 2399
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T08:11:28.000Z",
+        "description": "视奸我是解决不了问题的喵/RHS腐竹/168 53 0.5/俄留子/双形态/猫/上白沢慧音/🚅進化清洲兄弟/历史/诗词创作/舞萌/巧克力/深夜陪聊/中推生态观察者/空谈误国，实干兴邦/本人关注列表不代表本人立场/瑞汉语推：@RoyhanChyMinh/小🐱:@Forth_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "RoyhanChyMinh"
+              },
+              {
+                "end": 137,
+                "start": 129,
+                "username": "Forth_0"
+              }
+            ]
+          }
+        },
+        "id": "1670705567688704001",
+        "location": "瑞汉服务器 迟家镇 昭地辖区 瑞汉铁路办大学 国际教育学院",
+        "name": "瑞汉迟铭(Рейлхам Чи Мин)",
+        "pinned_tweet_id": "1982734856573632627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974920377005678592/mr_nLOoM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 925,
+          "like_count": 23067,
+          "listed_count": 5,
+          "media_count": 1433,
+          "tweet_count": 11084
+        },
+        "username": "RailhamChiMing",
+        "verified": false
+      }
+    ]
+  }
+}

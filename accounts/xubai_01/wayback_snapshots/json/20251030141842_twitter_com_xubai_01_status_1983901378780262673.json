@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1983889328540635169",
+    "created_at": "2025-10-30T14:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T15:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983901378780262673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1722587985781342208",
+          "start": 0,
+          "username": "yankaxh1207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983901378780262673",
+    "in_reply_to_user_id": "1722587985781342208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983889328540635169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yankaxh1207 有意思。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1983889328540635169",
+        "created_at": "2025-10-30T14:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983901378780262673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1722587985781342208",
+              "start": 0,
+              "username": "yankaxh1207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983901378780262673",
+        "in_reply_to_user_id": "1722587985781342208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983889328540635169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yankaxh1207 有意思。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722587985781342208",
+        "conversation_id": "1983889328540635169",
+        "created_at": "2025-10-30T13:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983889328540635169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983889328540635169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "fku hyperos\n反诈app也没下过 公安局今天莫名其妙来到我家找我说检测到你下载了一些违规apps，可能被骗，要求上门核实😠\n他到底怎么知道我装了什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 459,
+          "like_count": 4889,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 436
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-09T12:12:39.000Z",
+        "description": "被某种势力制裁了，故。有缘再见👋🏻\n14y-o （2025）🇨🇳 Builder & Founder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/billwgong",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/billwgong",
+                "start": 0,
+                "url": "https://t.co/U8mWBdfR9f"
+              }
+            ]
+          }
+        },
+        "id": "1722587985781342208",
+        "location": "☜ WHAT IS IT????????",
+        "name": "BillW Gong @yankaxh1207 🔥",
+        "pinned_tweet_id": "1962065387937579033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952716923546009600/3nQb6yj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 511,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/U8mWBdfR9f",
+        "username": "yankaxh1207",
+        "verified": true
+      }
+    ]
+  }
+}

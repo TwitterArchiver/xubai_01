@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2025237587275710513",
+    "created_at": "2026-02-22T15:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T16:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025588162429628628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1419403960696385546",
+          "start": 0,
+          "username": "WaiFu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025588162429628628",
+    "in_reply_to_user_id": "1419403960696385546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025237621677478248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@WaiFu8964 吓哭了还有大喘气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2025237587275710513",
+        "created_at": "2026-02-22T15:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025588162429628628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1419403960696385546",
+              "start": 0,
+              "username": "WaiFu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025588162429628628",
+        "in_reply_to_user_id": "1419403960696385546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025237621677478248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@WaiFu8964 吓哭了还有大喘气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419403960696385546",
+        "conversation_id": "2025237587275710513",
+        "created_at": "2026-02-21T15:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025237621677478248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025237621677478248",
+        "in_reply_to_user_id": "1419403960696385546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2505,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025237587275710513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "还买了鸡肉干辣椒花生生姜大蒜。好了不说了我要炒菜了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 862,
+          "like_count": 14985,
+          "listed_count": 0,
+          "media_count": 648,
+          "tweet_count": 3091
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "退休倒计时三天，已停止接单",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chakaifang.org",
+                "end": 23,
+                "expanded_url": "https://chakaifang.org",
+                "start": 0,
+                "url": "https://t.co/0KU4n3OswH"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地: 阿联酋",
+        "name": "Waifu终于要退休了！",
+        "pinned_tweet_id": "2008135237100826920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999617518881701893/dlgBtwTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7777,
+          "following_count": 2346,
+          "like_count": 5206,
+          "listed_count": 18,
+          "media_count": 845,
+          "tweet_count": 7284
+        },
+        "url": "https://t.co/0KU4n3OswH",
+        "username": "WaiFu8964",
+        "verified": true
+      }
+    ]
+  }
+}

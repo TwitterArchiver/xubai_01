@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027598972563628032"
+      ],
+      "media_source_tweet_id": [
+        "2027598974971220311"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2027602638213394659",
+    "created_at": "2026-02-28T04:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T05:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027602638213394659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1618557658163970049",
+          "start": 3,
+          "username": "qqqqqf5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zytWb7pdU3",
+          "end": 41,
+          "expanded_url": "https://x.com/qqqqqf5/status/2027598974971220311/photo/1",
+          "media_key": "3_2027598972563628032",
+          "start": 18,
+          "url": "https://t.co/zytWb7pdU3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027602638213394659",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027598974971220311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qqqqqf5: 死亡回放 https://t.co/zytWb7pdU3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1427,
+        "media_key": "3_2027598972563628032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCN6hdqaIAAiqbp.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027598972563628032"
+          ],
+          "media_source_tweet_id": [
+            "2027598974971220311"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2027602638213394659",
+        "created_at": "2026-02-28T04:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027602638213394659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1618557658163970049",
+              "start": 3,
+              "username": "qqqqqf5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zytWb7pdU3",
+              "end": 41,
+              "expanded_url": "https://x.com/qqqqqf5/status/2027598974971220311/photo/1",
+              "media_key": "3_2027598972563628032",
+              "start": 18,
+              "url": "https://t.co/zytWb7pdU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027602638213394659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027598974971220311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qqqqqf5: 死亡回放 https://t.co/zytWb7pdU3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027598972563628032"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "conversation_id": "2027598974971220311",
+        "created_at": "2026-02-28T04:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027598974971220311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zytWb7pdU3",
+              "end": 28,
+              "expanded_url": "https://x.com/qqqqqf5/status/2027598974971220311/photo/1",
+              "media_key": "3_2027598972563628032",
+              "start": 5,
+              "url": "https://t.co/zytWb7pdU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027598974971220311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "死亡回放 https://t.co/zytWb7pdU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 868,
+          "like_count": 15232,
+          "listed_count": 0,
+          "media_count": 668,
+          "tweet_count": 3190
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "你好！我是清凤\n不键政不od不割手不恶俗\n欢迎私信聊天投稿andmore!\n生活/开发/发疯向账号: @qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2024083137333178414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9575,
+          "following_count": 1943,
+          "like_count": 14039,
+          "listed_count": 20,
+          "media_count": 2343,
+          "tweet_count": 5115
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

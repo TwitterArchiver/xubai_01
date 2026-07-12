@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2017234551861280768"
+      ],
+      "media_source_tweet_id": [
+        "2017387354827460854"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2017474130246046148",
+    "created_at": "2026-01-31T05:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T06:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017474130246046148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZjcNEpGaHk",
+          "end": 95,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2017387354827460854/video/1",
+          "media_key": "13_2017234551861280768",
+          "start": 72,
+          "url": "https://t.co/ZjcNEpGaHk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017474130246046148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017387354827460854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: “童言无忌”\n1月30日，河北石家庄。网友拍摄到政府在街头拍摄宣传视频。一旁的小孩喊道：“又走秀啦！” https://t.co/ZjcNEpGaHk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20688,
+        "height": 1280,
+        "media_key": "13_2017234551861280768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017234551861280768/img/xHR0pTjRvzt_v6R4.jpg",
+        "public_metrics": {
+          "view_count": 180953
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017234551861280768/vid/avc1/320x568/98Zvj3r3Q7vd36FM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017234551861280768/vid/avc1/480x852/MFG_4cZ9ksi_zgkl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017234551861280768/vid/avc1/720x1280/qwx14UAb9IhLWbQR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017234551861280768/pl/TMQ7h1lgDw54ba-m.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017234551861280768"
+          ],
+          "media_source_tweet_id": [
+            "2017387354827460854"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2017474130246046148",
+        "created_at": "2026-01-31T05:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017474130246046148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZjcNEpGaHk",
+              "end": 95,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2017387354827460854/video/1",
+              "media_key": "13_2017234551861280768",
+              "start": 72,
+              "url": "https://t.co/ZjcNEpGaHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017474130246046148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017387354827460854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: “童言无忌”\n1月30日，河北石家庄。网友拍摄到政府在街头拍摄宣传视频。一旁的小孩喊道：“又走秀啦！” https://t.co/ZjcNEpGaHk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017234551861280768"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2017387354827460854",
+        "created_at": "2026-01-31T00:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017387354827460854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZjcNEpGaHk",
+              "end": 75,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2017387354827460854/video/1",
+              "media_key": "13_2017234551861280768",
+              "start": 52,
+              "url": "https://t.co/ZjcNEpGaHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017387354827460854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 319074,
+          "like_count": 1470,
+          "quote_count": 12,
+          "reply_count": 100,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "“童言无忌”\n1月30日，河北石家庄。网友拍摄到政府在街头拍摄宣传视频。一旁的小孩喊道：“又走秀啦！” https://t.co/ZjcNEpGaHk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜行程：大湾区、云川（一月中旬｜欢迎随时联系/心情大爆炸｜友链：@xubaimedia/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜成都",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 861,
+          "like_count": 14128,
+          "listed_count": 0,
+          "media_count": 606,
+          "tweet_count": 2865
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190976,
+          "following_count": 1011,
+          "like_count": 8880,
+          "listed_count": 8521,
+          "media_count": 40879,
+          "tweet_count": 47856
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

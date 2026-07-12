@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2054359944846250076",
+    "created_at": "2026-05-13T06:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054455589087142364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691566339524321281",
+          "start": 0,
+          "username": "zongtianshuo"
+        },
+        {
+          "end": 24,
+          "id": "2037553285771796480",
+          "start": 14,
+          "username": "Xiaoyi969"
+        },
+        {
+          "end": 32,
+          "id": "2035267129029914625",
+          "start": 25,
+          "username": "Xuba1_"
+        },
+        {
+          "end": 41,
+          "id": "1929345774711975937",
+          "start": 33,
+          "username": "xubai21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054455589087142364",
+    "in_reply_to_user_id": "1691566339524321281",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054454524774088977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@zongtianshuo @Xiaoyi969 @Xuba1_ @xubai21 ？"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [xubai21].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "xubai21",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "xubai21"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2054359944846250076",
+        "created_at": "2026-05-13T06:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054455589087142364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691566339524321281",
+              "start": 0,
+              "username": "zongtianshuo"
+            },
+            {
+              "end": 24,
+              "id": "2037553285771796480",
+              "start": 14,
+              "username": "Xiaoyi969"
+            },
+            {
+              "end": 32,
+              "id": "2035267129029914625",
+              "start": 25,
+              "username": "Xuba1_"
+            },
+            {
+              "end": 41,
+              "id": "1929345774711975937",
+              "start": 33,
+              "username": "xubai21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054455589087142364",
+        "in_reply_to_user_id": "1691566339524321281",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054454524774088977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@zongtianshuo @Xiaoyi969 @Xuba1_ @xubai21 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691566339524321281",
+        "conversation_id": "2054359944846250076",
+        "created_at": "2026-05-13T06:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054454524774088977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            },
+            {
+              "end": 20,
+              "id": "2037553285771796480",
+              "start": 10,
+              "username": "Xiaoyi969"
+            },
+            {
+              "end": 28,
+              "id": "2035267129029914625",
+              "start": 21,
+              "username": "Xuba1_"
+            },
+            {
+              "end": 37,
+              "id": "1929345774711975937",
+              "start": 29,
+              "username": "xubai21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054454524774088977",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054359944846250076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@xubai_01 @Xiaoyi969 @Xuba1_ @xubai21 「非亲戚关系」但是「授权他发布这样那样的东西」。啊，那不就砰友关系🌝🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 1263,
+          "like_count": 21999,
+          "listed_count": 0,
+          "media_count": 1071,
+          "tweet_count": 5384
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-15T21:43:54.000Z",
+        "description": "zongtianshuo@vinyl.com\n渴望路演的踪天朔，🎻🎶\n网易云, Twitter, Ins, Spotify, Apple Music\n2006. 现居香港，偶尔北京深圳\n👇以下招聘可直接私訊聯絡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/ykbhX5ZXMM",
+                "end": 23,
+                "expanded_url": "https://discord.gg/ykbhX5ZXMM",
+                "start": 0,
+                "url": "https://t.co/ygO64bHJ86"
+              }
+            ]
+          }
+        },
+        "id": "1691566339524321281",
+        "location": "Hong Kong",
+        "name": "踪天朔",
+        "pinned_tweet_id": "1775165848178807228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979720526877642752/F6UvP_Lk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4532,
+          "following_count": 485,
+          "like_count": 33333,
+          "listed_count": 7,
+          "media_count": 1017,
+          "tweet_count": 12406
+        },
+        "url": "https://t.co/ygO64bHJ86",
+        "username": "zongtianshuo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-27T15:35:26.000Z",
+        "description": "ZH,EN｜💛叫我洋洋就好啦\n留学/表推当里推发/求关注！🔞#NSFW\n瓦/MC/MaiMaiDX/羽毛球🏸\n\n好宝宝们（更新名单ing：@xubai_01\n眼熟之后会回fo～😋\nlxfs🚪20CNY/仅QQ或TG",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "NSFW"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "xubai_01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xiaoyi969",
+                "end": 23,
+                "expanded_url": "http://x.com/xiaoyi969",
+                "start": 0,
+                "url": "https://t.co/J65xnmgj1W"
+              }
+            ]
+          }
+        },
+        "id": "2037553285771796480",
+        "location": "🎂12.13 / 🇺🇸LA / 🏳️‍🌈17cm",
+        "name": "池下停车洋",
+        "pinned_tweet_id": "2038159562373783600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045751504251019264/k3cbONZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 319,
+          "like_count": 1777,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/J65xnmgj1W",
+        "username": "Xiaoyi969",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T08:08:06.000Z",
+        "description": "❤️‍🔥@_Entropyhq☺️@xubai_01\n🇨🇳🇺🇸15 y,o. High school student of G1📑\n🤓Co-founder, builder, legal business\nOur team is planning a #hackathon🏃",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 136,
+                "start": 126,
+                "tag": "hackathon"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "_Entropyhq"
+              },
+              {
+                "end": 26,
+                "start": 17,
+                "username": "xubai_01"
+              }
+            ]
+          }
+        },
+        "id": "2035267129029914625",
+        "location": "Monterey Park,CA / ZH,EN🤍 ",
+        "name": "白",
+        "pinned_tweet_id": "2050790016440553847",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 11,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "username": "Xuba1_",
+        "verified": false
+      }
+    ]
+  }
+}

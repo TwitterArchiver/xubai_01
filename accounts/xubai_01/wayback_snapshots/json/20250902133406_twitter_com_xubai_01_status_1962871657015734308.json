@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962871644525084673"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "1962871657015734308",
+    "created_at": "2025-09-02T13:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T14:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962871657015734308"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9qwrqbCWVY",
+          "end": 50,
+          "expanded_url": "https://x.com/xubai_01/status/1962871657015734308/photo/1",
+          "media_key": "3_1962871644525084673",
+          "start": 27,
+          "url": "https://t.co/9qwrqbCWVY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962871657015734308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 \n我不行了换ai图了。\n换上即出柜。✋😭🤚 https://t.co/9qwrqbCWVY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962871657015734308].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962871657015734308",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962871657015734308"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1962871644525084673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2FXGeawAEKz_m.jpg",
+        "width": 400
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "@xubai21｜一个人。｜gay0.5｜欢迎互推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "xubai21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "许白的回忆里",
+        "name": "许白",
+        "pinned_tweet_id": "1921545745993261070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962871355994746882/BW4i3aWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 186,
+          "like_count": 2286,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

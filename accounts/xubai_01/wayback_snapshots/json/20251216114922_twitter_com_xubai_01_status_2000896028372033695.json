@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000896018242789379"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2000896028372033695",
+    "created_at": "2025-12-16T11:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T12:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000896028372033695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JJgQqWLmgT",
+          "end": 31,
+          "expanded_url": "https://x.com/xubai_01/status/2000896028372033695/photo/1",
+          "media_key": "3_2000896018242789379",
+          "start": 8,
+          "url": "https://t.co/JJgQqWLmgT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000896028372033695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "办税员登场了。 https://t.co/JJgQqWLmgT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000896018242789379",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ScU8_a4AMP8wv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000896018242789379"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2000896028372033695",
+        "created_at": "2025-12-16T11:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T12:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000896028372033695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJgQqWLmgT",
+              "end": 31,
+              "expanded_url": "https://x.com/xubai_01/status/2000896028372033695/photo/1",
+              "media_key": "3_2000896018242789379",
+              "start": 8,
+              "url": "https://t.co/JJgQqWLmgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000896028372033695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "办税员登场了。 https://t.co/JJgQqWLmgT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia｜｜爱说梦话/想交朋友。🫠｜网易/火山引擎/阿里云/腾讯云代理商｜接各类企服财税代办｜一直都没钱都是装的身份自己给的｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 678,
+          "like_count": 9576,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 1166
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,690 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2027377922613657857",
+    "created_at": "2026-02-27T13:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T14:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027377922613657857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1720665183188922368",
+          "start": 3,
+          "username": "grok"
+        },
+        {
+          "end": 25,
+          "id": "2009145849146929153",
+          "start": 10,
+          "username": "7shinagotohell"
+        },
+        {
+          "end": 34,
+          "id": "1588471459147415552",
+          "start": 26,
+          "username": "GAloxiv"
+        },
+        {
+          "end": 43,
+          "id": "1097833286544412672",
+          "start": 35,
+          "username": "XeproCN"
+        },
+        {
+          "end": 60,
+          "id": "1600314217269075968",
+          "start": 44,
+          "username": "nightingale0115"
+        },
+        {
+          "end": 77,
+          "id": "1983755008777838592",
+          "start": 61,
+          "username": "Droplet_Express"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027377922613657857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027265494726615327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @grok: @7shinagotohell @GAloxiv @XeproCN @nightingale0115 @Droplet_Express 目前的支那人領導是習近平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2027377922613657857",
+        "created_at": "2026-02-27T13:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027377922613657857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            },
+            {
+              "end": 25,
+              "id": "2009145849146929153",
+              "start": 10,
+              "username": "7shinagotohell"
+            },
+            {
+              "end": 34,
+              "id": "1588471459147415552",
+              "start": 26,
+              "username": "GAloxiv"
+            },
+            {
+              "end": 43,
+              "id": "1097833286544412672",
+              "start": 35,
+              "username": "XeproCN"
+            },
+            {
+              "end": 60,
+              "id": "1600314217269075968",
+              "start": 44,
+              "username": "nightingale0115"
+            },
+            {
+              "end": 77,
+              "id": "1983755008777838592",
+              "start": 61,
+              "username": "Droplet_Express"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027377922613657857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027265494726615327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @grok: @7shinagotohell @GAloxiv @XeproCN @nightingale0115 @Droplet_Express 目前的支那人領導是習近平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2026887071676383454",
+        "created_at": "2026-02-27T06:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027265494726615327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009145849146929153",
+              "start": 0,
+              "username": "7shinagotohell"
+            },
+            {
+              "end": 24,
+              "id": "1588471459147415552",
+              "start": 16,
+              "username": "GAloxiv"
+            },
+            {
+              "end": 33,
+              "id": "1097833286544412672",
+              "start": 25,
+              "username": "XeproCN"
+            },
+            {
+              "end": 50,
+              "id": "1600314217269075968",
+              "start": 34,
+              "username": "nightingale0115"
+            },
+            {
+              "end": 67,
+              "id": "1983755008777838592",
+              "start": 51,
+              "username": "Droplet_Express"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027265494726615327",
+        "in_reply_to_user_id": "2009145849146929153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 18371,
+          "like_count": 457,
+          "quote_count": 14,
+          "reply_count": 14,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027265379706487249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7shinagotohell @GAloxiv @XeproCN @nightingale0115 @Droplet_Express 目前的支那人領導是習近平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 867,
+          "like_count": 15185,
+          "listed_count": 0,
+          "media_count": 663,
+          "tweet_count": 3167
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8116251,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6218,
+          "media_count": 8488031,
+          "tweet_count": 109268549
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-08T06:11:27.000Z",
+        "description": "★ 親米親日 ★ 元台湾籍の日本兵 @chinagotohell64(永久備用帳) ★7代目アカウント ★ tâi-oân-lâng káng tâi-oân-ōe ★還活著的前帳號 @shinagotohell6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "chinagotohell64"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "shinagotohell6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@shinagotohell…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@shinagotohell1213?si=Eysr0Uz0qhMfLF7e",
+                "start": 0,
+                "url": "https://t.co/8mfumSjk0F"
+              }
+            ]
+          }
+        },
+        "id": "2009145849146929153",
+        "location": "高雄",
+        "name": "新海輝⁷🎌",
+        "pinned_tweet_id": "2019617803561759227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019016877826285568/RSKNCz8l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 352,
+          "like_count": 2477,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 1113
+        },
+        "url": "https://t.co/8mfumSjk0F",
+        "username": "7shinagotohell",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T10:03:11.000Z",
+        "description": "......我从那个世界来到这里,只是为了看一看你.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gallcha.cn",
+                "end": 23,
+                "expanded_url": "https://gallcha.cn",
+                "start": 0,
+                "url": "https://t.co/RTWckLcnGZ"
+              }
+            ]
+          }
+        },
+        "id": "1588471459147415552",
+        "location": "亚诺尔隆德之夜,伊鲁席尔的月旁",
+        "name": "Gallcha Aloxiv",
+        "pinned_tweet_id": "2024767180613800128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005974239707586560/scD_G70L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 42,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 3902
+        },
+        "url": "https://t.co/RTWckLcnGZ",
+        "username": "GAloxiv",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-19T12:20:27.000Z",
+        "description": "可以有梦，但不要活在梦里。Be real, be realistic.",
+        "id": "1097833286544412672",
+        "name": "xepro",
+        "pinned_tweet_id": "1613442195721433088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1097836429525147648/LNzErVLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 274,
+          "like_count": 4021,
+          "listed_count": 8,
+          "media_count": 454,
+          "tweet_count": 14551
+        },
+        "username": "XeproCN",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T02:20:45.000Z",
+        "description": "就是隻夜鶯",
+        "id": "1600314217269075968",
+        "name": "夜鶯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663428771582742531/3FWoRs5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 28,
+          "like_count": 104,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 2973
+        },
+        "username": "nightingale0115",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T04:37:22.000Z",
+        "description": "我感觉我又行了\n不太行小号@WallfacerO41419",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "WallfacerO41419"
+              }
+            ]
+          }
+        },
+        "id": "1983755008777838592",
+        "location": "上海",
+        "name": "红咖喱🚗🚗🚗",
+        "pinned_tweet_id": "2024048085408657879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008874514739089409/ua45H7SZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 341,
+          "like_count": 14092,
+          "listed_count": 15,
+          "media_count": 144,
+          "tweet_count": 2434
+        },
+        "username": "Droplet_Express",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2030940750834454576",
+    "created_at": "2026-03-09T09:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T10:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030942066646368347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1666425403890868224",
+          "start": 0,
+          "username": "TKipcezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030942066646368347",
+    "in_reply_to_user_id": "1666425403890868224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030941644128972907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKipcezhi 对大陆来说也很便宜啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2030940750834454576",
+        "created_at": "2026-03-09T09:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030942066646368347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1666425403890868224",
+              "start": 0,
+              "username": "TKipcezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030942066646368347",
+        "in_reply_to_user_id": "1666425403890868224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030941644128972907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKipcezhi 对大陆来说也很便宜啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666425403890868224",
+        "conversation_id": "2030940750834454576",
+        "created_at": "2026-03-09T09:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030941644128972907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030941644128972907",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030940750834454576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 对能在美国工作的人来说\n确实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 919,
+          "like_count": 15704,
+          "listed_count": 0,
+          "media_count": 719,
+          "tweet_count": 3440
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-07T12:43:12.000Z",
+        "description": "3884 ➡️ 3903\n( ˘ω˘)( ˘ω˘)( ˘ω˘)",
+        "id": "1666425403890868224",
+        "location": "拉特兰",
+        "name": "向往黎博利的黎博利🐦",
+        "pinned_tweet_id": "1994353303447118323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988584722755448832/0uGOzWlT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 259,
+          "like_count": 25122,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 2693
+        },
+        "username": "TKipcezhi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044480854685343744",
+        "3_2044480854668595200"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2044480878139871418",
+    "created_at": "2026-04-15T18:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T19:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044480878139871418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jGXoQciZ6u",
+          "end": 35,
+          "expanded_url": "https://x.com/xubai_01/status/2044480878139871418/photo/1",
+          "media_key": "3_2044480854685343744",
+          "start": 12,
+          "url": "https://t.co/jGXoQciZ6u"
+        },
+        {
+          "display_url": "pic.x.com/jGXoQciZ6u",
+          "end": 35,
+          "expanded_url": "https://x.com/xubai_01/status/2044480878139871418/photo/1",
+          "media_key": "3_2044480854668595200",
+          "start": 12,
+          "url": "https://t.co/jGXoQciZ6u"
+        },
+        {
+          "display_url": "x.com/xubai_01/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/xubai_01/status/2044478961342947480",
+          "start": 36,
+          "url": "https://t.co/5bpYxHZqwN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044480878139871418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044478961342947480",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "？猎奇还有习近平的事情 https://t.co/jGXoQciZ6u https://t.co/5bpYxHZqwN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044480854685343744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF90gVWbYAASqaY.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044480854668595200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF90gVSb0AAqDh3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044478945660420096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9yxNrawAA-INm.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044478945664634881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9yxNsbEAE6a4P.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044478945685647360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9yxNxbsAA-Qs5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2044478945660440578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9yxNrbEAIe1hi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044480854685343744",
+            "3_2044480854668595200"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2044480878139871418",
+        "created_at": "2026-04-15T18:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T19:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044480878139871418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGXoQciZ6u",
+              "end": 35,
+              "expanded_url": "https://x.com/xubai_01/status/2044480878139871418/photo/1",
+              "media_key": "3_2044480854685343744",
+              "start": 12,
+              "url": "https://t.co/jGXoQciZ6u"
+            },
+            {
+              "display_url": "pic.x.com/jGXoQciZ6u",
+              "end": 35,
+              "expanded_url": "https://x.com/xubai_01/status/2044480878139871418/photo/1",
+              "media_key": "3_2044480854668595200",
+              "start": 12,
+              "url": "https://t.co/jGXoQciZ6u"
+            },
+            {
+              "display_url": "x.com/xubai_01/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/xubai_01/status/2044478961342947480",
+              "start": 36,
+              "url": "https://t.co/5bpYxHZqwN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044480878139871418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044478961342947480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "？猎奇还有习近平的事情 https://t.co/jGXoQciZ6u https://t.co/5bpYxHZqwN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044478945660420096",
+            "3_2044478945664634881",
+            "3_2044478945685647360",
+            "3_2044478945660440578"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044478961342947480",
+        "created_at": "2026-04-15T18:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T19:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044478961342947480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tiCbpkyzN3",
+              "end": 30,
+              "expanded_url": "https://x.com/xubai_01/status/2044478961342947480/photo/1",
+              "media_key": "3_2044478945660420096",
+              "start": 7,
+              "url": "https://t.co/tiCbpkyzN3"
+            },
+            {
+              "display_url": "pic.x.com/tiCbpkyzN3",
+              "end": 30,
+              "expanded_url": "https://x.com/xubai_01/status/2044478961342947480/photo/1",
+              "media_key": "3_2044478945664634881",
+              "start": 7,
+              "url": "https://t.co/tiCbpkyzN3"
+            },
+            {
+              "display_url": "pic.x.com/tiCbpkyzN3",
+              "end": 30,
+              "expanded_url": "https://x.com/xubai_01/status/2044478961342947480/photo/1",
+              "media_key": "3_2044478945685647360",
+              "start": 7,
+              "url": "https://t.co/tiCbpkyzN3"
+            },
+            {
+              "display_url": "pic.x.com/tiCbpkyzN3",
+              "end": 30,
+              "expanded_url": "https://x.com/xubai_01/status/2044478961342947480/photo/1",
+              "media_key": "3_2044478945660440578",
+              "start": 7,
+              "url": "https://t.co/tiCbpkyzN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044478961342947480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "兄弟我要炸了 https://t.co/tiCbpkyzN3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n备@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "xuba1_"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 1159,
+          "like_count": 19427,
+          "listed_count": 0,
+          "media_count": 930,
+          "tweet_count": 4712
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      }
+    ]
+  }
+}

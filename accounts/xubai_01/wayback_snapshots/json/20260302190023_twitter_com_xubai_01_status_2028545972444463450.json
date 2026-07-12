@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028471338625867777"
+      ],
+      "media_source_tweet_id": [
+        "2028471380153675848"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2028545972444463450",
+    "created_at": "2026-03-02T19:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T20:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028545972444463450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999007250829230080",
+          "start": 3,
+          "username": "DDaquaforever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AiEvJXvj1f",
+          "end": 48,
+          "expanded_url": "https://x.com/DDaquaforever/status/2028471380153675848/photo/1",
+          "media_key": "3_2028471338625867777",
+          "start": 25,
+          "url": "https://t.co/AiEvJXvj1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028545972444463450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028471380153675848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDaquaforever: 我去不早说 https://t.co/AiEvJXvj1f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2028471338625867777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaT72fbIAEiT3k.png",
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028471338625867777"
+          ],
+          "media_source_tweet_id": [
+            "2028471380153675848"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2028545972444463450",
+        "created_at": "2026-03-02T19:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T20:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028545972444463450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999007250829230080",
+              "start": 3,
+              "username": "DDaquaforever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AiEvJXvj1f",
+              "end": 48,
+              "expanded_url": "https://x.com/DDaquaforever/status/2028471380153675848/photo/1",
+              "media_key": "3_2028471338625867777",
+              "start": 25,
+              "url": "https://t.co/AiEvJXvj1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028545972444463450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028471380153675848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDaquaforever: 我去不早说 https://t.co/AiEvJXvj1f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028471338625867777"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2028471380153675848",
+        "created_at": "2026-03-02T14:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028471380153675848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AiEvJXvj1f",
+              "end": 29,
+              "expanded_url": "https://x.com/DDaquaforever/status/2028471380153675848/photo/1",
+              "media_key": "3_2028471338625867777",
+              "start": 6,
+              "url": "https://t.co/AiEvJXvj1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028471380153675848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 425,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去不早说 https://t.co/AiEvJXvj1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 878,
+          "like_count": 15328,
+          "listed_count": 0,
+          "media_count": 676,
+          "tweet_count": 3234
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了 可爱的YOYO：@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3312,
+          "following_count": 3662,
+          "like_count": 5430,
+          "listed_count": 10,
+          "media_count": 2062,
+          "tweet_count": 9098
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

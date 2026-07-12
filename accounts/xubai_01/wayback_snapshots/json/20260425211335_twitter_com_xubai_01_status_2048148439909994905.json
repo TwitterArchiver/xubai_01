@@ -1,0 +1,593 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048148436739137536"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      }
+    ],
+    "conversation_id": "2048148439909994905",
+    "created_at": "2026-04-25T21:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T22:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048148439909994905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 151,
+          "id": "1488080791125237760",
+          "start": 141,
+          "username": "MengXi969"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mWjJzKN6VL",
+          "end": 182,
+          "expanded_url": "https://x.com/xubai_01/status/2048148439909994905/photo/1",
+          "media_key": "3_2048148436739137536",
+          "start": 159,
+          "url": "https://t.co/mWjJzKN6VL"
+        },
+        {
+          "display_url": "x.com/mengxi969/stat…",
+          "end": 206,
+          "expanded_url": "https://twitter.com/mengxi969/status/2048036364277747933",
+          "start": 183,
+          "url": "https://t.co/QeMtbGqXQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048148439909994905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 151,
+            "id": "1488080791125237760",
+            "start": 141,
+            "username": "MengXi969"
+          },
+          {
+            "end": 171,
+            "id": "1722587985781342208",
+            "start": 159,
+            "username": "yankaxh1207"
+          },
+          {
+            "end": 183,
+            "id": "2035267129029914625",
+            "start": 176,
+            "username": "Xuba1_"
+          }
+        ]
+      },
+      "text": "这是社区工作，而非带薪工作。\n熵序Entropy 期待您的加入。\n\n作为补充帖文，我们正在招募：\n- 财务：了解中国内地复式记账规则，承担项目账务处理任务。有相关经历者优先。\n- 宣发：了解当下行业热点，承担社媒平台运营管理与策划工作。有相关经历者优先。\n\n如有意向，请PM 梦溪 @MengXi969 /BillW @yankaxh1207 / 许白@Xuba1_  ，或使用微信添加我们的企微联系我们。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048036364277747933",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "这是社区工作，而非带薪工作。\n熵序Entropy 期待您的加入。\n\n作为补充帖文，我们正在招募：\n- 财务：了解中国内地复式记账规则，承担项目账务处理任务。有相关经历者优先。\n- 宣发：了解当下行业热点，承担社媒平台运营管理与策划工作。有相关经历者优先。\n\n如有意向，请PM 梦溪 @MengXi969 /BillW https://t.co/mWjJzKN6VL https://t.co/QeMtbGqXQm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2048148436739137536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGx8JtMboAAse7K.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048148436739137536"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2048148439909994905",
+        "created_at": "2026-04-25T21:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T22:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048148439909994905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 151,
+              "id": "1488080791125237760",
+              "start": 141,
+              "username": "MengXi969"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWjJzKN6VL",
+              "end": 182,
+              "expanded_url": "https://x.com/xubai_01/status/2048148439909994905/photo/1",
+              "media_key": "3_2048148436739137536",
+              "start": 159,
+              "url": "https://t.co/mWjJzKN6VL"
+            },
+            {
+              "display_url": "x.com/mengxi969/stat…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/mengxi969/status/2048036364277747933",
+              "start": 183,
+              "url": "https://t.co/QeMtbGqXQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048148439909994905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 151,
+                "id": "1488080791125237760",
+                "start": 141,
+                "username": "MengXi969"
+              },
+              {
+                "end": 171,
+                "id": "1722587985781342208",
+                "start": 159,
+                "username": "yankaxh1207"
+              },
+              {
+                "end": 183,
+                "id": "2035267129029914625",
+                "start": 176,
+                "username": "Xuba1_"
+              }
+            ]
+          },
+          "text": "这是社区工作，而非带薪工作。\n熵序Entropy 期待您的加入。\n\n作为补充帖文，我们正在招募：\n- 财务：了解中国内地复式记账规则，承担项目账务处理任务。有相关经历者优先。\n- 宣发：了解当下行业热点，承担社媒平台运营管理与策划工作。有相关经历者优先。\n\n如有意向，请PM 梦溪 @MengXi969 /BillW @yankaxh1207 / 许白@Xuba1_  ，或使用微信添加我们的企微联系我们。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048036364277747933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "这是社区工作，而非带薪工作。\n熵序Entropy 期待您的加入。\n\n作为补充帖文，我们正在招募：\n- 财务：了解中国内地复式记账规则，承担项目账务处理任务。有相关经历者优先。\n- 宣发：了解当下行业热点，承担社媒平台运营管理与策划工作。有相关经历者优先。\n\n如有意向，请PM 梦溪 @MengXi969 /BillW https://t.co/mWjJzKN6VL https://t.co/QeMtbGqXQm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488080791125237760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2048036364277747933",
+        "created_at": "2026-04-25T13:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048036364277747933"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048036364277747933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 194,
+                "id": "1840810905833197568",
+                "start": 185,
+                "username": "xubai_01"
+              },
+              {
+                "end": 207,
+                "id": "1722587985781342208",
+                "start": 195,
+                "username": "yankaxh1207"
+              }
+            ]
+          },
+          "text": "熵序 Entropy（中国大陆主体公司）\n正在筹办举行 Polaris Hackathon 线下黑客松比赛活动（预期位于深圳/杭州地区）\n我们正在招募以下社群工作人员\n- 法务: 了解全球各地法律法规，承担项目合规等工作，有互联网项目经验优先\n- 活动策划/运营: 协助 Entropy 完成 Polaris Hackathon 活动策划到实际落地\n\n如有意向请 pm @xubai_01 @yankaxh1207 或者我也行"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 694,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "熵序 Entropy（中国大陆主体公司）\n正在筹办举行 Polaris Hackathon 线下黑客松比赛活动（预期位于深圳/杭州地区）\n我们正在招募以下社群工作人员\n- 法务: 了解全球各地法律法规，承担项目合规等工作，有互联网项目经验优先\n- 活动策划/运营: 协助 Entropy 完成 Polaris Hackathon 活动策划到实际落地"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n备@xuba1_/鲤鱼@yuji53719/🐭@mcbd1119/小洋@xiaoyi969/白嘎 @Yazi341384/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "xuba1_"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Yazi341384"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 1216,
+          "like_count": 20696,
+          "listed_count": 0,
+          "media_count": 1003,
+          "tweet_count": 5013
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion @_entropyhq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_entropyhq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvNBL"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 3033,
+          "like_count": 88842,
+          "listed_count": 5,
+          "media_count": 1064,
+          "tweet_count": 6289
+        },
+        "url": "https://t.co/TIHBlJvNBL",
+        "username": "MengXi969",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-09T12:12:39.000Z",
+        "description": "我在 _entropy @_entropyhq 做黑客松",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "_entropyhq"
+              }
+            ]
+          }
+        },
+        "id": "1722587985781342208",
+        "location": "☜ WHAT IS IT????????",
+        "name": "BillW Gong",
+        "pinned_tweet_id": "1962065387937579033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021856437794906112/L0l72EPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 673,
+          "like_count": 1124,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 864
+        },
+        "username": "yankaxh1207",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T08:08:06.000Z",
+        "description": "❤️‍🔥@lamotogether☺️@xubai_01\n🇨🇳🇺🇸15 y,o. High school student of G1📑\n🤓Co-founder, builder, legal business\nOur team is planning a #hackathon🏃",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 128,
+                "tag": "hackathon"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "lamotogether"
+              },
+              {
+                "end": 28,
+                "start": 19,
+                "username": "xubai_01"
+              }
+            ]
+          }
+        },
+        "id": "2035267129029914625",
+        "location": "Monterey Park,CA / ZH,EN🤍 ",
+        "name": "白",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 9,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "username": "Xuba1_",
+        "verified": true
+      }
+    ]
+  }
+}

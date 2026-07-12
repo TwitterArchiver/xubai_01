@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2011682849288831365",
+    "created_at": "2026-01-15T06:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T07:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011682849288831365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683218035602255872",
+          "start": 3,
+          "username": "jlxc2001"
+        },
+        {
+          "end": 21,
+          "id": "173484971",
+          "start": 14,
+          "username": "yhslgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011682849288831365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011673825445101715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jlxc2001: @yhslgg 升，升舱的钱我来出（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2011682849288831365",
+        "created_at": "2026-01-15T06:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T07:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011682849288831365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683218035602255872",
+              "start": 3,
+              "username": "jlxc2001"
+            },
+            {
+              "end": 21,
+              "id": "173484971",
+              "start": 14,
+              "username": "yhslgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011682849288831365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011673825445101715",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jlxc2001: @yhslgg 升，升舱的钱我来出（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683218035602255872",
+        "conversation_id": "2011475410647990705",
+        "created_at": "2026-01-15T05:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T06:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011673825445101715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "173484971",
+              "start": 0,
+              "username": "yhslgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011673825445101715",
+        "in_reply_to_user_id": "173484971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011673497131442312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yhslgg 升，升舱的钱我来出（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：东三省、大湾区、四川（一月中旬｜欢迎随时联系/心情大爆炸｜@xubaimedia/？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜东北",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 848,
+          "like_count": 13414,
+          "listed_count": 0,
+          "media_count": 571,
+          "tweet_count": 2604
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7wSN1"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8991,
+          "following_count": 124,
+          "like_count": 305,
+          "listed_count": 22,
+          "media_count": 552,
+          "tweet_count": 1329
+        },
+        "url": "https://t.co/pIA1Q7wSN1",
+        "username": "jlxc2001",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-01T16:07:26.000Z",
+        "description": "15年连续创业者,赚过也赔过 | 电商系统 | 智能硬件 | 带货 | 特种车辆；\n现在全力学习AI,vibe coding用嘴写代码,\n分享创业,副业信息差,生活,运动健身|有啥说啥,不藏着.",
+        "id": "173484971",
+        "location": "shenzhen china",
+        "name": "老杨啊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004167168632700929/E6cWf4yC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6309,
+          "following_count": 1046,
+          "like_count": 729,
+          "listed_count": 31,
+          "media_count": 219,
+          "tweet_count": 1380
+        },
+        "username": "yhslgg",
+        "verified": true
+      }
+    ]
+  }
+}

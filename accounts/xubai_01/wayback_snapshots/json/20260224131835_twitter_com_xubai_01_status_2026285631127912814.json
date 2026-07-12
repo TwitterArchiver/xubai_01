@@ -1,0 +1,537 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026248188210855936",
+        "3_2026248798402383872"
+      ],
+      "media_source_tweet_id": [
+        "2026262078345068974",
+        "2026262078345068974"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2026285631127912814",
+    "created_at": "2026-02-24T13:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026285631127912814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oUhgQ5VXQZ",
+          "end": 102,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2026262078345068974/photo/1",
+          "media_key": "3_2026248188210855936",
+          "start": 79,
+          "url": "https://t.co/oUhgQ5VXQZ"
+        },
+        {
+          "display_url": "pic.x.com/oUhgQ5VXQZ",
+          "end": 102,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2026262078345068974/photo/1",
+          "media_key": "3_2026248798402383872",
+          "start": 79,
+          "url": "https://t.co/oUhgQ5VXQZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026285631127912814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026262078345068974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 2月23日，有网友发现，「习」组合「背书」在微博是违禁词库。\n违禁原因大抵来源于：“我最大的爱好是读书。”——习近平 https://t.co/oUhgQ5VXQZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1251,
+        "media_key": "3_2026248188210855936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6t_d0WQAAo2DF.jpg",
+        "width": 1260
+      },
+      {
+        "height": 600,
+        "media_key": "3_2026248798402383872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6ui-9WEAA_MEh.jpg",
+        "width": 503
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026248188210855936",
+            "3_2026248798402383872"
+          ],
+          "media_source_tweet_id": [
+            "2026262078345068974",
+            "2026262078345068974"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2026285631127912814",
+        "created_at": "2026-02-24T13:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026285631127912814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUhgQ5VXQZ",
+              "end": 102,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2026262078345068974/photo/1",
+              "media_key": "3_2026248188210855936",
+              "start": 79,
+              "url": "https://t.co/oUhgQ5VXQZ"
+            },
+            {
+              "display_url": "pic.x.com/oUhgQ5VXQZ",
+              "end": 102,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2026262078345068974/photo/1",
+              "media_key": "3_2026248798402383872",
+              "start": 79,
+              "url": "https://t.co/oUhgQ5VXQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026285631127912814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026262078345068974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 2月23日，有网友发现，「习」组合「背书」在微博是违禁词库。\n违禁原因大抵来源于：“我最大的爱好是读书。”——习近平 https://t.co/oUhgQ5VXQZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026248188210855936",
+            "3_2026248798402383872"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2026262078345068974",
+        "created_at": "2026-02-24T11:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026262078345068974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUhgQ5VXQZ",
+              "end": 82,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2026262078345068974/photo/1",
+              "media_key": "3_2026248188210855936",
+              "start": 59,
+              "url": "https://t.co/oUhgQ5VXQZ"
+            },
+            {
+              "display_url": "pic.x.com/oUhgQ5VXQZ",
+              "end": 82,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2026262078345068974/photo/1",
+              "media_key": "3_2026248798402383872",
+              "start": 59,
+              "url": "https://t.co/oUhgQ5VXQZ"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1996935062340739343",
+              "start": 83,
+              "url": "https://t.co/1BTVVMtTNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026262078345068974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 66404,
+          "like_count": 283,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996935062340739343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2月23日，有网友发现，「习」组合「背书」在微博是违禁词库。\n违禁原因大抵来源于：“我最大的爱好是读书。”——习近平 https://t.co/oUhgQ5VXQZ https://t.co/1BTVVMtTNU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 866,
+          "like_count": 15082,
+          "listed_count": 0,
+          "media_count": 658,
+          "tweet_count": 3132
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2025900193976308004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194158,
+          "following_count": 1017,
+          "like_count": 9037,
+          "listed_count": 8569,
+          "media_count": 41948,
+          "tweet_count": 48963
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

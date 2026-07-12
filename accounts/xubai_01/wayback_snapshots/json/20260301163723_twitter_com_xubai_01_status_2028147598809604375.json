@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2028147598809604375",
+    "created_at": "2026-03-01T16:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T17:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028147598809604375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993544084519333888",
+          "start": 3,
+          "username": "MoneyDao8"
+        },
+        {
+          "end": 27,
+          "id": "1165044876297134080",
+          "start": 15,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028147598809604375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028040301877830059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MoneyDao8: @realNyarime OKX有红色背景实锤了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2028147598809604375",
+        "created_at": "2026-03-01T16:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028147598809604375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993544084519333888",
+              "start": 3,
+              "username": "MoneyDao8"
+            },
+            {
+              "end": 27,
+              "id": "1165044876297134080",
+              "start": 15,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028147598809604375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028040301877830059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MoneyDao8: @realNyarime OKX有红色背景实锤了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993544084519333888",
+        "conversation_id": "2028025633876677027",
+        "created_at": "2026-03-01T09:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T10:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028040301877830059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028040301877830059",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1229,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028025633876677027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime OKX有红色背景实锤了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 871,
+          "like_count": 15290,
+          "listed_count": 0,
+          "media_count": 672,
+          "tweet_count": 3216
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-26T04:55:53.000Z",
+        "description": "交易",
+        "id": "1993544084519333888",
+        "name": "凡人修钱传",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027676866866515969/UcN0VYI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 239,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 121
+        },
+        "username": "MoneyDao8",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2023357352980910144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018944290639298560/0sIu4yRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18640,
+          "following_count": 517,
+          "like_count": 10481,
+          "listed_count": 78,
+          "media_count": 998,
+          "tweet_count": 7757
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

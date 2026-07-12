@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2017138629483909486",
+    "created_at": "2026-01-30T11:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017194901612769458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798483411453255680",
+          "start": 0,
+          "username": "AriputhWeisennn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017194901612769458",
+    "in_reply_to_user_id": "1798483411453255680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017185171641094249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AriputhWeisennn 吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2017138629483909486",
+        "created_at": "2026-01-30T11:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017194901612769458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798483411453255680",
+              "start": 0,
+              "username": "AriputhWeisennn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017194901612769458",
+        "in_reply_to_user_id": "1798483411453255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017185171641094249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AriputhWeisennn 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798483411453255680",
+        "conversation_id": "2017138629483909486",
+        "created_at": "2026-01-30T10:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T11:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017185171641094249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017185171641094249",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017138629483909486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 用这些做头像想表达什么\n表达自己很开明吗？\n实则不然（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜行程：大湾区、云川（一月中旬｜欢迎随时联系/心情大爆炸｜友链：@xubaimedia/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜成都",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 863,
+          "like_count": 14110,
+          "listed_count": 0,
+          "media_count": 605,
+          "tweet_count": 2856
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T22:34:10.000Z",
+        "description": "你好這裡是韦襂w👋｜Furry｜15 160 50 0｜🌈LGBT｜天秤座+isfp混infp｜EN CAN能聽懂 CN無障礙｜中二 舞萌DX PJSK 歌姬計劃 舞立方| K-pop POP Rock 术力口 另類 都愛聽🥵｜安分守己養老中🆘｜廣西人但是第二故鄉陽江👍｜BF @xiciqqi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 139,
+                "username": "xiciqqi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AriputhCharlie",
+                "end": 23,
+                "expanded_url": "https://t.me/AriputhCharlie",
+                "start": 0,
+                "url": "https://t.co/S6T21h8DNm"
+              }
+            ]
+          }
+        },
+        "id": "1798483411453255680",
+        "location": "番禺市",
+        "name": "Charlie!🔜番禺",
+        "pinned_tweet_id": "2005353902921990216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011216530000994304/SQ09o9_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 138,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/S6T21h8DNm",
+        "username": "AriputhWeisennn",
+        "verified": false
+      }
+    ]
+  }
+}

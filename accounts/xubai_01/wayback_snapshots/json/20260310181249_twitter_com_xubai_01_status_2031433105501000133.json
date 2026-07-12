@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2031276096944226358",
+    "created_at": "2026-03-10T18:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T19:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031433105501000133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1713713115270139904",
+          "start": 0,
+          "username": "shirochankawa1"
+        },
+        {
+          "end": 28,
+          "id": "1863087380615569408",
+          "start": 16,
+          "username": "kiri_nokara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031433105501000133",
+    "in_reply_to_user_id": "1713713115270139904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031276096944226358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirochankawa1 @kiri_nokara 崩不住了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2031276096944226358",
+        "created_at": "2026-03-10T18:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T19:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031433105501000133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            },
+            {
+              "end": 28,
+              "id": "1863087380615569408",
+              "start": 16,
+              "username": "kiri_nokara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031433105501000133",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031276096944226358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 @kiri_nokara 崩不住了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2031276096944226358",
+        "created_at": "2026-03-10T07:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T08:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031276096944226358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031276096944226358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4868,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "洗澡时挤了一泵沐浴露，射的比我还远，不想活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 921,
+          "like_count": 15802,
+          "listed_count": 0,
+          "media_count": 728,
+          "tweet_count": 3479
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，🚪纯绿100，纯绿线下520",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2029920237525823757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2349,
+          "following_count": 2013,
+          "like_count": 67297,
+          "listed_count": 8,
+          "media_count": 1586,
+          "tweet_count": 10702
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T05:08:07.000Z",
+        "description": "负债中\n0.30年外汇经验/0.20年加密货币经验\n尊师上i下l/大黑基金经理/假Trader真吹的\n资金管理规模11451419.1981$阿根廷比索\n所有观点均构成投资建议，跟单亏钱请私信我报销来厦门找我的路费\n#mtf #crypto",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 112,
+                "start": 108,
+                "tag": "mtf"
+              },
+              {
+                "end": 120,
+                "start": 113,
+                "tag": "crypto"
+              }
+            ]
+          }
+        },
+        "id": "1863087380615569408",
+        "location": "距离你6.4km",
+        "name": "风居海铃",
+        "pinned_tweet_id": "2031294361296626126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030250647178924032/gME9JJp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 551,
+          "like_count": 22123,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 1797
+        },
+        "username": "kiri_nokara",
+        "verified": false
+      }
+    ]
+  }
+}

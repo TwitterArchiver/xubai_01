@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "2066053860456857834",
+    "created_at": "2026-06-14T07:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066053860456857834"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/polymarket/sta…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/polymarket/status/2065933098512974164",
+          "start": 66,
+          "url": "https://t.co/rXXDhmKVLH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066053860456857834",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065933098512974164",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "What the authorities of the People's Republic of China are doing💀 https://t.co/rXXDhmKVLH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2066053860456857834",
+        "created_at": "2026-06-14T07:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066053860456857834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/polymarket/sta…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/polymarket/status/2065933098512974164",
+              "start": 66,
+              "url": "https://t.co/rXXDhmKVLH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066053860456857834",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065933098512974164",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "What the authorities of the People's Republic of China are doing💀 https://t.co/rXXDhmKVLH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261335549215989760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2065933098512974164",
+        "created_at": "2026-06-13T23:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065933098512974164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065933098512974164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 591,
+          "impression_count": 414362,
+          "like_count": 2511,
+          "quote_count": 177,
+          "reply_count": 397,
+          "retweet_count": 414
+        },
+        "reply_settings": "everyone",
+        "text": "NEW: U.K. advances proposal to force Apple, Google, Signal, &amp; other platforms to scan private content on users’ devices — executives could face prison if they refuse."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 76,
+                "username": "xuba1_"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "yuji53719"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 129,
+                "start": 122,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2240,
+          "following_count": 1507,
+          "like_count": 24410,
+          "listed_count": 2,
+          "media_count": 1172,
+          "tweet_count": 6339
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-15T16:40:13.000Z",
+        "description": "The World's Largest Prediction Market. Trade politics, news, crypto, culture, sports, tech, & more. Discord: https://t.co/tzKrbDfF3x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/r/discord",
+                "end": 132,
+                "expanded_url": "http://polymarket.com/r/discord",
+                "start": 109,
+                "url": "https://t.co/tzKrbDfF3x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "polymarket.com",
+                "end": 23,
+                "expanded_url": "https://polymarket.com/",
+                "start": 0,
+                "url": "https://t.co/tO2XOjFwx4"
+              }
+            ]
+          }
+        },
+        "id": "1261335549215989760",
+        "name": "Polymarket",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640707,
+          "following_count": 5616,
+          "like_count": 90131,
+          "listed_count": 6511,
+          "media_count": 5477,
+          "tweet_count": 30180
+        },
+        "url": "https://t.co/tO2XOjFwx4",
+        "username": "Polymarket",
+        "verified": true
+      }
+    ]
+  }
+}

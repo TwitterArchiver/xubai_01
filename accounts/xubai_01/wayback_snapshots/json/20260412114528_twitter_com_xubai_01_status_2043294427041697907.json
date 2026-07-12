@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2043270810811650314",
+    "created_at": "2026-04-12T11:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043294427041697907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918520790775115776",
+          "start": 0,
+          "username": "KevinYang0803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043294427041697907",
+    "in_reply_to_user_id": "1918520790775115776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043282022844838296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KevinYang0803 等下给你发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2043270810811650314",
+        "created_at": "2026-04-12T11:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043294427041697907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918520790775115776",
+              "start": 0,
+              "username": "KevinYang0803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043294427041697907",
+        "in_reply_to_user_id": "1918520790775115776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043282022844838296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KevinYang0803 等下给你发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918520790775115776",
+        "conversation_id": "2043270810811650314",
+        "created_at": "2026-04-12T10:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043282022844838296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043282022844838296",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043270810811650314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 吓死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/10.12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "yuji53719"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 1128,
+          "like_count": 18779,
+          "listed_count": 0,
+          "media_count": 902,
+          "tweet_count": 4558
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-03T04:19:57.000Z",
+        "description": "08/170/63｜深圳男高｜男🌈｜ENFJ｜ 爱好很杂，比如航空/轨道交通 这里主要记录我的个人生活碎片😊，欢迎主动来找我🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KevinYangPress…",
+                "end": 23,
+                "expanded_url": "https://t.me/KevinYangPressConference",
+                "start": 0,
+                "url": "https://t.co/11vceEvhQ4"
+              }
+            ]
+          }
+        },
+        "id": "1918520790775115776",
+        "name": "KevinYang",
+        "pinned_tweet_id": "2022210025176150047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956436437718687744/rbQ-F3oi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4658,
+          "following_count": 315,
+          "like_count": 10567,
+          "listed_count": 6,
+          "media_count": 555,
+          "tweet_count": 3792
+        },
+        "url": "https://t.co/11vceEvhQ4",
+        "username": "KevinYang0803",
+        "verified": true
+      }
+    ]
+  }
+}

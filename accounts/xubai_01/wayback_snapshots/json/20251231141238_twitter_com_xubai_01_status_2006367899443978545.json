@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2006367836940435456",
+        "3_2006367836944625664",
+        "3_2006367836936265728",
+        "3_2006367836923641856"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2006367899443978545",
+    "created_at": "2025-12-31T14:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T15:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006367899443978545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WD1RrgCTjF",
+          "end": 28,
+          "expanded_url": "https://x.com/xubai_01/status/2006367899443978545/video/1",
+          "media_key": "13_2006367836940435456",
+          "start": 5,
+          "url": "https://t.co/WD1RrgCTjF"
+        },
+        {
+          "display_url": "pic.x.com/WD1RrgCTjF",
+          "end": 28,
+          "expanded_url": "https://x.com/xubai_01/status/2006367899443978545/video/1",
+          "media_key": "3_2006367836944625664",
+          "start": 5,
+          "url": "https://t.co/WD1RrgCTjF"
+        },
+        {
+          "display_url": "pic.x.com/WD1RrgCTjF",
+          "end": 28,
+          "expanded_url": "https://x.com/xubai_01/status/2006367899443978545/video/1",
+          "media_key": "3_2006367836936265728",
+          "start": 5,
+          "url": "https://t.co/WD1RrgCTjF"
+        },
+        {
+          "display_url": "pic.x.com/WD1RrgCTjF",
+          "end": 28,
+          "expanded_url": "https://x.com/xubai_01/status/2006367899443978545/video/1",
+          "media_key": "3_2006367836923641856",
+          "start": 5,
+          "url": "https://t.co/WD1RrgCTjF"
+        },
+        {
+          "display_url": "x.com/xubai_01/statu…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/xubai_01/status/2006366448277754346",
+          "start": 29,
+          "url": "https://t.co/nsm7aajOk5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006367899443978545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006366448277754346",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出不去惹 https://t.co/WD1RrgCTjF https://t.co/nsm7aajOk5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5178,
+        "height": 1280,
+        "media_key": "13_2006367836940435456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006367836940435456/img/qTzsjARveYeZwVd1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006367836940435456/vid/avc1/320x568/XhZuyVMVMuFozTRb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006367836940435456/vid/avc1/480x852/qEU4smxfHpHc-Eba.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006367836940435456/vid/avc1/720x1280/VDM6a5e8YNEPMm48.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006367836940435456/pl/cxlo_1c5NEcN0DA4.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006367836944625664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gM6uHacAAhoHF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2006367836936265728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gM6uFa4AAJwf1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 963,
+        "media_key": "3_2006367836923641856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gM6uCaQAA3jpY.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006366436474904577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gLpM9aYAEny9X.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006366436458176512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gLpM5bIAAXV7-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006366436479102976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gLpM-acAANfF2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006366436458188802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gLpM5bUAILvD4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006367836940435456",
+            "3_2006367836944625664",
+            "3_2006367836936265728",
+            "3_2006367836923641856"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006367899443978545",
+        "created_at": "2025-12-31T14:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T15:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006367899443978545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WD1RrgCTjF",
+              "end": 28,
+              "expanded_url": "https://x.com/xubai_01/status/2006367899443978545/video/1",
+              "media_key": "13_2006367836940435456",
+              "start": 5,
+              "url": "https://t.co/WD1RrgCTjF"
+            },
+            {
+              "display_url": "pic.x.com/WD1RrgCTjF",
+              "end": 28,
+              "expanded_url": "https://x.com/xubai_01/status/2006367899443978545/video/1",
+              "media_key": "3_2006367836944625664",
+              "start": 5,
+              "url": "https://t.co/WD1RrgCTjF"
+            },
+            {
+              "display_url": "pic.x.com/WD1RrgCTjF",
+              "end": 28,
+              "expanded_url": "https://x.com/xubai_01/status/2006367899443978545/video/1",
+              "media_key": "3_2006367836936265728",
+              "start": 5,
+              "url": "https://t.co/WD1RrgCTjF"
+            },
+            {
+              "display_url": "pic.x.com/WD1RrgCTjF",
+              "end": 28,
+              "expanded_url": "https://x.com/xubai_01/status/2006367899443978545/video/1",
+              "media_key": "3_2006367836923641856",
+              "start": 5,
+              "url": "https://t.co/WD1RrgCTjF"
+            },
+            {
+              "display_url": "x.com/xubai_01/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/xubai_01/status/2006366448277754346",
+              "start": 29,
+              "url": "https://t.co/nsm7aajOk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006367899443978545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006366448277754346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出不去惹 https://t.co/WD1RrgCTjF https://t.co/nsm7aajOk5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006366436474904577",
+            "3_2006366436458176512",
+            "3_2006366436479102976",
+            "3_2006366436458188802"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006366448277754346",
+        "created_at": "2025-12-31T14:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T15:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006366448277754346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KNj3kLXcx",
+              "end": 28,
+              "expanded_url": "https://x.com/xubai_01/status/2006366448277754346/photo/1",
+              "media_key": "3_2006366436474904577",
+              "start": 5,
+              "url": "https://t.co/1KNj3kLXcx"
+            },
+            {
+              "display_url": "pic.x.com/1KNj3kLXcx",
+              "end": 28,
+              "expanded_url": "https://x.com/xubai_01/status/2006366448277754346/photo/1",
+              "media_key": "3_2006366436458176512",
+              "start": 5,
+              "url": "https://t.co/1KNj3kLXcx"
+            },
+            {
+              "display_url": "pic.x.com/1KNj3kLXcx",
+              "end": 28,
+              "expanded_url": "https://x.com/xubai_01/status/2006366448277754346/photo/1",
+              "media_key": "3_2006366436479102976",
+              "start": 5,
+              "url": "https://t.co/1KNj3kLXcx"
+            },
+            {
+              "display_url": "pic.x.com/1KNj3kLXcx",
+              "end": 28,
+              "expanded_url": "https://x.com/xubai_01/status/2006366448277754346/photo/1",
+              "media_key": "3_2006366436458188802",
+              "start": 5,
+              "url": "https://t.co/1KNj3kLXcx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006366448277754346",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "awmc https://t.co/1KNj3kLXcx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 803,
+          "like_count": 12298,
+          "listed_count": 0,
+          "media_count": 490,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

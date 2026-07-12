@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1969884543563018538",
+    "created_at": "2025-09-21T22:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T23:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969884543563018538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xushizhi/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/xushizhi/status/1969817594728521958",
+          "start": 2,
+          "url": "https://t.co/k3ICVEx61m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969884543563018538",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969817594728521958",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/k3ICVEx61m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1969884543563018538",
+        "created_at": "2025-09-21T22:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T23:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969884543563018538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xushizhi/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/xushizhi/status/1969817594728521958",
+              "start": 2,
+              "url": "https://t.co/k3ICVEx61m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969884543563018538",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969817594728521958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/k3ICVEx61m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1318381367311224833",
+        "conversation_id": "1969817594728521958",
+        "created_at": "2025-09-21T17:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T18:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969817594728521958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969817594728521958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 28009,
+          "like_count": 128,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽尼玛啊！傻逼金主玩的太变态了！大中午的把我捆绑在阳光下，拿着放大镜聚焦烧我的蛋毛，还不让我反抗，烧的我蛋水直流，有种被太阳强奸的感觉……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈@xubai22｜一个什么圈子都混一点的莫名其妙的人。｜Founder @xubaimedia｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "xubai22"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "许白白白白白",
+        "name": "许白",
+        "pinned_tweet_id": "1965052451901591691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962871355994746882/BW4i3aWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 228,
+          "like_count": 2639,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-20T02:39:54.000Z",
+        "description": "喜欢猫猫/接陪玩/推广自辨/小号@wkszjn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "wkszjn"
+              }
+            ]
+          }
+        },
+        "id": "1318381367311224833",
+        "location": "b612",
+        "name": "徐柿枳（恩师蛋蛋）",
+        "pinned_tweet_id": "1937568188155461991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687885249127309313/sur_T4A6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51214,
+          "following_count": 40,
+          "like_count": 16982,
+          "listed_count": 73,
+          "media_count": 143,
+          "tweet_count": 3670
+        },
+        "username": "xushizhi",
+        "verified": false
+      }
+    ]
+  }
+}

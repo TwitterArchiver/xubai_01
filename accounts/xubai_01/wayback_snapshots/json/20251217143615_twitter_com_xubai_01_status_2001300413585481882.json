@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2001300413585481882",
+    "created_at": "2025-12-17T14:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T15:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001300413585481882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bitgetwalletcn…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/bitgetwalletcn/status/2001284363695292605",
+          "start": 3,
+          "url": "https://t.co/sQwR2INOOV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001300413585481882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001284363695292605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "钱。 https://t.co/sQwR2INOOV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2001300413585481882",
+        "created_at": "2025-12-17T14:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001300413585481882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bitgetwalletcn…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/bitgetwalletcn/status/2001284363695292605",
+              "start": 3,
+              "url": "https://t.co/sQwR2INOOV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001300413585481882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001284363695292605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "钱。 https://t.co/sQwR2INOOV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555049139641012224",
+        "conversation_id": "2001284363695292605",
+        "created_at": "2025-12-17T13:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001284363695292605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001284363695292605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3749,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 89,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说吧，圣诞想要什么礼物？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜网易/火山引擎/阿里云/腾讯云代理商｜接各类企服财税代办｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 698,
+          "like_count": 9973,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 1247
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T04:33:31.000Z",
+        "description": "Crypto for Everyone！与 8,000 万用户一起，轻松交易、理财、支付和探索 Web3！🩵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "web3.bitget.com/zh-CN",
+                "end": 23,
+                "expanded_url": "https://web3.bitget.com/zh-CN",
+                "start": 0,
+                "url": "https://t.co/sG16yOGQw6"
+              }
+            ]
+          }
+        },
+        "id": "1555049139641012224",
+        "name": "Bitget钱包中文频道 🩵",
+        "pinned_tweet_id": "2001230976756629595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001282282066530304/h5j408EL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83010,
+          "following_count": 343,
+          "like_count": 1872,
+          "listed_count": 160,
+          "media_count": 3302,
+          "tweet_count": 6703
+        },
+        "url": "https://t.co/sG16yOGQw6",
+        "username": "BitgetWalletCN",
+        "verified": true
+      }
+    ]
+  }
+}

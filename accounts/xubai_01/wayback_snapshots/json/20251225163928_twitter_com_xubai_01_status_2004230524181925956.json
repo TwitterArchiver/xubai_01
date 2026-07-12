@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2004230524181925956",
+    "created_at": "2025-12-25T16:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T17:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004230524181925956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1989776375532982274",
+          "start": 3,
+          "username": "matcha__tofu"
+        },
+        {
+          "end": 29,
+          "id": "1430428104804077572",
+          "start": 18,
+          "username": "somaruriro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004230524181925956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004037611204296884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @matcha__tofu: @somaruriro 真的  還把我之前的帳號ban掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2004230524181925956",
+        "created_at": "2025-12-25T16:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T17:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004230524181925956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1989776375532982274",
+              "start": 3,
+              "username": "matcha__tofu"
+            },
+            {
+              "end": 29,
+              "id": "1430428104804077572",
+              "start": 18,
+              "username": "somaruriro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004230524181925956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004037611204296884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @matcha__tofu: @somaruriro 真的  還把我之前的帳號ban掉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989776375532982274",
+        "conversation_id": "2004011873407291571",
+        "created_at": "2025-12-25T03:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T04:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004037611204296884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430428104804077572",
+              "start": 0,
+              "username": "somaruriro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004037611204296884",
+        "in_reply_to_user_id": "1430428104804077572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3098,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004011873407291571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@somaruriro 真的  還把我之前的帳號ban掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜啥意思。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 783,
+          "like_count": 11813,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 1892
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T19:24:03.000Z",
+        "description": "帳號被封鎖了只好重新來過   你好，我叫抹茶豆腐",
+        "id": "1989776375532982274",
+        "name": "抹茶豆腐🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989786254830178306/J4aAkGrT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "username": "matcha__tofu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-25T07:13:37.000Z",
+        "description": "あなたの水色です。 #水縹色に染まる",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 10,
+                "tag": "水縹色に染まる"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/somaruriro",
+                "end": 23,
+                "expanded_url": "https://lit.link/somaruriro",
+                "start": 0,
+                "url": "https://t.co/TRjfxoSx5v"
+              }
+            ]
+          }
+        },
+        "id": "1430428104804077572",
+        "location": "awamizm (Vo.)",
+        "name": "水縹そまる🧊",
+        "pinned_tweet_id": "1991434964878213256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866798456670654465/hvLegzWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10130,
+          "following_count": 110,
+          "like_count": 16877,
+          "listed_count": 50,
+          "media_count": 1613,
+          "tweet_count": 12616
+        },
+        "url": "https://t.co/TRjfxoSx5v",
+        "username": "somaruriro",
+        "verified": false
+      }
+    ]
+  }
+}

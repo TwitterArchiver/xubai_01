@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2041339965125394790",
+    "created_at": "2026-04-07T02:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T03:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041339965125394790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1304953938320306176",
+          "start": 3,
+          "username": "hry_xsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041339965125394790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040969715447980296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hry_xsu: 看不懂你们\n一个月零花钱顶我一年流水的5倍\n还割\n还o\n还抱怨原生家庭的\n富蛆\n\n就忽然理解为什么有些人仇富了就"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2041339965125394790",
+        "created_at": "2026-04-07T02:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041339965125394790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1304953938320306176",
+              "start": 3,
+              "username": "hry_xsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041339965125394790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040969715447980296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hry_xsu: 看不懂你们\n一个月零花钱顶我一年流水的5倍\n还割\n还o\n还抱怨原生家庭的\n富蛆\n\n就忽然理解为什么有些人仇富了就"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1304953938320306176",
+        "conversation_id": "2040969715447980296",
+        "created_at": "2026-04-06T01:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040969715447980296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040969715447980296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 337,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "看不懂你们\n一个月零花钱顶我一年流水的5倍\n还割\n还o\n还抱怨原生家庭的\n富蛆\n\n就忽然理解为什么有些人仇富了就"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "yuji53719"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 1082,
+          "like_count": 18122,
+          "listed_count": 0,
+          "media_count": 871,
+          "tweet_count": 4345
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-13T01:24:17.000Z",
+        "description": "That's ra or Harry (not xsu!\nen&zh | 💻笔电爱好者 | 无糖 | 女装 | 精神地雷系 | 🏳️‍🌈LGBTQ+friendly\n好朋友@wxb_NB @qusuunmd @XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 86,
+                "username": "wxb_NB"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "qusuunmd"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lunar.galaxy.gov",
+                "end": 23,
+                "expanded_url": "https://www.lunar.galaxy.gov",
+                "start": 0,
+                "url": "https://t.co/ZmiJZUPn5Q"
+              }
+            ]
+          }
+        },
+        "id": "1304953938320306176",
+        "location": "Lunar,Galaxy,Universe",
+        "name": "xsu_Harryyy",
+        "pinned_tweet_id": "1932047209467421162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016521299070464000/DgHXMLJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 375,
+          "like_count": 52719,
+          "listed_count": 7,
+          "media_count": 241,
+          "tweet_count": 3528
+        },
+        "url": "https://t.co/ZmiJZUPn5Q",
+        "username": "hry_xsu",
+        "verified": false
+      }
+    ]
+  }
+}

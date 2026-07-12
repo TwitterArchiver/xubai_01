@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2025783337852522888",
+    "created_at": "2026-02-23T12:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T13:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025911312216453328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1819200907231535104",
+          "start": 0,
+          "username": "FO3559188115960"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025911312216453328",
+    "in_reply_to_user_id": "1819200907231535104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025907653675749748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FO3559188115960 谁问了😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2025783337852522888",
+        "created_at": "2026-02-23T12:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025911312216453328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1819200907231535104",
+              "start": 0,
+              "username": "FO3559188115960"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025911312216453328",
+        "in_reply_to_user_id": "1819200907231535104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025907653675749748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FO3559188115960 谁问了😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819200907231535104",
+        "conversation_id": "2025783337852522888",
+        "created_at": "2026-02-23T12:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025907653675749748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025907653675749748",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025783337852522888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 取关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 862,
+          "like_count": 15050,
+          "listed_count": 0,
+          "media_count": 653,
+          "tweet_count": 3109
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-02T02:38:06.000Z",
+        "description": "。",
+        "id": "1819200907231535104",
+        "name": "FO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025617267162054656/9gg3Z2BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 12,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 481
+        },
+        "username": "FO3559188115960",
+        "verified": false
+      }
+    ]
+  }
+}

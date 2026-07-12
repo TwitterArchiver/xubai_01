@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2002059367659811021",
+    "created_at": "2025-12-19T16:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T17:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002059367659811021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1961806047871729664",
+          "start": 3,
+          "username": "pi_shao12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002059367659811021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001911302869201098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pi_shao12138: 最可怕的不是绝交，而是我们已经不联系了，但我的妈妈还记得你的名字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2002059367659811021",
+        "created_at": "2025-12-19T16:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T17:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002059367659811021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1961806047871729664",
+              "start": 3,
+              "username": "pi_shao12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002059367659811021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001911302869201098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pi_shao12138: 最可怕的不是绝交，而是我们已经不联系了，但我的妈妈还记得你的名字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961806047871729664",
+        "conversation_id": "2001911302869201098",
+        "created_at": "2025-12-19T07:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T08:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001911302869201098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001911302869201098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 22750,
+          "like_count": 431,
+          "quote_count": 13,
+          "reply_count": 30,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "最可怕的不是绝交，而是我们已经不联系了，但我的妈妈还记得你的名字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜一月行程：武汉｜欢迎随时dm我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 734,
+          "like_count": 10608,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 1427
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T14:59:57.000Z",
+        "description": "女同  想到什么发什么 男的别来",
+        "id": "1961806047871729664",
+        "name": "买不起低温蜡调m 拿热熔胶被 骂超雄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000218850613202947/dx271pES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 24,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 209
+        },
+        "username": "pi_shao12138",
+        "verified": false
+      }
+    ]
+  }
+}

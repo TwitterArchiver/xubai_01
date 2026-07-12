@@ -1,0 +1,666 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004011612928462848",
+        "3_2004011612907458560"
+      ],
+      "media_source_tweet_id": [
+        "2004011628363386949",
+        "2004011628363386949"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "2004207322604970155",
+    "created_at": "2025-12-25T15:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T16:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004207322604970155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1451408516699201552",
+          "start": 3,
+          "username": "TargaryenLiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J13X1K6iS6",
+          "end": 72,
+          "expanded_url": "https://x.com/TargaryenLiu/status/2004011628363386949/photo/1",
+          "media_key": "3_2004011612928462848",
+          "start": 49,
+          "url": "https://t.co/J13X1K6iS6"
+        },
+        {
+          "display_url": "pic.x.com/J13X1K6iS6",
+          "end": 72,
+          "expanded_url": "https://x.com/TargaryenLiu/status/2004011628363386949/photo/1",
+          "media_key": "3_2004011612907458560",
+          "start": 49,
+          "url": "https://t.co/J13X1K6iS6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004207322604970155",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004011628363386949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TargaryenLiu: All I want for Christmas is……😜 https://t.co/J13X1K6iS6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1231,
+        "media_key": "3_2004011612928462848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8-t8bpb0AAa51s.jpg",
+        "width": 960
+      },
+      {
+        "height": 1702,
+        "media_key": "3_2004011612907458560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8-t8bkbUAA7dqq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004011612928462848",
+            "3_2004011612907458560"
+          ],
+          "media_source_tweet_id": [
+            "2004011628363386949",
+            "2004011628363386949"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2004207322604970155",
+        "created_at": "2025-12-25T15:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T16:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004207322604970155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1451408516699201552",
+              "start": 3,
+              "username": "TargaryenLiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J13X1K6iS6",
+              "end": 72,
+              "expanded_url": "https://x.com/TargaryenLiu/status/2004011628363386949/photo/1",
+              "media_key": "3_2004011612928462848",
+              "start": 49,
+              "url": "https://t.co/J13X1K6iS6"
+            },
+            {
+              "display_url": "pic.x.com/J13X1K6iS6",
+              "end": 72,
+              "expanded_url": "https://x.com/TargaryenLiu/status/2004011628363386949/photo/1",
+              "media_key": "3_2004011612907458560",
+              "start": 49,
+              "url": "https://t.co/J13X1K6iS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004207322604970155",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004011628363386949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TargaryenLiu: All I want for Christmas is……😜 https://t.co/J13X1K6iS6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004011612928462848",
+            "3_2004011612907458560"
+          ]
+        },
+        "author_id": "1451408516699201552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2004011628363386949",
+        "created_at": "2025-12-25T02:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T03:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004011628363386949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J13X1K6iS6",
+              "end": 54,
+              "expanded_url": "https://x.com/TargaryenLiu/status/2004011628363386949/photo/1",
+              "media_key": "3_2004011612928462848",
+              "start": 31,
+              "url": "https://t.co/J13X1K6iS6"
+            },
+            {
+              "display_url": "pic.x.com/J13X1K6iS6",
+              "end": 54,
+              "expanded_url": "https://x.com/TargaryenLiu/status/2004011628363386949/photo/1",
+              "media_key": "3_2004011612907458560",
+              "start": 31,
+              "url": "https://t.co/J13X1K6iS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004011628363386949",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 17298,
+          "like_count": 169,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "All I want for Christmas is……😜 https://t.co/J13X1K6iS6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜啥意思。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 783,
+          "like_count": 11789,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 1882
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T04:42:22.000Z",
+        "description": "直男 梦想是活成上海都市男女的模样",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "targaryenliu.com",
+                "end": 23,
+                "expanded_url": "http://targaryenliu.com",
+                "start": 0,
+                "url": "https://t.co/TBdcJnQW8s"
+              }
+            ]
+          }
+        },
+        "id": "1451408516699201552",
+        "location": "Guangzhou",
+        "name": "Gary🔜墨兽聚",
+        "pinned_tweet_id": "1967160467413176574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003714870412460032/VcWsfSGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11107,
+          "following_count": 3732,
+          "like_count": 27164,
+          "listed_count": 12,
+          "media_count": 1371,
+          "tweet_count": 11155
+        },
+        "url": "https://t.co/TBdcJnQW8s",
+        "username": "TargaryenLiu",
+        "verified": true
+      }
+    ]
+  }
+}

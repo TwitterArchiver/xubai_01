@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2056785788034052364",
+    "created_at": "2026-05-20T18:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057165934264225834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1236513840008962048",
+          "start": 0,
+          "username": "XING64590591"
+        },
+        {
+          "end": 23,
+          "id": "1797417126229360640",
+          "start": 14,
+          "username": "lzqmugou"
+        },
+        {
+          "end": 39,
+          "id": "1705117000861978624",
+          "start": 24,
+          "username": "Chloe0v0263925"
+        },
+        {
+          "end": 50,
+          "id": "2034718767671123970",
+          "start": 40,
+          "username": "tttts1449"
+        },
+        {
+          "end": 59,
+          "id": "2044752741193703424",
+          "start": 51,
+          "username": "731snbt"
+        },
+        {
+          "end": 73,
+          "id": "1993455710274043905",
+          "start": 60,
+          "username": "satireorcry1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057165934264225834",
+    "in_reply_to_user_id": "1236513840008962048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057125038244143185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XING64590591 @lzqmugou @Chloe0v0263925 @tttts1449 @731snbt @satireorcry1 至少我不要猪肝红那本没用的🤣🤣"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Chloe0v0263925].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Chloe0v0263925",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Chloe0v0263925"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2056785788034052364",
+        "created_at": "2026-05-20T18:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057165934264225834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1236513840008962048",
+              "start": 0,
+              "username": "XING64590591"
+            },
+            {
+              "end": 23,
+              "id": "1797417126229360640",
+              "start": 14,
+              "username": "lzqmugou"
+            },
+            {
+              "end": 39,
+              "id": "1705117000861978624",
+              "start": 24,
+              "username": "Chloe0v0263925"
+            },
+            {
+              "end": 50,
+              "id": "2034718767671123970",
+              "start": 40,
+              "username": "tttts1449"
+            },
+            {
+              "end": 59,
+              "id": "2044752741193703424",
+              "start": 51,
+              "username": "731snbt"
+            },
+            {
+              "end": 73,
+              "id": "1993455710274043905",
+              "start": 60,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057165934264225834",
+        "in_reply_to_user_id": "1236513840008962048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057125038244143185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XING64590591 @lzqmugou @Chloe0v0263925 @tttts1449 @731snbt @satireorcry1 至少我不要猪肝红那本没用的🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236513840008962048",
+        "conversation_id": "2056785788034052364",
+        "created_at": "2026-05-20T15:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057125038244143185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            },
+            {
+              "end": 19,
+              "id": "1797417126229360640",
+              "start": 10,
+              "username": "lzqmugou"
+            },
+            {
+              "end": 35,
+              "id": "1705117000861978624",
+              "start": 20,
+              "username": "Chloe0v0263925"
+            },
+            {
+              "end": 46,
+              "id": "2034718767671123970",
+              "start": 36,
+              "username": "tttts1449"
+            },
+            {
+              "end": 55,
+              "id": "2044752741193703424",
+              "start": 47,
+              "username": "731snbt"
+            },
+            {
+              "end": 69,
+              "id": "1993455710274043905",
+              "start": 56,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057125038244143185",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057117745679110514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 @lzqmugou @Chloe0v0263925 @tttts1449 @731snbt @satireorcry1 You will have a blue with me."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 1289,
+          "like_count": 22492,
+          "listed_count": 1,
+          "media_count": 1095,
+          "tweet_count": 5638
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-08T04:47:39.000Z",
+        "description": "Electronics Technician, student seek for a degree on STEM, traveler, longing for staying with family.中文y English.",
+        "id": "1236513840008962048",
+        "location": "Honolulu, HI",
+        "name": "XHennery",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033052737676730368/3IIpjJa3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 288,
+          "like_count": 4756,
+          "listed_count": 0,
+          "media_count": 1471,
+          "tweet_count": 3800
+        },
+        "username": "XING64590591",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T23:57:01.000Z",
+        "description": "",
+        "id": "1797417126229360640",
+        "location": "Yau Tsim Mong District",
+        "name": "红红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909442214092292096/ewabXF99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 212,
+          "like_count": 1966,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 46
+        },
+        "username": "lzqmugou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T19:49:07.000Z",
+        "description": "删掉了",
+        "id": "2034718767671123970",
+        "location": "距离你1949.03米",
+        "name": "王千的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034718835044241408/PFbvJdJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 404,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "username": "tttts1449",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T12:22:41.000Z",
+        "description": "深愛熱愛善待研究過每隻ㄓㄋㄖ\n為全人類醫學發展帶來過不可磨滅の巨大貢獻🥹",
+        "id": "2044752741193703424",
+        "location": "シナハルビン",
+        "name": "7️⃣3️⃣1️⃣の李永紅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050932593634516992/86EQlF_9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "username": "731snbt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvog37z"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30719,
+          "following_count": 1605,
+          "like_count": 18272,
+          "listed_count": 68,
+          "media_count": 3910,
+          "tweet_count": 5518
+        },
+        "url": "https://t.co/EYxWvog37z",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

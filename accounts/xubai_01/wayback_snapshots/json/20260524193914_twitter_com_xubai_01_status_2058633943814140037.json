@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Los Angeles",
+          "id": "856860708847222784",
+          "name": "Los Angeles"
+        }
+      }
+    ],
+    "conversation_id": "2058633943814140037",
+    "created_at": "2026-05-24T19:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T20:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058633943814140037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/erolosangeles/…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/erolosangeles/status/2058593871504830762",
+          "start": 26,
+          "url": "https://t.co/lgwN8GUkhS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058633943814140037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058593871504830762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "看起来好像不服气啊 是那种“我还会回来的”那样🤣🤣 https://t.co/lgwN8GUkhS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2057945369380839425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9KaPUa4AERLvj.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2058633943814140037",
+        "created_at": "2026-05-24T19:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058633943814140037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/erolosangeles/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/erolosangeles/status/2058593871504830762",
+              "start": 26,
+              "url": "https://t.co/lgwN8GUkhS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058633943814140037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058593871504830762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "看起来好像不服气啊 是那种“我还会回来的”那样🤣🤣 https://t.co/lgwN8GUkhS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057945369380839425"
+          ]
+        },
+        "author_id": "1300967890292793346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2058593871504830762",
+        "created_at": "2026-05-24T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058593871504830762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K6QIo5184C",
+              "end": 213,
+              "expanded_url": "https://x.com/EROLosAngeles/status/2058593871504830762/photo/1",
+              "media_key": "3_2057945369380839425",
+              "start": 190,
+              "url": "https://t.co/K6QIo5184C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058593871504830762",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 83681,
+          "like_count": 2325,
+          "quote_count": 60,
+          "reply_count": 151,
+          "retweet_count": 459
+        },
+        "reply_settings": "everyone",
+        "text": "🚨ICE Los Angeles arrested Borong Jin, 25, of China, May 21. Jin’s criminal record includes theft of elder/dependent adult, grand theft, and conspiracy. He is in ICE custody pending removal. https://t.co/K6QIo5184C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 1314,
+          "like_count": 22732,
+          "listed_count": 1,
+          "media_count": 1105,
+          "tweet_count": 5708
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-02T01:25:00.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ice.gov",
+                "end": 23,
+                "expanded_url": "http://www.ice.gov",
+                "start": 0,
+                "url": "https://t.co/Vh56YfDDlk"
+              }
+            ]
+          }
+        },
+        "id": "1300967890292793346",
+        "location": "Los Angeles, CA",
+        "name": "ICE Los Angeles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960040697341280256/ynDxpkU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12417,
+          "following_count": 42,
+          "like_count": 136,
+          "listed_count": 71,
+          "media_count": 415,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/Vh56YfDDlk",
+        "username": "EROLosAngeles",
+        "verified": true
+      }
+    ]
+  }
+}

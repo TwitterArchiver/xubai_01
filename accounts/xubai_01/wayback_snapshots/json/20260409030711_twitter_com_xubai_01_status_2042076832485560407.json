@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2042076832485560407",
+    "created_at": "2026-04-09T03:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042076832485560407"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nmd_china/stat…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/nmd_china/status/2041843244624179211",
+          "start": 74,
+          "url": "https://t.co/qc8RbU0XQc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042076832485560407",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041843244624179211",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "THE CHINESE PRESIDENT XI HAS SOLEMNLY ANNOUNCED AND WHOLE WORLD ECHOED!😡😡 https://t.co/qc8RbU0XQc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 505,
+        "media_key": "3_2041843214064431105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYVlcVaMAEutq0.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2042076832485560407",
+        "created_at": "2026-04-09T03:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042076832485560407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nmd_china/stat…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/nmd_china/status/2041843244624179211",
+              "start": 74,
+              "url": "https://t.co/qc8RbU0XQc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042076832485560407",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041843244624179211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "THE CHINESE PRESIDENT XI HAS SOLEMNLY ANNOUNCED AND WHOLE WORLD ECHOED!😡😡 https://t.co/qc8RbU0XQc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041843214064431105"
+          ]
+        },
+        "author_id": "1944225210284314624",
+        "conversation_id": "2041843244624179211",
+        "created_at": "2026-04-08T11:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041843244624179211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ah9NFs5hhJ",
+              "end": 29,
+              "expanded_url": "https://x.com/NMD_China/status/2041843244624179211/photo/1",
+              "media_key": "3_2041843214064431105",
+              "start": 6,
+              "url": "https://t.co/Ah9NFs5hhJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041843244624179211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 25550,
+          "like_count": 279,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "忆往昔…… https://t.co/Ah9NFs5hhJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "yuji53719"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 1110,
+          "like_count": 18392,
+          "listed_count": 0,
+          "media_count": 883,
+          "tweet_count": 4420
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "波尔布特|包蜜|嗯嗯你说的都对|入🚪89.64|主人@TheNan19930731|互fo记得说一声|锁推的和三无号去死|永远是你的XXX|腊主席同款发型|非常虾头",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "TheNan19930731"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu7DxP"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "仿生老毛🇰🇭",
+        "pinned_tweet_id": "2020139501327192168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041026221488918528/MFIE1Xyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2617,
+          "following_count": 782,
+          "like_count": 133858,
+          "listed_count": 24,
+          "media_count": 1149,
+          "tweet_count": 4397
+        },
+        "url": "https://t.co/APOiQu7DxP",
+        "username": "NMD_China",
+        "verified": false
+      }
+    ]
+  }
+}

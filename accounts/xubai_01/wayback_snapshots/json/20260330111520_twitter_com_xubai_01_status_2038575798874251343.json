@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038575794944167936"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2037817688735768856",
+    "created_at": "2026-03-30T11:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T12:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038575798874251343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1831519924352905216",
+          "start": 0,
+          "username": "ChinaMilBugle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sRRGHntnOm",
+          "end": 38,
+          "expanded_url": "https://x.com/xubai_01/status/2038575798874251343/photo/1",
+          "media_key": "3_2038575794944167936",
+          "start": 15,
+          "url": "https://t.co/sRRGHntnOm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038575798874251343",
+    "in_reply_to_user_id": "1831519924352905216",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037817688735768856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChinaMilBugle https://t.co/sRRGHntnOm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038575794944167936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEp54nlbUAAuCW7.jpg",
+        "width": 947
+      },
+      {
+        "duration_ms": 137667,
+        "height": 1080,
+        "media_key": "13_2037817332446404608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037817332446404608/img/zp9F2c6LR0mssaHs.jpg",
+        "public_metrics": {
+          "view_count": 14114
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037817332446404608/vid/avc1/480x270/B5EcypWxC91Bq01n.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037817332446404608/vid/avc1/1920x1080/9zq4GZTkcJWTF7bW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037817332446404608/pl/54X_1G5L8GuP2FOC.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037817332446404608/vid/avc1/640x360/WrJc7Drv-SEaC3Bj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037817332446404608/vid/avc1/1280x720/Qt-KApeI3UV7m9At.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038575794944167936"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2037817688735768856",
+        "created_at": "2026-03-30T11:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038575798874251343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1831519924352905216",
+              "start": 0,
+              "username": "ChinaMilBugle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sRRGHntnOm",
+              "end": 38,
+              "expanded_url": "https://x.com/xubai_01/status/2038575798874251343/photo/1",
+              "media_key": "3_2038575794944167936",
+              "start": 15,
+              "url": "https://t.co/sRRGHntnOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038575798874251343",
+        "in_reply_to_user_id": "1831519924352905216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037817688735768856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChinaMilBugle https://t.co/sRRGHntnOm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037817332446404608"
+          ]
+        },
+        "author_id": "1831519924352905216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2037817688735768856",
+        "created_at": "2026-03-28T09:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037817688735768856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6hkcr4mO6T",
+              "end": 291,
+              "expanded_url": "https://x.com/ChinaMilBugle/status/2037817688735768856/video/1",
+              "media_key": "13_2037817332446404608",
+              "start": 268,
+              "url": "https://t.co/6hkcr4mO6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037817688735768856",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1250,
+                "start": 1236,
+                "tag": "Neomilitarism"
+              },
+              {
+                "end": 1263,
+                "start": 1251,
+                "tag": "AsiaPacific"
+              },
+              {
+                "end": 1289,
+                "start": 1266,
+                "tag": "JapanSelfDefenseForces"
+              },
+              {
+                "end": 1310,
+                "start": 1291,
+                "tag": "JapaneseMilitarism"
+              },
+              {
+                "end": 1322,
+                "start": 1311,
+                "tag": "Militarism"
+              },
+              {
+                "end": 1329,
+                "start": 1323,
+                "tag": "Japan"
+              },
+              {
+                "end": 1344,
+                "start": 1330,
+                "tag": "TakaichiSanae"
+              },
+              {
+                "end": 1351,
+                "start": 1345,
+                "tag": "Sanae"
+              },
+              {
+                "end": 1362,
+                "start": 1353,
+                "tag": "Takaichi"
+              },
+              {
+                "end": 1377,
+                "start": 1363,
+                "tag": "SanaeTakaichi"
+              },
+              {
+                "end": 1384,
+                "start": 1379,
+                "tag": "高市早苗"
+              },
+              {
+                "end": 1391,
+                "start": 1386,
+                "tag": "JSDF"
+              },
+              {
+                "end": 1401,
+                "start": 1392,
+                "tag": "Tomahawk"
+              },
+              {
+                "end": 1409,
+                "start": 1402,
+                "tag": "Type12"
+              },
+              {
+                "end": 1424,
+                "start": 1410,
+                "tag": "Chinamilitary"
+              },
+              {
+                "end": 1439,
+                "start": 1425,
+                "tag": "ChinaMilBugle"
+              }
+            ]
+          },
+          "text": "The Devil Still Dances: \n\nDecoding Japan’s Military Adventurous Complex That Seeks To Revive Militarism \n\nJapanese Prime Minister Sanae Takaichi recently delivered a policy speech, once again expressing a strong desire to revise the constitution. She also proposed to fundamentally strengthen Japan's defense capabilities, expand export of lethal weapons, and enhance national intelligence capacity, sending a clear signal of accelerating remilitarization.\n\nIn recent years, right-wing forces in Japan have grown increasingly assertive, steadily advancing a more covert and deceptive form of neo-militarism under the guise of \"peace\" and \"defense\". Their core objective is to break free from the constraints imposed on Japan as a defeated nation in WWII and transform Japan into a military power capable of using force abroad, even waging war.\n\nFacts have clearly shown that Japan's neo-militarism is no longer merely a dangerous sign, but a real threat. Its continued rise is becoming one of the most destabilizing factors affecting regional and global peace and stability. \n\nRegional countries must collectively resist Japan’s adventurous military expansion and firmly safeguard the hard-won peace and stability of the Asia-Pacific.\n\n#Neomilitarism #AsiaPacific  \n#JapanSelfDefenseForces \n#JapaneseMilitarism #Militarism\n#Japan #TakaichiSanae #Sanae \n#Takaichi #SanaeTakaichi \n#高市早苗 \n#JSDF #Tomahawk #Type12\n#Chinamilitary #ChinaMilBugle"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 61723,
+          "like_count": 241,
+          "quote_count": 36,
+          "reply_count": 111,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "The Devil Still Dances: \n\nDecoding Japan’s Military Adventurous Complex That Seeks To Revive Militarism \n\nJapanese Prime Minister Sanae Takaichi recently delivered a policy speech, once again expressing a strong desire to revise the constitution. She also proposed to https://t.co/6hkcr4mO6T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "yuji53719"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 1051,
+          "like_count": 17394,
+          "listed_count": 0,
+          "media_count": 836,
+          "tweet_count": 4169
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-05T02:37:20.000Z",
+        "description": "Official press account of China's armed forces, delivering authoritative updates on Chinese military missions and defense development.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "eng.chinamil.com.cn",
+                "end": 23,
+                "expanded_url": "http://eng.chinamil.com.cn/",
+                "start": 0,
+                "url": "https://t.co/rvsGOFLwdW"
+              }
+            ]
+          }
+        },
+        "id": "1831519924352905216",
+        "location": "Beijing，China",
+        "name": "China Military Bugle",
+        "pinned_tweet_id": "2037817688735768856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958837000695685122/woXUiDZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83017,
+          "following_count": 305,
+          "like_count": 2458,
+          "listed_count": 347,
+          "media_count": 2195,
+          "tweet_count": 3498
+        },
+        "url": "https://t.co/rvsGOFLwdW",
+        "username": "ChinaMilBugle",
+        "verified": true
+      }
+    ]
+  }
+}

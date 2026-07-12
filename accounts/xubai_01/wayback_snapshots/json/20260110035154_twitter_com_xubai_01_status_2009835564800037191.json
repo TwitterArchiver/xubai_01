@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009756811243458561"
+      ],
+      "media_source_tweet_id": [
+        "2009756827534160104"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2009835564800037191",
+    "created_at": "2026-01-10T03:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T04:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009835564800037191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "23511272",
+          "start": 3,
+          "username": "tunguz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lBxNRAhKdG",
+          "end": 35,
+          "expanded_url": "https://x.com/tunguz/status/2009756827534160104/photo/1",
+          "media_key": "3_2009756811243458561",
+          "start": 12,
+          "url": "https://t.co/lBxNRAhKdG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009835564800037191",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1047
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009756827534160104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tunguz: https://t.co/lBxNRAhKdG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_2009756811243458561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-QXK_MWkAEeDeU.jpg",
+        "width": 1324
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009756811243458561"
+          ],
+          "media_source_tweet_id": [
+            "2009756827534160104"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2009835564800037191",
+        "created_at": "2026-01-10T03:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T04:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009835564800037191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "23511272",
+              "start": 3,
+              "username": "tunguz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBxNRAhKdG",
+              "end": 35,
+              "expanded_url": "https://x.com/tunguz/status/2009756827534160104/photo/1",
+              "media_key": "3_2009756811243458561",
+              "start": 12,
+              "url": "https://t.co/lBxNRAhKdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009835564800037191",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1047
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009756827534160104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tunguz: https://t.co/lBxNRAhKdG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009756811243458561"
+          ]
+        },
+        "author_id": "23511272",
+        "conversation_id": "2009756827534160104",
+        "created_at": "2026-01-09T22:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T23:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009756827534160104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBxNRAhKdG",
+              "end": 23,
+              "expanded_url": "https://x.com/tunguz/status/2009756827534160104/photo/1",
+              "media_key": "3_2009756811243458561",
+              "start": 0,
+              "url": "https://t.co/lBxNRAhKdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009756827534160104",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 324,
+          "impression_count": 157804,
+          "like_count": 7062,
+          "quote_count": 78,
+          "reply_count": 137,
+          "retweet_count": 1047
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lBxNRAhKdG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：长春和大湾区（一月中旬｜欢迎随时联系/心情大爆炸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 814,
+          "like_count": 13032,
+          "listed_count": 0,
+          "media_count": 548,
+          "tweet_count": 2455
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-09T22:08:15.000Z",
+        "description": "ML ex Nvidia. Creator of @trainxgb. Data Scientist. Physicist. Catholic. Husband. Father. Stanford Alum. Memelord. e/xgb. AMDG.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "trainxgb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tunguz.com",
+                "end": 23,
+                "expanded_url": "http://www.tunguz.com",
+                "start": 0,
+                "url": "https://t.co/84yh1iogTK"
+              }
+            ]
+          }
+        },
+        "id": "23511272",
+        "location": "United States",
+        "name": "Bojan Tunguz",
+        "pinned_tweet_id": "1933673305086832750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876996209421742080/RostTdnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258380,
+          "following_count": 7743,
+          "like_count": 443322,
+          "listed_count": 2971,
+          "media_count": 14089,
+          "tweet_count": 134117
+        },
+        "url": "https://t.co/84yh1iogTK",
+        "username": "tunguz",
+        "verified": true
+      }
+    ]
+  }
+}

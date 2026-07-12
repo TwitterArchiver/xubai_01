@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1987138816034140483",
+    "created_at": "2025-11-09T12:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T13:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987497874998051031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1914668958961274880",
+          "start": 0,
+          "username": "exile9579595345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987497874998051031",
+    "in_reply_to_user_id": "1914668958961274880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987490987070132338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@exile9579595345 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1987138816034140483",
+        "created_at": "2025-11-09T12:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987497874998051031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1914668958961274880",
+              "start": 0,
+              "username": "exile9579595345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987497874998051031",
+        "in_reply_to_user_id": "1914668958961274880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987490987070132338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@exile9579595345 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914668958961274880",
+        "conversation_id": "1987138816034140483",
+        "created_at": "2025-11-09T12:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987490987070132338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987490987070132338",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987138816034140483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 最近温度变化很快，下午短裤晚上外套的，注意保暖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 521,
+          "like_count": 5799,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T13:13:59.000Z",
+        "description": "04 180 0.5  广州",
+        "id": "1914668958961274880",
+        "location": "0.01km",
+        "name": "exile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961375696108097536/D0dvqcev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 51,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 38
+        },
+        "username": "exile9579595345",
+        "verified": false
+      }
+    ]
+  }
+}

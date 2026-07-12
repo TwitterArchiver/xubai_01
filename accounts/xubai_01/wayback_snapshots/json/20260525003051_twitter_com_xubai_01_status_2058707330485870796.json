@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2058707330485870796",
+    "created_at": "2026-05-25T00:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T01:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058707330485870796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mizorewww/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/mizorewww/status/2058697876080128173",
+          "start": 5,
+          "url": "https://t.co/HwkkWsVuvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058707330485870796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058697876080128173",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "人之常情 https://t.co/HwkkWsVuvs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2058707330485870796",
+        "created_at": "2026-05-25T00:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058707330485870796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizorewww/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/mizorewww/status/2058697876080128173",
+              "start": 5,
+              "url": "https://t.co/HwkkWsVuvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058707330485870796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058697876080128173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "人之常情 https://t.co/HwkkWsVuvs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987885638038036480",
+        "conversation_id": "2058697876080128173",
+        "created_at": "2026-05-24T23:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T00:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058697876080128173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058697876080128173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从床上醒来的时候就迟到了咋整"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 1343,
+          "like_count": 22754,
+          "listed_count": 1,
+          "media_count": 1107,
+          "tweet_count": 5723
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 高三 中国上海高中生 开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\n\n联系方式：\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 114,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 91,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2049113964022501793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 865,
+          "like_count": 12620,
+          "listed_count": 2,
+          "media_count": 558,
+          "tweet_count": 3157
+        },
+        "username": "mizorewww",
+        "verified": true
+      }
+    ]
+  }
+}

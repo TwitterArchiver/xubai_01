@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2001580078090903815",
+    "created_at": "2025-12-19T10:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T11:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001956014678315145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741754187283910656",
+          "start": 0,
+          "username": "yuuuu_furry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001956014678315145",
+    "in_reply_to_user_id": "1741754187283910656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001580078090903815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuuu_furry xm绿本"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2001580051587043331",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G8cKc7xakAMQgAB.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G8cKc7xakAMQgAB.mp4"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2001580051587043329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8cKc7xakAERyJO.jpg",
+        "width": 1813
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2001580078090903815",
+        "created_at": "2025-12-19T10:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T11:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001956014678315145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741754187283910656",
+              "start": 0,
+              "username": "yuuuu_furry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001956014678315145",
+        "in_reply_to_user_id": "1741754187283910656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001580078090903815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuuu_furry xm绿本"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2001580051587043331",
+            "3_2001580051587043329"
+          ]
+        },
+        "author_id": "1741754187283910656",
+        "conversation_id": "2001580078090903815",
+        "created_at": "2025-12-18T09:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T10:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001580078090903815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zd5PQYTgzp",
+              "end": 37,
+              "expanded_url": "https://x.com/yuuuu_furry/status/2001580078090903815/photo/1",
+              "media_key": "16_2001580051587043331",
+              "start": 14,
+              "url": "https://t.co/zd5PQYTgzp"
+            },
+            {
+              "display_url": "pic.x.com/zd5PQYTgzp",
+              "end": 37,
+              "expanded_url": "https://x.com/yuuuu_furry/status/2001580078090903815/photo/1",
+              "media_key": "3_2001580051587043329",
+              "start": 14,
+              "url": "https://t.co/zd5PQYTgzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001580078090903815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10712,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "前往海的另一邊 - 冬獸聚 https://t.co/zd5PQYTgzp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜一月行程：武汉｜欢迎随时d我电话空了就接",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 723,
+          "like_count": 10402,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 1365
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T09:32:22.000Z",
+        "description": "深海から来たフィダルゴドラユユ\n\n害羞的小魚龍幽幽   \n\nYT :  https://t.co/UTm1a6fYal\n\nFB : https://t.co/lGzjQNXq3p\n\n中文 👌 日文👌English 🤏",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tonton0317",
+                "end": 59,
+                "expanded_url": "https://www.youtube.com/@tonton0317",
+                "start": 36,
+                "url": "https://t.co/UTm1a6fYal"
+              },
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 89,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61581884656069",
+                "start": 66,
+                "url": "https://t.co/lGzjQNXq3p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tonton0317/fe…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@tonton0317/featured",
+                "start": 0,
+                "url": "https://t.co/7OFzvs6CVQ"
+              }
+            ]
+          }
+        },
+        "id": "1741754187283910656",
+        "location": "taiwan",
+        "name": "幽幽ユユ🔜冬兽聚",
+        "pinned_tweet_id": "1986213964477501696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932747448776314880/9zzpvUkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10005,
+          "following_count": 228,
+          "like_count": 2320,
+          "listed_count": 26,
+          "media_count": 576,
+          "tweet_count": 2412
+        },
+        "url": "https://t.co/7OFzvs6CVQ",
+        "username": "yuuuu_furry",
+        "verified": true
+      }
+    ]
+  }
+}

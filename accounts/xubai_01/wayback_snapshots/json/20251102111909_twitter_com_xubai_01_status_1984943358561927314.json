@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1984899904997818733",
+    "created_at": "2025-11-02T11:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T12:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984943358561927314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1330114365803081729",
+          "start": 0,
+          "username": "KerryDobryn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984943358561927314",
+    "in_reply_to_user_id": "1330114365803081729",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984942655806349761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KerryDobryn ~~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1984899904997818733",
+        "created_at": "2025-11-02T11:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T12:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984943358561927314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1330114365803081729",
+              "start": 0,
+              "username": "KerryDobryn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984943358561927314",
+        "in_reply_to_user_id": "1330114365803081729",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984942655806349761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KerryDobryn ~~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1330114365803081729",
+        "conversation_id": "1984899904997818733",
+        "created_at": "2025-11-02T11:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T12:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984942655806349761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984942655806349761",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984940635745645003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 嘛还是祝顺利啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 476,
+          "like_count": 5200,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 487
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-21T11:42:43.000Z",
+        "description": "穷逼独立摄影师｜🏳️‍🌈 & Furry｜算是里推@Kerryinner｜此心安处是吾乡｜我有一只抽象奶牛猫🥰@sgjgg12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kerryinner"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "sgjgg12"
+              }
+            ]
+          }
+        },
+        "id": "1330114365803081729",
+        "location": "中国，无锡",
+        "name": "Kerry｜光影矩阵 Matrix of Light",
+        "pinned_tweet_id": "1933540023082881427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913881336999444480/B2-gVIkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 1540,
+          "like_count": 68549,
+          "listed_count": 5,
+          "media_count": 257,
+          "tweet_count": 4732
+        },
+        "username": "KerryDobryn",
+        "verified": false
+      }
+    ]
+  }
+}

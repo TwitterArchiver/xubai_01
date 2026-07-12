@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2003396199106449771",
+    "created_at": "2025-12-23T09:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T10:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003396199106449771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1603242290818215937",
+          "start": 3,
+          "username": "smallsh61600550"
+        },
+        {
+          "end": 29,
+          "id": "1689268609380675585",
+          "start": 21,
+          "username": "KzCynic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003396199106449771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003392993353695381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smallsh61600550: @KzCynic 他他妈是个想吃男同流量的傻逼双"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2003396199106449771",
+        "created_at": "2025-12-23T09:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003396199106449771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1603242290818215937",
+              "start": 3,
+              "username": "smallsh61600550"
+            },
+            {
+              "end": 29,
+              "id": "1689268609380675585",
+              "start": 21,
+              "username": "KzCynic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003396199106449771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003392993353695381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smallsh61600550: @KzCynic 他他妈是个想吃男同流量的傻逼双"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603242290818215937",
+        "conversation_id": "2003366857957581262",
+        "created_at": "2025-12-23T09:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003392993353695381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689268609380675585",
+              "start": 0,
+              "username": "KzCynic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003392993353695381",
+        "in_reply_to_user_id": "1689268609380675585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003392209354391630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KzCynic 他他妈是个想吃男同流量的傻逼双"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜啥意思。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 768,
+          "like_count": 11296,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 1693
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T04:15:45.000Z",
+        "description": "叫我初醒即可",
+        "id": "1603242290818215937",
+        "name": "8H_初醒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941044896737251328/4-2dH36b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3290,
+          "following_count": 250,
+          "like_count": 1215,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 864
+        },
+        "username": "smallsh61600550",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T13:33:29.000Z",
+        "description": "三国杀成瘾仙人丨亲哥哥@AnZrew314丨好哥哥@Horace_Yee丨Best Friend @linlitsuing 丨Daddy @Aktan1394263丨超绝可爱小男孩@xiaofan200701丨In a relationship now",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "AnZrew314"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Horace_Yee"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "linlitsuing"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Aktan1394263"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "xiaofan200701"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kzcynic",
+                "end": 23,
+                "expanded_url": "http://ngl.link/kzcynic",
+                "start": 0,
+                "url": "https://t.co/KK8wGfIBnY"
+              }
+            ]
+          }
+        },
+        "id": "1689268609380675585",
+        "name": "空奏Cynic",
+        "pinned_tweet_id": "1987126286398202277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998185301924319232/BqXgC_pl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3934,
+          "following_count": 705,
+          "like_count": 6827,
+          "listed_count": 9,
+          "media_count": 362,
+          "tweet_count": 2810
+        },
+        "url": "https://t.co/KK8wGfIBnY",
+        "username": "KzCynic",
+        "verified": false
+      }
+    ]
+  }
+}

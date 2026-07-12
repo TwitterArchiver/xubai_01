@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1997302724984250673",
+    "created_at": "2025-12-07T04:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T05:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997528866890662010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789503504949587969",
+          "start": 0,
+          "username": "Venti_1210685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997528866890662010",
+    "in_reply_to_user_id": "1789503504949587969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997517870260244927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Venti_1210685 网商银行转账激励"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1997302724984250673",
+        "created_at": "2025-12-07T04:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T05:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997528866890662010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789503504949587969",
+              "start": 0,
+              "username": "Venti_1210685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997528866890662010",
+        "in_reply_to_user_id": "1789503504949587969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997517870260244927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Venti_1210685 网商银行转账激励"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789503504949587969",
+        "conversation_id": "1997302724984250673",
+        "created_at": "2025-12-07T04:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T05:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997517870260244927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997517870260244927",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997302724984250673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 这是啥呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜理论上行实践不会😡/人｜江浙沪常驻｜Founder @xubaimedia｜可能是个人，但是离神很远了。｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 609,
+          "like_count": 8056,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 920
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T03:51:23.000Z",
+        "description": "里推不公开(Maybe会有微擦边？)\n可以叫我V²(V的二次方orV2也行)或Wendy   里推：(暂时先不通过 等出了COS再上推号)  可以私信我帮忙互推哦 在养病中ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Venti1210685/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/Venti1210685/status/1910012686823481577?t=tLlROPmsmG2dlie8tW7Zfw&s=19",
+                "start": 0,
+                "url": "https://t.co/WAiArD6d2Q"
+              }
+            ]
+          }
+        },
+        "id": "1789503504949587969",
+        "location": "Spring Flower of Bloom",
+        "name": "Venti/V²",
+        "pinned_tweet_id": "1940417050759074221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868893197881294849/Ybj7QCdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 422,
+          "like_count": 19046,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 411
+        },
+        "url": "https://t.co/WAiArD6d2Q",
+        "username": "Venti_1210685",
+        "verified": false
+      }
+    ]
+  }
+}

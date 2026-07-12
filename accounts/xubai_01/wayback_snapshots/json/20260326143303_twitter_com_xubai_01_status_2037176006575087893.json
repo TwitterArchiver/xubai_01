@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2037172227196805264",
+    "created_at": "2026-03-26T14:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T15:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037176006575087893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "441572295",
+          "start": 0,
+          "username": "Kura_io"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037176006575087893",
+    "in_reply_to_user_id": "441572295",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037172227196805264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kura_io 你牛大了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2244,
+        "media_key": "3_2037172139569373184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEV9RH1a4AAJdpr.jpg",
+        "width": 1008
+      },
+      {
+        "duration_ms": 5041,
+        "height": 1280,
+        "media_key": "7_2037172152731131904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037172152731131904/pu/img/GRJfUANLh--D3QOz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037172152731131904/pu/vid/avc1/320x568/gbuyxQarjJ21JUr-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037172152731131904/pu/vid/avc1/480x852/jOMUKuRYBBTVgSJt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037172152731131904/pu/vid/avc1/720x1280/8IB2zf6JzYNuvUWv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037172152731131904/pu/pl/JerChCE-GIQNZGpP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2037172227196805264",
+        "created_at": "2026-03-26T14:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037176006575087893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "441572295",
+              "start": 0,
+              "username": "Kura_io"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037176006575087893",
+        "in_reply_to_user_id": "441572295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037172227196805264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kura_io 你牛大了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037172139569373184",
+            "7_2037172152731131904"
+          ]
+        },
+        "author_id": "441572295",
+        "conversation_id": "2037172227196805264",
+        "created_at": "2026-03-26T14:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037172227196805264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FntuZe4Yp0",
+              "end": 25,
+              "expanded_url": "https://x.com/Kura_io/status/2037172227196805264/video/1",
+              "media_key": "3_2037172139569373184",
+              "start": 2,
+              "url": "https://t.co/FntuZe4Yp0"
+            },
+            {
+              "display_url": "pic.x.com/FntuZe4Yp0",
+              "end": 25,
+              "expanded_url": "https://x.com/Kura_io/status/2037172227196805264/video/1",
+              "media_key": "7_2037172152731131904",
+              "start": 2,
+              "url": "https://t.co/FntuZe4Yp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037172227196805264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥴 https://t.co/FntuZe4Yp0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯\n@xuba1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 1034,
+          "like_count": 17105,
+          "listed_count": 0,
+          "media_count": 822,
+          "tweet_count": 4083
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-20T06:41:31.000Z",
+        "description": "Designer*/daydreamer/sometimes I draw. (*Self proclaimed)",
+        "id": "441572295",
+        "location": "Columbus, OH",
+        "name": "Kuraio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1415806472127193088/1t5i-f8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 605,
+          "like_count": 61098,
+          "listed_count": 6,
+          "media_count": 746,
+          "tweet_count": 3088
+        },
+        "username": "Kura_io",
+        "verified": false
+      }
+    ]
+  }
+}

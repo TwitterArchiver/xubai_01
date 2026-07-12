@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2054359944846250076",
+    "created_at": "2026-05-13T00:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T01:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054359944846250076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2037553285771796480",
+          "start": 8,
+          "username": "Xiaoyi969"
+        },
+        {
+          "end": 78,
+          "id": "1840810905833197568",
+          "start": 69,
+          "username": "xubai_01"
+        },
+        {
+          "end": 86,
+          "id": "2035267129029914625",
+          "start": 79,
+          "username": "Xuba1_"
+        },
+        {
+          "end": 124,
+          "id": "1929345774711975937",
+          "start": 116,
+          "username": "xubai21"
+        },
+        {
+          "end": 148,
+          "id": "2037553285771796480",
+          "start": 138,
+          "username": "Xiaoyi969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054359944846250076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "2037553285771796480",
+            "start": 8,
+            "username": "Xiaoyi969"
+          },
+          {
+            "end": 78,
+            "id": "1840810905833197568",
+            "start": 69,
+            "username": "xubai_01"
+          },
+          {
+            "end": 86,
+            "id": "2035267129029914625",
+            "start": 79,
+            "username": "xuba1_"
+          },
+          {
+            "end": 124,
+            "id": "1929345774711975937",
+            "start": 116,
+            "username": "xubai21"
+          },
+          {
+            "end": 148,
+            "id": "2037553285771796480",
+            "start": 138,
+            "username": "Xiaoyi969"
+          }
+        ]
+      },
+      "text": "关于账号的疑惑：@Xiaoyi969 不是我本人或我的亲戚关系，也没有本号，他是我朋友，其账号非我本人管理。我授权他按照我的口吻或者语句在@xubai_01/@xuba1_发布相关内容，或许这个账号不是我发的消息，请悉知。\n\n*我在@xubai21 封禁后就再无开设任何里推，@Xiaoyi969 发布的是我以前的里推任何内容包含肖像等的图片。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "关于账号的疑惑：@Xiaoyi969 不是我本人或我的亲戚关系，也没有本号，他是我朋友，其账号非我本人管理。我授权他按照我的口吻或者语句在@xubai_01/@xuba1_发布相关内容，或许这个账号不是我发的消息，请悉知。\n\n*我在@xubai21 封禁后就再无开设任何里推，@Xiaoyi969"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [xubai21].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "xubai21",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "xubai21"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2054359944846250076",
+        "created_at": "2026-05-13T00:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054359944846250076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2037553285771796480",
+              "start": 8,
+              "username": "Xiaoyi969"
+            },
+            {
+              "end": 78,
+              "id": "1840810905833197568",
+              "start": 69,
+              "username": "xubai_01"
+            },
+            {
+              "end": 86,
+              "id": "2035267129029914625",
+              "start": 79,
+              "username": "Xuba1_"
+            },
+            {
+              "end": 124,
+              "id": "1929345774711975937",
+              "start": 116,
+              "username": "xubai21"
+            },
+            {
+              "end": 148,
+              "id": "2037553285771796480",
+              "start": 138,
+              "username": "Xiaoyi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054359944846250076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 18,
+                "id": "2037553285771796480",
+                "start": 8,
+                "username": "Xiaoyi969"
+              },
+              {
+                "end": 78,
+                "id": "1840810905833197568",
+                "start": 69,
+                "username": "xubai_01"
+              },
+              {
+                "end": 86,
+                "id": "2035267129029914625",
+                "start": 79,
+                "username": "xuba1_"
+              },
+              {
+                "end": 124,
+                "id": "1929345774711975937",
+                "start": 116,
+                "username": "xubai21"
+              },
+              {
+                "end": 148,
+                "id": "2037553285771796480",
+                "start": 138,
+                "username": "Xiaoyi969"
+              }
+            ]
+          },
+          "text": "关于账号的疑惑：@Xiaoyi969 不是我本人或我的亲戚关系，也没有本号，他是我朋友，其账号非我本人管理。我授权他按照我的口吻或者语句在@xubai_01/@xuba1_发布相关内容，或许这个账号不是我发的消息，请悉知。\n\n*我在@xubai21 封禁后就再无开设任何里推，@Xiaoyi969 发布的是我以前的里推任何内容包含肖像等的图片。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "关于账号的疑惑：@Xiaoyi969 不是我本人或我的亲戚关系，也没有本号，他是我朋友，其账号非我本人管理。我授权他按照我的口吻或者语句在@xubai_01/@xuba1_发布相关内容，或许这个账号不是我发的消息，请悉知。\n\n*我在@xubai21 封禁后就再无开设任何里推，@Xiaoyi969"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/小洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 1262,
+          "like_count": 21962,
+          "listed_count": 0,
+          "media_count": 1069,
+          "tweet_count": 5371
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-27T15:35:26.000Z",
+        "description": "ZH,EN｜💛叫我洋洋就好啦\n留学/表推当里推发/求关注！🔞#NSFW\n瓦/MC/MaiMaiDX/羽毛球🏸\n\n好宝宝们（更新名单ing：@xubai_01\n眼熟之后会回fo～😋\nlxfs🚪20CNY/仅QQ或TG",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "NSFW"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "xubai_01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xiaoyi969",
+                "end": 23,
+                "expanded_url": "http://x.com/xiaoyi969",
+                "start": 0,
+                "url": "https://t.co/J65xnmgj1W"
+              }
+            ]
+          }
+        },
+        "id": "2037553285771796480",
+        "location": "🎂12.13 / 🇺🇸LA / 🏳️‍🌈17cm",
+        "name": "池下停车洋",
+        "pinned_tweet_id": "2038159562373783600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045751504251019264/k3cbONZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 318,
+          "like_count": 1758,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 405
+        },
+        "url": "https://t.co/J65xnmgj1W",
+        "username": "Xiaoyi969",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T08:08:06.000Z",
+        "description": "❤️‍🔥@_Entropyhq☺️@xubai_01\n🇨🇳🇺🇸15 y,o. High school student of G1📑\n🤓Co-founder, builder, legal business\nOur team is planning a #hackathon🏃",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 136,
+                "start": 126,
+                "tag": "hackathon"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "_Entropyhq"
+              },
+              {
+                "end": 26,
+                "start": 17,
+                "username": "xubai_01"
+              }
+            ]
+          }
+        },
+        "id": "2035267129029914625",
+        "location": "Monterey Park,CA / ZH,EN🤍 ",
+        "name": "白",
+        "pinned_tweet_id": "2050790016440553847",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 11,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "username": "Xuba1_",
+        "verified": false
+      }
+    ]
+  }
+}

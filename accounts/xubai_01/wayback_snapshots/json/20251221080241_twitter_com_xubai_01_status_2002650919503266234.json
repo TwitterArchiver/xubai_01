@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1999830153623654762",
+    "created_at": "2025-12-21T08:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T09:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002650919503266234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1960187829687885824",
+          "start": 0,
+          "username": "huaxuejilebaike"
+        },
+        {
+          "end": 28,
+          "id": "1912109703133646848",
+          "start": 17,
+          "username": "jzm1919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002650919503266234",
+    "in_reply_to_user_id": "1960187829687885824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999830153623654762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaxuejilebaike @jzm1919810 江浙沪医院的章我之前网上找到过而且可以p一个而且我也试过了可以🌚"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [jzm1919810].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "jzm1919810",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "jzm1919810"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 644,
+        "media_key": "3_1999830149295116288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DS7NvaEAAgu85.jpg",
+        "width": 1358
+      },
+      {
+        "height": 644,
+        "media_key": "3_1999830147919400960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DS7InaUAAmlYX.png",
+        "width": 1358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1999830153623654762",
+        "created_at": "2025-12-21T08:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T09:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002650919503266234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1960187829687885824",
+              "start": 0,
+              "username": "huaxuejilebaike"
+            },
+            {
+              "end": 28,
+              "id": "1912109703133646848",
+              "start": 17,
+              "username": "jzm1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002650919503266234",
+        "in_reply_to_user_id": "1960187829687885824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999830153623654762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaxuejilebaike @jzm1919810 江浙沪医院的章我之前网上找到过而且可以p一个而且我也试过了可以🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999830149295116288",
+            "3_1999830147919400960"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "conversation_id": "1999830153623654762",
+        "created_at": "2025-12-13T13:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T14:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999830153623654762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1912109703133646848",
+              "start": 11,
+              "username": "jzm1919810"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "overdose.day/pr80.html",
+              "end": 56,
+              "expanded_url": "https://www.overdose.day/pr80.html",
+              "start": 33,
+              "status": 200,
+              "title": "电子处方生成系统",
+              "unwound_url": "https://www.overdose.day/pr80.html",
+              "url": "https://t.co/UNKpBfV9uy"
+            },
+            {
+              "display_url": "pic.x.com/J0Qh6HNQID",
+              "end": 80,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1999830153623654762/photo/1",
+              "media_key": "3_1999830149295116288",
+              "start": 57,
+              "url": "https://t.co/J0Qh6HNQID"
+            },
+            {
+              "display_url": "pic.x.com/J0Qh6HNQID",
+              "end": 80,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1999830153623654762/photo/1",
+              "media_key": "3_1999830147919400960",
+              "start": 57,
+              "url": "https://t.co/J0Qh6HNQID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999830153623654762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 10899,
+          "like_count": 161,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "电子处方生成\n\n感谢 @jzm1919810 提供\n\n十分感谢\n\nhttps://t.co/UNKpBfV9uy https://t.co/J0Qh6HNQID"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜一月行程：武汉｜欢迎随时dm我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 743,
+          "like_count": 10848,
+          "listed_count": 0,
+          "media_count": 356,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQt63U\n交流群:https://t.co/FvFWw9Jk8E\nDC交流群：https://t.co/JtSA2uwb28\n社区:https://t.co/JwQ9mOTHUy\n官方直推交流群:https://t.co/MpXjzzSiT5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQt63U"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9Jk8E"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/JtSA2uwb28"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 113,
+                "expanded_url": "https://pr80.bid/",
+                "start": 90,
+                "url": "https://t.co/JwQ9mOTHUy"
+              },
+              {
+                "display_url": "wwbwm.lanzouq.com/imtjv3e",
+                "end": 145,
+                "expanded_url": "https://wwbwm.lanzouq.com/imtjv3e",
+                "start": 122,
+                "url": "https://t.co/MpXjzzSiT5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhdkn"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "2001605154366505293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002586355323502592/8QOsOMbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4865,
+          "following_count": 1568,
+          "like_count": 978,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 1705
+        },
+        "url": "https://t.co/DM4fmdhdkn",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

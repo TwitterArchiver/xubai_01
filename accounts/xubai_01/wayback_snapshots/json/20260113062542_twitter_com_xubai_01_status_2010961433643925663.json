@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10041437724",
+          "name": "Apple - Apple Pay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237094778463858688",
+          "name": "Fintech"
+        }
+      }
+    ],
+    "conversation_id": "2010961433643925663",
+    "created_at": "2026-01-13T06:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T07:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010961433643925663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aoim33/status/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/aoim33/status/2010749363463848238",
+          "start": 31,
+          "url": "https://t.co/ypc1foBN8t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010961433643925663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010749363463848238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有效沟通：您好，你们店里有pos机吗？我需要刷银行卡付款谢谢 https://t.co/ypc1foBN8t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2010961433643925663",
+        "created_at": "2026-01-13T06:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T07:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010961433643925663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/aoim33/status/2010749363463848238",
+              "start": 31,
+              "url": "https://t.co/ypc1foBN8t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010961433643925663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010749363463848238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有效沟通：您好，你们店里有pos机吗？我需要刷银行卡付款谢谢 https://t.co/ypc1foBN8t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2010749363463848238",
+        "created_at": "2026-01-12T16:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010749363463848238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/aoim33/status/2010584844263419999",
+              "start": 185,
+              "url": "https://t.co/SoJikxwNy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010749363463848238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今日付款时的对话：\n我 ~ 您这儿能用 Apple Pay 吗？\n店员 ~ 我们这儿是小米哦先生\n我 ~ 不是，是非接触支付，您这儿有 POS 机\n店员 ~ 我们的这个 POS 机不支持的\n我 ~ 能拿来我看看吗？\n店员不情愿地把 POS 机给了我，然后我分明看到了上面的 Apple Pay 标志\n(点击，Apple Pay，NFC，Authorising ...)\n我 ~ OK，划扣成功了，12块两毛二\n店员 ~ 什么优惠券力度这么大？\n我 ~ 是欧元啦\n店员 ~ 欸你这张卡怎么这么牛比还能刷欧元的\n我 ~ 因为我这张是德国的卡片\n我 ~ （撕下收据商家联）给支笔我签个字，然后这张客户联我就带走了，这个商家联你们记得保管好\n\n国内对支付方式的普及程度真的还任重道远啊"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 144217,
+          "like_count": 355,
+          "quote_count": 7,
+          "reply_count": 40,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010584844263419999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今日付款时的对话：\n我 ~ 您这儿能用 Apple Pay 吗？\n店员 ~ 我们这儿是小米哦先生\n我 ~ 不是，是非接触支付，您这儿有 POS 机\n店员 ~ 我们的这个 POS 机不支持的\n我 ~ 能拿来我看看吗？\n店员不情愿地把 POS 机给了我，然后我分明看到了上面的 Apple Pay 标志\n(点击，Apple Pay，NFC，Authorising ...) https://t.co/SoJikxwNy4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂｜爱说梦话/想交朋友。🫠｜行程：长春和大湾区（一月中旬｜欢迎随时联系/心情大爆炸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜东北",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 837,
+          "like_count": 13232,
+          "listed_count": 0,
+          "media_count": 568,
+          "tweet_count": 2533
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai 13,711 / CN EN JP / @supernovaArcaea team member / telegram ch ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://t.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/8mjKrVdOKO"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998577866460770305/8b1wCJqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 2222,
+          "like_count": 27436,
+          "listed_count": 9,
+          "media_count": 1315,
+          "tweet_count": 5992
+        },
+        "url": "https://t.co/8mjKrVdOKO",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

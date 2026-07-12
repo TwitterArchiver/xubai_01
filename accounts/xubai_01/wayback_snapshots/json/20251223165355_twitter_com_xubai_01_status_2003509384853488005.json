@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2003509384853488005",
+    "created_at": "2025-12-23T16:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T17:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003509384853488005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1903099585129816064",
+          "start": 3,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003509384853488005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003130561146315195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokerumaisurii: 你要是紧急维护完还是会被随便入那当我没夸过吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2003509384853488005",
+        "created_at": "2025-12-23T16:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T17:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003509384853488005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1903099585129816064",
+              "start": 3,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003509384853488005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003130561146315195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokerumaisurii: 你要是紧急维护完还是会被随便入那当我没夸过吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2003130392216527041",
+        "created_at": "2025-12-22T15:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003130561146315195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003130561146315195",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1031,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003130392216527041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你要是紧急维护完还是会被随便入那当我没夸过吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜啥意思。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 772,
+          "like_count": 11451,
+          "listed_count": 0,
+          "media_count": 394,
+          "tweet_count": 1760
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2002971803766190546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002757997089443840/1ajTltBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 249,
+          "like_count": 69029,
+          "listed_count": 7,
+          "media_count": 880,
+          "tweet_count": 13067
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

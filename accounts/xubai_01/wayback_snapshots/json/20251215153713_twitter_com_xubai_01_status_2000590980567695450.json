@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2000416613515006064",
+    "created_at": "2025-12-15T15:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000590980567695450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        },
+        {
+          "end": 27,
+          "id": "1874109310659350528",
+          "start": 16,
+          "username": "ranranbing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000590980567695450",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000417629874651450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka @ranranbing 草飞我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2000416613515006064",
+        "created_at": "2025-12-15T15:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000590980567695450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            },
+            {
+              "end": 27,
+              "id": "1874109310659350528",
+              "start": 16,
+              "username": "ranranbing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000590980567695450",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000417629874651450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka @ranranbing 草飞我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831363594556211200",
+        "conversation_id": "2000416613515006064",
+        "created_at": "2025-12-15T04:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T05:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000417629874651450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1874109310659350528",
+              "start": 0,
+              "username": "ranranbing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000417629874651450",
+        "in_reply_to_user_id": "1874109310659350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 225,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000416613515006064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ranranbing 再发这种东西就草飞泥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂｜理论上行实践不会😡/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia｜｜爱说梦话/想交朋友。🫠｜网易/火山引擎/阿里云/腾讯云代理商｜接各类企服财税代办｜一直都没钱都是装的身份自己给的｜一月行程：武汉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜？",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 662,
+          "like_count": 9340,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1136
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "et omnia vanitas｜アズサ推し！｜中文/English/日本語(下手) ｜「止まない雨はなく、明けない夜はない。」｜小猫🐱@ThirteenYizuka｜逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "NineteenYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒（暖冬限定☃️ ver.）",
+        "pinned_tweet_id": "1898218103731048603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998553360207925248/RInTmQ8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 1192,
+          "like_count": 35515,
+          "listed_count": 4,
+          "media_count": 1289,
+          "tweet_count": 21071
+        },
+        "username": "JyushitiYizuka",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T15:05:02.000Z",
+        "description": "生命好似宴席，滴酒不沾太亏，但也不能喝的烂醉。本人崇尚人道和民生，不参与任何意识形态讨论",
+        "id": "1874109310659350528",
+        "location": "三号宿舍里屋",
+        "name": "然",
+        "pinned_tweet_id": "1993907443714412850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997643664332673024/9BMCQrJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 789,
+          "like_count": 25988,
+          "listed_count": 3,
+          "media_count": 1510,
+          "tweet_count": 6868
+        },
+        "username": "ranranbing",
+        "verified": false
+      }
+    ]
+  }
+}

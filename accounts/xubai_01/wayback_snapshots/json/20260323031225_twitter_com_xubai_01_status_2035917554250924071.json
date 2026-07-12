@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035745534351400960"
+      ],
+      "media_source_tweet_id": [
+        "2035840442391306663"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2035917554250924071",
+    "created_at": "2026-03-23T03:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T04:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035917554250924071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wMJ9FVxw6f",
+          "end": 60,
+          "expanded_url": "https://x.com/Rococo90933671/status/2035840442391306663/photo/1",
+          "media_key": "3_2035745534351400960",
+          "start": 37,
+          "url": "https://t.co/wMJ9FVxw6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035917554250924071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035840442391306663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: homo特有的B站插播广告（悲） https://t.co/wMJ9FVxw6f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 815,
+        "media_key": "3_2035745534351400960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBrxxQaYAAg6Uz.png",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035745534351400960"
+          ],
+          "media_source_tweet_id": [
+            "2035840442391306663"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2035917554250924071",
+        "created_at": "2026-03-23T03:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035917554250924071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMJ9FVxw6f",
+              "end": 60,
+              "expanded_url": "https://x.com/Rococo90933671/status/2035840442391306663/photo/1",
+              "media_key": "3_2035745534351400960",
+              "start": 37,
+              "url": "https://t.co/wMJ9FVxw6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035917554250924071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035840442391306663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: homo特有的B站插播广告（悲） https://t.co/wMJ9FVxw6f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035745534351400960"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2035840442391306663",
+        "created_at": "2026-03-22T22:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T23:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035840442391306663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMJ9FVxw6f",
+              "end": 40,
+              "expanded_url": "https://x.com/Rococo90933671/status/2035840442391306663/photo/1",
+              "media_key": "3_2035745534351400960",
+              "start": 17,
+              "url": "https://t.co/wMJ9FVxw6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035840442391306663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 860,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "homo特有的B站插播广告（悲） https://t.co/wMJ9FVxw6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 985,
+          "like_count": 16554,
+          "listed_count": 0,
+          "media_count": 791,
+          "tweet_count": 3847
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9481,
+          "following_count": 2734,
+          "like_count": 32109,
+          "listed_count": 27,
+          "media_count": 3406,
+          "tweet_count": 19050
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

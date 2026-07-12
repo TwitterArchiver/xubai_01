@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2008571353113518177",
+    "created_at": "2026-01-08T16:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T17:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009303719582814364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618557658163970049",
+          "start": 0,
+          "username": "qqqqqf5"
+        },
+        {
+          "end": 18,
+          "id": "715183792697303041",
+          "start": 9,
+          "username": "HuoQubot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009303719582814364",
+    "in_reply_to_user_id": "1618557658163970049",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008571353113518177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf5 @HuoQubot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31764,
+        "height": 960,
+        "media_key": "7_2008571309845082121",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2008571309845082121/pu/img/mbhqA_wApd_mXBzY.jpg",
+        "public_metrics": {
+          "view_count": 183
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008571309845082121/pu/vid/avc1/320x568/jRcdJpUdbZyHZ96w.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008571309845082121/pu/vid/avc1/480x852/42uJ35BOlAWKos7c.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008571309845082121/pu/vid/avc1/540x960/zqqc6XinuLPvEdtj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2008571309845082121/pu/pl/_MZwuWwhbfzx4OZ-.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2008571353113518177",
+        "created_at": "2026-01-08T16:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009303719582814364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            },
+            {
+              "end": 18,
+              "id": "715183792697303041",
+              "start": 9,
+              "username": "HuoQubot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009303719582814364",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008571353113518177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 @HuoQubot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008571309845082121"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "conversation_id": "2008571353113518177",
+        "created_at": "2026-01-06T16:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T17:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008571353113518177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJ6CRTqGR8",
+              "end": 31,
+              "expanded_url": "https://x.com/qqqqqf5/status/2008571353113518177/video/1",
+              "media_key": "7_2008571309845082121",
+              "start": 8,
+              "url": "https://t.co/iJ6CRTqGR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008571353113518177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 504,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的功德怎么办 https://t.co/iJ6CRTqGR8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜行程：长春（待定）/珠三角（2月）｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 810,
+          "like_count": 12927,
+          "listed_count": 0,
+          "media_count": 541,
+          "tweet_count": 2404
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "不键政不od不割手\n爱发梗图和生活日常 ｜ 偶尔爆照\nPython/Rust/JS个人开发者 | 学生\n大模型微调 | 量化 | 交易\nGithub求follow\n都是转发的图!!! 如果图片让你生气了 请不要骂我好不好\n逃生舱:@qqqqqf_\nNGL匿名提问箱:https://t.co/vkfKFLuaCO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 115,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/qqqqqf51",
+                "end": 156,
+                "expanded_url": "https://ngl.link/qqqqqf51",
+                "start": 133,
+                "url": "https://t.co/vkfKFLuaCO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTQP7z"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2003460020361707767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5252,
+          "following_count": 2039,
+          "like_count": 11100,
+          "listed_count": 13,
+          "media_count": 1440,
+          "tweet_count": 3837
+        },
+        "url": "https://t.co/Qfc6ZTQP7z",
+        "username": "qqqqqf5",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-30T14:27:58.000Z",
+        "description": "在推文中提及@HuoQubot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。   搜一搜https://t.co/rgOAhOKZij",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "HuoQubot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x-sou.com",
+                "end": 72,
+                "expanded_url": "https://x-sou.com",
+                "start": 49,
+                "url": "https://t.co/rgOAhOKZij"
+              }
+            ]
+          }
+        },
+        "id": "715183792697303041",
+        "name": "获取影片机器人",
+        "pinned_tweet_id": "2003802260862836911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805124494555750400/A_atuS58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331209,
+          "following_count": 112,
+          "like_count": 18,
+          "listed_count": 685,
+          "media_count": 5,
+          "tweet_count": 887963
+        },
+        "username": "HuoQubot",
+        "verified": true
+      }
+    ]
+  }
+}

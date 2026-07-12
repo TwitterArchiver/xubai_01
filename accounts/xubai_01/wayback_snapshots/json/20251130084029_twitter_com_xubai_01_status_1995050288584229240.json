@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1995005418339516881",
+    "created_at": "2025-11-30T08:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T09:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995050288584229240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1753293214826848256",
+          "start": 0,
+          "username": "tatanakots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995050288584229240",
+    "in_reply_to_user_id": "1753293214826848256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995005418339516881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tatanakots 步步木木都310！😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995005399041560577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-u1ybb0AEzTRX.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1995005399049932803",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-u1ydbkAM5j08.jpg",
+        "width": 945
+      },
+      {
+        "height": 548,
+        "media_key": "3_1995005399049863169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-u1ydagAEigu_.jpg",
+        "width": 799
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1995005418339516881",
+        "created_at": "2025-11-30T08:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T09:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995050288584229240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995050288584229240",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995005418339516881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots 步步木木都310！😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995005399041560577",
+            "3_1995005399049932803",
+            "3_1995005399049863169"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "conversation_id": "1995005418339516881",
+        "created_at": "2025-11-30T05:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T06:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995005418339516881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUgwBKjibX",
+              "end": 43,
+              "expanded_url": "https://x.com/tatanakots/status/1995005418339516881/photo/1",
+              "media_key": "3_1995005399041560577",
+              "start": 20,
+              "url": "https://t.co/EUgwBKjibX"
+            },
+            {
+              "display_url": "pic.x.com/EUgwBKjibX",
+              "end": 43,
+              "expanded_url": "https://x.com/tatanakots/status/1995005418339516881/photo/1",
+              "media_key": "3_1995005399049932803",
+              "start": 20,
+              "url": "https://t.co/EUgwBKjibX"
+            },
+            {
+              "display_url": "pic.x.com/EUgwBKjibX",
+              "end": 43,
+              "expanded_url": "https://x.com/tatanakots/status/1995005418339516881/photo/1",
+              "media_key": "3_1995005399049863169",
+              "start": 20,
+              "url": "https://t.co/EUgwBKjibX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995005418339516881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2220,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被开除沪籍了（？\n但是我在沪出身啊喂！ https://t.co/EUgwBKjibX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 600,
+          "like_count": 7443,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 858
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "🙃 411 srs 2026.11",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2885,
+          "following_count": 244,
+          "like_count": 23829,
+          "listed_count": 5,
+          "media_count": 1410,
+          "tweet_count": 9157
+        },
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

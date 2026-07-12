@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2033007847676719156",
+    "created_at": "2026-03-15T02:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T03:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033007847676719156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1319578357395156993",
+          "start": 3,
+          "username": "yoshino_2333"
+        },
+        {
+          "end": 32,
+          "id": "1916824571128287232",
+          "start": 18,
+          "username": "fayoubaike666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033007847676719156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032999722705924533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoshino_2333: @fayoubaike666 我又没杀人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2033007847676719156",
+        "created_at": "2026-03-15T02:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T03:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033007847676719156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1319578357395156993",
+              "start": 3,
+              "username": "yoshino_2333"
+            },
+            {
+              "end": 32,
+              "id": "1916824571128287232",
+              "start": 18,
+              "username": "fayoubaike666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033007847676719156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032999722705924533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoshino_2333: @fayoubaike666 我又没杀人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2032696055956115578",
+        "created_at": "2026-03-15T01:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T02:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032999722705924533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916824571128287232",
+              "start": 0,
+              "username": "fayoubaike666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032999722705924533",
+        "in_reply_to_user_id": "1916824571128287232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032696055956115578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike666 我又没杀人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 918,
+          "like_count": 16009,
+          "listed_count": 0,
+          "media_count": 747,
+          "tweet_count": 3558
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "我是 Roitium/Yoshino！谢谢你来看我！但其实这里并没有什么好看的！\n\n「I love the world and everything in it.」\n\nTweets in EN/CN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017611107477966848/a901u5bp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 474,
+          "like_count": 7535,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 5476
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "由法友百科Sakura与meng运营\n个人博客：https://t.co/N5OWFEYlEo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 47,
+                "expanded_url": "https://pr80.bid/",
+                "start": 24,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 23,
+                "expanded_url": "https://pr80.bid/",
+                "start": 0,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          }
+        },
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "法友百科#物质研究",
+        "pinned_tweet_id": "2031291592368337051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031290772440641536/QNkKbty9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 324,
+          "like_count": 145,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 300
+        },
+        "url": "https://t.co/N5OWFEYlEo",
+        "username": "fayoubaike666",
+        "verified": false
+      }
+    ]
+  }
+}

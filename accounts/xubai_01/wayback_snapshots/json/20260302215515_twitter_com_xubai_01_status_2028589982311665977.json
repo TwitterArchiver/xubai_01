@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2028571279608140220",
+    "created_at": "2026-03-02T21:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T22:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028589982311665977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1577922795652222976",
+          "start": 0,
+          "username": "Raz_09_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028589982311665977",
+    "in_reply_to_user_id": "1577922795652222976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028589642405306476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raz_09_ 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2028571279608140220",
+        "created_at": "2026-03-02T21:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028589982311665977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1577922795652222976",
+              "start": 0,
+              "username": "Raz_09_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028589982311665977",
+        "in_reply_to_user_id": "1577922795652222976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028589642405306476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raz_09_ 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577922795652222976",
+        "conversation_id": "2028571279608140220",
+        "created_at": "2026-03-02T21:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028589642405306476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028589642405306476",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028589383335710842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 舔干净🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 878,
+          "like_count": 15338,
+          "listed_count": 0,
+          "media_count": 677,
+          "tweet_count": 3244
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-06T07:25:04.000Z",
+        "description": "🏳️‍🌈 可以叫我锅盖 现驻湖南 16y 湖南/广东常驻 高二半休学状态 喜欢交朋友/旅游/数码🤓 欢迎找我聊天 🚪30🥹",
+        "id": "1577922795652222976",
+        "name": "锅盖盖盖",
+        "pinned_tweet_id": "2025077884315206029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902761348897050625/VcoGT5vQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 247,
+          "like_count": 4837,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 974
+        },
+        "username": "Raz_09_",
+        "verified": true
+      }
+    ]
+  }
+}

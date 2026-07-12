@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1980878905860059612",
+    "created_at": "2025-10-23T00:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T01:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981162407818121218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "3302809349",
+          "start": 0,
+          "username": "elpwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981162407818121218",
+    "in_reply_to_user_id": "3302809349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980878905860059612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elpwc 网站在哪里"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980878894275112960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G31-2_RWMAA2BuD.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1980878905860059612",
+        "created_at": "2025-10-23T00:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T01:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981162407818121218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3302809349",
+              "start": 0,
+              "username": "elpwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981162407818121218",
+        "in_reply_to_user_id": "3302809349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980878905860059612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elpwc 网站在哪里"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980878894275112960"
+          ]
+        },
+        "author_id": "3302809349",
+        "conversation_id": "1980878905860059612",
+        "created_at": "2025-10-22T06:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T07:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980878905860059612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qqph8LpfxB",
+              "end": 61,
+              "expanded_url": "https://x.com/elpwc/status/1980878905860059612/photo/1",
+              "media_key": "3_1980878894275112960",
+              "start": 38,
+              "url": "https://t.co/qqph8LpfxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980878905860059612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 5942,
+          "like_count": 190,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "知らないうちに既に爆流行してるようで怖い\nまだサイト完成してないのにーー😭 https://t.co/qqph8LpfxB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 398,
+          "like_count": 4020,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-29T13:31:42.000Z",
+        "description": "多言語雑多垢（日本語多め・稀に中国語）・\n地理 / 地図 / 行政区画 / Web開発 / 語学 / 漢字 / 旅行 / 聖地巡礼 ・\nラブライブ / ゆるキャン△ / ブルアカ ・\nmaimaiDX全国都道府県行脚40/47 / 駅メモ / リプDMお気軽に / ヲタ芸垢→@elpwc_w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 138,
+                "username": "elpwc_w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elpwc.com",
+                "end": 23,
+                "expanded_url": "https://www.elpwc.com/",
+                "start": 0,
+                "url": "https://t.co/ZVaEZZWpzd"
+              }
+            ]
+          }
+        },
+        "id": "3302809349",
+        "location": "?",
+        "name": "うに",
+        "pinned_tweet_id": "1941055887369711859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451875383121379333/l4Lyqu9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 1988,
+          "like_count": 92803,
+          "listed_count": 6,
+          "media_count": 4999,
+          "tweet_count": 23798
+        },
+        "url": "https://t.co/ZVaEZZWpzd",
+        "username": "elpwc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2035989403412357168",
+    "created_at": "2026-03-23T07:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T08:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035989403412357168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zanetut/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/zanetut/status/2035728027859157010",
+          "start": 6,
+          "url": "https://t.co/R0iy38aHXO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035989403412357168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035728027859157010",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去不早说 https://t.co/R0iy38aHXO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2035989403412357168",
+        "created_at": "2026-03-23T07:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035989403412357168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zanetut/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/zanetut/status/2035728027859157010",
+              "start": 6,
+              "url": "https://t.co/R0iy38aHXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035989403412357168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035728027859157010",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去不早说 https://t.co/R0iy38aHXO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2035728027859157010",
+        "created_at": "2026-03-22T14:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035728027859157010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035728027859157010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 27891,
+          "like_count": 705,
+          "quote_count": 17,
+          "reply_count": 27,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "再被你提起已是连妈带逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/高一/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119\n欢迎互fo，蓝V必回..列表人机号不代表我喜好🤯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 991,
+          "like_count": 16596,
+          "listed_count": 0,
+          "media_count": 793,
+          "tweet_count": 3859
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/288纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5770,
+          "following_count": 297,
+          "like_count": 5179,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

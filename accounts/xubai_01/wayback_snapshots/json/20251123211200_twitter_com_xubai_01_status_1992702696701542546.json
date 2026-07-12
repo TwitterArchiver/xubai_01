@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1992702696701542546",
+    "created_at": "2025-11-23T21:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T22:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992702696701542546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/m1ssuo/status/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/m1ssuo/status/1992553842303737898",
+          "start": 13,
+          "url": "https://t.co/ih4Cz2kWNR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992702696701542546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992553842303737898",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "follow不是很正常吗 https://t.co/ih4Cz2kWNR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1992702696701542546",
+        "created_at": "2025-11-23T21:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T22:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992702696701542546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/m1ssuo/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/m1ssuo/status/1992553842303737898",
+              "start": 13,
+              "url": "https://t.co/ih4Cz2kWNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992702696701542546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992553842303737898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "follow不是很正常吗 https://t.co/ih4Cz2kWNR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1206800829950259202",
+        "conversation_id": "1992553842303737898",
+        "created_at": "2025-11-23T11:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992553842303737898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/doubleaf/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/doubleaf/status/1992404109144867037",
+              "start": 11,
+              "url": "https://t.co/4NDLPZOIpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992553842303737898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3977,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992404109144867037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛，中国 IP 上推 https://t.co/4NDLPZOIpE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 575,
+          "like_count": 6988,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 785
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-17T04:58:40.000Z",
+        "description": "Founder of @OwO_Network | Operator of AS-OWONET (AS30700, AS60614, etc.) | #WWDC24 | #BGP | https://t.co/aPrcdNJBGd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 75,
+                "tag": "WWDC24"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "BGP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "OwO_Network"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/missuo",
+                "end": 115,
+                "expanded_url": "http://github.com/missuo",
+                "start": 92,
+                "url": "https://t.co/aPrcdNJBGd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "missuo.me",
+                "end": 23,
+                "expanded_url": "https://missuo.me",
+                "start": 0,
+                "url": "https://t.co/PgxKPy6XHr"
+              }
+            ]
+          }
+        },
+        "id": "1206800829950259202",
+        "location": "Pittsburgh, PA",
+        "name": "Vincent Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589233256175923202/CsyqQfsK_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9800,
+          "following_count": 1154,
+          "like_count": 10173,
+          "listed_count": 75,
+          "media_count": 981,
+          "tweet_count": 5537
+        },
+        "url": "https://t.co/PgxKPy6XHr",
+        "username": "m1ssuo",
+        "verified": true
+      }
+    ]
+  }
+}

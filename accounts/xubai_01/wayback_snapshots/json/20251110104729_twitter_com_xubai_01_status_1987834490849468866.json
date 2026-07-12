@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1987762696935313475",
+    "created_at": "2025-11-10T10:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T11:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987834490849468866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1488080791125237760",
+          "start": 0,
+          "username": "MengXi969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987834490849468866",
+    "in_reply_to_user_id": "1488080791125237760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987762696935313475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MengXi969 我不行了。好诡异"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1987762696935313475",
+        "created_at": "2025-11-10T10:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T11:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987834490849468866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488080791125237760",
+              "start": 0,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987834490849468866",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987762696935313475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MengXi969 我不行了。好诡异"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488080791125237760",
+        "conversation_id": "1987762696935313475",
+        "created_at": "2025-11-10T06:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T07:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987762696935313475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MengXi969/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/MengXi969/status/1987738782918173126",
+              "start": 39,
+              "url": "https://t.co/dcdMJ0OKO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987762696935313475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987738782918173126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "约了下午打电话。。。\n最终还是逃不过和商务call call back的现实 https://t.co/dcdMJ0OKO0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 522,
+          "like_count": 5870,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 593
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "14 y.r. / Full-Stack / CTFer / Student / 负能 @ch3rryzhu\n\n👀 Work for @nexaorion @LankoZone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "nexaorion"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "LankoZone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/AITe11Alh9"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1977787427604566120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 2525,
+          "like_count": 58993,
+          "listed_count": 4,
+          "media_count": 659,
+          "tweet_count": 4237
+        },
+        "url": "https://t.co/AITe11Alh9",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

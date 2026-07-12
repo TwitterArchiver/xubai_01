@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "1993803729703981477",
+    "created_at": "2025-11-26T22:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T23:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993803729703981477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbcchinese/sta…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/bbcchinese/status/1993676688883069209",
+          "start": 84,
+          "url": "https://t.co/R5s9XctLiY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993803729703981477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993676688883069209",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "bbc又在创作很有张力的图片了。\n听说是因为竹棚？导致的大火，玩顶上冲还扑不灭..不敢想里面的人有多绝望..天呐..\nhk地价高 建的房子也高 真起火了还真逃不掉.. https://t.co/R5s9XctLiY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1993676495706116096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6r2Nbub0AAyUj1.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1993676522612514817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6r2O_9a4AE5J6i.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1993676572176551936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6r2R4maEAA_UD0.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1993676597854105600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6r2TYQacAAEGJp.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1993803729703981477",
+        "created_at": "2025-11-26T22:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T23:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993803729703981477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/bbcchinese/status/1993676688883069209",
+              "start": 84,
+              "url": "https://t.co/R5s9XctLiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993803729703981477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993676688883069209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bbc又在创作很有张力的图片了。\n听说是因为竹棚？导致的大火，玩顶上冲还扑不灭..不敢想里面的人有多绝望..天呐..\nhk地价高 建的房子也高 真起火了还真逃不掉.. https://t.co/R5s9XctLiY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993676495706116096",
+            "3_1993676522612514817",
+            "3_1993676572176551936",
+            "3_1993676597854105600"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1993676688883069209",
+        "created_at": "2025-11-26T13:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993676688883069209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gXcGwYRC9l",
+              "end": 136,
+              "expanded_url": "https://x.com/bbcchinese/status/1993676688883069209/photo/1",
+              "media_key": "3_1993676495706116096",
+              "start": 113,
+              "url": "https://t.co/gXcGwYRC9l"
+            },
+            {
+              "display_url": "pic.x.com/gXcGwYRC9l",
+              "end": 136,
+              "expanded_url": "https://x.com/bbcchinese/status/1993676688883069209/photo/1",
+              "media_key": "3_1993676522612514817",
+              "start": 113,
+              "url": "https://t.co/gXcGwYRC9l"
+            },
+            {
+              "display_url": "pic.x.com/gXcGwYRC9l",
+              "end": 136,
+              "expanded_url": "https://x.com/bbcchinese/status/1993676688883069209/photo/1",
+              "media_key": "3_1993676572176551936",
+              "start": 113,
+              "url": "https://t.co/gXcGwYRC9l"
+            },
+            {
+              "display_url": "pic.x.com/gXcGwYRC9l",
+              "end": 136,
+              "expanded_url": "https://x.com/bbcchinese/status/1993676688883069209/photo/1",
+              "media_key": "3_1993676597854105600",
+              "start": 113,
+              "url": "https://t.co/gXcGwYRC9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993676688883069209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "bbc.in/44sOrsb",
+                "end": 378,
+                "expanded_url": "https://bbc.in/44sOrsb",
+                "start": 355,
+                "url": "https://t.co/BjLwhqFzrP"
+              }
+            ]
+          },
+          "text": "香港大埔发生致命大火，一个正在维修的居民区多栋大楼起火，至少造成13人死亡，15人受伤。一名37岁消防员殉职，目前多人仍被困。\n\n这是香港近年来最严重的火灾，已被列为五级火灾，即当地最严重的级别。上一次五级大火已是17年前。\n\n画面显示，火焰沿着大楼外墙棚架蔓延。此次大火已持续燃烧逾五个小时，多栋大楼被火焰吞噬并一度传出爆炸声。\n\n起火的宏福苑一共有八座，接近2000户，是上世纪八十年代初入伙的居屋屋苑，楼龄达42年，近月进行大维修，接近完工阶段，不少人求助指联络不到家人。\n\n据2021年政府人口普查数据，屋苑人口总数为4643人。\n\n消防处呼吁附近居民尽量留在室内及关闭门窗，并保持镇定，避免前往受火警事故影响的地区。\n\n民政处已安排巴士疏散受影响居民。当局还开放社区会堂作临时庇护中心。\n\n详细报导：https://t.co/BjLwhqFzrP"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 384844,
+          "like_count": 892,
+          "quote_count": 77,
+          "reply_count": 156,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "香港大埔发生致命大火，一个正在维修的居民区多栋大楼起火，至少造成13人死亡，15人受伤。一名37岁消防员殉职，目前多人仍被困。\n\n这是香港近年来最严重的火灾，已被列为五级火灾，即当地最严重的级别。上一次五级大火已是17年前。 https://t.co/gXcGwYRC9l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 588,
+          "like_count": 7157,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5157915,
+          "following_count": 73,
+          "like_count": 60,
+          "listed_count": 11884,
+          "media_count": 24134,
+          "tweet_count": 154365
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

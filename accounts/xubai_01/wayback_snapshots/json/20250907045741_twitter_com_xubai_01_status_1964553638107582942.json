@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964553627517014018",
+        "3_1964553627508625410"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1964553638107582942",
+    "created_at": "2025-09-07T04:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T05:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964553638107582942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JNbvHfkdGL",
+          "end": 32,
+          "expanded_url": "https://x.com/xubai_01/status/1964553638107582942/photo/1",
+          "media_key": "3_1964553627517014018",
+          "start": 9,
+          "url": "https://t.co/JNbvHfkdGL"
+        },
+        {
+          "display_url": "pic.x.com/JNbvHfkdGL",
+          "end": 32,
+          "expanded_url": "https://x.com/xubai_01/status/1964553638107582942/photo/1",
+          "media_key": "3_1964553627508625410",
+          "start": 9,
+          "url": "https://t.co/JNbvHfkdGL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964553638107582942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很好吃的麦当劳🥺 https://t.co/JNbvHfkdGL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1964553638107582942].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1964553638107582942",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1964553638107582942"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964553627517014018",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0N_HZZbUAIuM8V.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1964553627508625410",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0N_HZXbUAIpO03.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "@xubai21｜一个人。｜gay0.5｜欢迎互推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "xubai21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "许白的回忆里",
+        "name": "许白",
+        "pinned_tweet_id": "1921545745993261070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962871355994746882/BW4i3aWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 186,
+          "like_count": 2346,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

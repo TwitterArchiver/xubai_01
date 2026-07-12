@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2042083119050928564",
+    "created_at": "2026-04-09T03:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042087924016279886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1577922795652222976",
+          "start": 0,
+          "username": "Raz_09_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042087924016279886",
+    "in_reply_to_user_id": "1577922795652222976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042087797734129761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raz_09_ 吃不吃辣条。亲嘴烧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2042083119050928564",
+        "created_at": "2026-04-09T03:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042087924016279886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1577922795652222976",
+              "start": 0,
+              "username": "Raz_09_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042087924016279886",
+        "in_reply_to_user_id": "1577922795652222976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042087797734129761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raz_09_ 吃不吃辣条。亲嘴烧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577922795652222976",
+        "conversation_id": "2042083119050928564",
+        "created_at": "2026-04-09T03:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042087797734129761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042087797734129761",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042083119050928564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 好。亲嘴。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "yuji53719"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 1111,
+          "like_count": 18410,
+          "listed_count": 0,
+          "media_count": 883,
+          "tweet_count": 4429
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-06T07:25:04.000Z",
+        "description": "🏳️‍🌈 可以叫我锅盖 现驻湖南 16y 湖南常驻 高二半休学状态 喜欢交朋友/旅游/数码🤓 欢迎找我聊天/扩列好哇好哇🤓\n不摄政哇🥸\n这个号主要发一些碎碎念",
+        "id": "1577922795652222976",
+        "location": "好哇好哇🤓",
+        "name": "锅盖盖盖🏳️‍🌈",
+        "pinned_tweet_id": "2038029887190257915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034275252285685760/F7FppXtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 276,
+          "like_count": 6410,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 1415
+        },
+        "username": "Raz_09_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2056232810701291635",
+    "created_at": "2026-05-19T03:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T04:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056578052742873341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1236513840008962048",
+          "start": 0,
+          "username": "XING64590591"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056578052742873341",
+    "in_reply_to_user_id": "1236513840008962048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056571403244343478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@XING64590591 住满了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2056232810701291635",
+        "created_at": "2026-05-19T03:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056578052742873341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1236513840008962048",
+              "start": 0,
+              "username": "XING64590591"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056578052742873341",
+        "in_reply_to_user_id": "1236513840008962048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056571403244343478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@XING64590591 住满了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236513840008962048",
+        "conversation_id": "2056232810701291635",
+        "created_at": "2026-05-19T03:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056571403244343478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056571403244343478",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056232810701291635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@xubai_01 Is there new bed avalable recently?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 1282,
+          "like_count": 22424,
+          "listed_count": 0,
+          "media_count": 1091,
+          "tweet_count": 5578
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-08T04:47:39.000Z",
+        "description": "Electronics Technician, student seek for a degree on STEM, traveler, longing for staying with family.中文y English.",
+        "id": "1236513840008962048",
+        "location": "Honolulu, HI",
+        "name": "XHennery",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033052737676730368/3IIpjJa3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 284,
+          "like_count": 4670,
+          "listed_count": 0,
+          "media_count": 1471,
+          "tweet_count": 3712
+        },
+        "username": "XING64590591",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1979125484035494211",
+    "created_at": "2025-10-17T10:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T11:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979139813971284101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1821089011727003649",
+          "start": 0,
+          "username": "arrco_justin2"
+        },
+        {
+          "end": 25,
+          "id": "1488080791125237760",
+          "start": 15,
+          "username": "MengXi969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979139813971284101",
+    "in_reply_to_user_id": "1821089011727003649",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979139092157014484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arrco_justin2 @MengXi969 🫣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1979125484035494211",
+        "created_at": "2025-10-17T10:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979139813971284101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1821089011727003649",
+              "start": 0,
+              "username": "arrco_justin2"
+            },
+            {
+              "end": 25,
+              "id": "1488080791125237760",
+              "start": 15,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979139813971284101",
+        "in_reply_to_user_id": "1821089011727003649",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979139092157014484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arrco_justin2 @MengXi969 🫣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821089011727003649",
+        "conversation_id": "1979125484035494211",
+        "created_at": "2025-10-17T10:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979139092157014484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488080791125237760",
+              "start": 0,
+              "username": "MengXi969"
+            },
+            {
+              "end": 20,
+              "id": "1840810905833197568",
+              "start": 11,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979139092157014484",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979130999301722516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MengXi969 @xubai_01 😭😭😭吓哭了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 366,
+          "like_count": 3770,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 324
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T07:40:40.000Z",
+        "description": "亻尔女子！我是JUSTIN！\n一个12岁的小屁孩！\n喜欢搞银行卡，C++和Python之类奇奇怪怪的爱好，前端一窍不通喵\n欢迎互FO喵!\n 添加一些好东西:@ARRCO_JUSTIN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "ARRCO_JUSTIN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arrco.top",
+                "end": 23,
+                "expanded_url": "http://arrco.top",
+                "start": 0,
+                "url": "https://t.co/nPyVK2D3ea"
+              }
+            ]
+          }
+        },
+        "id": "1821089011727003649",
+        "location": "China",
+        "name": "ARRCO_JUSTIN",
+        "pinned_tweet_id": "1973214125116490192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973212881815740417/cHsI3JqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 600,
+          "like_count": 7561,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1332
+        },
+        "url": "https://t.co/nPyVK2D3ea",
+        "username": "arrco_justin2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "14 y.r. / Full-Stack / CTFer / Student\n\n❤️@SnowballLoveyou\n\n👀 Work for @nexaorion @LankoZone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "SnowballLoveyou"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "nexaorion"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "LankoZone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvfMd"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1977787427604566120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 2420,
+          "like_count": 53737,
+          "listed_count": 4,
+          "media_count": 587,
+          "tweet_count": 3766
+        },
+        "url": "https://t.co/TIHBlJvfMd",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2051527243873337558",
+    "created_at": "2026-07-08T17:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T18:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074914799864205367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1073868204",
+          "start": 0,
+          "username": "lipeng0820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074914799864205367",
+    "in_reply_to_user_id": "1073868204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051527243873337558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lipeng0820 你怎么不更新了 你还好吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2051527243873337558].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2051527243873337558",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2051527243873337558"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2051527243873337558",
+        "created_at": "2026-07-08T17:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074914799864205367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1073868204",
+              "start": 0,
+              "username": "lipeng0820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074914799864205367",
+        "in_reply_to_user_id": "1073868204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051527243873337558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lipeng0820 你怎么不更新了 你还好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2416,
+          "following_count": 1647,
+          "like_count": 25786,
+          "listed_count": 2,
+          "media_count": 1294,
+          "tweet_count": 6968
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-09T14:07:02.000Z",
+        "description": "“人生就像巧克力，你永远不知道下一颗是什么味道……” 科技整活/开箱试用/烂梗王🏆/AI 宿主/奇闻e事/亲测好使™我是认真的！ ✈️ TG https://t.co/7yKW5WG4sd 👋你好！Hello！こんにちは！Bonjour！Ciao！Hola！สวัสดีครับ！Привет！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lipeng0820",
+                "end": 94,
+                "expanded_url": "https://t.me/lipeng0820",
+                "start": 71,
+                "url": "https://t.co/7yKW5WG4sd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lee.sd",
+                "end": 23,
+                "expanded_url": "https://lee.sd",
+                "start": 0,
+                "url": "https://t.co/nmKkSfc2YG"
+              }
+            ]
+          }
+        },
+        "id": "1073868204",
+        "location": "0086",
+        "name": "SimbaLee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992085628444626944/K-GSDxFQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 43197,
+          "following_count": 913,
+          "like_count": 14020,
+          "listed_count": 375,
+          "media_count": 5398,
+          "tweet_count": 46435
+        },
+        "url": "https://t.co/nmKkSfc2YG",
+        "username": "lipeng0820",
+        "verified": true
+      }
+    ]
+  }
+}

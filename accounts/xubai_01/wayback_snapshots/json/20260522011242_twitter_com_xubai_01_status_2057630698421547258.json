@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057630141023760384"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Los Angeles",
+          "id": "856860708847222784",
+          "name": "Los Angeles"
+        }
+      }
+    ],
+    "conversation_id": "2057630698421547258",
+    "created_at": "2026-05-22T01:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T02:10:35.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057630167569477700",
+      "2057630698421547258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xEjpOuLGxF",
+          "end": 72,
+          "expanded_url": "https://x.com/xubai_01/status/2057630698421547258/photo/1",
+          "media_key": "3_2057630141023760384",
+          "start": 49,
+          "url": "https://t.co/xEjpOuLGxF"
+        },
+        {
+          "display_url": "x.com/chpalerts/stat…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/chpalerts/status/2057625644713009491",
+          "start": 73,
+          "url": "https://t.co/OnHQYnoa1u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057630698421547258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057625644713009491",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "吓我一跳\n所以我猜测这是一个关于监护权的问题，妈妈没有监护权导致儿童上车被认定为绑架。。\n吓哭了 https://t.co/xEjpOuLGxF https://t.co/OnHQYnoa1u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057630141023760384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4rtiLbsAA0Dri.jpg",
+        "width": 942
+      },
+      {
+        "height": 1650,
+        "media_key": "3_2057625643245006848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4nnupacAAdV8O.jpg",
+        "width": 1275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057630141023760384"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2057630167569477700",
+        "created_at": "2026-05-22T01:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:10:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057630167569477700",
+          "2057630698421547258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gtpEYi9mC",
+              "end": 28,
+              "expanded_url": "https://x.com/xubai_01/status/2057630167569477700/photo/1",
+              "media_key": "3_2057630141023760384",
+              "start": 5,
+              "url": "https://t.co/0gtpEYi9mC"
+            },
+            {
+              "display_url": "x.com/chpalerts/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/chpalerts/status/2057625644713009491",
+              "start": 29,
+              "url": "https://t.co/OnHQYnoa1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057630167569477700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057625644713009491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "吓我一跳 https://t.co/0gtpEYi9mC https://t.co/OnHQYnoa1u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057630141023760384"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2057630698421547258",
+        "created_at": "2026-05-22T01:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:10:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057630167569477700",
+          "2057630698421547258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEjpOuLGxF",
+              "end": 72,
+              "expanded_url": "https://x.com/xubai_01/status/2057630698421547258/photo/1",
+              "media_key": "3_2057630141023760384",
+              "start": 49,
+              "url": "https://t.co/xEjpOuLGxF"
+            },
+            {
+              "display_url": "x.com/chpalerts/stat…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/chpalerts/status/2057625644713009491",
+              "start": 73,
+              "url": "https://t.co/OnHQYnoa1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057630698421547258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057625644713009491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "吓我一跳\n所以我猜测这是一个关于监护权的问题，妈妈没有监护权导致儿童上车被认定为绑架。。\n吓哭了 https://t.co/xEjpOuLGxF https://t.co/OnHQYnoa1u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057625643245006848"
+          ]
+        },
+        "author_id": "1002664853847224320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1259995120016912384",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1259995120016912384",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2057625644713009491",
+        "created_at": "2026-05-22T00:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057625644713009491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 98,
+              "id": "115705583",
+              "start": 91,
+              "username": "LAPDHQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjN4CWRDvF",
+              "end": 143,
+              "expanded_url": "https://x.com/CHPAlerts/status/2057625644713009491/photo/1",
+              "media_key": "3_2057625643245006848",
+              "start": 120,
+              "url": "https://t.co/fjN4CWRDvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057625644713009491",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 478,
+          "impression_count": 277987,
+          "like_count": 4105,
+          "quote_count": 33,
+          "reply_count": 618,
+          "retweet_count": 1549
+        },
+        "reply_settings": "everyone",
+        "text": "Amber Alert – Los Angeles County\nLast seen: Slauson Avenue at Van Ness Avenue, Los Angeles\n@LAPDHQ\n\nIF SEEN, CALL 9-1-1 https://t.co/fjN4CWRDvF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 1291,
+          "like_count": 22545,
+          "listed_count": 1,
+          "media_count": 1099,
+          "tweet_count": 5658
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-01T21:35:04.000Z",
+        "description": "The California Highway Patrol created this account for the sole purpose of disseminating details and flyers for active Alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chpalerts",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chpalerts",
+                "start": 0,
+                "url": "https://t.co/EhMM0DiVha"
+              }
+            ]
+          }
+        },
+        "id": "1002664853847224320",
+        "location": "California, USA",
+        "name": "CHP - Alerts",
+        "pinned_tweet_id": "2056325300250939555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057114232601427968/CrWsG0wL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253141,
+          "following_count": 209,
+          "like_count": 7,
+          "listed_count": 359,
+          "media_count": 56,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/EhMM0DiVha",
+        "username": "CHPAlerts",
+        "verified": true
+      }
+    ]
+  }
+}

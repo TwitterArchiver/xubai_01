@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2003391474088751347",
+    "created_at": "2025-12-23T09:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T10:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003391474088751347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1998983271640870913",
+          "start": 3,
+          "username": "blueicesamaOwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003391474088751347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003298864498085980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blueicesamaOwO: 抛开金钱与性不谈\n我看到了他强悍的营业和炒作能力\n有这流量搞墙内都赚的盆满钵满了\n所以谁给我三万块🙄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2003391474088751347",
+        "created_at": "2025-12-23T09:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003391474088751347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1998983271640870913",
+              "start": 3,
+              "username": "blueicesamaOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003391474088751347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003298864498085980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blueicesamaOwO: 抛开金钱与性不谈\n我看到了他强悍的营业和炒作能力\n有这流量搞墙内都赚的盆满钵满了\n所以谁给我三万块🙄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998983271640870913",
+        "conversation_id": "2003298864498085980",
+        "created_at": "2025-12-23T02:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T03:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003298864498085980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003298864498085980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10669,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "抛开金钱与性不谈\n我看到了他强悍的营业和炒作能力\n有这流量搞墙内都赚的盆满钵满了\n所以谁给我三万块🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜啥意思。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 765,
+          "like_count": 11279,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 1681
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T05:08:57.000Z",
+        "description": "🏳️‍🌈男同/INFJ-T/Apple全肯定bot/中文·日本語·ENG/网蓝/杂学分享·碎碎念·生活账/三倍厚袜/不涉政/里@blueicesamaQWQ /本号关注不代表本人立场 推止于推/反无纸化/反AI滥用 本账号所有内容均未经AI生成或润色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "blueicesamaQWQ"
+              }
+            ]
+          }
+        },
+        "id": "1998983271640870913",
+        "location": "「落し水  岐れて細き  川生る」",
+        "name": "蓝冰冰冰蓝蓝（二代目）→互关寻回",
+        "pinned_tweet_id": "1998986143015268646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998983393892274176/RtE8BagF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 622,
+          "like_count": 682,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 131
+        },
+        "username": "blueicesamaOwO",
+        "verified": false
+      }
+    ]
+  }
+}

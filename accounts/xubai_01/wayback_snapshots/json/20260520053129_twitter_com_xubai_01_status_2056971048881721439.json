@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2056929145440121145",
+    "created_at": "2026-05-20T05:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056971048881721439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666425403890868224",
+          "start": 0,
+          "username": "Liberi_tki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056971048881721439",
+    "in_reply_to_user_id": "1666425403890868224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056962735985057884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Liberi_tki 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2056929145440121145",
+        "created_at": "2026-05-20T05:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056971048881721439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666425403890868224",
+              "start": 0,
+              "username": "Liberi_tki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056971048881721439",
+        "in_reply_to_user_id": "1666425403890868224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056962735985057884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Liberi_tki 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666425403890868224",
+        "conversation_id": "2056929145440121145",
+        "created_at": "2026-05-20T04:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056962735985057884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056962735985057884",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056929145440121145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@xubai_01 为啥😨\n学习通吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 1288,
+          "like_count": 22484,
+          "listed_count": 1,
+          "media_count": 1094,
+          "tweet_count": 5632
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-07T12:43:12.000Z",
+        "description": "VividArmy-3903 Arknight-CN FF14-CN\n想要回关互关之类的可以私信( ˘ω˘)\n碎碎念 | 日常 | 会忍不住鉴证\n债务厌恶 | 嘴笨\n\nlapluma fbk alice enjoyer\n\n头像 pixiv@飞天卷饼猫",
+        "id": "1666425403890868224",
+        "location": "Sargon",
+        "name": "黎博利🐦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042867285615087622/PbQKOHUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 267,
+          "like_count": 27005,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 2757
+        },
+        "username": "Liberi_tki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2021546812667314319",
+    "created_at": "2026-02-11T11:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T12:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021546812667314319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1960765882348789762",
+          "start": 3,
+          "username": "duoduosamaQvQ"
+        },
+        {
+          "end": 34,
+          "id": "1803642368949886976",
+          "start": 19,
+          "username": "xiaoguai041003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021546812667314319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021507187680665918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duoduosamaQvQ: @xiaoguai041003 老一辈的恶俗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2021546812667314319",
+        "created_at": "2026-02-11T11:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T12:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021546812667314319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1960765882348789762",
+              "start": 3,
+              "username": "duoduosamaQvQ"
+            },
+            {
+              "end": 34,
+              "id": "1803642368949886976",
+              "start": 19,
+              "username": "xiaoguai041003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021546812667314319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021507187680665918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duoduosamaQvQ: @xiaoguai041003 老一辈的恶俗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960765882348789762",
+        "conversation_id": "2021502739734470862",
+        "created_at": "2026-02-11T08:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021507187680665918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803642368949886976",
+              "start": 0,
+              "username": "xiaoguai041003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021507187680665918",
+        "in_reply_to_user_id": "1803642368949886976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1555,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021502739734470862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoguai041003 老一辈的恶俗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州🔜嘉兴🔜昆明",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 874,
+          "like_count": 14672,
+          "listed_count": 0,
+          "media_count": 630,
+          "tweet_count": 2994
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-27T18:06:54.000Z",
+        "description": "分享日常丨08丨不线下不约纯绿丨周更朵朵腿照or其他丨懒懒懒",
+        "id": "1960765882348789762",
+        "location": "O_o",
+        "name": "朵朵占领世界",
+        "pinned_tweet_id": "1992990145084363155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975630833957675012/rQfTsRoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 18,
+          "like_count": 1513,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 558
+        },
+        "username": "duoduosamaQvQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:14:02.000Z",
+        "description": "毛儿的日记本|纯绿 |日常and碎碎念|不线下不约 |  推广自辨\n小号@xmmOvO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "xmmOvO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=vnxE36SC",
+                "start": 0,
+                "url": "https://t.co/NtKvOP3zLM"
+              }
+            ]
+          }
+        },
+        "id": "1803642368949886976",
+        "location": " Tokyo 无广告干扰，机场节点随便挑，蜂鸟VPN",
+        "name": "小毛米",
+        "pinned_tweet_id": "2005911565498011733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941726080655593472/ydrsm3AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13406,
+          "following_count": 351,
+          "like_count": 51741,
+          "listed_count": 20,
+          "media_count": 483,
+          "tweet_count": 12296
+        },
+        "url": "https://t.co/NtKvOP3zLM",
+        "username": "xiaoguai041003",
+        "verified": false
+      }
+    ]
+  }
+}

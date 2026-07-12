@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2021643726041624897",
+    "created_at": "2026-02-12T07:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T08:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021854401946870256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1869325756255657984",
+          "start": 0,
+          "username": "Eremus426531"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021854401946870256",
+    "in_reply_to_user_id": "1869325756255657984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021842480308924669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eremus426531 我错了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2021643726041624897",
+        "created_at": "2026-02-12T07:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021854401946870256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1869325756255657984",
+              "start": 0,
+              "username": "Eremus426531"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021854401946870256",
+        "in_reply_to_user_id": "1869325756255657984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021842480308924669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eremus426531 我错了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869325756255657984",
+        "conversation_id": "2021643726041624897",
+        "created_at": "2026-02-12T07:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021842480308924669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021842480308924669",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021643726041624897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 a American说是（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州🔜嘉兴🔜昆明",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 855,
+          "like_count": 14732,
+          "listed_count": 0,
+          "media_count": 635,
+          "tweet_count": 3025
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T10:16:19.000Z",
+        "description": "L(G)BT│有对象│二次元│术力口，粥，1999│cs专业│爱好数学，哲学│推水月，镜音连│请和我交朋友🥺🥺",
+        "id": "1869325756255657984",
+        "name": "Eremus",
+        "pinned_tweet_id": "1898748238171357564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995775476871430148/eplOFhO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 1384,
+          "like_count": 23954,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 6908
+        },
+        "username": "Eremus426531",
+        "verified": false
+      }
+    ]
+  }
+}

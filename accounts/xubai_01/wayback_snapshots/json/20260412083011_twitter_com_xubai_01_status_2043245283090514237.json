@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2043127938670080419",
+    "created_at": "2026-04-12T08:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043245283090514237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1464279340812800001",
+          "start": 0,
+          "username": "Agnesjzig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043245283090514237",
+    "in_reply_to_user_id": "1464279340812800001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043219802718900664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Agnesjzig 心动了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2043127938670080419",
+        "created_at": "2026-04-12T08:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043245283090514237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1464279340812800001",
+              "start": 0,
+              "username": "Agnesjzig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043245283090514237",
+        "in_reply_to_user_id": "1464279340812800001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043219802718900664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Agnesjzig 心动了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464279340812800001",
+        "conversation_id": "2043127938670080419",
+        "created_at": "2026-04-12T06:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043219802718900664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043219802718900664",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043127938670080419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 这个是真心动了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/10.12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "yuji53719"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 1125,
+          "like_count": 18738,
+          "listed_count": 0,
+          "media_count": 897,
+          "tweet_count": 4548
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-26T17:06:23.000Z",
+        "description": "背离的是传统还是道德，抑或新的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/broccoli43229?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/broccoli43229?igsh=MWJ1d3hqdjhuc3BqNg%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/4cXxXReDYj"
+              }
+            ]
+          }
+        },
+        "id": "1464279340812800001",
+        "location": "0.01km",
+        "name": "Agnes",
+        "pinned_tweet_id": "1785367673939062980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969818212373323776/j_quwB-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 2597,
+          "like_count": 15417,
+          "listed_count": 0,
+          "media_count": 1343,
+          "tweet_count": 6795
+        },
+        "url": "https://t.co/4cXxXReDYj",
+        "username": "Agnesjzig",
+        "verified": false
+      }
+    ]
+  }
+}

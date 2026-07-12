@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1984072176606310914",
+    "created_at": "2025-10-31T13:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T14:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984251278558699713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "901661229801914369",
+          "start": 0,
+          "username": "LinOREJ"
+        },
+        {
+          "end": 18,
+          "id": "1329449687062032385",
+          "start": 9,
+          "username": "Stv_Lynn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984251278558699713",
+    "in_reply_to_user_id": "901661229801914369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984118315187630322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinOREJ @Stv_Lynn 吓鼠惹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1984072176606310914",
+        "created_at": "2025-10-31T13:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T14:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984251278558699713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "901661229801914369",
+              "start": 0,
+              "username": "LinOREJ"
+            },
+            {
+              "end": 18,
+              "id": "1329449687062032385",
+              "start": 9,
+              "username": "Stv_Lynn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984251278558699713",
+        "in_reply_to_user_id": "901661229801914369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984118315187630322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinOREJ @Stv_Lynn 吓鼠惹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "901661229801914369",
+        "conversation_id": "1984072176606310914",
+        "created_at": "2025-10-31T04:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T05:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984118315187630322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1329449687062032385",
+              "start": 0,
+              "username": "Stv_Lynn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984118315187630322",
+        "in_reply_to_user_id": "1329449687062032385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 668,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984072176606310914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stv_Lynn 干我🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 461,
+          "like_count": 4950,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-27T04:22:44.000Z",
+        "description": "Languages 🇨🇳🇬🇧🇪🇸/无业老登/什么都在学，什么都没学会/原批/圆角中🚪68（好友位）-328（线下）-648（🛏️）/主人：@Fiiiissssshhhhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Fiiiissssshhhhh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orejamusica",
+                "end": 23,
+                "expanded_url": "https://t.me/orejamusica",
+                "start": 0,
+                "url": "https://t.co/nqFC65fle2"
+              }
+            ]
+          }
+        },
+        "id": "901661229801914369",
+        "location": "San Sebastian, España",
+        "name": "🏞️🏃💨💨🏙️ Oreja🍗オレハ",
+        "pinned_tweet_id": "1882718853509341552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702594400172601344/YUI5vXh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 842,
+          "like_count": 14883,
+          "listed_count": 8,
+          "media_count": 608,
+          "tweet_count": 5327
+        },
+        "url": "https://t.co/nqFC65fle2",
+        "username": "LinOREJ",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-19T15:41:29.000Z",
+        "description": "host of https://t.co/62gAtIsTk6 | vibe coder | EN/CH/JP | 👉 @FirstLabAI Channel: https://t.co/UwjjgwnevL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "FirstLabAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "CrazySatur.day",
+                "end": 31,
+                "expanded_url": "http://CrazySatur.day",
+                "start": 8,
+                "url": "https://t.co/62gAtIsTk6"
+              },
+              {
+                "display_url": "discord.gg/PwZDHH4mv3",
+                "end": 104,
+                "expanded_url": "https://discord.gg/PwZDHH4mv3",
+                "start": 81,
+                "url": "https://t.co/UwjjgwnevL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stv.pm",
+                "end": 23,
+                "expanded_url": "https://stv.pm",
+                "start": 0,
+                "url": "https://t.co/KLEMmPFvOf"
+              }
+            ]
+          }
+        },
+        "id": "1329449687062032385",
+        "location": "The Great Bay Area",
+        "name": "Steven Lynn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963238451723243520/TVUyiMem_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8351,
+          "following_count": 1318,
+          "like_count": 45754,
+          "listed_count": 58,
+          "media_count": 1081,
+          "tweet_count": 8221
+        },
+        "url": "https://t.co/KLEMmPFvOf",
+        "username": "Stv_Lynn",
+        "verified": true
+      }
+    ]
+  }
+}

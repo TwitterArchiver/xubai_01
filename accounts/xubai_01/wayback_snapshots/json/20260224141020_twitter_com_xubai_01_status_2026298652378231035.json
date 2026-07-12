@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2026298652378231035",
+    "created_at": "2026-02-24T14:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T15:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026298652378231035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1790448736629301248",
+          "start": 3,
+          "username": "xijinping_bot"
+        },
+        {
+          "end": 34,
+          "id": "1964042844198621187",
+          "start": 19,
+          "username": "bungeihaku8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026298652378231035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026232511022649596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xijinping_bot: @bungeihaku8964 没有国家主席这个选项吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2026298652378231035",
+        "created_at": "2026-02-24T14:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026298652378231035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1790448736629301248",
+              "start": 3,
+              "username": "xijinping_bot"
+            },
+            {
+              "end": 34,
+              "id": "1964042844198621187",
+              "start": 19,
+              "username": "bungeihaku8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026298652378231035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026232511022649596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xijinping_bot: @bungeihaku8964 没有国家主席这个选项吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790448736629301248",
+        "conversation_id": "2026134937481642211",
+        "created_at": "2026-02-24T09:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026232511022649596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeihaku8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026232511022649596",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1508,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026134937481642211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeihaku8964 没有国家主席这个选项吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 866,
+          "like_count": 15109,
+          "listed_count": 0,
+          "media_count": 660,
+          "tweet_count": 3142
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "朝闻道，夕死可矣/@mzd1966 @mizuki_bot/就读于古拉格大学夹边沟分学院梁家河校区/大年初一，理科区佛教区全价暴毙/本账所有负面言论由葱娘酱和猫在雷指使、发布，本人毫不知情/激化矛盾全面加速/预制论/顶峰论/血海论/东三省分离论/反马反苏，保卫毛主席/已辞职在家学习延安炕日精神",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "mzd1966"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "mizuki_bot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weianfudemeidubi.com",
+                "end": 23,
+                "expanded_url": "http://weianfudemeidubi.com",
+                "start": 0,
+                "url": "https://t.co/rzP9aV2krJ"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "外宣母狗的梅毒批",
+        "name": "羽泽东——苏系基本盘",
+        "pinned_tweet_id": "2023370179196170535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015813151938187264/abAUkSW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 1361,
+          "like_count": 13602,
+          "listed_count": 7,
+          "media_count": 594,
+          "tweet_count": 12310
+        },
+        "url": "https://t.co/rzP9aV2krJ",
+        "username": "xijinping_bot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜民國97年男高 絕對不翻車｜梗圖➕日常發瘋號｜粵港澳愛跨大手子｜雙相｜哲學社會學研究ing｜日語生｜日麻癡｜粵拼使用者｜🚪64HK$\n｜小貓咪:@suimikax\n｜16ちゃん:@x16_46280721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 73,
+                "username": "suimikax"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "x16_46280721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KunHaku0",
+                "end": 23,
+                "expanded_url": "http://t.me/KunHaku0",
+                "start": 0,
+                "url": "https://t.co/ntbzBOLbQQ"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "インターネット",
+        "name": "葉々🍁空白子💤",
+        "pinned_tweet_id": "2021493784887038082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021474583161995271/frgiGN1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 498,
+          "like_count": 8662,
+          "listed_count": 6,
+          "media_count": 433,
+          "tweet_count": 2123
+        },
+        "url": "https://t.co/ntbzBOLbQQ",
+        "username": "bungeihaku8964",
+        "verified": false
+      }
+    ]
+  }
+}

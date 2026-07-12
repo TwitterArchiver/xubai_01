@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006878214690603008"
+      ],
+      "media_source_tweet_id": [
+        "2006878308693311502"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2007260011182100930",
+    "created_at": "2026-01-03T01:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T02:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007260011182100930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "20571502",
+          "start": 3,
+          "username": "jesselaunz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CobZwWz1UL",
+          "end": 87,
+          "expanded_url": "https://x.com/jesselaunz/status/2006878308693311502/photo/1",
+          "media_key": "3_2006878214690603008",
+          "start": 64,
+          "url": "https://t.co/CobZwWz1UL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007260011182100930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006878308693311502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jesselaunz: 老虎机 vs Vibe coding😆\n\n我不用cursor，所以翻译的时候换成了Claude https://t.co/CobZwWz1UL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2240,
+        "media_key": "3_2006878214690603008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ndGnYagAAbZTN.jpg",
+        "width": 1888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006878214690603008"
+          ],
+          "media_source_tweet_id": [
+            "2006878308693311502"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2007260011182100930",
+        "created_at": "2026-01-03T01:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T02:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007260011182100930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "20571502",
+              "start": 3,
+              "username": "jesselaunz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CobZwWz1UL",
+              "end": 87,
+              "expanded_url": "https://x.com/jesselaunz/status/2006878308693311502/photo/1",
+              "media_key": "3_2006878214690603008",
+              "start": 64,
+              "url": "https://t.co/CobZwWz1UL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007260011182100930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006878308693311502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jesselaunz: 老虎机 vs Vibe coding😆\n\n我不用cursor，所以翻译的时候换成了Claude https://t.co/CobZwWz1UL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006878214690603008"
+          ]
+        },
+        "author_id": "20571502",
+        "conversation_id": "2006878308693311502",
+        "created_at": "2026-01-02T00:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T01:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006878308693311502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CobZwWz1UL",
+              "end": 71,
+              "expanded_url": "https://x.com/jesselaunz/status/2006878308693311502/photo/1",
+              "media_key": "3_2006878214690603008",
+              "start": 48,
+              "url": "https://t.co/CobZwWz1UL"
+            },
+            {
+              "display_url": "x.com/shiri_shh/stat…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/shiri_shh/status/2006751251036590354",
+              "start": 72,
+              "url": "https://t.co/19WMpYQQEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006878308693311502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 27612,
+          "like_count": 268,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006751251036590354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老虎机 vs Vibe coding😆\n\n我不用cursor，所以翻译的时候换成了Claude https://t.co/CobZwWz1UL https://t.co/19WMpYQQEw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 808,
+          "like_count": 12549,
+          "listed_count": 0,
+          "media_count": 516,
+          "tweet_count": 2266
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-11T04:38:48.000Z",
+        "description": "遁一子，a true man, free guy。油管：AIGC洞见无界播客 |在千年古籍中修心，于经典绝唱里见性。 https://t.co/dD6ecEaaH2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jesselaunz",
+                "end": 82,
+                "expanded_url": "https://www.youtube.com/@jesselaunz",
+                "start": 59,
+                "url": "https://t.co/dD6ecEaaH2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jesselau.com",
+                "end": 23,
+                "expanded_url": "https://jesselau.com/",
+                "start": 0,
+                "url": "https://t.co/1ybg1K9i6w"
+              }
+            ]
+          }
+        },
+        "id": "20571502",
+        "location": "New Zealand",
+        "name": "Jesse Lau 遁一子",
+        "pinned_tweet_id": "1689811434564448256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608599639674224641/GW8MrGWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28369,
+          "following_count": 1893,
+          "like_count": 13644,
+          "listed_count": 460,
+          "media_count": 8976,
+          "tweet_count": 26109
+        },
+        "url": "https://t.co/1ybg1K9i6w",
+        "username": "jesselaunz",
+        "verified": true
+      }
+    ]
+  }
+}

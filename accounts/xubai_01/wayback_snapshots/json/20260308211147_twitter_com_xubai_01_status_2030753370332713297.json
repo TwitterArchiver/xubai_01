@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2030664521040400520",
+    "created_at": "2026-03-08T21:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T22:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030753370332713297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1206800829950259202",
+          "start": 0,
+          "username": "m1ssuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030753370332713297",
+    "in_reply_to_user_id": "1206800829950259202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030664521040400520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1ssuo 还在测试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2030664521040400520",
+        "created_at": "2026-03-08T21:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T22:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030753370332713297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1206800829950259202",
+              "start": 0,
+              "username": "m1ssuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030753370332713297",
+        "in_reply_to_user_id": "1206800829950259202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030664521040400520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1ssuo 还在测试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1206800829950259202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2030664521040400520",
+        "created_at": "2026-03-08T15:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030664521040400520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alx/status/203…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/alx/status/2030492258445783416",
+              "start": 12,
+              "url": "https://t.co/u87SweBcWS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030664521040400520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2383,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030492258445783416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我没看到入口？？ https://t.co/u87SweBcWS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 916,
+          "like_count": 15658,
+          "listed_count": 0,
+          "media_count": 708,
+          "tweet_count": 3406
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-17T04:58:40.000Z",
+        "description": "Founder of @OwO_Network | Operator of AS-OWONET (AS30700, AS60614, etc.) | #WWDC24 | #BGP | https://t.co/aPrcdNJBGd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 75,
+                "tag": "WWDC24"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "BGP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "OwO_Network"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/missuo",
+                "end": 115,
+                "expanded_url": "http://github.com/missuo",
+                "start": 92,
+                "url": "https://t.co/aPrcdNJBGd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "missuo.me",
+                "end": 23,
+                "expanded_url": "https://missuo.me",
+                "start": 0,
+                "url": "https://t.co/PgxKPy6XHr"
+              }
+            ]
+          }
+        },
+        "id": "1206800829950259202",
+        "location": "Pittsburgh, PA",
+        "name": "Vincent Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589233256175923202/CsyqQfsK_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10355,
+          "following_count": 1242,
+          "like_count": 11510,
+          "listed_count": 76,
+          "media_count": 1097,
+          "tweet_count": 6184
+        },
+        "url": "https://t.co/PgxKPy6XHr",
+        "username": "m1ssuo",
+        "verified": true
+      }
+    ]
+  }
+}

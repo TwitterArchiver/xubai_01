@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+          "id": "1502374025170882561",
+          "name": "WhatsApp"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1993800579546808512",
+    "created_at": "2025-11-26T21:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T22:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993800579546808512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1728680622439489536",
+          "start": 3,
+          "username": "mottoye89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993800579546808512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993742399009640593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mottoye89: 請轉發需要的朋友\n各位不幸受火災影響嘅朋友\n我們有8500呎地方\n免費提供地方飲品，小食，公仔麵，充電寶，留宿\n需要隨時聯絡我們\nWhatsapp 63889388\n🌃 地點：Henry Pub\n📍地址：九龍觀塘巧明街94-96號鴻圖中心 9樓B"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1993800579546808512",
+        "created_at": "2025-11-26T21:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T22:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993800579546808512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1728680622439489536",
+              "start": 3,
+              "username": "mottoye89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993800579546808512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993742399009640593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mottoye89: 請轉發需要的朋友\n各位不幸受火災影響嘅朋友\n我們有8500呎地方\n免費提供地方飲品，小食，公仔麵，充電寶，留宿\n需要隨時聯絡我們\nWhatsapp 63889388\n🌃 地點：Henry Pub\n📍地址：九龍觀塘巧明街94-96號鴻圖中心 9樓B"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728680622439489536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1993742399009640593",
+        "created_at": "2025-11-26T18:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993742399009640593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/bbcchinese/status/1993723712160641141",
+              "start": 124,
+              "url": "https://t.co/FyIB6r9Am1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993742399009640593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3071,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993723712160641141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "請轉發需要的朋友\n各位不幸受火災影響嘅朋友\n我們有8500呎地方\n免費提供地方飲品，小食，公仔麵，充電寶，留宿\n需要隨時聯絡我們\nWhatsapp 63889388\n🌃 地點：Henry Pub\n📍地址：九龍觀塘巧明街94-96號鴻圖中心 9樓B https://t.co/FyIB6r9Am1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 587,
+          "like_count": 7138,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 810
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T07:42:46.000Z",
+        "description": "04/infp/女/学生 都会互fo的! 私信什么的有空就回 喜欢大家～能和小夜做朋友的都是好人喔 泛中华文化爱好者 堅定清水不動搖 小号 門檻128 @mottoye64（清水生活推）VPN使用：",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "mottoye64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "a1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://a1.xn--hv1a41u.com/#/register?code=sa89xfNg",
+                "start": 0,
+                "url": "https://t.co/vX7BCLcGBH"
+              }
+            ]
+          }
+        },
+        "id": "1728680622439489536",
+        "location": "九龍城, 香港",
+        "name": "魔盗小夜🇭🇰",
+        "pinned_tweet_id": "1814501627380093009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789530188734455808/eya0OBWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6100,
+          "following_count": 2883,
+          "like_count": 37715,
+          "listed_count": 16,
+          "media_count": 462,
+          "tweet_count": 9906
+        },
+        "url": "https://t.co/vX7BCLcGBH",
+        "username": "mottoye89",
+        "verified": true
+      }
+    ]
+  }
+}

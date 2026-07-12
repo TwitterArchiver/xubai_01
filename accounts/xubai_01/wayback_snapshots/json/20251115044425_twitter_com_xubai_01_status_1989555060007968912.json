@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1989202886501470595",
+    "created_at": "2025-11-15T04:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T05:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989555060007968912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1665661513653420033",
+          "start": 0,
+          "username": "MPaulene7517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989555060007968912",
+    "in_reply_to_user_id": "1665661513653420033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989552965804503249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MPaulene7517 公司资质+房产+法人担保"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1989202886501470595",
+        "created_at": "2025-11-15T04:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T05:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989555060007968912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1665661513653420033",
+              "start": 0,
+              "username": "MPaulene7517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989555060007968912",
+        "in_reply_to_user_id": "1665661513653420033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989552965804503249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MPaulene7517 公司资质+房产+法人担保"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665661513653420033",
+        "conversation_id": "1989202886501470595",
+        "created_at": "2025-11-15T04:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T05:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989552965804503249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989552965804503249",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989202886501470595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 14岁办贷款？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜广州👉深圳",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 547,
+          "like_count": 6420,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 680
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-05T10:07:14.000Z",
+        "description": "及时行乐",
+        "id": "1665661513653420033",
+        "location": "门前大桥下",
+        "name": "年年Milagro Paulene",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941779004861620224/d5FGaFbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 397,
+          "like_count": 1280,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 111
+        },
+        "username": "MPaulene7517",
+        "verified": false
+      }
+    ]
+  }
+}

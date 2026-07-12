@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1990411271624098117",
+    "created_at": "2025-11-18T12:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T13:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990753618673401917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705855853231005696",
+          "start": 0,
+          "username": "real_clover_yan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990753618673401917",
+    "in_reply_to_user_id": "1705855853231005696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990648745374200028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@real_clover_yan 对啊对啊缩水了气疯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1990411271624098117",
+        "created_at": "2025-11-18T12:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T13:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990753618673401917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705855853231005696",
+              "start": 0,
+              "username": "real_clover_yan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990753618673401917",
+        "in_reply_to_user_id": "1705855853231005696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990648745374200028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real_clover_yan 对啊对啊缩水了气疯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705855853231005696",
+        "conversation_id": "1990411271624098117",
+        "created_at": "2025-11-18T05:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T06:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990648745374200028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990648745374200028",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990411271624098117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 卧槽，同企业内也限制 40 分钟了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴版",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 553,
+          "like_count": 6589,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T08:05:19.000Z",
+        "description": "InfoSec @ HainanU／当将死之人化石在灰烬中发芽／INFP-T／男的／🦋 https://t.co/rxsZKGz4Qb／转推、关注、互关不等于完全赞同／放心取关，但请勿双向／会屏蔽人，有误请及时联系／FF 外失礼大丈夫／本人所有账号不主动涉及任何政治内容。／Sorry, but I have a life.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "khyan.top",
+                "end": 67,
+                "expanded_url": "http://khyan.top",
+                "start": 44,
+                "url": "https://t.co/rxsZKGz4Qb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "khyan.top",
+                "end": 23,
+                "expanded_url": "https://www.khyan.top",
+                "start": 0,
+                "url": "https://t.co/xt0HrKTz0b"
+              }
+            ]
+          }
+        },
+        "id": "1705855853231005696",
+        "location": "＜100 m",
+        "name": "𝓒𝓵𝓸𝓿𝓮𝓻 𝓨𝓪𝓷 ～(∠・ω＜)⌒",
+        "pinned_tweet_id": "1818914665768067403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934404192560631808/Y3uGyk_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 750,
+          "like_count": 19104,
+          "listed_count": 3,
+          "media_count": 238,
+          "tweet_count": 4539
+        },
+        "url": "https://t.co/xt0HrKTz0b",
+        "username": "real_clover_yan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2043127938670080419",
+    "created_at": "2026-04-12T08:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043244971516686635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1614421186334851075",
+          "start": 0,
+          "username": "HoneyWhiteCloud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043244971516686635",
+    "in_reply_to_user_id": "1614421186334851075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043149421911929176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoneyWhiteCloud 我去不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2043127938670080419",
+        "created_at": "2026-04-12T08:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043244971516686635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1614421186334851075",
+              "start": 0,
+              "username": "HoneyWhiteCloud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043244971516686635",
+        "in_reply_to_user_id": "1614421186334851075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043149421911929176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoneyWhiteCloud 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614421186334851075",
+        "conversation_id": "2043127938670080419",
+        "created_at": "2026-04-12T02:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043149421911929176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043149421911929176",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043127938670080419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 那不得不买了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初三准高一/10.12.13🎂\nmaimaidx｜爱说梦话/想交朋友。🫠\n欢迎随时联系/心情大爆炸\n\n公司@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119/白@xuba1_\n欢迎互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "yuji53719"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "mcbd1119"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "username": "xuba1_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 1125,
+          "like_count": 18732,
+          "listed_count": 0,
+          "media_count": 897,
+          "tweet_count": 4546
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-15T00:36:43.000Z",
+        "description": "From台灣新北🇹🇼 | 上海讀書📖 | Furry | IT/Hardware/AI👨‍💻/Photographer📷 | 現居蘇州 | 私信🆗 | 身心嚮往自由之地 | 裡推：@cloudbackside",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "cloudbackside"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "honeywhite.cloud",
+                "end": 23,
+                "expanded_url": "http://www.honeywhite.cloud",
+                "start": 0,
+                "url": "https://t.co/lMq73qdn9N"
+              }
+            ]
+          }
+        },
+        "id": "1614421186334851075",
+        "location": "Suzhou ↔️ New Taipei",
+        "name": "𝙃𝙤𝙣𝙚𝙮𝙒𝙝𝙞𝙩𝙚𝘾𝙡𝙤𝙪𝙙｜🌈⛅️",
+        "pinned_tweet_id": "2030349195824246938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999008985089978369/HM_dxqhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 1267,
+          "like_count": 91595,
+          "listed_count": 2,
+          "media_count": 1835,
+          "tweet_count": 12650
+        },
+        "url": "https://t.co/lMq73qdn9N",
+        "username": "HoneyWhiteCloud",
+        "verified": false
+      }
+    ]
+  }
+}

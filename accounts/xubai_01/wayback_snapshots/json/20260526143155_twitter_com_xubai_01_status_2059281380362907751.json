@@ -1,0 +1,571 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about US Foreign Policy",
+          "id": "847876936378441729",
+          "name": "United States Foreign Policy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "US Department of State",
+          "id": "854844910888902656",
+          "name": "US Department of State"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Department of State",
+          "id": "854844910888902656",
+          "name": "US Department of State"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2059281380362907751",
+    "created_at": "2026-05-26T14:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059281380362907751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usa_china_talk…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/usa_china_talk/status/2059187423062430033",
+          "start": 51,
+          "url": "https://t.co/Vt9uLC7QE0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059281380362907751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059187423062430033",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "这对于任何临时身份入境且想转为永久居留的外国人，都不是一件好消息。\n因为你也不知道你还能不能回得来🥲 https://t.co/Vt9uLC7QE0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2059187039996628993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOzs-0WUAE5YRy.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about US Foreign Policy",
+              "id": "847876936378441729",
+              "name": "United States Foreign Policy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "US Department of State",
+              "id": "854844910888902656",
+              "name": "US Department of State"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Department of State",
+              "id": "854844910888902656",
+              "name": "US Department of State"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2059281380362907751",
+        "created_at": "2026-05-26T14:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059281380362907751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usa_china_talk…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/usa_china_talk/status/2059187423062430033",
+              "start": 51,
+              "url": "https://t.co/Vt9uLC7QE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059281380362907751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059187423062430033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "这对于任何临时身份入境且想转为永久居留的外国人，都不是一件好消息。\n因为你也不知道你还能不能回得来🥲 https://t.co/Vt9uLC7QE0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059187039996628993"
+          ]
+        },
+        "author_id": "89421672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about US Foreign Policy",
+              "id": "847876936378441729",
+              "name": "United States Foreign Policy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "US Department of State",
+              "id": "854844910888902656",
+              "name": "US Department of State"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Department of State",
+              "id": "854844910888902656",
+              "name": "US Department of State"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2059187423062430033",
+        "created_at": "2026-05-26T08:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059187423062430033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 86,
+              "id": "9624742",
+              "start": 76,
+              "username": "StateDept"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vNnH8IwiKk",
+              "end": 147,
+              "expanded_url": "https://x.com/USA_China_Talk/status/2059187423062430033/photo/1",
+              "media_key": "3_2059187039996628993",
+              "start": 124,
+              "url": "https://t.co/vNnH8IwiKk"
+            },
+            {
+              "display_url": "x.com/USCIS/status/2…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/USCIS/status/2057825189035999517",
+              "start": 148,
+              "url": "https://t.co/fJ7IbWW6PB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059187423062430033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 86,
+                "id": "9624742",
+                "start": 76,
+                "username": "StateDept"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uscis.gov/newsroom/news-…",
+                "end": 189,
+                "expanded_url": "https://uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary",
+                "start": 166,
+                "url": "https://t.co/rvB2M6yKYf"
+              }
+            ]
+          },
+          "text": "美国公民及移民服务局（USCIS）正依据长期有效的法律及过去的法院裁决，要求部分持有临时签证、且有意在美国永久居留的外国人，必须返回本国，通过美国国务院@StateDept申请永久签证。\n\n我们正回归法律的初衷，确保外国人正确遵循美国的移民程序。\n\n点击以下链接，了解须知信息《美国公民及移民服务局仅在特殊情况下批准“身份调整”》：https://t.co/rvB2M6yKYf"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 187682,
+          "like_count": 434,
+          "quote_count": 29,
+          "reply_count": 91,
+          "retweet_count": 105
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057825189035999517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国公民及移民服务局（USCIS）正依据长期有效的法律及过去的法院裁决，要求部分持有临时签证、且有意在美国永久居留的外国人，必须返回本国，通过美国国务院@StateDept申请永久签证。\n\n我们正回归法律的初衷，确保外国人正确遵循美国的移民程序。 https://t.co/vNnH8IwiKk https://t.co/fJ7IbWW6PB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 1372,
+          "like_count": 22863,
+          "listed_count": 2,
+          "media_count": 1114,
+          "tweet_count": 5776
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631583,
+          "following_count": 173,
+          "like_count": 11,
+          "listed_count": 4385,
+          "media_count": 458,
+          "tweet_count": 2519
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      }
+    ]
+  }
+}

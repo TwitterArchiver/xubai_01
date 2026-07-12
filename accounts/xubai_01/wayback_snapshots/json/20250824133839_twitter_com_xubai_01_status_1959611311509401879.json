@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959611301602492416",
+        "3_1959611301623382016",
+        "3_1959611301594099712"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "1959611311509401879",
+    "created_at": "2025-08-24T13:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T14:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959611311509401879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ULSaQUG92",
+          "end": 31,
+          "expanded_url": "https://x.com/xubai_01/status/1959611311509401879/photo/1",
+          "media_key": "3_1959611301602492416",
+          "start": 8,
+          "url": "https://t.co/3ULSaQUG92"
+        },
+        {
+          "display_url": "pic.x.com/3ULSaQUG92",
+          "end": 31,
+          "expanded_url": "https://x.com/xubai_01/status/1959611311509401879/photo/1",
+          "media_key": "3_1959611301623382016",
+          "start": 8,
+          "url": "https://t.co/3ULSaQUG92"
+        },
+        {
+          "display_url": "pic.x.com/3ULSaQUG92",
+          "end": 31,
+          "expanded_url": "https://x.com/xubai_01/status/1959611311509401879/photo/1",
+          "media_key": "3_1959611301594099712",
+          "start": 8,
+          "url": "https://t.co/3ULSaQUG92"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959611311509401879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯对。三站穿梭 https://t.co/3ULSaQUG92"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1959611311509401879].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1959611311509401879",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1959611311509401879"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1959611301602492416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzHwGKnbgAAzOt_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959611301623382016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzHwGKsaQAAw_z8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1959611301594099712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzHwGKlbcAAVFYa.jpg",
+        "width": 1920
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "@xubai21｜一个人。｜gay0.5｜欢迎互推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "xubai21"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "@xubai21的家里面",
+        "name": "许白",
+        "pinned_tweet_id": "1921545745993261070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942659356492783616/49Kzra0l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 183,
+          "like_count": 2258,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 147
+        },
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

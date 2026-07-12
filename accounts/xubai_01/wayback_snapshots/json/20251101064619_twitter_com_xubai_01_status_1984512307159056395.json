@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1984241299592290560",
+    "created_at": "2025-11-01T06:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T07:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984512307159056395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850075259120369664",
+          "start": 0,
+          "username": "wumeilv_ai"
+        },
+        {
+          "end": 21,
+          "id": "1601893417549967360",
+          "start": 12,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984512307159056395",
+    "in_reply_to_user_id": "1850075259120369664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984469261650444508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wumeilv_ai @AcboxLiu 没招了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1984241299592290560",
+        "created_at": "2025-11-01T06:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T07:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984512307159056395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850075259120369664",
+              "start": 0,
+              "username": "wumeilv_ai"
+            },
+            {
+              "end": 21,
+              "id": "1601893417549967360",
+              "start": 12,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984512307159056395",
+        "in_reply_to_user_id": "1850075259120369664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984469261650444508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wumeilv_ai @AcboxLiu 没招了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850075259120369664",
+        "conversation_id": "1984241299592290560",
+        "created_at": "2025-11-01T03:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984469261650444508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984469261650444508",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1493,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984347288521883764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 我本来就没有啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia｜舍曲林你他妈要咋滴副作用那么多｜爱说梦话/想交朋友。🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 468,
+          "like_count": 5045,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T07:21:38.000Z",
+        "description": "🎯AI编程入门与提效📌出海实战与案例分享❤️自媒体与流量增长🏃‍♀️正在尝试通过AI编程搭建第一个出海网站 知识星球：吴美律AI实战营",
+        "id": "1850075259120369664",
+        "name": "吴美律AI日记",
+        "pinned_tweet_id": "1983196489376772512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963855479287037952/va2PFwKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 444,
+          "like_count": 1545,
+          "listed_count": 20,
+          "media_count": 66,
+          "tweet_count": 743
+        },
+        "username": "wumeilv_ai",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🟦TypeScript重度依赖/🐱Github: sheepbox8646/💼日常远程工作/Building ChalkAI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvcLr"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳·西乡",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1964617558675611999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8363,
+          "following_count": 2979,
+          "like_count": 2842,
+          "listed_count": 33,
+          "media_count": 1085,
+          "tweet_count": 5515
+        },
+        "url": "https://t.co/mRP5RDvcLr",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

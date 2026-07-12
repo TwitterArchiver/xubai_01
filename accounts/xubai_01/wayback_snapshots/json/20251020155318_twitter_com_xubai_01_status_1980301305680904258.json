@@ -1,0 +1,542 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Geology",
+          "id": "847897009281355776",
+          "name": "Geology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026792024",
+          "name": "Amazon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040695083",
+          "name": "Amazon Web Services (AWS)"
+        }
+      }
+    ],
+    "conversation_id": "1980301305680904258",
+    "created_at": "2025-10-20T15:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T16:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980301305680904258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "火山引擎是字节跳动旗下的云服务平台，将字节跳动快速发展过程中积累的增长方法、技术能力和应用工具开放给外部企业，提供云基础、视频与内容分发、数智平台VeDI、人工智能、开发与运维等服务，帮助企业在数字化升级中实现持续增长。",
+          "display_url": "partner.volcengine.com/partners/auth/…",
+          "end": 63,
+          "expanded_url": "https://partner.volcengine.com/partners/auth/confirm?inviteToken=TFQRGZEXOB1BPLV3AV6P05TKT0SO2OJMA5U9BB55VFOQMCWAI0R7U531F6MFZM7C&partnerType=104&partnerName=%E6%B5%B7%E5%8D%97%E7%9C%81%E5%84%8B%E5%B7%9E%E5%B8%82%E8%AE%B8%E7%99%BD%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96%E4%BC%A0%E5%AA%92%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&identityType=10",
+          "start": 40,
+          "status": 200,
+          "title": "火山引擎-云上增长新动力",
+          "unwound_url": "https://partner.volcengine.com/partners/auth/confirm?inviteToken=TFQRGZEXOB1BPLV3AV6P05TKT0SO2OJMA5U9BB55VFOQMCWAI0R7U531F6MFZM7C&partnerType=104&partnerName=%E6%B5%B7%E5%8D%97%E7%9C%81%E5%84%8B%E5%B7%9E%E5%B8%82%E8%AE%B8%E7%99%BD%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96%E4%BC%A0%E5%AA%92%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&identityType=10",
+          "url": "https://t.co/AFN8LgPQJa"
+        },
+        {
+          "display_url": "x.com/unixzii/status…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/unixzii/status/1980226850849988875",
+          "start": 64,
+          "url": "https://t.co/LbxdTwNhfp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980301305680904258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980226850849988875",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这时候我突然想起火山引擎+飞书（飞链）了..\n做我的客户 我给你发券好不好🥺\n\nhttps://t.co/AFN8LgPQJa https://t.co/LbxdTwNhfp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Geology",
+              "id": "847897009281355776",
+              "name": "Geology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "1980301305680904258",
+        "created_at": "2025-10-20T15:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980301305680904258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "火山引擎是字节跳动旗下的云服务平台，将字节跳动快速发展过程中积累的增长方法、技术能力和应用工具开放给外部企业，提供云基础、视频与内容分发、数智平台VeDI、人工智能、开发与运维等服务，帮助企业在数字化升级中实现持续增长。",
+              "display_url": "partner.volcengine.com/partners/auth/…",
+              "end": 63,
+              "expanded_url": "https://partner.volcengine.com/partners/auth/confirm?inviteToken=TFQRGZEXOB1BPLV3AV6P05TKT0SO2OJMA5U9BB55VFOQMCWAI0R7U531F6MFZM7C&partnerType=104&partnerName=%E6%B5%B7%E5%8D%97%E7%9C%81%E5%84%8B%E5%B7%9E%E5%B8%82%E8%AE%B8%E7%99%BD%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96%E4%BC%A0%E5%AA%92%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&identityType=10",
+              "start": 40,
+              "status": 200,
+              "title": "火山引擎-云上增长新动力",
+              "unwound_url": "https://partner.volcengine.com/partners/auth/confirm?inviteToken=TFQRGZEXOB1BPLV3AV6P05TKT0SO2OJMA5U9BB55VFOQMCWAI0R7U531F6MFZM7C&partnerType=104&partnerName=%E6%B5%B7%E5%8D%97%E7%9C%81%E5%84%8B%E5%B7%9E%E5%B8%82%E8%AE%B8%E7%99%BD%E7%BD%91%E7%BB%9C%E6%96%87%E5%8C%96%E4%BC%A0%E5%AA%92%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&identityType=10",
+              "url": "https://t.co/AFN8LgPQJa"
+            },
+            {
+              "display_url": "x.com/unixzii/status…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/unixzii/status/1980226850849988875",
+              "start": 64,
+              "url": "https://t.co/LbxdTwNhfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980301305680904258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980226850849988875",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这时候我突然想起火山引擎+飞书（飞链）了..\n做我的客户 我给你发券好不好🥺\n\nhttps://t.co/AFN8LgPQJa https://t.co/LbxdTwNhfp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "635941366",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "1980226850849988875",
+        "created_at": "2025-10-20T10:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T11:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980226850849988875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980226850849988875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 27087,
+          "like_count": 342,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "Zoom：快问问 AWS 那边怎么了，我们服务全挂了\nAWS：快问问 Zoom 那边怎么了，我们会都开不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 387,
+          "like_count": 3953,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-15T05:48:20.000Z",
+        "description": "Gen Z. Internetrovert. No-stack engineer. UX enthusiast. Console gamer. Curiosity-driven learner. The rebel. He/him 🏳️‍🌈. Stand w/ 🇺🇦. Opinions are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyandev.app",
+                "end": 23,
+                "expanded_url": "https://cyandev.app",
+                "start": 0,
+                "url": "https://t.co/tnjbWvL8Lh"
+              }
+            ]
+          }
+        },
+        "id": "635941366",
+        "location": "Universe",
+        "name": "Cyandev",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662772448696365056/m4N0QjDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15199,
+          "following_count": 196,
+          "like_count": 5600,
+          "listed_count": 116,
+          "media_count": 1165,
+          "tweet_count": 8925
+        },
+        "url": "https://t.co/tnjbWvL8Lh",
+        "username": "unixzii",
+        "verified": false
+      }
+    ]
+  }
+}

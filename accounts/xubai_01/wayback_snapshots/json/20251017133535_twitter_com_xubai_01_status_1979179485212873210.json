@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "1979179313829417063",
+    "created_at": "2025-10-17T13:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T14:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979179485212873210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979179485212873210",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979179313829417063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 🤔️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "1979179313829417063",
+        "created_at": "2025-10-17T13:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979179485212873210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979179485212873210",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979179313829417063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 🤔️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "1979179313829417063",
+        "created_at": "2025-10-17T13:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979179313829417063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "docs.pageindex.ai",
+              "end": 52,
+              "expanded_url": "http://docs.pageindex.ai",
+              "images": [
+                {
+                  "height": 4048,
+                  "url": "https://pbs.twimg.com/news_img/1979179358146433028/7kC7zqd5?format=jpg&name=orig",
+                  "width": 7200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1979179358146433028/7kC7zqd5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "PageIndex",
+              "unwound_url": "https://docs.pageindex.ai/",
+              "url": "https://t.co/d2cplaApny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979179313829417063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "docs.pageindex.ai",
+                "end": 52,
+                "expanded_url": "http://docs.pageindex.ai",
+                "start": 29,
+                "url": "https://t.co/VIxmmlaiyy"
+              }
+            ]
+          },
+          "text": "刚才看到了一个vectorless的RAG解决方案，文档：https://t.co/VIxmmlaiyy\n和我一直在用的vectorless方案差不多，只不过我习惯写一个ts的统一格式接口写文档，这个东西对于文本检索会把你的文本按语义和小节整理成一个树，每一个chunk会有一个编号，llm在使用时需被手动传入这个树的summary，然后通过格式化输出或者工具调用传入这些编号，最后机械检索出具体内容"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才看到了一个vectorless的RAG解决方案，文档：https://t.co/d2cplaApny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜14岁/初中｜什么领域都懂一点点/人｜嘉兴/杭州/江浙沪常驻｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "1978469811253649857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 369,
+          "like_count": 3792,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🐱Github: sheepbox8646/💼日常远程工作/🏳️‍⚧️写代码的小女孩/想要成为人类的小阿斯/Building ChalkAI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳·西乡",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1964617558675611999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7416,
+          "following_count": 2959,
+          "like_count": 2767,
+          "listed_count": 30,
+          "media_count": 1056,
+          "tweet_count": 5294
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

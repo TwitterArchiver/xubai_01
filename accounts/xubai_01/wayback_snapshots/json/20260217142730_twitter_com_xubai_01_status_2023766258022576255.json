@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023382134266724352"
+      ],
+      "media_source_tweet_id": [
+        "2023382143599276293"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2023766258022576255",
+    "created_at": "2026-02-17T14:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T15:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023766258022576255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1586332050528915457",
+          "start": 3,
+          "username": "lilaoshizuikeai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7ikWZAlYuB",
+          "end": 55,
+          "expanded_url": "https://x.com/lilaoshizuikeai/status/2023382143599276293/photo/1",
+          "media_key": "3_2023382134266724352",
+          "start": 32,
+          "url": "https://t.co/7ikWZAlYuB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023766258022576255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023382143599276293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilaoshizuikeai: 怎么跟习近平一个待遇 https://t.co/7ikWZAlYuB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1207,
+        "media_key": "3_2023382134266724352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBR_VK3XAAAoMYt.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023382134266724352"
+          ],
+          "media_source_tweet_id": [
+            "2023382143599276293"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2023766258022576255",
+        "created_at": "2026-02-17T14:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023766258022576255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1586332050528915457",
+              "start": 3,
+              "username": "lilaoshizuikeai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ikWZAlYuB",
+              "end": 55,
+              "expanded_url": "https://x.com/lilaoshizuikeai/status/2023382143599276293/photo/1",
+              "media_key": "3_2023382134266724352",
+              "start": 32,
+              "url": "https://t.co/7ikWZAlYuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023766258022576255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023382143599276293",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilaoshizuikeai: 怎么跟习近平一个待遇 https://t.co/7ikWZAlYuB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023382134266724352"
+          ]
+        },
+        "author_id": "1586332050528915457",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2023382143599276293",
+        "created_at": "2026-02-16T13:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T14:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023382143599276293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ikWZAlYuB",
+              "end": 34,
+              "expanded_url": "https://x.com/lilaoshizuikeai/status/2023382143599276293/photo/1",
+              "media_key": "3_2023382134266724352",
+              "start": 11,
+              "url": "https://t.co/7ikWZAlYuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023382143599276293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 414395,
+          "like_count": 1506,
+          "quote_count": 10,
+          "reply_count": 56,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "怎么跟习近平一个待遇 https://t.co/7ikWZAlYuB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "yuji53719"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州🔜嘉兴",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 854,
+          "like_count": 14841,
+          "listed_count": 0,
+          "media_count": 641,
+          "tweet_count": 3055
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004333954157989888/FRDtrJk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252614,
+          "following_count": 745,
+          "like_count": 5806,
+          "listed_count": 1348,
+          "media_count": 1407,
+          "tweet_count": 7242
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

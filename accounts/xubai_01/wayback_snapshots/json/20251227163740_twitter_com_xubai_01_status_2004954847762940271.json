@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2004105265701114055",
+    "created_at": "2025-12-27T16:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T17:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004954847762940271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1471310582070464512",
+          "start": 0,
+          "username": "L_eacc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004954847762940271",
+    "in_reply_to_user_id": "1471310582070464512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004105265701114055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L_eacc 我笑的不行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "3_2004105234965221376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ADF86aUAAjSAm.png",
+        "width": 380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2004105265701114055",
+        "created_at": "2025-12-27T16:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T17:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004954847762940271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1471310582070464512",
+              "start": 0,
+              "username": "L_eacc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004954847762940271",
+        "in_reply_to_user_id": "1471310582070464512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004105265701114055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L_eacc 我笑的不行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004105234965221376"
+          ]
+        },
+        "author_id": "1471310582070464512",
+        "conversation_id": "2004105265701114055",
+        "created_at": "2025-12-25T08:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T09:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004105265701114055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SZ7AdO5EI",
+              "end": 31,
+              "expanded_url": "https://x.com/L_eacc/status/2004105265701114055/photo/1",
+              "media_key": "3_2004105234965221376",
+              "start": 8,
+              "url": "https://t.co/7SZ7AdO5EI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004105265701114055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1645,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很难靠头像分清 https://t.co/7SZ7AdO5EI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜心情大爆炸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 792,
+          "like_count": 11990,
+          "listed_count": 0,
+          "media_count": 445,
+          "tweet_count": 1987
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T02:46:07.000Z",
+        "description": "e/acc | #AI #玩卡 #充电头 #软路由 | crypto @lyle_defi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "AI"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "玩卡"
+              },
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "充电头"
+              },
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "软路由"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "lyle_defi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lyle.im",
+                "end": 23,
+                "expanded_url": "http://lyle.im",
+                "start": 0,
+                "url": "https://t.co/b8u4UkU7Ha"
+              }
+            ]
+          }
+        },
+        "id": "1471310582070464512",
+        "name": "ℓ",
+        "pinned_tweet_id": "1966435896472883577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962784054484574208/7TTI45B1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6146,
+          "following_count": 298,
+          "like_count": 19804,
+          "listed_count": 35,
+          "media_count": 1251,
+          "tweet_count": 10396
+        },
+        "url": "https://t.co/b8u4UkU7Ha",
+        "username": "L_eacc",
+        "verified": false
+      }
+    ]
+  }
+}

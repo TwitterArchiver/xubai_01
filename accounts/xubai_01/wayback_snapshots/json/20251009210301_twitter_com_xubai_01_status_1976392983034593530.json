@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976392974214041600"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "1976392983034593530",
+    "created_at": "2025-10-09T21:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T22:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976392983034593530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jXJ7DFQ4GG",
+          "end": 40,
+          "expanded_url": "https://x.com/xubai_01/status/1976392983034593530/photo/1",
+          "media_key": "3_1976392974214041600",
+          "start": 17,
+          "url": "https://t.co/jXJ7DFQ4GG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976392983034593530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "666大半夜被叫起来完善业务逻辑 https://t.co/jXJ7DFQ4GG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 898,
+        "media_key": "3_1976392974214041600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G22O8EybEAAdlYN.jpg",
+        "width": 1852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976392974214041600"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "1976392983034593530",
+        "created_at": "2025-10-09T21:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T22:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976392983034593530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jXJ7DFQ4GG",
+              "end": 40,
+              "expanded_url": "https://x.com/xubai_01/status/1976392983034593530/photo/1",
+              "media_key": "3_1976392974214041600",
+              "start": 17,
+              "url": "https://t.co/jXJ7DFQ4GG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976392983034593530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "666大半夜被叫起来完善业务逻辑 https://t.co/jXJ7DFQ4GG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜梦到啥就发啥！2010年的｜一个什么圈子都混一点的莫名其妙的人。｜上学命苦，回来一看手机更命苦！｜Founder @xubaimedia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xurui365.top",
+                "end": 23,
+                "expanded_url": "http://xurui365.top",
+                "start": 0,
+                "url": "https://t.co/zJ1tCqeNnG"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 300,
+          "like_count": 3321,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/zJ1tCqeNnG",
+        "username": "xubai_01",
+        "verified": false
+      }
+    ]
+  }
+}

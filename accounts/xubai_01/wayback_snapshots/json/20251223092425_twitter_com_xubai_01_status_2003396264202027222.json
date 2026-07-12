@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2003396264202027222",
+    "created_at": "2025-12-23T09:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T10:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003396264202027222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1603242290818215937",
+          "start": 3,
+          "username": "smallsh61600550"
+        },
+        {
+          "end": 37,
+          "id": "792526628249341952",
+          "start": 21,
+          "username": "flyingfish_twi2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003396264202027222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003374624361578811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smallsh61600550: @flyingfish_twi2 可以骗走3w吗（乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2003396264202027222",
+        "created_at": "2025-12-23T09:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003396264202027222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1603242290818215937",
+              "start": 3,
+              "username": "smallsh61600550"
+            },
+            {
+              "end": 37,
+              "id": "792526628249341952",
+              "start": 21,
+              "username": "flyingfish_twi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003396264202027222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003374624361578811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smallsh61600550: @flyingfish_twi2 可以骗走3w吗（乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603242290818215937",
+        "conversation_id": "2003065434531410288",
+        "created_at": "2025-12-23T07:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T08:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003374624361578811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "792526628249341952",
+              "start": 0,
+              "username": "flyingfish_twi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003374624361578811",
+        "in_reply_to_user_id": "792526628249341952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003065434531410288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyingfish_twi2 可以骗走3w吗（乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/@xubai22｜15岁/初中/12.13🎂/OKX神秘亏钱王交易员｜ADHD&中抑重焦｜Founder @xubaimedia/创业还钱中｜爱说梦话/想交朋友。🫠｜全业务｜2601：宁波/武汉/长沙/昆明｜欢迎随时dm我｜啥意思。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xubai22"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜嘉兴/杭州",
+        "pinned_tweet_id": "1991990876240031916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 768,
+          "like_count": 11299,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T04:15:45.000Z",
+        "description": "叫我初醒即可",
+        "id": "1603242290818215937",
+        "name": "8H_初醒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941044896737251328/4-2dH36b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3290,
+          "following_count": 250,
+          "like_count": 1215,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 864
+        },
+        "username": "smallsh61600550",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-30T00:40:47.000Z",
+        "description": "飞鱼    听凭我心意 he/him 中文 or English 点赞和评论非常能代表本人观点 ENFP-T 喜茶梦男（已奔现）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gemini.google.com",
+                "end": 23,
+                "expanded_url": "http://gemini.google.com",
+                "start": 0,
+                "url": "https://t.co/WH8BYNN8zJ"
+              }
+            ]
+          }
+        },
+        "id": "792526628249341952",
+        "name": "_",
+        "pinned_tweet_id": "1934619908350017937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998552430825668608/xU2CoASR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 667,
+          "like_count": 12799,
+          "listed_count": 2,
+          "media_count": 492,
+          "tweet_count": 5320
+        },
+        "url": "https://t.co/WH8BYNN8zJ",
+        "username": "flyingfish_twi2",
+        "verified": false
+      }
+    ]
+  }
+}

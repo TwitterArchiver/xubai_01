@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2014117186051461551",
+    "created_at": "2026-01-22T14:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T15:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014348879106584739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1422800225777897472",
+          "start": 0,
+          "username": "PhileasFogg2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014348879106584739",
+    "in_reply_to_user_id": "1422800225777897472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014342971941077064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhileasFogg2007 是！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2014117186051461551",
+        "created_at": "2026-01-22T14:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014348879106584739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1422800225777897472",
+              "start": 0,
+              "username": "PhileasFogg2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014348879106584739",
+        "in_reply_to_user_id": "1422800225777897472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014342971941077064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhileasFogg2007 是！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422800225777897472",
+        "conversation_id": "2014117186051461551",
+        "created_at": "2026-01-22T14:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014342971941077064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014342971941077064",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014117186051461551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 啊啊这个烧卖皮好薄，而且里面包的是肉😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜行程：大湾区、云川（一月中旬｜欢迎随时联系/心情大爆炸｜友链：@xubaimedia/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "yuji53719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoTIIw"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白🔜杭州/嘉兴",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 861,
+          "like_count": 13840,
+          "listed_count": 0,
+          "media_count": 588,
+          "tweet_count": 2761
+        },
+        "url": "https://t.co/1oWYOoTIIw",
+        "username": "xubai_01",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T06:03:14.000Z",
+        "description": "ᵕ̈ 欢迎光临！展页佳！💃名字叫福格Fogg🌳出厂日期2007 ,大一在读🌲🌴平常喜欢一个人吃饭和旅行🏔️🚲还喜欢森林,草原,湖泊,雪山和海洋，热爱Sims和音乐剧！🏊🎾ENFJ🧦扩列&互fo可以私信，欢迎匿名提问！XwX会先说抱歉🏗️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/phileasfogg2007",
+                "end": 23,
+                "expanded_url": "https://ngl.link/phileasfogg2007",
+                "start": 0,
+                "url": "https://t.co/U7xC0JERDY"
+              }
+            ]
+          }
+        },
+        "id": "1422800225777897472",
+        "location": "🌊南京🌸",
+        "name": "福格ʕ •ᴥ•ʔ🌲",
+        "pinned_tweet_id": "1991913479742394793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013625450354900993/-8rDiVsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 358,
+          "like_count": 65738,
+          "listed_count": 5,
+          "media_count": 1331,
+          "tweet_count": 11122
+        },
+        "url": "https://t.co/U7xC0JERDY",
+        "username": "PhileasFogg2007",
+        "verified": false
+      }
+    ]
+  }
+}
