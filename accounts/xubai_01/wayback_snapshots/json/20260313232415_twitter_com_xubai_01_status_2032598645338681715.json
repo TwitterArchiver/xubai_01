@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032598641098285056"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2032598645338681715",
+    "created_at": "2026-03-13T23:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T00:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032598645338681715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vMYphkVPjf",
+          "end": 38,
+          "expanded_url": "https://x.com/xubai_01/status/2032598645338681715/photo/1",
+          "media_key": "3_2032598641098285056",
+          "start": 15,
+          "url": "https://t.co/vMYphkVPjf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032598645338681715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去洛杉矶打maimai😋😋😋 https://t.co/vMYphkVPjf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032598641098285056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDU9seWa4AAYwYu.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032598641098285056"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2032598645338681715",
+        "created_at": "2026-03-13T23:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T00:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032598645338681715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMYphkVPjf",
+              "end": 38,
+              "expanded_url": "https://x.com/xubai_01/status/2032598645338681715/photo/1",
+              "media_key": "3_2032598641098285056",
+              "start": 15,
+              "url": "https://t.co/vMYphkVPjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032598645338681715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去洛杉矶打maimai😋😋😋 https://t.co/vMYphkVPjf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "🇺🇸🏳️‍🌈/15岁/初中/12.13🎂/maimaidx｜爱说梦话/想交朋友。🫠｜欢迎随时联系/心情大爆炸｜友链@xubaimedia/鲤鱼@yuji53719/🐭@mcbd1119",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "yuji53719"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mcbd1119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "localhost:11451",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 915,
+          "like_count": 15943,
+          "listed_count": 0,
+          "media_count": 743,
+          "tweet_count": 3528
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      }
+    ]
+  }
+}
