@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076897256276680704"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2076897260085166346",
+    "created_at": "2026-07-14T05:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076897260085166346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BkleyfUJyu",
+          "end": 37,
+          "expanded_url": "https://x.com/xubai_01/status/2076897260085166346/photo/1",
+          "media_key": "3_2076897256276680704",
+          "start": 14,
+          "url": "https://t.co/BkleyfUJyu"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "1193edda55d6fa3d"
+    },
+    "id": "2076897260085166346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "…\n我怎么还在橙县啊喂！！ https://t.co/BkleyfUJyu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [1193edda55d6fa3d].",
+      "parameter": "geo.place_id",
+      "resource_id": "1193edda55d6fa3d",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1193edda55d6fa3d"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076897256276680704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKfDPta4AAvBk8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076897256276680704"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2076897260085166346",
+        "created_at": "2026-07-14T05:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076897260085166346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BkleyfUJyu",
+              "end": 37,
+              "expanded_url": "https://x.com/xubai_01/status/2076897260085166346/photo/1",
+              "media_key": "3_2076897256276680704",
+              "start": 14,
+              "url": "https://t.co/BkleyfUJyu"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "1193edda55d6fa3d"
+        },
+        "id": "2076897260085166346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…\n我怎么还在橙县啊喂！！ https://t.co/BkleyfUJyu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 1672,
+          "like_count": 26254,
+          "listed_count": 2,
+          "media_count": 1332,
+          "tweet_count": 7212
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      }
+    ]
+  }
+}

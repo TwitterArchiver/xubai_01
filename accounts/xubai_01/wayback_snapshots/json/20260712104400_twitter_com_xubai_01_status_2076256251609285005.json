@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076256247431745536",
+        "3_2076256247444373504"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1347262156056580096",
+          "name": "Apple Facetime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2076256251609285005",
+    "created_at": "2026-07-12T10:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076256251609285005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VXPkJ3amks",
+          "end": 51,
+          "expanded_url": "https://x.com/xubai_01/status/2076256251609285005/photo/1",
+          "media_key": "3_2076256247431745536",
+          "start": 28,
+          "url": "https://t.co/VXPkJ3amks"
+        },
+        {
+          "display_url": "pic.x.com/VXPkJ3amks",
+          "end": 51,
+          "expanded_url": "https://x.com/xubai_01/status/2076256251609285005/photo/1",
+          "media_key": "3_2076256247444373504",
+          "start": 28,
+          "url": "https://t.co/VXPkJ3amks"
+        },
+        {
+          "display_url": "x.com/kevinyang0803/…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/kevinyang0803/status/2076240651533045887",
+          "start": 52,
+          "url": "https://t.co/LlvTn93jXg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076256251609285005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076240651533045887",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人给我打FaceTime只是为了展示一些神秘的东西： https://t.co/VXPkJ3amks https://t.co/LlvTn93jXg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076256247431745536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBYDnra0AAxQM1.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076256247444373504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBYDnubgAAroKT.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076256247431745536",
+            "3_2076256247444373504"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347262156056580096",
+              "name": "Apple Facetime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2076256251609285005",
+        "created_at": "2026-07-12T10:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076256251609285005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXPkJ3amks",
+              "end": 51,
+              "expanded_url": "https://x.com/xubai_01/status/2076256251609285005/photo/1",
+              "media_key": "3_2076256247431745536",
+              "start": 28,
+              "url": "https://t.co/VXPkJ3amks"
+            },
+            {
+              "display_url": "pic.x.com/VXPkJ3amks",
+              "end": 51,
+              "expanded_url": "https://x.com/xubai_01/status/2076256251609285005/photo/1",
+              "media_key": "3_2076256247444373504",
+              "start": 28,
+              "url": "https://t.co/VXPkJ3amks"
+            },
+            {
+              "display_url": "x.com/kevinyang0803/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/kevinyang0803/status/2076240651533045887",
+              "start": 52,
+              "url": "https://t.co/LlvTn93jXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076256251609285005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076240651533045887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人给我打FaceTime只是为了展示一些神秘的东西： https://t.co/VXPkJ3amks https://t.co/LlvTn93jXg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918520790775115776",
+        "conversation_id": "2076240651533045887",
+        "created_at": "2026-07-12T09:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076240651533045887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076240651533045887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某人人机回复包括但不限于：\n1.我去不早说\n2.还有xx环节\n3.嗨\n4.何意味\n5.吓哭了\n6.模仿Apple or 深圳/香港地铁粤语版\n7.绷不住了\n8.人之常情\n欢迎补充......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 1664,
+          "like_count": 26086,
+          "listed_count": 2,
+          "media_count": 1325,
+          "tweet_count": 7142
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-03T04:19:57.000Z",
+        "description": "08/170/63｜深圳男高｜男🌈｜ENFJ｜ 爱好很杂，比如航空/轨道交通 这里主要记录我的个人生活碎片😊，欢迎主动来找我🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KevinYangPress…",
+                "end": 23,
+                "expanded_url": "https://t.me/KevinYangPressConference",
+                "start": 0,
+                "url": "https://t.co/11vceEvhQ4"
+              }
+            ]
+          }
+        },
+        "id": "1918520790775115776",
+        "name": "KevinYang",
+        "pinned_tweet_id": "2061074931803386079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075417588612689920/rdNI47sV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9299,
+          "following_count": 666,
+          "like_count": 13577,
+          "listed_count": 8,
+          "media_count": 719,
+          "tweet_count": 5619
+        },
+        "url": "https://t.co/11vceEvhQ4",
+        "username": "KevinYang0803",
+        "verified": true
+      }
+    ]
+  }
+}
