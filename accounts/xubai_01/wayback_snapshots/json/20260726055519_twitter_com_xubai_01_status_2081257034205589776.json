@@ -1,0 +1,780 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081257030585901056"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Cybersecurity",
+          "id": "898650876658634752",
+          "name": "Cybersecurity"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cybersecurity",
+          "id": "898650876658634752",
+          "name": "Cybersecurity"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Security",
+          "id": "1047123725525479425",
+          "name": "Information security"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Privacy",
+          "id": "1088443224425807872",
+          "name": "Information Privacy Worldwide"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "NVIDIA - AI",
+          "id": "10050907860",
+          "name": "NVIDIA - AI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2081257034205589776",
+    "created_at": "2026-07-26T05:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081257034205589776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mUGrgwQnZj",
+          "end": 23,
+          "expanded_url": "https://x.com/xubai_01/status/2081257034205589776/photo/1",
+          "media_key": "3_2081257030585901056",
+          "start": 0,
+          "url": "https://t.co/mUGrgwQnZj"
+        },
+        {
+          "display_url": "x.com/jensenhuang/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/jensenhuang/status/2080643682408321103",
+          "start": 24,
+          "url": "https://t.co/U5h9CzW3qx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081257034205589776",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080643682408321103",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/mUGrgwQnZj https://t.co/U5h9CzW3qx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081257030585901056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIcPgpbYAAuJDW.jpg",
+        "width": 921
+      },
+      {
+        "height": 1584,
+        "media_key": "3_2080638895952420864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_qDVsa4AAI6XJ.jpg",
+        "width": 1224
+      },
+      {
+        "height": 1584,
+        "media_key": "3_2080638895990173696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_qDV1a8AARQwg.jpg",
+        "width": 1224
+      },
+      {
+        "height": 1584,
+        "media_key": "3_2080638895990161408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_qDV1awAAPTlH.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081257030585901056"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "NVIDIA - AI",
+              "id": "10050907860",
+              "name": "NVIDIA - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2081257034205589776",
+        "created_at": "2026-07-26T05:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081257034205589776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mUGrgwQnZj",
+              "end": 23,
+              "expanded_url": "https://x.com/xubai_01/status/2081257034205589776/photo/1",
+              "media_key": "3_2081257030585901056",
+              "start": 0,
+              "url": "https://t.co/mUGrgwQnZj"
+            },
+            {
+              "display_url": "x.com/jensenhuang/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/jensenhuang/status/2080643682408321103",
+              "start": 24,
+              "url": "https://t.co/U5h9CzW3qx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081257034205589776",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080643682408321103",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/mUGrgwQnZj https://t.co/U5h9CzW3qx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080638895952420864",
+            "3_2080638895990173696",
+            "3_2080638895990161408"
+          ]
+        },
+        "author_id": "2070631956824698880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "NVIDIA - AI",
+              "id": "10050907860",
+              "name": "NVIDIA - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2080643682408321103",
+        "created_at": "2026-07-24T13:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080643682408321103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 47,
+              "id": "61559439",
+              "start": 40,
+              "username": "nvidia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t02bi51N4C",
+              "end": 303,
+              "expanded_url": "https://x.com/JensenHuang/status/2080643682408321103/photo/1",
+              "media_key": "3_2080638895952420864",
+              "start": 280,
+              "url": "https://t.co/t02bi51N4C"
+            },
+            {
+              "display_url": "pic.x.com/t02bi51N4C",
+              "end": 303,
+              "expanded_url": "https://x.com/JensenHuang/status/2080643682408321103/photo/1",
+              "media_key": "3_2080638895990173696",
+              "start": 280,
+              "url": "https://t.co/t02bi51N4C"
+            },
+            {
+              "display_url": "pic.x.com/t02bi51N4C",
+              "end": 303,
+              "expanded_url": "https://x.com/JensenHuang/status/2080643682408321103/photo/1",
+              "media_key": "3_2080638895990161408",
+              "start": 280,
+              "url": "https://t.co/t02bi51N4C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080643682408321103",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 47,
+                "id": "61559439",
+                "start": 40,
+                "username": "NVIDIA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "images.nvidia.com/pdf/Open-Weigh…",
+                "end": 375,
+                "expanded_url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+                "start": 352,
+                "url": "https://t.co/AUKzoQ5Ikb"
+              }
+            ]
+          },
+          "text": "For my first post, I’m sharing a letter @NVIDIA signed on why open models matter.\n\nAI will transform every industry, power every company, and be built by every country.\n\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.\n\nThe world needs both frontier closed models and frontier open models.\n\nhttps://t.co/AUKzoQ5Ikb"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38061,
+          "impression_count": 56823531,
+          "like_count": 162572,
+          "quote_count": 10225,
+          "reply_count": 15465,
+          "retweet_count": 28005
+        },
+        "reply_settings": "everyone",
+        "text": "For my first post, I’m sharing a letter @NVIDIA signed on why open models matter.\n\nAI will transform every industry, power every company, and be built by every country.\n\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty. https://t.co/t02bi51N4C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 1678,
+          "like_count": 26889,
+          "listed_count": 2,
+          "media_count": 1389,
+          "tweet_count": 7588
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-26T22:17:36.000Z",
+        "description": "Founder and CEO of NVIDIA.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nvidianews.nvidia.com/bios/jensen-hu…",
+                "end": 23,
+                "expanded_url": "https://nvidianews.nvidia.com/bios/jensen-huang",
+                "start": 0,
+                "url": "https://t.co/kWCNU4aFyt"
+              }
+            ]
+          }
+        },
+        "id": "2070631956824698880",
+        "location": "Santa Clara",
+        "name": "Jensen Huang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080613261674962944/OMXX4RJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881339,
+          "following_count": 52,
+          "like_count": 1,
+          "listed_count": 2447,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/kWCNU4aFyt",
+        "username": "JensenHuang",
+        "verified": true
+      }
+    ]
+  }
+}

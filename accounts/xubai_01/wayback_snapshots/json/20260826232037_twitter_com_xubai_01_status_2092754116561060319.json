@@ -1,0 +1,558 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092622871923400704"
+      ],
+      "media_source_tweet_id": [
+        "2092622982586020153"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418276436410920960",
+          "name": "Pixiv Fanbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418276436410920960",
+          "name": "Pixiv Fanbox"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2092754116561060319",
+    "created_at": "2026-08-26T23:20:37.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T00:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092754116561060319"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 35,
+          "tag": "おにまいお絵描き"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "370674451",
+          "start": 3,
+          "username": "shenaexcel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "shenaexcel.fanbox.cc/posts/12489551…",
+          "end": 98,
+          "expanded_url": "https://shenaexcel.fanbox.cc/posts/12489551?utm_campaign=manage_post_page&utm_medium=share&utm_source=twitter",
+          "start": 75,
+          "unwound_url": "https://shenaexcel.fanbox.cc/posts/12489551?utm_campaign=manage_post_page&utm_medium=share&utm_source=twitter",
+          "url": "https://t.co/zQKdoJeazw"
+        },
+        {
+          "display_url": "pic.x.com/qrpmNNTwSe",
+          "end": 122,
+          "expanded_url": "https://x.com/shenaexcel/status/2092622982586020153/photo/1",
+          "media_key": "3_2092622871923400704",
+          "start": 99,
+          "url": "https://t.co/qrpmNNTwSe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092754116561060319",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092622871923400704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092622982586020153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shenaexcel: 深夜ゲームしすぎたくそねみお兄ちゃん\n#おにまいお絵描き\n差分は↓から\npixivFANBOXで習作を公開しました！ https://t.co/zQKdoJeazw https://t.co/qrpmNNTwSe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2976,
+        "media_key": "3_2092622871923400704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQp9ajHaIAAtsNl.jpg",
+        "width": 2122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092622871923400704"
+          ],
+          "media_source_tweet_id": [
+            "2092622982586020153"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418276436410920960",
+              "name": "Pixiv Fanbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418276436410920960",
+              "name": "Pixiv Fanbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2092754116561060319",
+        "created_at": "2026-08-26T23:20:37.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T00:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092754116561060319"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "おにまいお絵描き"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "370674451",
+              "start": 3,
+              "username": "shenaexcel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "shenaexcel.fanbox.cc/posts/12489551…",
+              "end": 98,
+              "expanded_url": "https://shenaexcel.fanbox.cc/posts/12489551?utm_campaign=manage_post_page&utm_medium=share&utm_source=twitter",
+              "start": 75,
+              "unwound_url": "https://shenaexcel.fanbox.cc/posts/12489551?utm_campaign=manage_post_page&utm_medium=share&utm_source=twitter",
+              "url": "https://t.co/zQKdoJeazw"
+            },
+            {
+              "display_url": "pic.x.com/qrpmNNTwSe",
+              "end": 122,
+              "expanded_url": "https://x.com/shenaexcel/status/2092622982586020153/photo/1",
+              "media_key": "3_2092622871923400704",
+              "start": 99,
+              "url": "https://t.co/qrpmNNTwSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092754116561060319",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092622871923400704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092622982586020153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shenaexcel: 深夜ゲームしすぎたくそねみお兄ちゃん\n#おにまいお絵描き\n差分は↓から\npixivFANBOXで習作を公開しました！ https://t.co/zQKdoJeazw https://t.co/qrpmNNTwSe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092622871923400704"
+          ]
+        },
+        "author_id": "370674451",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418276436410920960",
+              "name": "Pixiv Fanbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418276436410920960",
+              "name": "Pixiv Fanbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2092622982586020153",
+        "created_at": "2026-08-26T14:39:32.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092622982586020153"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "おにまいお絵描き"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "shenaexcel.fanbox.cc/posts/12489551…",
+              "end": 82,
+              "expanded_url": "https://shenaexcel.fanbox.cc/posts/12489551?utm_campaign=manage_post_page&utm_medium=share&utm_source=twitter",
+              "start": 59,
+              "unwound_url": "https://shenaexcel.fanbox.cc/posts/12489551?utm_campaign=manage_post_page&utm_medium=share&utm_source=twitter",
+              "url": "https://t.co/zQKdoJeazw"
+            },
+            {
+              "display_url": "pic.x.com/qrpmNNTwSe",
+              "end": 106,
+              "expanded_url": "https://x.com/shenaexcel/status/2092622982586020153/photo/1",
+              "media_key": "3_2092622871923400704",
+              "start": 83,
+              "url": "https://t.co/qrpmNNTwSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092622982586020153",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092622871923400704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 11614,
+          "like_count": 1538,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "深夜ゲームしすぎたくそねみお兄ちゃん\n#おにまいお絵描き\n差分は↓から\npixivFANBOXで習作を公開しました！ https://t.co/zQKdoJeazw https://t.co/qrpmNNTwSe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2092754116561060319",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 1665,
+          "like_count": 29077,
+          "listed_count": 2,
+          "media_count": 1537,
+          "tweet_count": 8637
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-09-09T12:48:44.000Z",
+        "description": "ホロライブ箱推し/おにまい/ガルパン/副業イラストレーター/FANBOXとファンティアやってます\n欲しいものリスト https://t.co/mgQhrrO7sY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 81,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/17IH5SAN4NSJW?ref_=wl_share",
+                "start": 58,
+                "url": "https://t.co/mgQhrrO7sY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shenaexcel.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://shenaexcel.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/SbaMDm7nJ5"
+              }
+            ]
+          }
+        },
+        "id": "370674451",
+        "is_identity_verified": true,
+        "location": "大洗",
+        "most_recent_tweet_id": "2092623997284528377",
+        "name": "椎名エクセル",
+        "pinned_tweet_id": "2086766091481846016",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/370674451/1764695264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050548478238220288/od52DsP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76971,
+          "following_count": 1554,
+          "like_count": 15311,
+          "listed_count": 673,
+          "media_count": 10246,
+          "tweet_count": 163271
+        },
+        "url": "https://t.co/SbaMDm7nJ5",
+        "username": "shenaexcel",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

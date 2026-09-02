@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079993697564086272"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2079967601997033970",
+    "created_at": "2026-07-22T18:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T19:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079993700978180398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1488080791125237760",
+          "start": 0,
+          "username": "MengXi969"
+        },
+        {
+          "end": 22,
+          "id": "2006581626898436096",
+          "start": 11,
+          "username": "_entropyhq"
+        },
+        {
+          "end": 36,
+          "id": "1753339277386342400",
+          "start": 23,
+          "username": "Alibaba_Qwen"
+        },
+        {
+          "end": 50,
+          "id": "1955842741491179520",
+          "start": 37,
+          "username": "qoder_ai_ide"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PY0dCnsH5l",
+          "end": 85,
+          "expanded_url": "https://x.com/xubai_01/status/2079993700978180398/photo/1",
+          "media_key": "3_2079993697564086272",
+          "start": 62,
+          "url": "https://t.co/PY0dCnsH5l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079993700978180398",
+    "in_reply_to_user_id": "1488080791125237760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079967601997033970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MengXi969 @_entropyhq @Alibaba_Qwen @qoder_ai_ide 神他妈许白付就行了😭 https://t.co/PY0dCnsH5l"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079967601997033970].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079967601997033970",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079967601997033970"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079993697564086272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2fP2Zb0AAS35p.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079993697564086272"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2079967601997033970",
+        "created_at": "2026-07-22T18:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079993700978180398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488080791125237760",
+              "start": 0,
+              "username": "MengXi969"
+            },
+            {
+              "end": 22,
+              "id": "2006581626898436096",
+              "start": 11,
+              "username": "_entropyhq"
+            },
+            {
+              "end": 36,
+              "id": "1753339277386342400",
+              "start": 23,
+              "username": "Alibaba_Qwen"
+            },
+            {
+              "end": 50,
+              "id": "1955842741491179520",
+              "start": 37,
+              "username": "qoder_ai_ide"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PY0dCnsH5l",
+              "end": 85,
+              "expanded_url": "https://x.com/xubai_01/status/2079993700978180398/photo/1",
+              "media_key": "3_2079993697564086272",
+              "start": 62,
+              "url": "https://t.co/PY0dCnsH5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079993700978180398",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079967601997033970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MengXi969 @_entropyhq @Alibaba_Qwen @qoder_ai_ide 神他妈许白付就行了😭 https://t.co/PY0dCnsH5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2480,
+          "following_count": 1687,
+          "like_count": 26714,
+          "listed_count": 2,
+          "media_count": 1369,
+          "tweet_count": 7488
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion @_entropyhq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_entropyhq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvNBL"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2446,
+          "following_count": 3243,
+          "like_count": 97470,
+          "listed_count": 6,
+          "media_count": 1268,
+          "tweet_count": 7141
+        },
+        "url": "https://t.co/TIHBlJvNBL",
+        "username": "MengXi969",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-01T04:22:04.000Z",
+        "description": "@Ht_Polaris is under construction.\n@Ht_Polaris 正在建设中。\n#_entropy\n我们不在中国大陆从事加密货币，赌博等非法交易。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 54,
+                "tag": "_entropy"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Ht_Polaris"
+              },
+              {
+                "end": 46,
+                "start": 35,
+                "username": "Ht_Polaris"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "entropy.asia",
+                "end": 23,
+                "expanded_url": "http://entropy.asia",
+                "start": 0,
+                "url": "https://t.co/TT8QKWjdoJ"
+              }
+            ]
+          }
+        },
+        "id": "2006581626898436096",
+        "location": "Los Angeles, CA",
+        "name": "熵序_entropy",
+        "pinned_tweet_id": "2006913437645914505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048268630111207424/p74Z04nu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 17,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/TT8QKWjdoJ",
+        "username": "_entropyhq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T08:47:32.000Z",
+        "description": "Open foundation models for AGI.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qwen.ai",
+                "end": 23,
+                "expanded_url": "https://qwen.ai/",
+                "start": 0,
+                "url": "https://t.co/f8hrbNCQR4"
+              }
+            ]
+          }
+        },
+        "id": "1753339277386342400",
+        "name": "Qwen",
+        "pinned_tweet_id": "2078759124914098291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064231947149377536/Ab70PxT5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239066,
+          "following_count": 6,
+          "like_count": 402,
+          "listed_count": 2584,
+          "media_count": 490,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/f8hrbNCQR4",
+        "username": "Alibaba_Qwen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T04:04:17.000Z",
+        "description": "Agentic Coding Platform for Real Software. Think deeper, build better.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qoder.com",
+                "end": 23,
+                "expanded_url": "https://qoder.com/",
+                "start": 0,
+                "url": "https://t.co/4q5Lvfczlc"
+              }
+            ]
+          }
+        },
+        "id": "1955842741491179520",
+        "location": "Central Region, Singapore",
+        "name": "Qoder",
+        "pinned_tweet_id": "2055290448609259701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998635334574481408/pUQq9YJS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9220,
+          "following_count": 41,
+          "like_count": 120,
+          "listed_count": 93,
+          "media_count": 213,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/4q5Lvfczlc",
+        "username": "qoder_ai_ide",
+        "verified": true
+      }
+    ]
+  }
+}

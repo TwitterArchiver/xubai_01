@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2079578743316902234",
+    "created_at": "2026-07-21T17:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079624762465374651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054612982332628992",
+          "start": 0,
+          "username": "shaprs1874"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079624762465374651",
+    "in_reply_to_user_id": "2054612982332628992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079578743316902234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaprs1874 啧。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9130,
+        "height": 720,
+        "media_key": "13_2079578595014680576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079578595014680576/img/nNbCP3v-1dHcihL7.jpg",
+        "public_metrics": {
+          "view_count": 544
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079578595014680576/vid/avc1/480x270/CCT45phojo260uCC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079578595014680576/vid/avc1/640x360/za7ieNWBU3w3kcEe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079578595014680576/vid/avc1/1280x720/1WXtwBYyrauijWbE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079578595014680576/pl/83Ujrvi633nB8u2p.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 9168,
+        "height": 1280,
+        "media_key": "13_2079578677063692289",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079578677063692289/img/P88_aE1mBEZTW7iC.jpg",
+        "public_metrics": {
+          "view_count": 77
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079578677063692289/vid/avc1/320x568/Bdrt95ALLXuz_496.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079578677063692289/vid/avc1/480x852/IjCYw7gslTyXxZOQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079578677063692289/vid/avc1/720x1280/NGYSurJiSpTxd58e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079578677063692289/pl/Yzafx53hzDXe2Sou.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079578733321895936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwl1wIbwAAg32C.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2079578743316902234",
+        "created_at": "2026-07-21T17:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079624762465374651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054612982332628992",
+              "start": 0,
+              "username": "shaprs1874"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079624762465374651",
+        "in_reply_to_user_id": "2054612982332628992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079578743316902234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaprs1874 啧。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079578595014680576",
+            "13_2079578677063692289",
+            "3_2079578733321895936"
+          ]
+        },
+        "author_id": "2054612982332628992",
+        "conversation_id": "2079578743316902234",
+        "created_at": "2026-07-21T14:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079578743316902234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Y06CYNqSX",
+              "end": 34,
+              "expanded_url": "https://x.com/shaprs1874/status/2079578743316902234/video/1",
+              "media_key": "13_2079578595014680576",
+              "start": 11,
+              "url": "https://t.co/4Y06CYNqSX"
+            },
+            {
+              "display_url": "pic.x.com/4Y06CYNqSX",
+              "end": 34,
+              "expanded_url": "https://x.com/shaprs1874/status/2079578743316902234/video/1",
+              "media_key": "13_2079578677063692289",
+              "start": 11,
+              "url": "https://t.co/4Y06CYNqSX"
+            },
+            {
+              "display_url": "pic.x.com/4Y06CYNqSX",
+              "end": 34,
+              "expanded_url": "https://x.com/shaprs1874/status/2079578743316902234/video/1",
+              "media_key": "3_2079578733321895936",
+              "start": 11,
+              "url": "https://t.co/4Y06CYNqSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079578743316902234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1767,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗子炫耀自己也有尾巴 https://t.co/4Y06CYNqSX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 1684,
+          "like_count": 26648,
+          "listed_count": 2,
+          "media_count": 1367,
+          "tweet_count": 7463
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-13T17:21:59.000Z",
+        "description": "某不知名绳师2.0\n性格好脾气好胃口好，欢迎私聊\nNGL提问:https://t.co/ZJaJolW3Jn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sharps69638",
+                "end": 54,
+                "expanded_url": "https://ngl.link/sharps69638",
+                "start": 31,
+                "url": "https://t.co/ZJaJolW3Jn"
+              }
+            ]
+          }
+        },
+        "id": "2054612982332628992",
+        "name": "尼古夏夏",
+        "pinned_tweet_id": "2054845375752884254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075187521429045248/ZvLBqLVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6893,
+          "following_count": 681,
+          "like_count": 20492,
+          "listed_count": 9,
+          "media_count": 76,
+          "tweet_count": 1029
+        },
+        "url": "",
+        "username": "shaprs1874",
+        "verified": false
+      }
+    ]
+  }
+}

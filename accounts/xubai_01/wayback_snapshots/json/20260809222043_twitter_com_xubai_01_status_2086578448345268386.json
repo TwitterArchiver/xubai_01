@@ -1,0 +1,652 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "card_uri": "https://t.co/nBBZyEg4Je",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      }
+    ],
+    "conversation_id": "2086578448345268386",
+    "created_at": "2026-08-09T22:20:43.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T23:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086578448345268386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1488080791125237760",
+          "start": 3,
+          "username": "MengXi969"
+        },
+        {
+          "end": 29,
+          "id": "2006581626898436096",
+          "start": 18,
+          "username": "_entropyhq"
+        },
+        {
+          "end": 44,
+          "id": "2050415083461992448",
+          "start": 32,
+          "username": "HackPolaris"
+        }
+      ],
+      "urls": [
+        {
+          "description": "一群青年创作者，在科技与艺术之间探索、协作与创造。",
+          "display_url": "entropy.asia",
+          "end": 134,
+          "expanded_url": "https://www.entropy.asia/",
+          "images": [
+            {
+              "height": 308,
+              "url": "https://pbs.twimg.com/news_img/2086422766786617344/EN3068IT?format=jpg&name=orig",
+              "width": 918
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2086422766786617344/EN3068IT?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 111,
+          "status": 200,
+          "title": "_entropy 熵序｜青年科技与艺术团队",
+          "unwound_url": "https://www.entropy.asia/",
+          "url": "https://t.co/nBBZyEg4Je"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086578448345268386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086422698415231383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MengXi969: 作为 @_entropyhq 和 @HackPolaris 的一员\n我们很高兴地发布 \n_entropy 和 Polaris Hackathon 27 的最新一版官方网站\n🔗点击链接了解更多\nhttps://t.co/nBBZyEg4Je\n\n*🚧极…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "card_uri": "https://t.co/nBBZyEg4Je",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2086578448345268386",
+        "created_at": "2026-08-09T22:20:43.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T23:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086578448345268386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1488080791125237760",
+              "start": 3,
+              "username": "MengXi969"
+            },
+            {
+              "end": 29,
+              "id": "2006581626898436096",
+              "start": 18,
+              "username": "_entropyhq"
+            },
+            {
+              "end": 44,
+              "id": "2050415083461992448",
+              "start": 32,
+              "username": "HackPolaris"
+            }
+          ],
+          "urls": [
+            {
+              "description": "一群青年创作者，在科技与艺术之间探索、协作与创造。",
+              "display_url": "entropy.asia",
+              "end": 134,
+              "expanded_url": "https://www.entropy.asia/",
+              "images": [
+                {
+                  "height": 308,
+                  "url": "https://pbs.twimg.com/news_img/2086422766786617344/EN3068IT?format=jpg&name=orig",
+                  "width": 918
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2086422766786617344/EN3068IT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "_entropy 熵序｜青年科技与艺术团队",
+              "unwound_url": "https://www.entropy.asia/",
+              "url": "https://t.co/nBBZyEg4Je"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086578448345268386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086422698415231383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MengXi969: 作为 @_entropyhq 和 @HackPolaris 的一员\n我们很高兴地发布 \n_entropy 和 Polaris Hackathon 27 的最新一版官方网站\n🔗点击链接了解更多\nhttps://t.co/nBBZyEg4Je\n\n*🚧极…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488080791125237760",
+        "card_uri": "https://t.co/nBBZyEg4Je",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2086422698415231383",
+        "created_at": "2026-08-09T12:01:49.000Z",
+        "display_text_range": [
+          0,
+          186
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086422698415231383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2006581626898436096",
+              "start": 3,
+              "username": "_entropyhq"
+            },
+            {
+              "end": 29,
+              "id": "2050415083461992448",
+              "start": 17,
+              "username": "HackPolaris"
+            }
+          ],
+          "urls": [
+            {
+              "description": "一群青年创作者，在科技与艺术之间探索、协作与创造。",
+              "display_url": "entropy.asia",
+              "end": 119,
+              "expanded_url": "https://www.entropy.asia/",
+              "images": [
+                {
+                  "height": 308,
+                  "url": "https://pbs.twimg.com/news_img/2086422766786617344/EN3068IT?format=jpg&name=orig",
+                  "width": 918
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2086422766786617344/EN3068IT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 96,
+              "status": 200,
+              "title": "_entropy 熵序｜青年科技与艺术团队",
+              "unwound_url": "https://www.entropy.asia/",
+              "url": "https://t.co/nBBZyEg4Je"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086422698415231383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 14,
+                "id": "2006581626898436096",
+                "start": 3,
+                "username": "_entropyhq"
+              },
+              {
+                "end": 29,
+                "id": "2050415083461992448",
+                "start": 17,
+                "username": "HackPolaris"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "entropy.asia",
+                "end": 119,
+                "expanded_url": "https://www.entropy.asia/",
+                "start": 96,
+                "url": "https://t.co/ik82Simdz8"
+              }
+            ]
+          },
+          "text": "作为 @_entropyhq 和 @HackPolaris 的一员\n我们很高兴地发布 \n_entropy 和 Polaris Hackathon 27 的最新一版官方网站\n🔗点击链接了解更多\nhttps://t.co/ik82Simdz8\n\n*🚧极星黑客松仍在策划当中，目前暂未确认赛事地点、具体奖金以及选手赞助数额。页面中的内容仅为参考。Polaris 页面暂未施工完成\n\n💪同时我们也欢迎任何类型的赞助商通过私信 or support@entropy.asia 找到我们！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2704,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "作为 @_entropyhq 和 @HackPolaris 的一员\n我们很高兴地发布 \n_entropy 和 Polaris Hackathon 27 的最新一版官方网站\n🔗点击链接了解更多\nhttps://t.co/nBBZyEg4Je\n\n*🚧极星黑客松仍在策划当中，目前暂未确认赛事地点、具体奖金以及选手赞助数额。页面中的内容仅为参考。Polaris 页面暂未施工完成"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2086578448345268386",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 1655,
+          "like_count": 27874,
+          "listed_count": 2,
+          "media_count": 1460,
+          "tweet_count": 8079
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion @_entropyhq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_entropyhq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvNBL"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2086472950853914806",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488080791125237760/1759223214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 3304,
+          "like_count": 99330,
+          "listed_count": 6,
+          "media_count": 1302,
+          "tweet_count": 7297
+        },
+        "url": "https://t.co/TIHBlJvNBL",
+        "username": "MengXi969",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-01T04:22:04.000Z",
+        "description": "一个由中学生组成，结合技术和艺术的多领域团队。\n探索未知边界，寻找科技和人文的十字路口。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "entropy.asia",
+                "end": 23,
+                "expanded_url": "http://entropy.asia",
+                "start": 0,
+                "url": "https://t.co/TT8QKWjdoJ"
+              }
+            ]
+          }
+        },
+        "id": "2006581626898436096",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2085219642084347979",
+        "name": "熵序_entropy",
+        "pinned_tweet_id": "2006913437645914505",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2006581626898436096/1777721953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048268630111207424/p74Z04nu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 17,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/TT8QKWjdoJ",
+        "username": "_entropyhq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-02T03:25:31.000Z",
+        "description": "一切源自于@_entropyhq 。\n一个由中学生创办的黑客松组织，致力于推动科技创新，促进创新生态发展",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "_entropyhq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "entropy.asia",
+                "end": 23,
+                "expanded_url": "https://entropy.asia",
+                "start": 0,
+                "url": "https://t.co/qdd0hyR3do"
+              }
+            ]
+          }
+        },
+        "id": "2050415083461992448",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2085219871986778415",
+        "name": "Hackathon Polaris极星黑客松",
+        "pinned_tweet_id": "2050421540853084513",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050415083461992448/1777692564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050422971840475136/o1sqy3ib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 1,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/qdd0hyR3do",
+        "username": "HackPolaris",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

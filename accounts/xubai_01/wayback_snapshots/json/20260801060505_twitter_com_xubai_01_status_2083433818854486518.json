@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2083340364505825650",
+    "created_at": "2026-08-01T06:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083433818854486518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882697857393893376",
+          "start": 0,
+          "username": "8964reckless_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083433818854486518",
+    "in_reply_to_user_id": "1882697857393893376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083340364505825650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964reckless_ 那很甜了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083340364505825650].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083340364505825650",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083340364505825650"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2083340364505825650",
+        "created_at": "2026-08-01T06:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083433818854486518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882697857393893376",
+              "start": 0,
+              "username": "8964reckless_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083433818854486518",
+        "in_reply_to_user_id": "1882697857393893376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083340364505825650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964reckless_ 那很甜了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 1630,
+          "like_count": 27219,
+          "listed_count": 2,
+          "media_count": 1411,
+          "tweet_count": 7753
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T07:53:19.000Z",
+        "description": "好丽友派@Xooaviccc\n皮套@8964_xy11\n我的抑郁症都是听摇滚闹的西方资本主义咋这么坏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "Xooaviccc"
+              },
+              {
+                "end": 27,
+                "start": 17,
+                "username": "8964_xy11"
+              }
+            ]
+          }
+        },
+        "id": "1882697857393893376",
+        "location": "Nowhere",
+        "name": "sakuta_02",
+        "pinned_tweet_id": "2061866105912869370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066191819030081536/20xAvW3F_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 491,
+          "like_count": 9588,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 3716
+        },
+        "url": "",
+        "username": "8964reckless_",
+        "verified": true
+      }
+    ]
+  }
+}

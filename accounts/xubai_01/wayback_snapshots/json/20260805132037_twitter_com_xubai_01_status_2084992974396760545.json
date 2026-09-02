@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2084819659157889369",
+    "created_at": "2026-08-05T13:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T14:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084992974396760545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1480464287428939776",
+          "start": 0,
+          "username": "heming_org"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084992974396760545",
+    "in_reply_to_user_id": "1480464287428939776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084921088467968158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heming_org 我错了 我刚下飞机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2084819659157889369",
+        "created_at": "2026-08-05T13:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084992974396760545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1480464287428939776",
+              "start": 0,
+              "username": "heming_org"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084992974396760545",
+        "in_reply_to_user_id": "1480464287428939776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084921088467968158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heming_org 我错了 我刚下飞机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480464287428939776",
+        "conversation_id": "2084819659157889369",
+        "created_at": "2026-08-05T08:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084921088467968158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084921088467968158",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 826,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084819659157889369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 一上来就几百块太羞辱人了，就算你把这个域名当成最垃圾的三声母 cn，域名平台一口价都要几千块，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2547,
+          "following_count": 1649,
+          "like_count": 27707,
+          "listed_count": 2,
+          "media_count": 1447,
+          "tweet_count": 8009
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-10T08:59:46.000Z",
+        "description": "https://t.co/D1ix6kZnBn\nhttps://t.co/GPZcEbNP9o \nhttps://t.co/ZyPwO0reso https://t.co/A6uf2keuEb https://t.co/yIGIOiFHGt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "BLACKP.INK",
+                "end": 23,
+                "expanded_url": "http://BLACKP.INK",
+                "start": 0,
+                "url": "https://t.co/D1ix6kZnBn"
+              },
+              {
+                "display_url": "jennierubyjane.com",
+                "end": 47,
+                "expanded_url": "http://jennierubyjane.com",
+                "start": 24,
+                "url": "https://t.co/GPZcEbNP9o"
+              },
+              {
+                "display_url": "😍.uz",
+                "end": 72,
+                "expanded_url": "http://xn--r28h.uz",
+                "start": 49,
+                "url": "https://t.co/ZyPwO0reso"
+              },
+              {
+                "display_url": "🤩.uz",
+                "end": 96,
+                "expanded_url": "http://xn--iq9h.uz",
+                "start": 73,
+                "url": "https://t.co/A6uf2keuEb"
+              },
+              {
+                "display_url": "🤬.uz",
+                "end": 120,
+                "expanded_url": "http://xn--lq9h.uz",
+                "start": 97,
+                "url": "https://t.co/yIGIOiFHGt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hemi.ng",
+                "end": 23,
+                "expanded_url": "https://hemi.ng",
+                "start": 0,
+                "url": "https://t.co/11XIJu8Flx"
+              }
+            ]
+          }
+        },
+        "id": "1480464287428939776",
+        "location": "China",
+        "name": "HEMING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064973677960257536/7pVRSE-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 209,
+          "like_count": 237,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/11XIJu8Flx",
+        "username": "heming_org",
+        "verified": true
+      }
+    ]
+  }
+}

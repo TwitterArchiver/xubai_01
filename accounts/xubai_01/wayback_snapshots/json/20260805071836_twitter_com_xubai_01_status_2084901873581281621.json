@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2084680340057334148",
+    "created_at": "2026-08-05T07:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084901873581281621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900754238570893313",
+          "start": 0,
+          "username": "patchouli608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084901873581281621",
+    "in_reply_to_user_id": "1900754238570893313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084896545510666504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@patchouli608 好问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2084680340057334148",
+        "created_at": "2026-08-05T07:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084901873581281621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900754238570893313",
+              "start": 0,
+              "username": "patchouli608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084901873581281621",
+        "in_reply_to_user_id": "1900754238570893313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084896545510666504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@patchouli608 好问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900754238570893313",
+        "conversation_id": "2084680340057334148",
+        "created_at": "2026-08-05T06:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084896545510666504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084896545510666504",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084680340057334148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 icu是什麼後綴？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2543,
+          "following_count": 1647,
+          "like_count": 27696,
+          "listed_count": 2,
+          "media_count": 1445,
+          "tweet_count": 8001
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T03:42:13.000Z",
+        "description": "➡️以虛 \nhttps://t.co/Z40QNvQEEw\nhttps://t.co/DLg9gHu6Bv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wul.waseda.ac.jp/kotenseki/html…",
+                "end": 29,
+                "expanded_url": "https://www.wul.waseda.ac.jp/kotenseki/html/ro12/ro12_00477/index.html",
+                "start": 6,
+                "url": "https://t.co/Z40QNvQEEw"
+              },
+              {
+                "display_url": "kanji.zinbun.kyoto-u.ac.jp/db-machine/Shi…",
+                "end": 53,
+                "expanded_url": "http://kanji.zinbun.kyoto-u.ac.jp/db-machine/ShikoTeiyo/",
+                "start": 30,
+                "url": "https://t.co/DLg9gHu6Bv"
+              }
+            ]
+          }
+        },
+        "id": "1900754238570893313",
+        "location": "南昌市新建縣望城崗1號｜上海市楊浦區楊樹浦路2866號",
+        "name": "佩觿",
+        "pinned_tweet_id": "2080574957567037705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070608956934787072/AOjmeFcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 218,
+          "like_count": 39447,
+          "listed_count": 2,
+          "media_count": 1379,
+          "tweet_count": 15417
+        },
+        "url": "",
+        "username": "patchouli608",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088314189303451648"
+      ],
+      "media_source_tweet_id": [
+        "2088314200749719815"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2088443597612052592",
+    "created_at": "2026-08-15T01:52:09.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T02:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088443597612052592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2026283442259017729",
+          "start": 3,
+          "username": "bigjusir"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5bV0W6oL2j",
+          "end": 47,
+          "expanded_url": "https://x.com/bigjusir/status/2088314200749719815/photo/1",
+          "media_key": "3_2088314189303451648",
+          "start": 24,
+          "url": "https://t.co/5bV0W6oL2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088443597612052592",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088314189303451648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088314200749719815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bigjusir: 中国即将出版蛤夫币 https://t.co/5bV0W6oL2j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1769,
+        "media_key": "3_2088314189303451648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsusNjXEAABKFs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088314189303451648"
+          ],
+          "media_source_tweet_id": [
+            "2088314200749719815"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2088443597612052592",
+        "created_at": "2026-08-15T01:52:09.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088443597612052592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2026283442259017729",
+              "start": 3,
+              "username": "bigjusir"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5bV0W6oL2j",
+              "end": 47,
+              "expanded_url": "https://x.com/bigjusir/status/2088314200749719815/photo/1",
+              "media_key": "3_2088314189303451648",
+              "start": 24,
+              "url": "https://t.co/5bV0W6oL2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088443597612052592",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088314189303451648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088314200749719815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bigjusir: 中国即将出版蛤夫币 https://t.co/5bV0W6oL2j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088314189303451648"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2088314200749719815",
+        "created_at": "2026-08-14T17:17:59.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088314200749719815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5bV0W6oL2j",
+              "end": 33,
+              "expanded_url": "https://x.com/bigjusir/status/2088314200749719815/photo/1",
+              "media_key": "3_2088314189303451648",
+              "start": 10,
+              "url": "https://t.co/5bV0W6oL2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088314200749719815",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088314189303451648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6319,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "中国即将出版蛤夫币 https://t.co/5bV0W6oL2j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2088443597612052592",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 1655,
+          "like_count": 28040,
+          "listed_count": 2,
+          "media_count": 1481,
+          "tweet_count": 8208
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)\n\n大号@bigjusir\n二号机@littlejusir\n三号机@jusirlieyan\n\n自制AI图转载请勿去除水印",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "bigjusir"
+              },
+              {
+                "end": 40,
+                "start": 28,
+                "username": "littlejusir"
+              },
+              {
+                "end": 56,
+                "start": 44,
+                "username": "jusirlieyan"
+              }
+            ]
+          }
+        },
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "location": "中华人民共和国",
+        "most_recent_tweet_id": "2088441034069991791",
+        "name": "jusir",
+        "pinned_tweet_id": "2087100350092181848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3612,
+          "following_count": 3176,
+          "like_count": 7733,
+          "listed_count": 11,
+          "media_count": 931,
+          "tweet_count": 4011
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

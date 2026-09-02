@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083946548468285440"
+      ],
+      "media_source_tweet_id": [
+        "2084429105270051237"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2084447153028747494",
+    "created_at": "2026-08-04T01:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T02:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084447153028747494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1465701247021838341",
+          "start": 3,
+          "username": "show5560"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AZk0062uR8",
+          "end": 49,
+          "expanded_url": "https://x.com/show5560/status/2084429105270051237/photo/1",
+          "media_key": "3_2083946548468285440",
+          "start": 26,
+          "url": "https://t.co/AZk0062uR8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084447153028747494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084429105270051237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @show5560: 客服感觉已经神志不清了 https://t.co/AZk0062uR8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2083946548468285440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuqWDhagAAd1rJ.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083946548468285440"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2084429105270051237",
+        "created_at": "2026-08-04T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084429105270051237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZk0062uR8",
+              "end": 35,
+              "expanded_url": "https://x.com/show5560/status/2084429105270051237/photo/1",
+              "media_key": "3_2083946548468285440",
+              "start": 12,
+              "url": "https://t.co/AZk0062uR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084429105270051237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "客服感觉已经神志不清了 https://t.co/AZk0062uR8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083946548468285440"
+          ],
+          "media_source_tweet_id": [
+            "2084429105270051237"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2084447153028747494",
+        "created_at": "2026-08-04T01:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084447153028747494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1465701247021838341",
+              "start": 3,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZk0062uR8",
+              "end": 49,
+              "expanded_url": "https://x.com/show5560/status/2084429105270051237/photo/1",
+              "media_key": "3_2083946548468285440",
+              "start": 26,
+              "url": "https://t.co/AZk0062uR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084447153028747494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084429105270051237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @show5560: 客服感觉已经神志不清了 https://t.co/AZk0062uR8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 1645,
+          "like_count": 27575,
+          "listed_count": 2,
+          "media_count": 1438,
+          "tweet_count": 7937
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人/目前这个账号主要是梗图meme，真假自行分辨/ 素材来源于网络，侵私删/坐标:成都//推广自辩不担保//接推广合作请私信，谢谢((*^∀^))🙏🏻",
+        "id": "1465701247021838341",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5901,
+          "following_count": 1735,
+          "like_count": 33593,
+          "listed_count": 14,
+          "media_count": 2756,
+          "tweet_count": 12736
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

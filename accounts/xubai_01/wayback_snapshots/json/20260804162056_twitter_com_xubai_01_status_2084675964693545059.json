@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2084659294084218890",
+    "created_at": "2026-08-04T16:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084675964693545059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1529525092442865664",
+          "start": 0,
+          "username": "Hydrogen0E7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084675964693545059",
+    "in_reply_to_user_id": "1529525092442865664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084659294084218890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hydrogen0E7 草"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_2084659285355790336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4ykzVaAAA0lTR.jpg",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2084659294084218890",
+        "created_at": "2026-08-04T16:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084675964693545059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1529525092442865664",
+              "start": 0,
+              "username": "Hydrogen0E7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084675964693545059",
+        "in_reply_to_user_id": "1529525092442865664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084659294084218890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hydrogen0E7 草"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084659285355790336"
+          ]
+        },
+        "author_id": "1529525092442865664",
+        "conversation_id": "2084659294084218890",
+        "created_at": "2026-08-04T15:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084659294084218890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dgoxkh8wyQ",
+              "end": 163,
+              "expanded_url": "https://x.com/Hydrogen0E7/status/2084659294084218890/photo/1",
+              "media_key": "3_2084659285355790336",
+              "start": 140,
+              "url": "https://t.co/dgoxkh8wyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084659294084218890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 696,
+                "start": 689,
+                "tag": "前端后端开发"
+              },
+              {
+                "end": 709,
+                "start": 697,
+                "tag": "没想到你是这样的程序员"
+              },
+              {
+                "end": 715,
+                "start": 710,
+                "tag": "人工智能"
+              },
+              {
+                "end": 721,
+                "start": 716,
+                "tag": "没饭吃了"
+              }
+            ]
+          },
+          "text": "昨晚在商K点了一个白帽子\n\n公司在隔壁商K新开了一间安全应急响应中心。\n\n这天晚上，老板说带我们去商K放松一下。\n刚坐下，安全负责人便熟络地上来打招呼。\n老板指了指我们：\n\"我们这群甲方要求很高，可得伺候好了。\"\n\"我们家的白帽子，您放心。\"负责人笑着拍了拍漏洞提交平台的后台。\n\"今儿新到了几款，SRC榜单的、CTF拿奖的、还有个刚从大厂安服被优化的——各有所长。\"\n\n很快，几个白帽子鱼贯而入。她们揣着各式各样的扫描报告，Burp Suite抱在身前，笑着坐到我们身边。\n\n负责人凑过来低声介绍：\n\"一号擅长Web渗透，注入越权又快又稳；\n二号精通内网横向，域控拿下只要一顿饭的功夫；\n三号——三号是卷王，资产测绘、信息收集、社工钓鱼一条龙，还自带0day储备、报告代写。\"\n\n我指了指三号：\"就她了。\"\n\n小白帽子坐下来，打开终端，问我：\n\"姐，今天想测什么目标？\"\n\"你擅长什么？\"\n\"我比较擅长Web漏洞挖掘、钓鱼演练。内网渗透、免杀绕过也能做，\"\n她顿了顿，\"就是比较慢，SRC审核老说我'危害不足'。\"\n\n我从包里掏出一份合同，递到她面前：\n分析一下我们公司系统为什么频频被打穿、数据频频被拖。\n\n小白帽子看了看，问：\n\"出问题是指弱口令、未授权访问，还是供应链投毒？\"\n\"都行。\"\n\n她沉默了一会儿，把授权书翻到背面，写了一行字递给我：\n\n\"姐，这个需求超出授权范围了。要不——我给您弹个计算器助助兴？\"\n\n参考文献：\n[1] 昨晚在海定洗脚城点了一个985的学生（医学生/人工智能），toko\n[2] 昨晚在商K点了一个HR\n[3] 昨晚在商K点了一个前端\n\n#前端后端开发 #没想到你是这样的程序员 #人工智能 #没饭吃了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 750,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚在商K点了一个白帽子\n\n公司在隔壁商K新开了一间安全应急响应中心。\n\n这天晚上，老板说带我们去商K放松一下。\n刚坐下，安全负责人便熟络地上来打招呼。\n老板指了指我们：\n\"我们这群甲方要求很高，可得伺候好了。\"\n\"我们家的白帽子，您放心。\"负责人笑着拍了拍漏洞提交平台的后台。 https://t.co/dgoxkh8wyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2540,
+          "following_count": 1647,
+          "like_count": 27631,
+          "listed_count": 2,
+          "media_count": 1443,
+          "tweet_count": 7971
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-25T18:09:54.000Z",
+        "description": "Full-Stack Security Developer | CTFer in @r3kapig | ACMer | Shotacon | Avatar from @iamuu_n | Enchanting dream, frozen time, unrealized potential. Also @E7Lemon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "r3kapig"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "iamuu_n"
+              },
+              {
+                "end": 160,
+                "start": 152,
+                "username": "E7Lemon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0e7.cn",
+                "end": 23,
+                "expanded_url": "https://0e7.cn",
+                "start": 0,
+                "url": "https://t.co/e4iGNtYvNY"
+              }
+            ]
+          }
+        },
+        "id": "1529525092442865664",
+        "location": "ShangHai",
+        "name": "HydrogenE7",
+        "pinned_tweet_id": "2043498699196895731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055286176463167488/l275kNEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3655,
+          "following_count": 957,
+          "like_count": 8544,
+          "listed_count": 23,
+          "media_count": 728,
+          "tweet_count": 3622
+        },
+        "url": "https://t.co/e4iGNtYvNY",
+        "username": "Hydrogen0E7",
+        "verified": true
+      }
+    ]
+  }
+}

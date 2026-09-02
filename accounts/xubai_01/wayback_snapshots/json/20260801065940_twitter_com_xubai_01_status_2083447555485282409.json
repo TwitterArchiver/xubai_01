@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083447552310222848"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "2083447555485282409",
+    "created_at": "2026-08-01T06:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083447555485282409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hms8BaArrn",
+          "end": 145,
+          "expanded_url": "https://x.com/xubai_01/status/2083447555485282409/photo/1",
+          "media_key": "3_2083447552310222848",
+          "start": 122,
+          "url": "https://t.co/Hms8BaArrn"
+        },
+        {
+          "display_url": "x.com/nnp1b5/status/…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/nnp1b5/status/2082853882074644859",
+          "start": 146,
+          "url": "https://t.co/cNDyCxn7zu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083447555485282409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082853882074644859",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人能飞~中国人能飞~中国人能飞~黄皮肤才对[色]讲中文才飞😏中国就是美[爱你]我在说唱圈就像DeepSeek😒直接干掉GPT🤔中文投篮打门包🤑我用中文打地基😎黄皮肤出生就能飞上天😏天上有很多神仙[我爱你]但是只在 china 的版图上面😈 https://t.co/Hms8BaArrn https://t.co/cNDyCxn7zu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 656,
+        "media_key": "3_2083447552310222848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnkgp-boAAr07D.jpg",
+        "width": 604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083447552310222848"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2083447555485282409",
+        "created_at": "2026-08-01T06:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083447555485282409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hms8BaArrn",
+              "end": 145,
+              "expanded_url": "https://x.com/xubai_01/status/2083447555485282409/photo/1",
+              "media_key": "3_2083447552310222848",
+              "start": 122,
+              "url": "https://t.co/Hms8BaArrn"
+            },
+            {
+              "display_url": "x.com/nnp1b5/status/…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/nnp1b5/status/2082853882074644859",
+              "start": 146,
+              "url": "https://t.co/cNDyCxn7zu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083447555485282409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082853882074644859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人能飞~中国人能飞~中国人能飞~黄皮肤才对[色]讲中文才飞😏中国就是美[爱你]我在说唱圈就像DeepSeek😒直接干掉GPT🤔中文投篮打门包🤑我用中文打地基😎黄皮肤出生就能飞上天😏天上有很多神仙[我爱你]但是只在 china 的版图上面😈 https://t.co/Hms8BaArrn https://t.co/cNDyCxn7zu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950475198190551040",
+        "conversation_id": "2082853882074644859",
+        "created_at": "2026-07-30T15:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082853882074644859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082853882074644859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 486250,
+          "like_count": 4303,
+          "quote_count": 37,
+          "reply_count": 808,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "中国人 请克制住每一个想飞的瞬间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 1630,
+          "like_count": 27241,
+          "listed_count": 2,
+          "media_count": 1413,
+          "tweet_count": 7758
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T08:35:31.000Z",
+        "description": "拥抱我直至肋骨断裂\n我只是一个很呆萌的农村人。好懵逼啊。\n双性恋｜switch\n⬇️匿名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B2%811",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B2%811",
+                "start": 0,
+                "url": "https://t.co/LlW2uRDXS3"
+              }
+            ]
+          }
+        },
+        "id": "1950475198190551040",
+        "location": "距离1314米",
+        "name": "一只邪恶的肋骨",
+        "pinned_tweet_id": "2080235336438034720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059337103264092161/ak5lpiFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 90,
+          "like_count": 1903,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 624
+        },
+        "url": "https://t.co/LlW2uRDXS3",
+        "username": "NnP1b5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2078856754730078640",
+    "created_at": "2026-07-19T14:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078856754730078640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wu807643792980…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/wu8076437929807/status/2078606434842157486",
+          "start": 124,
+          "url": "https://t.co/M0YMjPqoGr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078856754730078640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078606434842157486",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大多数情况有可能是iCloud没有上传成功或待上传，亦或是上传完成后本地因为其他占用存储的因素，把一些“他认为你长期不使用的图片或文件”暂时从该设备隐藏/移除。\n\n然后有时候我都不知道说什么好了，找东西找不到，等我再找到的时候已经是几百年之后了🌚 https://t.co/M0YMjPqoGr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2078856754730078640",
+        "created_at": "2026-07-19T14:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078856754730078640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wu807643792980…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/wu8076437929807/status/2078606434842157486",
+              "start": 124,
+              "url": "https://t.co/M0YMjPqoGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078856754730078640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078606434842157486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大多数情况有可能是iCloud没有上传成功或待上传，亦或是上传完成后本地因为其他占用存储的因素，把一些“他认为你长期不使用的图片或文件”暂时从该设备隐藏/移除。\n\n然后有时候我都不知道说什么好了，找东西找不到，等我再找到的时候已经是几百年之后了🌚 https://t.co/M0YMjPqoGr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844304908520128518",
+        "conversation_id": "2078606434842157486",
+        "created_at": "2026-07-18T22:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T23:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078606434842157486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078606434842157486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13076,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严重怀疑苹果相册吞我照片了……我清楚的记得拍了且没有删除，隐藏相册和最近删除里都没有😶‍🌫️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 1679,
+          "like_count": 26536,
+          "listed_count": 2,
+          "media_count": 1361,
+          "tweet_count": 7392
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-10T09:12:22.000Z",
+        "description": "08过期男高 infp 特摄厨🤓 数码迷📱 jo厨 黎明杀机萌新 各种碎碎念🫨 不太会聊天🥲 熟人可来扩列 努力中～ 有在考虑给账号中加一些本人出镜🫣",
+        "id": "1844304908520128518",
+        "location": "江苏",
+        "name": "Wu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871974425349836800/lC2NF4GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 3391,
+          "like_count": 49871,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 8442
+        },
+        "url": "",
+        "username": "Wu8076437929807",
+        "verified": false
+      }
+    ]
+  }
+}

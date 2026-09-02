@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2083732911573086428",
+    "created_at": "2026-08-02T18:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083979749458931729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1344909956185612288",
+          "start": 0,
+          "username": "leosicom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083979749458931729",
+    "in_reply_to_user_id": "1344909956185612288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083924908292358510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leosicom 其实不是）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2083732911573086428",
+        "created_at": "2026-08-02T18:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083979749458931729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1344909956185612288",
+              "start": 0,
+              "username": "leosicom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083979749458931729",
+        "in_reply_to_user_id": "1344909956185612288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083924908292358510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leosicom 其实不是）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344909956185612288",
+        "conversation_id": "2083732911573086428",
+        "created_at": "2026-08-02T14:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083924908292358510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083924908292358510",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083732911573086428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 主播好像有扁平足（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 1637,
+          "like_count": 27406,
+          "listed_count": 2,
+          "media_count": 1423,
+          "tweet_count": 7844
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-01T07:35:07.000Z",
+        "description": "坐标上海 / 夜行生物 / 只有无尽的夜晚与永远的陪伴 / Design & AI Engineer / NIOer / 25yo",
+        "id": "1344909956185612288",
+        "location": "Shanghai",
+        "name": "Leosico T. Vandarrmel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078685619140870146/rQU75Q0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 1682,
+          "like_count": 5861,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "leosicom",
+        "verified": false
+      }
+    ]
+  }
+}

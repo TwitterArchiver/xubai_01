@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2082641514593915372",
+    "created_at": "2026-07-30T01:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T02:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082643534101008659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1977904622141665280",
+          "start": 0,
+          "username": "lzsamadsk0707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082643534101008659",
+    "in_reply_to_user_id": "1977904622141665280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082641514593915372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzsamadsk0707 原来你也打maimai.."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22233,
+        "height": 1280,
+        "media_key": "13_2082641446138793984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082641446138793984/img/AvhK1WwxU817OrUK.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082641446138793984/vid/avc1/320x568/SV0PoSQS_X1g-6Bp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082641446138793984/vid/avc1/480x852/XuMROXXTL3BrChRR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082641446138793984/vid/avc1/720x1280/IGZ9JGsbYIFqHi2j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082641446138793984/pl/HVTT0cxa3JVcLVla.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2082641514593915372",
+        "created_at": "2026-07-30T01:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082643534101008659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977904622141665280",
+              "start": 0,
+              "username": "lzsamadsk0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082643534101008659",
+        "in_reply_to_user_id": "1977904622141665280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082641514593915372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzsamadsk0707 原来你也打maimai.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082641446138793984"
+          ]
+        },
+        "author_id": "1977904622141665280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2082641514593915372",
+        "created_at": "2026-07-30T01:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082641514593915372"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 27,
+              "start": 25,
+              "tag": "余"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "舞萌"
+            },
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0o5AROpqW",
+              "end": 63,
+              "expanded_url": "https://x.com/lzsamadsk0707/status/2082641514593915372/video/1",
+              "media_key": "13_2082641446138793984",
+              "start": 40,
+              "url": "https://t.co/q0o5AROpqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082641514593915372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "余打舞萌的小品一则（\n#明日方舟 #アークナイツ #余 #舞萌 #maimai https://t.co/q0o5AROpqW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 1625,
+          "like_count": 27103,
+          "listed_count": 2,
+          "media_count": 1403,
+          "tweet_count": 7707
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-14T01:09:57.000Z",
+        "description": "09年生人 ｜半步10后｜坚信拥有爱就可以拥有一切｜高中想学文｜福瑞控｜占有欲｜XP是对我爱答不理但又把我放在第一位（不是）\n第好多次重生的零芷…常驻海南海口🌴QQ：3565593732只过小动物和二次😗",
+        "id": "1977904622141665280",
+        "name": "零芷",
+        "pinned_tweet_id": "2048947845110407593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977905071112572928/dFcdiLlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 728,
+          "like_count": 297,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 631
+        },
+        "url": "",
+        "username": "lzsamadsk0707",
+        "verified": false
+      }
+    ]
+  }
+}

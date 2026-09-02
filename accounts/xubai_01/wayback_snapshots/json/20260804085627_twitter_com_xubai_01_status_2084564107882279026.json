@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083951561911529472"
+      ],
+      "media_source_tweet_id": [
+        "2083951593532293470"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084564107882279026",
+    "created_at": "2026-08-04T08:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084564107882279026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1650457026139672576",
+          "start": 3,
+          "username": "snow_hhww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/byR7Wvq8rz",
+          "end": 59,
+          "expanded_url": "https://x.com/snow_hhww/status/2083951593532293470/video/1",
+          "media_key": "13_2083951561911529472",
+          "start": 36,
+          "url": "https://t.co/byR7Wvq8rz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084564107882279026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4538
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083951593532293470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snow_hhww: 互联网这口饭\n\n真的不是随便一个人都能吃 https://t.co/byR7Wvq8rz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20320,
+        "height": 902,
+        "media_key": "13_2083951561911529472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083951561911529472/img/bt_3FQD3iuRWM9N9.jpg",
+        "public_metrics": {
+          "view_count": 1608155
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083951561911529472/vid/avc1/320x500/rjgzZPkDAiTgMGnC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083951561911529472/vid/avc1/480x750/b_YI0sRlc3xN7tp9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083951561911529472/vid/avc1/576x902/B9rvTgRNdN0i9YU0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083951561911529472/pl/2awalaz-G5IQhAEx.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083951561911529472"
+          ]
+        },
+        "author_id": "1650457026139672576",
+        "conversation_id": "2083951593532293470",
+        "created_at": "2026-08-02T16:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083951593532293470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/byR7Wvq8rz",
+              "end": 44,
+              "expanded_url": "https://x.com/snow_hhww/status/2083951593532293470/video/1",
+              "media_key": "13_2083951561911529472",
+              "start": 21,
+              "url": "https://t.co/byR7Wvq8rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083951593532293470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6970,
+          "impression_count": 3157458,
+          "like_count": 40079,
+          "quote_count": 679,
+          "reply_count": 1185,
+          "retweet_count": 4538
+        },
+        "reply_settings": "everyone",
+        "text": "互联网这口饭\n\n真的不是随便一个人都能吃 https://t.co/byR7Wvq8rz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083951561911529472"
+          ],
+          "media_source_tweet_id": [
+            "2083951593532293470"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084564107882279026",
+        "created_at": "2026-08-04T08:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084564107882279026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1650457026139672576",
+              "start": 3,
+              "username": "snow_hhww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/byR7Wvq8rz",
+              "end": 59,
+              "expanded_url": "https://x.com/snow_hhww/status/2083951593532293470/video/1",
+              "media_key": "13_2083951561911529472",
+              "start": 36,
+              "url": "https://t.co/byR7Wvq8rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084564107882279026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4538
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083951593532293470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snow_hhww: 互联网这口饭\n\n真的不是随便一个人都能吃 https://t.co/byR7Wvq8rz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 1647,
+          "like_count": 27641,
+          "listed_count": 2,
+          "media_count": 1443,
+          "tweet_count": 7969
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-24T11:10:02.000Z",
+        "description": "生活观察｜人性记录｜偶尔AI & Web3\n养了一只柯基，推特就是朋友圈",
+        "id": "1650457026139672576",
+        "location": "大阪 | Osaka, Japan",
+        "name": "Jen",
+        "pinned_tweet_id": "2082289569895207401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944690644150030337/CJNWUaaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3698,
+          "following_count": 2828,
+          "like_count": 21461,
+          "listed_count": 5,
+          "media_count": 521,
+          "tweet_count": 15616
+        },
+        "url": "",
+        "username": "snow_hhww",
+        "verified": true
+      }
+    ]
+  }
+}

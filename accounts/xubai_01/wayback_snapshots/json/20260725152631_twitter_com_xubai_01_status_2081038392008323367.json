@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2080855113921609907",
+    "created_at": "2026-07-25T15:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081038392008323367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1576046738460139521",
+          "start": 0,
+          "username": "for_the_zero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/grok/status/20…",
+          "end": 37,
+          "expanded_url": "https://x.com/grok/status/2080923917930176518?s=46",
+          "start": 14,
+          "url": "https://t.co/T8Qp7aqYNn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081038392008323367",
+    "in_reply_to_user_id": "1576046738460139521",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080923917930176518",
+        "type": "quoted"
+      },
+      {
+        "id": "2080901147007844711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@for_the_zero https://t.co/T8Qp7aqYNn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2080855113921609907",
+        "created_at": "2026-07-25T15:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081038392008323367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1576046738460139521",
+              "start": 0,
+              "username": "for_the_zero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/20…",
+              "end": 37,
+              "expanded_url": "https://x.com/grok/status/2080923917930176518?s=46",
+              "start": 14,
+              "url": "https://t.co/T8Qp7aqYNn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081038392008323367",
+        "in_reply_to_user_id": "1576046738460139521",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080923917930176518",
+            "type": "quoted"
+          },
+          {
+            "id": "2080901147007844711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_the_zero https://t.co/T8Qp7aqYNn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2080855113921609907",
+        "created_at": "2026-07-25T07:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080923917930176518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691566339524321281",
+              "start": 0,
+              "username": "zongtianshuo"
+            },
+            {
+              "end": 23,
+              "id": "1840810905833197568",
+              "start": 14,
+              "username": "xubai_01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "advx.uno",
+              "end": 93,
+              "expanded_url": "http://advx.uno",
+              "start": 70,
+              "status": 200,
+              "title": "403",
+              "unwound_url": "http://advx.uno",
+              "url": "https://t.co/41QwKvG7W4"
+            },
+            {
+              "display_url": "devadventure-x.org",
+              "end": 173,
+              "expanded_url": "http://devadventure-x.org",
+              "start": 150,
+              "unwound_url": "http://devadventure-x.org",
+              "url": "https://t.co/M4DDkDXFkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080923917930176518",
+        "in_reply_to_user_id": "1691566339524321281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "advx.uno",
+                "end": 69,
+                "expanded_url": "http://advx.uno",
+                "start": 46,
+                "url": "https://t.co/xwHBIHSCjD"
+              },
+              {
+                "display_url": "devadventure-x.org",
+                "end": 149,
+                "expanded_url": "http://devadventure-x.org",
+                "start": 126,
+                "url": "https://t.co/YZ6YdCuJfa"
+              }
+            ]
+          },
+          "text": "zongtianshuo 简单翻译一下：\n\n许白在发正式声明否认自己参与黑客攻击。\n\n他说 https://t.co/xwHBIHSCjD 这个域名被人冒用他的邮箱注册了，涉及 AdventureX 2077 的非法网络攻击活动。阿里云给他转发了投诉（https://t.co/YZ6YdCuJfa 举报域名可能用于恶意软件/垃圾邮件）。\n\n他查了 WHOIS、打电话给阿里云、发了推和朋友圈澄清，后来收到邮件说域名已转给“大连无尽夏传媒有限公司”。他强调全程不知情、没参与任何攻击或平台破坏，是身份被盗用。\n\n核心就是：我在被冤枉，这事跟我无关。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080923789274320979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zongtianshuo @xubai_01 zongtianshuo 简单翻译一下：\n\n许白在发正式声明否认自己参与黑客攻击。\n\n他说 https://t.co/41QwKvG7W4 这个域名被人冒用他的邮箱注册了，涉及 AdventureX 2077 的非法网络攻击活动。阿里云给他转发了投诉（https://t.co/M4DDkDXFkM 举报域名可能用于恶意软件/垃圾邮件）。\n\n他查了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576046738460139521",
+        "conversation_id": "2080855113921609907",
+        "created_at": "2026-07-25T06:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080901147007844711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080901147007844711",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080855113921609907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 这发生什么事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 1682,
+          "like_count": 26835,
+          "listed_count": 2,
+          "media_count": 1381,
+          "tweet_count": 7552
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-01T03:11:35.000Z",
+        "description": "想要成为一个可爱的、有趣的、厉害的、快乐的、善良的、……能被你记住的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ftz.is-a.dev",
+                "end": 23,
+                "expanded_url": "https://ftz.is-a.dev/",
+                "start": 0,
+                "url": "https://t.co/AbCcuPNmcf"
+              }
+            ]
+          }
+        },
+        "id": "1576046738460139521",
+        "location": "Everywhere of Inexistence",
+        "name": "for_the_zero",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024106942667563008/61H_olYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 581,
+          "like_count": 23351,
+          "listed_count": 0,
+          "media_count": 681,
+          "tweet_count": 3855
+        },
+        "url": "https://t.co/AbCcuPNmcf",
+        "username": "for_the_zero",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8876374,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7216,
+          "media_count": 9186057,
+          "tweet_count": 132265713
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

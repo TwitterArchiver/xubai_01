@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2083622415377338537",
+    "created_at": "2026-08-01T23:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T00:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083689271387640216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1940846701473824768",
+          "start": 0,
+          "username": "6iegc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083689271387640216",
+    "in_reply_to_user_id": "1940846701473824768",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083689144547430825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6iegc 114514"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2083622415377338537",
+        "created_at": "2026-08-01T23:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083689271387640216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1940846701473824768",
+              "start": 0,
+              "username": "6iegc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083689271387640216",
+        "in_reply_to_user_id": "1940846701473824768",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083689144547430825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6iegc 114514"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940846701473824768",
+        "conversation_id": "2083622415377338537",
+        "created_at": "2026-08-01T22:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T23:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083689144547430825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083689144547430825",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083622415377338537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 2778"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 1633,
+          "like_count": 27299,
+          "listed_count": 2,
+          "media_count": 1418,
+          "tweet_count": 7796
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-03T18:55:00.000Z",
+        "description": "咕噜咕噜",
+        "id": "1940846701473824768",
+        "name": "白矮星",
+        "pinned_tweet_id": "2076446100526088525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063168181343051776/bvj5bC2g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 562,
+          "like_count": 5982,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 495
+        },
+        "url": "",
+        "username": "6iegc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2084819659157889369",
+    "created_at": "2026-08-05T03:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T04:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084838253463757290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1649366440808681474",
+          "start": 0,
+          "username": "is_llll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "qwq.us",
+          "end": 42,
+          "expanded_url": "http://qwq.us",
+          "start": 19,
+          "status": 200,
+          "unwound_url": "http://qwq.us",
+          "url": "https://t.co/fwBsK7GWjU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084838253463757290",
+    "in_reply_to_user_id": "1649366440808681474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084835580148658640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@is_llll 没绷住 不过我打算买https://t.co/fwBsK7GWjU了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2084819659157889369",
+        "created_at": "2026-08-05T03:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084838253463757290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1649366440808681474",
+              "start": 0,
+              "username": "is_llll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "qwq.us",
+              "end": 42,
+              "expanded_url": "http://qwq.us",
+              "start": 19,
+              "status": 200,
+              "unwound_url": "http://qwq.us",
+              "url": "https://t.co/fwBsK7GWjU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084838253463757290",
+        "in_reply_to_user_id": "1649366440808681474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084835580148658640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@is_llll 没绷住 不过我打算买https://t.co/fwBsK7GWjU了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649366440808681474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2084819659157889369",
+        "created_at": "2026-08-05T02:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084835580148658640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ],
+          "urls": [
+            {
+              "description": "美国签证 CGI 预约抢位服务，7×24 小时不间断扫描各使领馆面签位，发现空位立即帮您预约。自动帮您刷美签！",
+              "display_url": "qmq.app",
+              "end": 38,
+              "expanded_url": "http://qmq.app",
+              "images": [
+                {
+                  "height": 768,
+                  "url": "https://pbs.twimg.com/news_img/2084835590810550272/r_p0PSWw?format=jpg&name=orig",
+                  "width": 1376
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084835590810550272/r_p0PSWw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "抢美签 qmq.app — 美签 CGI 自动抢位服务 无忧刷美签",
+              "unwound_url": "https://qmq.app/",
+              "url": "https://t.co/bjMM7lnhBj"
+            },
+            {
+              "display_url": "x.com/LZRationalnves…",
+              "end": 73,
+              "expanded_url": "https://x.com/LZRationalnvest/status/2078496092623360230?s=20",
+              "start": 50,
+              "url": "https://t.co/bsIv2Br3ip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084835580148658640",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078496092623360230",
+            "type": "quoted"
+          },
+          {
+            "id": "2084819659157889369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 差点看成了https://t.co/bjMM7lnhBj\nSee also:\n\nhttps://t.co/bsIv2Br3ip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 1648,
+          "like_count": 27670,
+          "listed_count": 2,
+          "media_count": 1445,
+          "tweet_count": 7987
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-21T10:56:22.000Z",
+        "description": "06｜ '26 🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Vv_sA_MlSK03Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Vv_sA_MlSK03ZGU1",
+                "start": 0,
+                "url": "https://t.co/o22scQqJXq"
+              }
+            ]
+          }
+        },
+        "id": "1649366440808681474",
+        "location": "Rochester, NY",
+        "name": "LLLL🏳️‍🌈",
+        "pinned_tweet_id": "1937595042837021031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804666323064266752/D_saJw-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4279,
+          "following_count": 820,
+          "like_count": 69154,
+          "listed_count": 8,
+          "media_count": 639,
+          "tweet_count": 5657
+        },
+        "url": "https://t.co/o22scQqJXq",
+        "username": "is_llll",
+        "verified": false
+      }
+    ]
+  }
+}

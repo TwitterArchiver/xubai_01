@@ -1,0 +1,823 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2070173864144015694",
+    "created_at": "2026-07-20T18:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079268208893481100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "286418121",
+          "start": 0,
+          "username": "CyberHono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079268208893481100",
+    "in_reply_to_user_id": "286418121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070173864144015694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberHono ios有点卡 然后群消息多会闪退..😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2070172236561199104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLq6rlAbMAAd82z.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2070172718159577088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLq7HnGbQAAK7uj.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2070172892147703808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLq7RvQbYAAuWUZ.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2070173521804931072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLq72Y6aMAALYOe.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2070173864144015694",
+        "created_at": "2026-07-20T18:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079268208893481100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "286418121",
+              "start": 0,
+              "username": "CyberHono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079268208893481100",
+        "in_reply_to_user_id": "286418121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070173864144015694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberHono ios有点卡 然后群消息多会闪退..😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070172236561199104",
+            "3_2070172718159577088",
+            "3_2070172892147703808",
+            "3_2070173521804931072"
+          ]
+        },
+        "author_id": "286418121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2070173864144015694",
+        "created_at": "2026-06-25T15:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:53:29.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070173545481834542",
+          "2070173864144015694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Available on iOS",
+              "display_url": "testflight.apple.com/join/tVC8WkbW",
+              "end": 59,
+              "expanded_url": "https://testflight.apple.com/join/tVC8WkbW",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2077317386777337856/P43_3kgI?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2077317386777337856/P43_3kgI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "Join the Mithka beta",
+              "unwound_url": "https://testflight.apple.com/join/tVC8WkbW",
+              "url": "https://t.co/0MTWWSaI6y"
+            },
+            {
+              "description": "A Telegram client, but déjà vu. Contribute to iebb/mithka development by creating an account on GitHub.",
+              "display_url": "github.com/iebb/mithka/re…",
+              "end": 92,
+              "expanded_url": "https://github.com/iebb/mithka/releases",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2077317369568034817/sUyJU74w?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2077317369568034817/sUyJU74w?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "Releases · iebb/mithka",
+              "unwound_url": "https://github.com/iebb/mithka/releases",
+              "url": "https://t.co/1HRSJcWWnP"
+            },
+            {
+              "description": "A Telegram client, but déjà vu. Contribute to iebb/mithka development by creating an account on GitHub.",
+              "display_url": "github.com/iebb/mithka",
+              "end": 124,
+              "expanded_url": "https://github.com/iebb/mithka",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2076530605903532032/qnEyHtQ1?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2076530605903532032/qnEyHtQ1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "GitHub - iebb/mithka: A Telegram client, but déjà vu",
+              "unwound_url": "https://github.com/iebb/mithka",
+              "url": "https://t.co/H6RT7wCuZ1"
+            },
+            {
+              "description": "You can view and join @mithka right away.",
+              "display_url": "t.me/mithka",
+              "end": 154,
+              "expanded_url": "https://t.me/mithka",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2070173869588320256/cedDepn_?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070173869588320256/cedDepn_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 131,
+              "status": 200,
+              "title": "Mithka Users",
+              "unwound_url": "https://t.me/mithka",
+              "url": "https://t.co/GaiJQd7Zvk"
+            },
+            {
+              "display_url": "pic.x.com/eGqgR57g76",
+              "end": 192,
+              "expanded_url": "https://x.com/CyberHono/status/2070173864144015694/photo/1",
+              "media_key": "3_2070172236561199104",
+              "start": 169,
+              "url": "https://t.co/eGqgR57g76"
+            },
+            {
+              "display_url": "pic.x.com/eGqgR57g76",
+              "end": 192,
+              "expanded_url": "https://x.com/CyberHono/status/2070173864144015694/photo/1",
+              "media_key": "3_2070172718159577088",
+              "start": 169,
+              "url": "https://t.co/eGqgR57g76"
+            },
+            {
+              "display_url": "pic.x.com/eGqgR57g76",
+              "end": 192,
+              "expanded_url": "https://x.com/CyberHono/status/2070173864144015694/photo/1",
+              "media_key": "3_2070172892147703808",
+              "start": 169,
+              "url": "https://t.co/eGqgR57g76"
+            },
+            {
+              "display_url": "pic.x.com/eGqgR57g76",
+              "end": 192,
+              "expanded_url": "https://x.com/CyberHono/status/2070173864144015694/photo/1",
+              "media_key": "3_2070173521804931072",
+              "start": 169,
+              "url": "https://t.co/eGqgR57g76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070173864144015694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 84423,
+          "like_count": 194,
+          "quote_count": 10,
+          "reply_count": 26,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "或许是一个🐧风情的 Telegram Client:\n\niOS TF: https://t.co/0MTWWSaI6y\nAndroid: https://t.co/1HRSJcWWnP\nGithub: https://t.co/H6RT7wCuZ1\n\n用户群: https://t.co/GaiJQd7Zvk\n\ntoken 燃烧中... https://t.co/eGqgR57g76"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466,
+          "following_count": 1678,
+          "like_count": 26584,
+          "listed_count": 2,
+          "media_count": 1364,
+          "tweet_count": 7429
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-22T23:51:16.000Z",
+        "description": "🎮  https://t.co/xkvvOEbd0t 🏎️  https://t.co/JHy2gX3kaF  ☎️  https://t.co/zZGI0xwrws  📟 https://t.co/xkchYCW2On\n\n🕘 GMT+9\n🔠 en, zh / ja, es (read-only)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "majors.im",
+                "end": 26,
+                "expanded_url": "http://majors.im",
+                "start": 3,
+                "url": "https://t.co/xkvvOEbd0t"
+              },
+              {
+                "display_url": "f1setup.it",
+                "end": 54,
+                "expanded_url": "http://f1setup.it",
+                "start": 31,
+                "url": "https://t.co/JHy2gX3kaF"
+              },
+              {
+                "display_url": "esim.gg",
+                "end": 83,
+                "expanded_url": "http://esim.gg",
+                "start": 60,
+                "url": "https://t.co/zZGI0xwrws"
+              },
+              {
+                "display_url": "lpa.nekoko.ee",
+                "end": 110,
+                "expanded_url": "http://lpa.nekoko.ee",
+                "start": 87,
+                "url": "https://t.co/xkchYCW2On"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0.td",
+                "end": 23,
+                "expanded_url": "https://0.td/",
+                "start": 0,
+                "url": "https://t.co/i6C0PXlUFN"
+              }
+            ]
+          }
+        },
+        "id": "286418121",
+        "location": "Fukuoka",
+        "name": "ieb",
+        "pinned_tweet_id": "2070173864144015694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/951073169326026752/Q-vmpzsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 424,
+          "like_count": 3039,
+          "listed_count": 5,
+          "media_count": 325,
+          "tweet_count": 4171
+        },
+        "url": "https://t.co/i6C0PXlUFN",
+        "username": "CyberHono",
+        "verified": true
+      }
+    ]
+  }
+}

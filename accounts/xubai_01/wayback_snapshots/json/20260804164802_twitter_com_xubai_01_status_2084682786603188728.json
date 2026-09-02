@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2084677788670574893",
+    "created_at": "2026-08-04T16:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084682786603188728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1620500189630042112",
+          "start": 0,
+          "username": "Moelin_Moe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084682786603188728",
+    "in_reply_to_user_id": "1620500189630042112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084677788670574893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moelin_Moe 可能都麻了吧 比如我🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2084677788670574893",
+        "created_at": "2026-08-04T16:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084682786603188728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1620500189630042112",
+              "start": 0,
+              "username": "Moelin_Moe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084682786603188728",
+        "in_reply_to_user_id": "1620500189630042112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084677788670574893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moelin_Moe 可能都麻了吧 比如我🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620500189630042112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2084677788670574893",
+        "created_at": "2026-08-04T16:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084677788670574893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/carl8818721057…",
+              "end": 205,
+              "expanded_url": "https://twitter.com/carl88187210579/status/2083966245280362880",
+              "start": 182,
+              "url": "https://t.co/yfjNAzRF50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084677788670574893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实支付宝背后的Alipay+已经快要成为世界性的支付工具了（排除Visa/MasterCard/AE/银联这些需要实体介质的卡组织）\n支持Alipay+的软件（来自Gemini）\n国家/地区支持的支付软件/App\n中国大陆支付宝 (Alipay)\n中国香港AlipayHK (支付宝香港)\n中国澳门MPay 澳门钱包、支付宝澳门版 (Alipay Macau)\n韩国Kakao Pay、NAVER Pay、Toss Pay\n日本PayPay (互联互通机制)\n新加坡GrabPay、Changi Pay、OCBC Digital (华侨银行)、EZ-Link Wallet (易通卡)\n马来西亚Touch 'n Go eWallet (一触即通)、Boost、MyPB (Public Bank)\n泰国TrueMoney、Rabbit LINE Pay\n菲律宾GCash、Maya、HelloMoney (by AUB)、BPI、BillEase、Akulaku PayLater\n印度尼西亚DANA、DOKU、Kredivo、Akulaku PayLater\n蒙古国Hipay\n意大利Tinaba\n欧洲 (多国)Klarna (BNPL 先买后付)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083966245280362880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实支付宝背后的Alipay+已经快要成为世界性的支付工具了（排除Visa/MasterCard/AE/银联这些需要实体介质的卡组织）\n支持Alipay+的软件（来自Gemini）\n国家/地区支持的支付软件/App\n中国大陆支付宝 (Alipay)\n中国香港AlipayHK (支付宝香港)\n中国澳门MPay 澳门钱包、支付宝澳门版 (Alipay Macau) https://t.co/yfjNAzRF50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2540,
+          "following_count": 1647,
+          "like_count": 27636,
+          "listed_count": 2,
+          "media_count": 1444,
+          "tweet_count": 7976
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:12:18.000Z",
+        "description": "She/Her · 07 · 一事无成的Product Manager · 💻Vibe Coding · ADHD · ✨ @ElimSpace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "ElimSpace"
+              }
+            ]
+          }
+        },
+        "id": "1620500189630042112",
+        "location": "IP属地：朝鲜人民民主主义共和国",
+        "name": "Moelin雲墨 凌",
+        "pinned_tweet_id": "1992574644956913783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754830288549769216/ce5vqxUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3817,
+          "following_count": 892,
+          "like_count": 2389,
+          "listed_count": 8,
+          "media_count": 439,
+          "tweet_count": 5972
+        },
+        "url": "",
+        "username": "Moelin_Moe",
+        "verified": true
+      }
+    ]
+  }
+}

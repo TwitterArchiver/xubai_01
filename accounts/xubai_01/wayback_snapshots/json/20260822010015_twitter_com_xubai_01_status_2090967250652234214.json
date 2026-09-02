@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090440796856266752"
+      ],
+      "media_source_tweet_id": [
+        "2090621911399030850"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2090967250652234214",
+    "created_at": "2026-08-22T01:00:15.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T02:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090967250652234214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975500696427581440",
+          "start": 3,
+          "username": "TReverie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VvYuNB7EMQ",
+          "end": 50,
+          "expanded_url": "https://x.com/TReverie/status/2090621911399030850/photo/1",
+          "media_key": "3_2090440796856266752",
+          "start": 27,
+          "url": "https://t.co/VvYuNB7EMQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090967250652234214",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090440796856266752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090621911399030850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TReverie: 当今世界三大轴心国领袖！ https://t.co/VvYuNB7EMQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1808,
+        "media_key": "3_2090440796856266752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQK81ECaMAAd1_L.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090440796856266752"
+          ],
+          "media_source_tweet_id": [
+            "2090621911399030850"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2090967250652234214",
+        "created_at": "2026-08-22T01:00:15.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090967250652234214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975500696427581440",
+              "start": 3,
+              "username": "TReverie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VvYuNB7EMQ",
+              "end": 50,
+              "expanded_url": "https://x.com/TReverie/status/2090621911399030850/photo/1",
+              "media_key": "3_2090440796856266752",
+              "start": 27,
+              "url": "https://t.co/VvYuNB7EMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090967250652234214",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090440796856266752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090621911399030850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TReverie: 当今世界三大轴心国领袖！ https://t.co/VvYuNB7EMQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090440796856266752"
+          ]
+        },
+        "author_id": "1975500696427581440",
+        "conversation_id": "2090621911399030850",
+        "created_at": "2026-08-21T02:08:00.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090621911399030850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VvYuNB7EMQ",
+              "end": 36,
+              "expanded_url": "https://x.com/TReverie/status/2090621911399030850/photo/1",
+              "media_key": "3_2090440796856266752",
+              "start": 13,
+              "url": "https://t.co/VvYuNB7EMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090621911399030850",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090440796856266752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 37219,
+          "like_count": 1606,
+          "quote_count": 6,
+          "reply_count": 111,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "当今世界三大轴心国领袖！ https://t.co/VvYuNB7EMQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2090967250652234214",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2550,
+          "following_count": 1654,
+          "like_count": 28520,
+          "listed_count": 2,
+          "media_count": 1504,
+          "tweet_count": 8393
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "I'm Chinese",
+        "id": "1975500696427581440",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2090786483800297687",
+        "name": "Tiny Reverie🇺🇸🇯🇵",
+        "pinned_tweet_id": "2087199091742982578",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975500696427581440/1762471319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087442985533538305/tbsIU3l7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13410,
+          "following_count": 2052,
+          "like_count": 26246,
+          "listed_count": 98,
+          "media_count": 1967,
+          "tweet_count": 6064
+        },
+        "url": "",
+        "username": "TReverie",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

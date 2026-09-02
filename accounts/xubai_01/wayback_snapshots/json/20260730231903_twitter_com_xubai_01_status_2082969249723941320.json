@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2082896313528787161",
+    "created_at": "2026-07-30T23:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T00:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082969249723941320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1513898402366439427",
+          "start": 0,
+          "username": "tired_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082969249723941320",
+    "in_reply_to_user_id": "1513898402366439427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082896313528787161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tired_8964 猜你想问：怎么加入正常人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2082896313528787161",
+        "created_at": "2026-07-30T23:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082969249723941320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513898402366439427",
+              "start": 0,
+              "username": "tired_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082969249723941320",
+        "in_reply_to_user_id": "1513898402366439427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082896313528787161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tired_8964 猜你想问：怎么加入正常人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513898402366439427",
+        "conversation_id": "2082896313528787161",
+        "created_at": "2026-07-30T18:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082896313528787161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082896313528787161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 897,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生说正常人躺下来5-10分钟就可以入睡我想问一下正常人是什么群体我也想加入"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 1632,
+          "like_count": 27148,
+          "listed_count": 2,
+          "media_count": 1405,
+          "tweet_count": 7719
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-12T15:14:50.000Z",
+        "description": "你哭什么，苦海无边；苦海无边，你哭什么？\n❗️❗️❗️置顶推广自辨❗️❗️❗️\n皮下是一根薯条谢谢。\n匿名问答：https://t.co/02AmJFCDEU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amaya_ovo",
+                "end": 79,
+                "expanded_url": "https://ngl.link/amaya_ovo",
+                "start": 56,
+                "url": "https://t.co/02AmJFCDEU"
+              }
+            ]
+          }
+        },
+        "id": "1513898402366439427",
+        "name": "烦烦",
+        "pinned_tweet_id": "2082888239220994102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004997128914149376/V6jWbjSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2616,
+          "following_count": 327,
+          "like_count": 11190,
+          "listed_count": 3,
+          "media_count": 417,
+          "tweet_count": 5154
+        },
+        "url": "",
+        "username": "tired_8964",
+        "verified": false
+      }
+    ]
+  }
+}

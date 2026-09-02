@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091392239360782336",
+        "3_2091392239339728896",
+        "3_2091392239331336193",
+        "3_2091392239327145984"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2091392324010115445",
+    "created_at": "2026-08-23T05:09:20.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T06:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091392324010115445"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 8,
+          "tag": "许白今天吃什么"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qiIwWhYOuu",
+          "end": 40,
+          "expanded_url": "https://x.com/xubai_01/status/2091392324010115445/video/1",
+          "media_key": "13_2091392239360782336",
+          "start": 17,
+          "url": "https://t.co/qiIwWhYOuu"
+        },
+        {
+          "display_url": "pic.x.com/qiIwWhYOuu",
+          "end": 40,
+          "expanded_url": "https://x.com/xubai_01/status/2091392324010115445/video/1",
+          "media_key": "3_2091392239339728896",
+          "start": 17,
+          "url": "https://t.co/qiIwWhYOuu"
+        },
+        {
+          "display_url": "pic.x.com/qiIwWhYOuu",
+          "end": 40,
+          "expanded_url": "https://x.com/xubai_01/status/2091392324010115445/video/1",
+          "media_key": "3_2091392239331336193",
+          "start": 17,
+          "url": "https://t.co/qiIwWhYOuu"
+        },
+        {
+          "display_url": "pic.x.com/qiIwWhYOuu",
+          "end": 40,
+          "expanded_url": "https://x.com/xubai_01/status/2091392324010115445/video/1",
+          "media_key": "3_2091392239327145984",
+          "start": 17,
+          "url": "https://t.co/qiIwWhYOuu"
+        },
+        {
+          "display_url": "x.com/xubai_01/statu…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/xubai_01/status/2091392093772263842",
+          "start": 41,
+          "url": "https://t.co/NplscQbIvY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091392324010115445",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2091392239360782336"
+      },
+      {
+        "media_key": "3_2091392239339728896"
+      },
+      {
+        "media_key": "3_2091392239331336193"
+      },
+      {
+        "media_key": "3_2091392239327145984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091392093772263842",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "饕餮吧应该是。\n#许白今天吃什么 https://t.co/qiIwWhYOuu https://t.co/NplscQbIvY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35113,
+        "height": 1920,
+        "media_key": "13_2091392239360782336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091392239360782336/img/HqBdMMdLr8RGZxvb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091392239360782336/vid/avc1/1080x1920/LwjatBk7SnUD_Br7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091392239360782336/pl/hjcQhnaNv6H4TahH.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091392239360782336/vid/avc1/720x1280/qZ5XkpCZ2aa5R2z7.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091392239360782336/vid/avc1/320x568/-nLfbRsGYCGh4gx0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091392239360782336/vid/avc1/480x852/7KWxA9-GxK788cmI.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091392239339728896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYeKTfacAAVT4S.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091392239331336193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYeKTdaYAEhm2S.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091392239327145984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYeKTcacAA_kQK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091392239360782336",
+            "3_2091392239339728896",
+            "3_2091392239331336193",
+            "3_2091392239327145984"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091392324010115445",
+        "created_at": "2026-08-23T05:09:20.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091392324010115445"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 8,
+              "tag": "许白今天吃什么"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qiIwWhYOuu",
+              "end": 40,
+              "expanded_url": "https://x.com/xubai_01/status/2091392324010115445/video/1",
+              "media_key": "13_2091392239360782336",
+              "start": 17,
+              "url": "https://t.co/qiIwWhYOuu"
+            },
+            {
+              "display_url": "pic.x.com/qiIwWhYOuu",
+              "end": 40,
+              "expanded_url": "https://x.com/xubai_01/status/2091392324010115445/video/1",
+              "media_key": "3_2091392239339728896",
+              "start": 17,
+              "url": "https://t.co/qiIwWhYOuu"
+            },
+            {
+              "display_url": "pic.x.com/qiIwWhYOuu",
+              "end": 40,
+              "expanded_url": "https://x.com/xubai_01/status/2091392324010115445/video/1",
+              "media_key": "3_2091392239331336193",
+              "start": 17,
+              "url": "https://t.co/qiIwWhYOuu"
+            },
+            {
+              "display_url": "pic.x.com/qiIwWhYOuu",
+              "end": 40,
+              "expanded_url": "https://x.com/xubai_01/status/2091392324010115445/video/1",
+              "media_key": "3_2091392239327145984",
+              "start": 17,
+              "url": "https://t.co/qiIwWhYOuu"
+            },
+            {
+              "display_url": "x.com/xubai_01/statu…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/xubai_01/status/2091392093772263842",
+              "start": 41,
+              "url": "https://t.co/NplscQbIvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091392324010115445",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091392239360782336"
+          },
+          {
+            "media_key": "3_2091392239339728896"
+          },
+          {
+            "media_key": "3_2091392239331336193"
+          },
+          {
+            "media_key": "3_2091392239327145984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091392093772263842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "饕餮吧应该是。\n#许白今天吃什么 https://t.co/qiIwWhYOuu https://t.co/NplscQbIvY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2091237466372190404",
+        "created_at": "2026-08-23T05:08:25.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091392093772263842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091392093772263842",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091378919333318857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 22:08 剧烈晕碳 在吃别的东西"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2091392324010115445",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2555,
+          "following_count": 1653,
+          "like_count": 28634,
+          "listed_count": 2,
+          "media_count": 1513,
+          "tweet_count": 8466
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/准大一/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 38,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "zhwevea"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2091385559084314839",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8844,
+          "following_count": 1277,
+          "like_count": 218317,
+          "listed_count": 6,
+          "media_count": 1222,
+          "tweet_count": 9085
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

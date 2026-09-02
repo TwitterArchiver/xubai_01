@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083859571496587264"
+      ],
+      "media_source_tweet_id": [
+        "2083859613515137452"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2084143216392380740",
+    "created_at": "2026-08-03T05:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084143216392380740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1942051519395983360",
+          "start": 3,
+          "username": "bluewolflan66"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SHTZDQmGYg",
+          "end": 50,
+          "expanded_url": "https://x.com/bluewolflan66/status/2083859613515137452/video/1",
+          "media_key": "13_2083859571496587264",
+          "start": 27,
+          "url": "https://t.co/SHTZDQmGYg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084143216392380740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083859613515137452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bluewolflan66: 大家都能飛了🥰 https://t.co/SHTZDQmGYg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21551,
+        "height": 614,
+        "media_key": "13_2083859571496587264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083859571496587264/img/Kc10DPbw7V0MmPvx.jpg",
+        "public_metrics": {
+          "view_count": 17755
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083859571496587264/vid/avc1/474x270/LjeUIN1MdBYAAeOI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083859571496587264/vid/avc1/632x360/HxesSiSnAGl8dTOL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083859571496587264/vid/avc1/1080x614/BbOuiV-1nb0zoGLd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083859571496587264/pl/rGQEJbzLzw3ErtSL.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083859571496587264"
+          ]
+        },
+        "author_id": "1942051519395983360",
+        "conversation_id": "2083859613515137452",
+        "created_at": "2026-08-02T10:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083859613515137452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHTZDQmGYg",
+              "end": 31,
+              "expanded_url": "https://x.com/bluewolflan66/status/2083859613515137452/video/1",
+              "media_key": "13_2083859571496587264",
+              "start": 8,
+              "url": "https://t.co/SHTZDQmGYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083859613515137452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 28702,
+          "like_count": 446,
+          "quote_count": 5,
+          "reply_count": 55,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "大家都能飛了🥰 https://t.co/SHTZDQmGYg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083859571496587264"
+          ],
+          "media_source_tweet_id": [
+            "2083859613515137452"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2084143216392380740",
+        "created_at": "2026-08-03T05:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084143216392380740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1942051519395983360",
+              "start": 3,
+              "username": "bluewolflan66"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHTZDQmGYg",
+              "end": 50,
+              "expanded_url": "https://x.com/bluewolflan66/status/2083859613515137452/video/1",
+              "media_key": "13_2083859571496587264",
+              "start": 27,
+              "url": "https://t.co/SHTZDQmGYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084143216392380740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083859613515137452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bluewolflan66: 大家都能飛了🥰 https://t.co/SHTZDQmGYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 1643,
+          "like_count": 27489,
+          "listed_count": 2,
+          "media_count": 1431,
+          "tweet_count": 7891
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T02:42:37.000Z",
+        "description": "🇹🇼🇯🇵🇺🇦🇮🇱  包蜜，小學博士生，管理老中這一块，安卓護照持有者，謝謝你發給我的台灣國國籍🥰",
+        "id": "1942051519395983360",
+        "location": "Singapore",
+        "name": "阿蘭（二代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005065655738138624/Wuwox6lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 354,
+          "like_count": 9961,
+          "listed_count": 17,
+          "media_count": 1667,
+          "tweet_count": 4798
+        },
+        "url": "",
+        "username": "bluewolflan66",
+        "verified": true
+      }
+    ]
+  }
+}

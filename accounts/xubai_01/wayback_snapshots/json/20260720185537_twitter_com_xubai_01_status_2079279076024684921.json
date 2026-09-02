@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2079262656675160455",
+    "created_at": "2026-07-20T18:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079279076024684921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1977904622141665280",
+          "start": 0,
+          "username": "lzsamadsk0707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079279076024684921",
+    "in_reply_to_user_id": "1977904622141665280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079262656675160455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzsamadsk0707 好糟糕的台词"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16733,
+        "height": 1280,
+        "media_key": "13_2079262517906591744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079262517906591744/img/v3Ja45qfWyLiiiw2.jpg",
+        "public_metrics": {
+          "view_count": 498
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079262517906591744/vid/avc1/320x568/A6afZ-dv06h2OgAg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079262517906591744/vid/avc1/480x852/Wl5UvVagj4WS4i3g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079262517906591744/vid/avc1/720x1280/7JQw6bZzV5YhcstU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079262517906591744/pl/P2naTQLF_DuY_T8U.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2079262656675160455",
+        "created_at": "2026-07-20T18:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079279076024684921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977904622141665280",
+              "start": 0,
+              "username": "lzsamadsk0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079279076024684921",
+        "in_reply_to_user_id": "1977904622141665280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079262656675160455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzsamadsk0707 好糟糕的台词"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079262517906591744"
+          ]
+        },
+        "author_id": "1977904622141665280",
+        "conversation_id": "2079262656675160455",
+        "created_at": "2026-07-20T17:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079262656675160455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0jxCcfNfNH",
+              "end": 25,
+              "expanded_url": "https://x.com/lzsamadsk0707/status/2079262656675160455/video/1",
+              "media_key": "13_2079262517906591744",
+              "start": 2,
+              "url": "https://t.co/0jxCcfNfNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079262656675160455",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2394,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "（ https://t.co/0jxCcfNfNH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466,
+          "following_count": 1678,
+          "like_count": 26592,
+          "listed_count": 2,
+          "media_count": 1364,
+          "tweet_count": 7432
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-14T01:09:57.000Z",
+        "description": "09年生人 ｜半步10后｜坚信拥有爱就可以拥有一切｜高中想学文｜福瑞控｜占有欲｜XP是对我爱答不理但又把我放在第一位（不是）\n第好多次重生的零芷…常驻海南海口🌴QQ：3565593732只过小动物和二次😗",
+        "id": "1977904622141665280",
+        "name": "零芷",
+        "pinned_tweet_id": "2048947845110407593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977905071112572928/dFcdiLlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 691,
+          "like_count": 233,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 583
+        },
+        "url": "",
+        "username": "lzsamadsk0707",
+        "verified": false
+      }
+    ]
+  }
+}

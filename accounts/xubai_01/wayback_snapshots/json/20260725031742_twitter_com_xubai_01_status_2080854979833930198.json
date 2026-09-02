@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2080797978718359581",
+    "created_at": "2026-07-25T03:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080854979833930198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1884259557758885894",
+          "start": 0,
+          "username": "sharksOVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080854979833930198",
+    "in_reply_to_user_id": "1884259557758885894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080810489232404692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sharksOVO 这他妈是茶包！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2080797978718359581",
+        "created_at": "2026-07-25T03:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080854979833930198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1884259557758885894",
+              "start": 0,
+              "username": "sharksOVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080854979833930198",
+        "in_reply_to_user_id": "1884259557758885894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080810489232404692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sharksOVO 这他妈是茶包！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884259557758885894",
+        "conversation_id": "2080797978718359581",
+        "created_at": "2026-07-25T00:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T01:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080810489232404692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080810489232404692",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080797978718359581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 白袜变黑袜了 xwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/发疯乱叫是常态/全不（栈）开发者\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "xuba1_"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "yuji53719"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2485,
+          "following_count": 1683,
+          "like_count": 26815,
+          "listed_count": 2,
+          "media_count": 1380,
+          "tweet_count": 7541
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-28T15:17:50.000Z",
+        "description": "ChineseOK，esay English OK画画苦手。励志成为站在代码顶端的兽xwx",
+        "id": "1884259557758885894",
+        "name": "🏳️‍🌈sharksOVO🔜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077774238019358720/BKd3l-SF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 175,
+          "like_count": 978,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 821
+        },
+        "url": "",
+        "username": "sharksOVO",
+        "verified": true
+      }
+    ]
+  }
+}
