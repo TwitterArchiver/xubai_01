@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2097544694490407270",
+    "created_at": "2026-09-09T05:45:29.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T06:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097562014302474497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657726063806660609",
+          "start": 0,
+          "username": "XiaoZhi443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097562014302474497",
+    "in_reply_to_user_id": "1657726063806660609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097545372650655909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoZhi443 中国移动无忧行破绷了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4251,
+        "height": 1280,
+        "media_key": "13_2097545354061414400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097545354061414400/img/O2pnnNOKlvo2bfe0.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097545354061414400/vid/avc1/320x690/adnwFY4oh6PdQAWM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097545354061414400/vid/avc1/480x1036/9L0BJp1WUo1t4W05.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097545354061414400/vid/avc1/592x1280/JEEHx2eSPuLzc7IC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097545354061414400/pl/qJlH-AFdA0pRVBqz.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2097544694490407270",
+        "created_at": "2026-09-09T05:45:29.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097562014302474497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657726063806660609",
+              "start": 0,
+              "username": "XiaoZhi443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097562014302474497",
+        "in_reply_to_user_id": "1657726063806660609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097545372650655909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoZhi443 中国移动无忧行破绷了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097545354061414400"
+          ]
+        },
+        "author_id": "1657726063806660609",
+        "conversation_id": "2097544694490407270",
+        "created_at": "2026-09-09T04:39:22.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T05:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097545372650655909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKl7cJIo8q",
+              "end": 34,
+              "expanded_url": "https://x.com/XiaoZhi443/status/2097545372650655909/video/1",
+              "media_key": "13_2097545354061414400",
+              "start": 11,
+              "url": "https://t.co/kKl7cJIo8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097545372650655909",
+        "in_reply_to_user_id": "1657726063806660609",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097545354061414400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097544694490407270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是这个水猴子视频… https://t.co/kKl7cJIo8q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2097562014302474497",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2725,
+          "following_count": 1662,
+          "like_count": 30015,
+          "listed_count": 2,
+          "media_count": 1600,
+          "tweet_count": 8978
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-14T12:35:41.000Z",
+        "description": "存在的意义是什么？",
+        "id": "1657726063806660609",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097545939200389425",
+        "name": "小智",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061045248206483456/gP5HIbAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 423,
+          "like_count": 24494,
+          "listed_count": 1,
+          "media_count": 1105,
+          "tweet_count": 8314
+        },
+        "url": "",
+        "username": "XiaoZhi443",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

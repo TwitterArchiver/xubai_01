@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096429392360804352"
+      ],
+      "media_source_tweet_id": [
+        "2096430086752972873"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2096444118637666638",
+    "created_at": "2026-09-06T03:43:22.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T04:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096444118637666638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1313694503362985989",
+          "start": 3,
+          "username": "ChroNoiR301"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LYgykQzbog",
+          "end": 60,
+          "expanded_url": "https://x.com/ChroNoiR301/status/2096430086752972873/photo/1",
+          "media_key": "3_2096429392360804352",
+          "start": 37,
+          "url": "https://t.co/LYgykQzbog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096444118637666638",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096429392360804352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096430086752972873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChroNoiR301: doctor，您为什么要我做这个姿势呢 https://t.co/LYgykQzbog"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_2096429392360804352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgDbMxakAA4LBY.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096429392360804352"
+          ],
+          "media_source_tweet_id": [
+            "2096430086752972873"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2096444118637666638",
+        "created_at": "2026-09-06T03:43:22.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096444118637666638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1313694503362985989",
+              "start": 3,
+              "username": "ChroNoiR301"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LYgykQzbog",
+              "end": 60,
+              "expanded_url": "https://x.com/ChroNoiR301/status/2096430086752972873/photo/1",
+              "media_key": "3_2096429392360804352",
+              "start": 37,
+              "url": "https://t.co/LYgykQzbog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096444118637666638",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096429392360804352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096430086752972873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChroNoiR301: doctor，您为什么要我做这个姿势呢 https://t.co/LYgykQzbog"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096429392360804352"
+          ]
+        },
+        "author_id": "1313694503362985989",
+        "conversation_id": "2096430086752972873",
+        "created_at": "2026-09-06T02:47:37.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096430086752972873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LYgykQzbog",
+              "end": 43,
+              "expanded_url": "https://x.com/ChroNoiR301/status/2096430086752972873/photo/1",
+              "media_key": "3_2096429392360804352",
+              "start": 20,
+              "url": "https://t.co/LYgykQzbog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096430086752972873",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096429392360804352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 439,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "doctor，您为什么要我做这个姿势呢 https://t.co/LYgykQzbog"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2096444118637666638",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2719,
+          "following_count": 1662,
+          "like_count": 29838,
+          "listed_count": 2,
+          "media_count": 1582,
+          "tweet_count": 8918
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-07T04:16:00.000Z",
+        "description": "07|174 59 🌈\n目前精神状态良好，不好的时候会哈气|北京英专|假期大概率回四川\n丨emo缓解器 欢迎扩列 丨诡秘@Wusong6480\n @luoyu1212 @xiaochuan2_0|骚货@qiqi1145141919丨是一个野心比能力强的小屁孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "Wusong6480"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "luoyu1212"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "xiaochuan2_0"
+              },
+              {
+                "end": 115,
+                "start": 100,
+                "username": "qiqi1145141919"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chronoir2025",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chronoir2025",
+                "start": 0,
+                "url": "https://t.co/yTbMLvky3M"
+              }
+            ]
+          }
+        },
+        "id": "1313694503362985989",
+        "is_identity_verified": false,
+        "location": "世界的中心",
+        "most_recent_tweet_id": "2096430086752972873",
+        "name": "辣条🐶（北京苦逼上学版）",
+        "pinned_tweet_id": "1938878959183151167",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313694503362985989/1777813543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093068972497477632/NEQw1bGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5992,
+          "following_count": 1335,
+          "like_count": 23764,
+          "listed_count": 6,
+          "media_count": 355,
+          "tweet_count": 4934
+        },
+        "url": "https://t.co/yTbMLvky3M",
+        "username": "ChroNoiR301",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

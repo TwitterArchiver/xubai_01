@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1294251834106732546",
+          "name": "University of California Los Angeles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Colleges & universities around the world",
+          "id": "157",
+          "name": "Colleges & Universities"
+        },
+        "entity": {
+          "id": "1294251834106732546",
+          "name": "University of California Los Angeles"
+        }
+      }
+    ],
+    "conversation_id": "2094687128060068246",
+    "created_at": "2026-09-08T00:34:00.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T01:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097121237353087129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1609083852210962432",
+          "start": 0,
+          "username": "bluishwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097121237353087129",
+    "in_reply_to_user_id": "1609083852210962432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097099726260978156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluishwu 神ucla"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2097099720997150720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRplFdibIAAAuwb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294251834106732546",
+              "name": "University of California Los Angeles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1294251834106732546",
+              "name": "University of California Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2094687128060068246",
+        "created_at": "2026-09-08T00:34:00.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097121237353087129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1609083852210962432",
+              "start": 0,
+              "username": "bluishwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097121237353087129",
+        "in_reply_to_user_id": "1609083852210962432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097099726260978156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluishwu 神ucla"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097099720997150720"
+          ]
+        },
+        "author_id": "1609083852210962432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294251834106732546",
+              "name": "University of California Los Angeles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1294251834106732546",
+              "name": "University of California Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2094687128060068246",
+        "created_at": "2026-09-07T23:08:31.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T00:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097099726260978156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYXGMI1akj",
+              "end": 38,
+              "expanded_url": "https://x.com/bluishwu/status/2097099726260978156/photo/1",
+              "media_key": "3_2097099720997150720",
+              "start": 15,
+              "url": "https://t.co/MYXGMI1akj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097099726260978156",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "3_2097099720997150720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094687128060068246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 UCLA https://t.co/MYXGMI1akj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2097121237353087129",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 1663,
+          "like_count": 29951,
+          "listed_count": 2,
+          "media_count": 1593,
+          "tweet_count": 8958
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-31T07:07:58.000Z",
+        "description": "# https://t.co/SwJ8vyamPD - https://t.co/JCqVeZKnm5 | https://t.co/BtavlhmhZL | https://t.co/lTwYFEw2SI | https://t.co/KoIhFruQrJ | https://t.co/UpLD7PmQuq | https://t.co/f6Zjbo7byw | https://t.co/oPkqRQWraC | https://t.co/R9KIfjYLn4 | https://t.co/Qffhwqak50 | https://t.co/44nhtpF8Ne | https://t.co/9oviFesqCm | https://t.co/g5qrm9bfvR | https://t.co/GFmn9Zy6uV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "NET.DEAL",
+                "end": 25,
+                "expanded_url": "http://NET.DEAL",
+                "start": 2,
+                "url": "https://t.co/SwJ8vyamPD"
+              },
+              {
+                "display_url": "Laun.ch",
+                "end": 51,
+                "expanded_url": "http://Laun.ch",
+                "start": 28,
+                "url": "https://t.co/JCqVeZKnm5"
+              },
+              {
+                "display_url": "Love.Land",
+                "end": 77,
+                "expanded_url": "http://Love.Land",
+                "start": 54,
+                "url": "https://t.co/BtavlhmhZL"
+              },
+              {
+                "display_url": "Tifo.org",
+                "end": 103,
+                "expanded_url": "http://Tifo.org",
+                "start": 80,
+                "url": "https://t.co/lTwYFEw2SI"
+              },
+              {
+                "display_url": "Dog.Town",
+                "end": 129,
+                "expanded_url": "http://Dog.Town",
+                "start": 106,
+                "url": "https://t.co/KoIhFruQrJ"
+              },
+              {
+                "display_url": "Ice.Blue",
+                "end": 155,
+                "expanded_url": "http://Ice.Blue",
+                "start": 132,
+                "url": "https://t.co/UpLD7PmQuq"
+              },
+              {
+                "display_url": "Stay.Cool",
+                "end": 181,
+                "expanded_url": "http://Stay.Cool",
+                "start": 158,
+                "url": "https://t.co/f6Zjbo7byw"
+              },
+              {
+                "display_url": "Super.Bike",
+                "end": 207,
+                "expanded_url": "http://Super.Bike",
+                "start": 184,
+                "url": "https://t.co/oPkqRQWraC"
+              },
+              {
+                "display_url": "Juice.Plus",
+                "end": 233,
+                "expanded_url": "http://Juice.Plus",
+                "start": 210,
+                "url": "https://t.co/R9KIfjYLn4"
+              },
+              {
+                "display_url": "Kid.Store",
+                "end": 259,
+                "expanded_url": "http://Kid.Store",
+                "start": 236,
+                "url": "https://t.co/Qffhwqak50"
+              },
+              {
+                "display_url": "Find.Best",
+                "end": 285,
+                "expanded_url": "http://Find.Best",
+                "start": 262,
+                "url": "https://t.co/44nhtpF8Ne"
+              },
+              {
+                "display_url": "We.Zone",
+                "end": 311,
+                "expanded_url": "http://We.Zone",
+                "start": 288,
+                "url": "https://t.co/9oviFesqCm"
+              },
+              {
+                "display_url": "Soul.im",
+                "end": 337,
+                "expanded_url": "http://Soul.im",
+                "start": 314,
+                "url": "https://t.co/g5qrm9bfvR"
+              },
+              {
+                "display_url": "Org.Fit",
+                "end": 363,
+                "expanded_url": "http://Org.Fit",
+                "start": 340,
+                "url": "https://t.co/GFmn9Zy6uV"
+              }
+            ]
+          }
+        },
+        "id": "1609083852210962432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097099726260978156",
+        "name": "bluish",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609085152407486469/Gw_lSFuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 123,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 450
+        },
+        "url": "",
+        "username": "bluishwu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

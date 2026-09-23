@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2099343839475703950",
+    "created_at": "2026-09-14T08:05:49.000Z",
+    "display_text_range": [
+      50,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T09:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099409269716369478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1168003843243692033",
+          "start": 0,
+          "username": "B0R8nnTVKzmhxNZ"
+        },
+        {
+          "end": 28,
+          "id": "2072873341506220032",
+          "start": 17,
+          "username": "SHUNWUhede"
+        },
+        {
+          "end": 41,
+          "id": "1757356334138400768",
+          "start": 29,
+          "username": "henry131002"
+        },
+        {
+          "end": 49,
+          "id": "1613079089879076864",
+          "start": 42,
+          "username": "YunJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099409269716369478",
+    "in_reply_to_user_id": "1168003843243692033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099405524391633380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B0R8nnTVKzmhxNZ @SHUNWUhede @henry131002 @YunJiu 别他妈怕什么来什么了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2099343839475703950",
+        "created_at": "2026-09-14T08:05:49.000Z",
+        "display_text_range": [
+          50,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T09:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099409269716369478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1168003843243692033",
+              "start": 0,
+              "username": "B0R8nnTVKzmhxNZ"
+            },
+            {
+              "end": 28,
+              "id": "2072873341506220032",
+              "start": 17,
+              "username": "SHUNWUhede"
+            },
+            {
+              "end": 41,
+              "id": "1757356334138400768",
+              "start": 29,
+              "username": "henry131002"
+            },
+            {
+              "end": 49,
+              "id": "1613079089879076864",
+              "start": 42,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099409269716369478",
+        "in_reply_to_user_id": "1168003843243692033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099405524391633380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B0R8nnTVKzmhxNZ @SHUNWUhede @henry131002 @YunJiu 别他妈怕什么来什么了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1168003843243692033",
+        "conversation_id": "2099343839475703950",
+        "created_at": "2026-09-14T07:50:56.000Z",
+        "display_text_range": [
+          33,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099405524391633380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2072873341506220032",
+              "start": 0,
+              "username": "SHUNWUhede"
+            },
+            {
+              "end": 24,
+              "id": "1757356334138400768",
+              "start": 12,
+              "username": "henry131002"
+            },
+            {
+              "end": 32,
+              "id": "1613079089879076864",
+              "start": 25,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099405524391633380",
+        "in_reply_to_user_id": "2072873341506220032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099375229290365027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUNWUhede @henry131002 @YunJiu 这™谁不怕？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2099409279778537559",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2738,
+          "following_count": 1658,
+          "like_count": 30288,
+          "listed_count": 2,
+          "media_count": 1620,
+          "tweet_count": 9091
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-01T03:33:30.000Z",
+        "description": "",
+        "id": "1168003843243692033",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099405524391633380",
+        "name": "ash",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168003843243692033/1683882366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1172423557034336256/2S4w9DZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 480,
+          "like_count": 23842,
+          "listed_count": 5,
+          "media_count": 37,
+          "tweet_count": 1854
+        },
+        "url": "",
+        "username": "B0R8nnTVKzmhxNZ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-03T02:42:44.000Z",
+        "description": "",
+        "id": "2072873341506220032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099375229290365027",
+        "name": "SHUN WU",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 21,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "SHUNWUhede",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-13T10:49:44.000Z",
+        "description": "09普通的苦逼高中生\n同龄人欢迎来找我聊天哈哈，我比较喜欢历史还有写作，还有阅读，欢迎来骚扰我💀\n🏳️‍🌈",
+        "id": "1757356334138400768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099384594537816509",
+        "name": "Tédio/Extase",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757357699174670336/Lr5foc1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 35,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "henry131002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099400181603307793",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613079089879076864/1772420117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107624,
+          "following_count": 830,
+          "like_count": 37894,
+          "listed_count": 301,
+          "media_count": 21407,
+          "tweet_count": 30212
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

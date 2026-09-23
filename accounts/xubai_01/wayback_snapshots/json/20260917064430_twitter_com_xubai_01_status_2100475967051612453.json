@@ -1,0 +1,627 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      }
+    ],
+    "conversation_id": "2100475967051612453",
+    "created_at": "2026-09-17T06:44:30.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T07:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100475967051612453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thirteenyizuka…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/thirteenyizuka/status/2100176997439902119",
+          "start": 10,
+          "url": "https://t.co/41MPVHtvXn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100475967051612453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100176997439902119",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ptsd这块没得说 https://t.co/41MPVHtvXn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1676,
+        "media_key": "3_2100176987105218560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVT17HbUAAJzbi.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2100475967051612453",
+        "created_at": "2026-09-17T06:44:30.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T07:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100475967051612453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thirteenyizuka…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/thirteenyizuka/status/2100176997439902119",
+              "start": 10,
+              "url": "https://t.co/41MPVHtvXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100475967051612453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100176997439902119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ptsd这块没得说 https://t.co/41MPVHtvXn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100176987105218560"
+          ]
+        },
+        "author_id": "1909562414162755584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2100176997439902119",
+        "created_at": "2026-09-16T10:56:30.000Z",
+        "display_text_range": [
+          0,
+          176
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T11:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100176997439902119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tXtBBiclSP",
+              "end": 200,
+              "expanded_url": "https://x.com/ThirteenYizuka/status/2100176997439902119/photo/1",
+              "media_key": "3_2100176987105218560",
+              "start": 177,
+              "url": "https://t.co/tXtBBiclSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100176997439902119",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100176987105218560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "GPT-6 Astra把Minecraft玩到AI从未到过的进度，最后栽在苦力怕手里\n\n在 AI 模型评测公司 Vals AI 的 Minecraft 长时程测试中，GPT-6 Astra 推进到了此前任何 AI 系统都没达到过的进度。它搭出了半自动烈焰人农场，拿到 6 根烈焰棒，又找到诡异森林，击杀 6 只以上末影人并收集到 3 颗末影珍珠。\n\n但 Astra 随后把重要物资全放进一个箱子。一只苦力怕突然出现，把箱子和床一起炸掉，关键物资几乎全部丢失。\n\n此后 Astra 连续几个小时几乎只在种土豆，还开始反复警惕苦力怕。它甚至会看到绿色物体就提醒自己「这是甘蔗，不是苦力怕」。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 41512,
+          "like_count": 336,
+          "quote_count": 7,
+          "reply_count": 32,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "GPT-6 Astra把Minecraft玩到AI从未到过的进度，最后栽在苦力怕手里\n\n在 AI 模型评测公司 Vals AI 的 Minecraft 长时程测试中，GPT-6 Astra 推进到了此前任何 AI 系统都没达到过的进度。它搭出了半自动烈焰人农场，拿到 6 根烈焰棒，又找到诡异森林，击杀 6 只以上末影人并收集到 3 颗末影珍珠。\n\n但 https://t.co/tXtBBiclSP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2100475967051612453",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2736,
+          "following_count": 1655,
+          "like_count": 30508,
+          "listed_count": 2,
+          "media_count": 1630,
+          "tweet_count": 9156
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2071876271307390976/kBmsB0-__bigger.jpg",
+          "description": "Memoh",
+          "url": "https://twitter.com/memoh_ai",
+          "user_id": [
+            "2021509446640562176"
+          ]
+        },
+        "created_at": "2025-04-08T11:02:28.000Z",
+        "description": "Student & Developer | 🩵🩷🤍🩷🩵 @JyushitiYizuka\n高性价比的大模型服务 https://t.co/H6HxLqxAqO\n交流群 https://t.co/9ekuuVmk3V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "JyushitiYizuka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tokenflux.dev",
+                "end": 78,
+                "expanded_url": "https://tokenflux.dev",
+                "start": 55,
+                "url": "https://t.co/H6HxLqxAqO"
+              },
+              {
+                "display_url": "t.me/tokenflux_chat",
+                "end": 106,
+                "expanded_url": "https://t.me/tokenflux_chat",
+                "start": 83,
+                "url": "https://t.co/9ekuuVmk3V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/smartcmd",
+                "end": 23,
+                "expanded_url": "http://github.com/smartcmd",
+                "start": 0,
+                "url": "https://t.co/f9cf7yDTE8"
+              }
+            ]
+          }
+        },
+        "id": "1909562414162755584",
+        "is_identity_verified": false,
+        "location": "クローゼットの中",
+        "most_recent_tweet_id": "2100387137501987176",
+        "name": "芒果刀🥭",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909562414162755584/1765525005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086871763401756672/iVdJDNFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2948,
+          "following_count": 334,
+          "like_count": 10171,
+          "listed_count": 12,
+          "media_count": 231,
+          "tweet_count": 2243
+        },
+        "url": "https://t.co/f9cf7yDTE8",
+        "username": "ThirteenYizuka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

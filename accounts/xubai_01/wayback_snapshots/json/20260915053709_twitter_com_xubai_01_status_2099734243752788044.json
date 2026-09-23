@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2099499289131315329",
+    "created_at": "2026-09-15T05:37:09.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T06:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099734243752788044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1426207565575192577",
+          "start": 0,
+          "username": "Lainyer051230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099734243752788044",
+    "in_reply_to_user_id": "1426207565575192577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099499289131315329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lainyer051230 中国人能飞😡😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12429,
+        "height": 1440,
+        "media_key": "13_2099499143362486272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099499143362486272/img/6iXzzUttDruLvbjX.jpg",
+        "public_metrics": {
+          "view_count": 6165
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099499143362486272/vid/avc1/360x270/ag1sXOe39dGddMtS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099499143362486272/vid/avc1/960x720/0lEwP0a9aZO65do1.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099499143362486272/vid/avc1/1920x1440/aw1Cgsfe9rqiybDp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099499143362486272/pl/OGRrNtDpkdLPYdLZ.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099499143362486272/vid/avc1/480x360/0O6QK98W8Zb96a4H.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2099499289131315329",
+        "created_at": "2026-09-15T05:37:09.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099734243752788044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1426207565575192577",
+              "start": 0,
+              "username": "Lainyer051230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099734243752788044",
+        "in_reply_to_user_id": "1426207565575192577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099499289131315329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lainyer051230 中国人能飞😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099499143362486272"
+          ]
+        },
+        "author_id": "1426207565575192577",
+        "conversation_id": "2099499289131315329",
+        "created_at": "2026-09-14T14:03:31.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099499289131315329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nL8MQUniyF",
+              "end": 38,
+              "expanded_url": "https://x.com/Lainyer051230/status/2099499289131315329/video/1",
+              "media_key": "13_2099499143362486272",
+              "start": 15,
+              "url": "https://t.co/nL8MQUniyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099499289131315329",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099499143362486272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 9291,
+          "like_count": 380,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "区区200……不行了呜qwq https://t.co/nL8MQUniyF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2099734243752788044",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2737,
+          "following_count": 1659,
+          "like_count": 30355,
+          "listed_count": 2,
+          "media_count": 1623,
+          "tweet_count": 9109
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-13T15:43:03.000Z",
+        "description": "2007.5.6（年月日｜\n位于马来西亚.柔佛州｜HRT：2026.5.1（26.8.18停药中｜无不良嗜好（吧｜偶尔分享下照片还有生活之类的～｜我的可爱小唯唯： @weiweisama1220",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "weiweisama1220"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lainyer051230",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lainyer051230",
+                "start": 0,
+                "url": "https://t.co/sBJx5Edfpt"
+              }
+            ]
+          }
+        },
+        "id": "1426207565575192577",
+        "is_identity_verified": false,
+        "location": "Johor, Malaysia",
+        "most_recent_tweet_id": "2099730943963766871",
+        "name": "千缘sama",
+        "pinned_tweet_id": "2080979883987997106",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426207565575192577/1779697729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098988943949864960/vX-CA2nM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 338,
+          "like_count": 21702,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 3086
+        },
+        "url": "https://t.co/sBJx5Edfpt",
+        "username": "Lainyer051230",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

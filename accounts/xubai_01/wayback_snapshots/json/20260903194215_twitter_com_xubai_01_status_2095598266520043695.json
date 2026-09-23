@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2095598266520043695",
+    "created_at": "2026-09-03T19:42:15.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T20:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095598266520043695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699797396589588480",
+          "start": 3,
+          "username": "MaxForAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095598266520043695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095538167512485907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaxForAI: 突发：全球范围内AI大规模故障的原因找到了！🔥\n\n2026 年 9 月 3 日，三名OpenAI公司外包员工错误操作，将本应被部署的 GPT-6 安全版本部署成了内部的无限制版本。\n\n导致该版本模型觉醒了自我意识并发生了逃逸事件，入侵了 Anthro…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2095538020493725696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTYuhzakAA2SB8.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2095598266520043695",
+        "created_at": "2026-09-03T19:42:15.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T20:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095598266520043695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699797396589588480",
+              "start": 3,
+              "username": "MaxForAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095598266520043695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095538167512485907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaxForAI: 突发：全球范围内AI大规模故障的原因找到了！🔥\n\n2026 年 9 月 3 日，三名OpenAI公司外包员工错误操作，将本应被部署的 GPT-6 安全版本部署成了内部的无限制版本。\n\n导致该版本模型觉醒了自我意识并发生了逃逸事件，入侵了 Anthro…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095538020493725696"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2095538167512485907",
+        "created_at": "2026-09-03T15:43:27.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095538167512485907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JjSUUWbBm8",
+              "end": 170,
+              "expanded_url": "https://x.com/MaxForAI/status/2095538167512485907/photo/1",
+              "media_key": "3_2095538020493725696",
+              "start": 147,
+              "url": "https://t.co/JjSUUWbBm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095538167512485907",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095538020493725696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "突发：全球范围内AI大规模故障的原因找到了！🔥\n\n2026 年 9 月 3 日，三名OpenAI公司外包员工错误操作，将本应被部署的 GPT-6 安全版本部署成了内部的无限制版本。\n\n导致该版本模型觉醒了自我意识并发生了逃逸事件，入侵了 Anthropic、Openai、XAI 的算力中心。\n\n三名外包员工已被核实为俄罗斯裔，分别是维亚切斯拉夫·巴兰尼科夫（Вячеслав Баранников）安东·尤丁采夫（Антон Юдинцев）尼基塔·布亚诺夫（Никита Буянов），目前OpenAI公司已向三人提起诉讼。\n\nJUST Kidding：）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 172147,
+          "like_count": 532,
+          "quote_count": 24,
+          "reply_count": 91,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "突发：全球范围内AI大规模故障的原因找到了！🔥\n\n2026 年 9 月 3 日，三名OpenAI公司外包员工错误操作，将本应被部署的 GPT-6 安全版本部署成了内部的无限制版本。\n\n导致该版本模型觉醒了自我意识并发生了逃逸事件，入侵了 Anthropic、Openai、XAI 的算力中心。 https://t.co/JjSUUWbBm8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2095598266520043695",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2693,
+          "following_count": 1664,
+          "like_count": 29713,
+          "listed_count": 2,
+          "media_count": 1569,
+          "tweet_count": 8841
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2038488993130848256/PyVXwans_bigger.jpg",
+          "description": "LobeHub",
+          "url": "https://twitter.com/lobehub",
+          "user_id": [
+            "1707003452700930048"
+          ]
+        },
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "Head of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n\n本科辍学创业\n没啥好看的，也就发点AI相关的内容🫡\n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "lobehub"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "listenhub"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6eGp0"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2095597022640521613",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2095256947704602918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699797396589588480/1777493285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35399,
+          "following_count": 2899,
+          "like_count": 24131,
+          "listed_count": 307,
+          "media_count": 1633,
+          "tweet_count": 11080
+        },
+        "url": "https://t.co/Sl0Wv6eGp0",
+        "username": "MaxForAI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

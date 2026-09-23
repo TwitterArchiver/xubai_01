@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100577314610528256"
+      ],
+      "media_source_tweet_id": [
+        "2100577356608118895"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2101043615267270946",
+    "created_at": "2026-09-18T20:20:08.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T21:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101043615267270946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1280001743162609664",
+          "start": 3,
+          "username": "Poca2381"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n9NGcK78TK",
+          "end": 53,
+          "expanded_url": "https://x.com/Poca2381/status/2100577356608118895/photo/1",
+          "media_key": "3_2100577314610528256",
+          "start": 30,
+          "url": "https://t.co/n9NGcK78TK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101043615267270946",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100577314610528256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100577356608118895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poca2381: 我真的要笑炸了谁想出来的这气泡 https://t.co/n9NGcK78TK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 739,
+        "media_key": "3_2100577314610528256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSa_8DSawAAEZTQ.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100577314610528256"
+          ],
+          "media_source_tweet_id": [
+            "2100577356608118895"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2101043615267270946",
+        "created_at": "2026-09-18T20:20:08.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T21:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101043615267270946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1280001743162609664",
+              "start": 3,
+              "username": "Poca2381"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9NGcK78TK",
+              "end": 53,
+              "expanded_url": "https://x.com/Poca2381/status/2100577356608118895/photo/1",
+              "media_key": "3_2100577314610528256",
+              "start": 30,
+              "url": "https://t.co/n9NGcK78TK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101043615267270946",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100577314610528256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100577356608118895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poca2381: 我真的要笑炸了谁想出来的这气泡 https://t.co/n9NGcK78TK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100577314610528256"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2100577356608118895",
+        "created_at": "2026-09-17T13:27:23.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100577356608118895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9NGcK78TK",
+              "end": 39,
+              "expanded_url": "https://x.com/Poca2381/status/2100577356608118895/photo/1",
+              "media_key": "3_2100577314610528256",
+              "start": 16,
+              "url": "https://t.co/n9NGcK78TK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100577356608118895",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100577314610528256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 137773,
+          "like_count": 3746,
+          "quote_count": 5,
+          "reply_count": 371,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "我真的要笑炸了谁想出来的这气泡 https://t.co/n9NGcK78TK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2101043615267270946",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2732,
+          "following_count": 1652,
+          "like_count": 30542,
+          "listed_count": 2,
+          "media_count": 1634,
+          "tweet_count": 9174
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2101040350995664985",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25624,
+          "following_count": 11335,
+          "like_count": 157286,
+          "listed_count": 55,
+          "media_count": 7017,
+          "tweet_count": 60928
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

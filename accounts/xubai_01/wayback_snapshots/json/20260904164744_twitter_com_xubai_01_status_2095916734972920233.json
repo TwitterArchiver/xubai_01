@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10043043106",
+          "name": "Microsoft - OneDrive"
+        }
+      }
+    ],
+    "conversation_id": "2095916734972920233",
+    "created_at": "2026-09-04T16:47:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T17:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095916734972920233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083406819964420096",
+          "start": 3,
+          "username": "OukaroMF"
+        },
+        {
+          "end": 30,
+          "id": "2071552995691732993",
+          "start": 14,
+          "username": "YuXi520LingLing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095916734972920233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095845997016739930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OukaroMF: @YuXi520LingLing OneDrive 是微软推出的云存储服务，主要功能包括：\n1. ​​文件存储与同步​​：支持个人文件、照片、文档的云端存储，可在多设备间自动同步（如 Windows、手机、网页端）。\n2. ​​跨平台访问​​：通过客…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043043106",
+              "name": "Microsoft - OneDrive"
+            }
+          }
+        ],
+        "conversation_id": "2095916734972920233",
+        "created_at": "2026-09-04T16:47:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095916734972920233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083406819964420096",
+              "start": 3,
+              "username": "OukaroMF"
+            },
+            {
+              "end": 30,
+              "id": "2071552995691732993",
+              "start": 14,
+              "username": "YuXi520LingLing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095916734972920233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095845997016739930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OukaroMF: @YuXi520LingLing OneDrive 是微软推出的云存储服务，主要功能包括：\n1. ​​文件存储与同步​​：支持个人文件、照片、文档的云端存储，可在多设备间自动同步（如 Windows、手机、网页端）。\n2. ​​跨平台访问​​：通过客…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083406819964420096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043043106",
+              "name": "Microsoft - OneDrive"
+            }
+          }
+        ],
+        "conversation_id": "2095699542125711477",
+        "created_at": "2026-09-04T12:06:39.000Z",
+        "display_text_range": [
+          17,
+          172
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095845997016739930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2071552995691732993",
+              "start": 0,
+              "username": "YuXi520LingLing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095845997016739930",
+        "in_reply_to_user_id": "2071552995691732993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "OneDrive 是微软推出的云存储服务，主要功能包括：\n1. ​​文件存储与同步​​：支持个人文件、照片、文档的云端存储，可在多设备间自动同步（如 Windows、手机、网页端）。\n2. ​​跨平台访问​​：通过客户端或网页登录微软账号即可随时随地访问文件，适合出差、远程办公等场景。\n3. ​​基础协作功能​​：可生成文件链接分享给他人，支持在线预览和简单编辑（如 Office 文档）。\n4. ​​系统集成​​：在 Windows 10/11 中深度集成，默认将文档、图片等文件夹同步到云端，并在任务栏显示同步状态。\n适合个人用户或小型团队用于文件备份、多设备协同，若需复杂团队协作或企业级管理，可结合 SharePoint 使用。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 85,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095699542125711477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuXi520LingLing OneDrive 是微软推出的云存储服务，主要功能包括：\n1. ​​文件存储与同步​​：支持个人文件、照片、文档的云端存储，可在多设备间自动同步（如 Windows、手机、网页端）。\n2. ​​跨平台访问​​：通过客户端或网页登录微软账号即可随时随地访问文件，适合出差、远程办公等场景。\n3. ​​基础协作功能"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2095916734972920233",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 1662,
+          "like_count": 29772,
+          "listed_count": 2,
+          "media_count": 1576,
+          "tweet_count": 8877
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T04:18:41.000Z",
+        "description": "Member/Junior-Designer of https://t.co/3SSh9WcTze\nAuDHD CG/MG 电子高速宏波炉 算是美工 但不是开发者 来自深圳 现居广州 性别已被占用 🍥HRT230609 🌭RLE250326 ❌NeverSRS\n banner by @kangaroo_sande",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 142,
+                "username": "kangaroo_sande"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "SukiSU.org",
+                "end": 49,
+                "expanded_url": "http://SukiSU.org",
+                "start": 26,
+                "url": "https://t.co/3SSh9WcTze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro/MF",
+                "end": 23,
+                "expanded_url": "http://ouka.ro/MF",
+                "start": 0,
+                "url": "https://t.co/GsQxfQb72s"
+              }
+            ]
+          }
+        },
+        "id": "2083406819964420096",
+        "is_identity_verified": true,
+        "location": "请输入文本",
+        "most_recent_tweet_id": "2095914782151061567",
+        "name": "OukaroMF",
+        "pinned_tweet_id": "2088972032776266216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083406819964420096/1785674814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083434459630882816/NZ4BOxV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 715,
+          "like_count": 8321,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 6604
+        },
+        "url": "https://t.co/GsQxfQb72s",
+        "username": "OukaroMF",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T11:20:03.000Z",
+        "description": "MTF｜無證含糖｜常在春风里，活在药效里｜💊｜🔪🩸｜生产日期：2009.3.26｜hrt：2026.1.16｜同类互fo｜ym重度依赖｜精神稳定？｜看成分回fo\n会发一些日常和自己唠叨\n逃生仓：@YuXi520326\n最爱的妹妹：@LingLinghmiao\n最爱语汐的姐姐：@luoyuan2008",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "YuXi520326"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "LingLinghmiao"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "luoyuan2008"
+              }
+            ]
+          }
+        },
+        "id": "2071552995691732993",
+        "is_identity_verified": false,
+        "location": "America",
+        "most_recent_tweet_id": "2095910622827602335",
+        "name": "语汐汐喵🍥",
+        "pinned_tweet_id": "2085887406906192129",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071552995691732993/1785931233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088980358335447040/TySiQZFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 592,
+          "like_count": 283,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 499
+        },
+        "url": "",
+        "username": "YuXi520LingLing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

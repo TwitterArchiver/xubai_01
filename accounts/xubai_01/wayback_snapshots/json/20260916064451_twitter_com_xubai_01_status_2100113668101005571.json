@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "2100113668101005571",
+    "created_at": "2026-09-16T06:44:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T07:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100113668101005571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1909562414162755584",
+          "start": 3,
+          "username": "ThirteenYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100113668101005571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100108917741355334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ThirteenYizuka: 在html中用svg画一个骑穿着中世纪铠甲的北极熊的普通夜鹭背着一个骑着黑色涂蜡的氧化的铜制自行车的橘色嘴巴里面刁了只大肥鱼的鹈鹕在梵高的发生了超新星爆发产生的陨石砸中了地面的一个脑袋上有只巨型竹节虫正在发射原子弹的恐龙的星空的背景下飞翔…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2100113668101005571",
+        "created_at": "2026-09-16T06:44:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100113668101005571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1909562414162755584",
+              "start": 3,
+              "username": "ThirteenYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100113668101005571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100108917741355334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ThirteenYizuka: 在html中用svg画一个骑穿着中世纪铠甲的北极熊的普通夜鹭背着一个骑着黑色涂蜡的氧化的铜制自行车的橘色嘴巴里面刁了只大肥鱼的鹈鹕在梵高的发生了超新星爆发产生的陨石砸中了地面的一个脑袋上有只巨型竹节虫正在发射原子弹的恐龙的星空的背景下飞翔…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909562414162755584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2100108917741355334",
+        "created_at": "2026-09-16T06:25:58.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100108917741355334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100108917741355334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在html中用svg画一个骑穿着中世纪铠甲的北极熊的普通夜鹭背着一个骑着黑色涂蜡的氧化的铜制自行车的橘色嘴巴里面刁了只大肥鱼的鹈鹕在梵高的发生了超新星爆发产生的陨石砸中了地面的一个脑袋上有只巨型竹节虫正在发射原子弹的恐龙的星空的背景下飞翔被后面的一个秦始皇站在一架挂载了霹雳12的f14的机翼上面在拿着被锯短的独头弹猎枪追逐时撞到了天上的一个悬空的上面瘫坐了个奥特曼的黄金椅子，画面尽量精美"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在html中用svg画一个骑穿着中世纪铠甲的北极熊的普通夜鹭背着一个骑着黑色涂蜡的氧化的铜制自行车的橘色嘴巴里面刁了只大肥鱼的鹈鹕在梵高的发生了超新星爆发产生的陨石砸中了地面的一个脑袋上有只巨型竹节虫正在发射原子弹的恐龙的星空的背景下飞翔被后面的一个秦始皇站在一架挂载了霹雳12的f14的机翼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2100113668101005571",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2736,
+          "following_count": 1655,
+          "like_count": 30453,
+          "listed_count": 2,
+          "media_count": 1626,
+          "tweet_count": 9136
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2071876271307390976/kBmsB0-__bigger.jpg",
+          "description": "Memoh",
+          "url": "https://twitter.com/memoh_ai",
+          "user_id": [
+            "2021509446640562176"
+          ]
+        },
+        "created_at": "2025-04-08T11:02:28.000Z",
+        "description": "Student & Developer | 🩵🩷🤍🩷🩵 @JyushitiYizuka\n高性价比的大模型服务 https://t.co/H6HxLqxAqO\n交流群 https://t.co/9ekuuVmk3V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "JyushitiYizuka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tokenflux.dev",
+                "end": 78,
+                "expanded_url": "https://tokenflux.dev",
+                "start": 55,
+                "url": "https://t.co/H6HxLqxAqO"
+              },
+              {
+                "display_url": "t.me/tokenflux_chat",
+                "end": 106,
+                "expanded_url": "https://t.me/tokenflux_chat",
+                "start": 83,
+                "url": "https://t.co/9ekuuVmk3V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/smartcmd",
+                "end": 23,
+                "expanded_url": "http://github.com/smartcmd",
+                "start": 0,
+                "url": "https://t.co/f9cf7yDTE8"
+              }
+            ]
+          }
+        },
+        "id": "1909562414162755584",
+        "is_identity_verified": false,
+        "location": "クローゼットの中",
+        "most_recent_tweet_id": "2100108917741355334",
+        "name": "芒果刀🥭",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909562414162755584/1765525005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086871763401756672/iVdJDNFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2936,
+          "following_count": 333,
+          "like_count": 10077,
+          "listed_count": 12,
+          "media_count": 230,
+          "tweet_count": 2224
+        },
+        "url": "https://t.co/f9cf7yDTE8",
+        "username": "ThirteenYizuka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2098865208638996940",
+    "created_at": "2026-09-12T20:03:55.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T21:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098865208638996940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/imasociopath/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/imasociopath/status/2098624258494894416",
+          "start": 2,
+          "url": "https://t.co/xCkVoOi9O8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098865208638996940",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098624258494894416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/xCkVoOi9O8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20687,
+        "height": 1280,
+        "media_key": "13_2098624235233288192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098624235233288192/img/visakc5QhcTefRbf.jpg",
+        "public_metrics": {
+          "view_count": 176279
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098624235233288192/vid/avc1/320x568/byAO2a_V4-aLNPXW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098624235233288192/vid/avc1/480x852/QZ4oMF2jrNnviYsx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098624235233288192/vid/avc1/720x1280/Nd4euA0smup5xr24.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098624235233288192/pl/NaMU4LGKvkaLx_lv.m3u8?v=013"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2098865208638996940",
+        "created_at": "2026-09-12T20:03:55.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T21:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098865208638996940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imasociopath/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/imasociopath/status/2098624258494894416",
+              "start": 2,
+              "url": "https://t.co/xCkVoOi9O8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098865208638996940",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098624258494894416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/xCkVoOi9O8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098624235233288192"
+          ]
+        },
+        "author_id": "1773754934342930433",
+        "conversation_id": "2098624258494894416",
+        "created_at": "2026-09-12T04:06:28.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098624258494894416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCtVcC9EAA",
+              "end": 76,
+              "expanded_url": "https://x.com/imasociopath/status/2098624258494894416/video/1",
+              "media_key": "13_2098624235233288192",
+              "start": 53,
+              "url": "https://t.co/oCtVcC9EAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098624258494894416",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2098624235233288192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 481,
+          "impression_count": 351810,
+          "like_count": 4556,
+          "quote_count": 71,
+          "reply_count": 0,
+          "retweet_count": 575
+        },
+        "reply_settings": "following",
+        "text": "911 테러 추모하려고 불빛들로 쌍둥이 빌딩 만들었는데 그 위로 또 비행기 지나감\n타이밍 시발 https://t.co/oCtVcC9EAA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2098865208638996940",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2738,
+          "following_count": 1659,
+          "like_count": 30182,
+          "listed_count": 2,
+          "media_count": 1613,
+          "tweet_count": 9041
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-29T16:51:53.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ko/ask/1045035…",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ko/ask/1045035061",
+                "start": 0,
+                "url": "https://t.co/VwRCSH5kDn"
+              }
+            ]
+          }
+        },
+        "id": "1773754934342930433",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098784317547982904",
+        "name": "Mrs. Starkey",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773754934342930433/1788601207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087939839413080064/NqaMO_5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 91,
+          "like_count": 3421,
+          "listed_count": 0,
+          "media_count": 4026,
+          "tweet_count": 16340
+        },
+        "url": "https://t.co/VwRCSH5kDn",
+        "username": "imasociopath",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

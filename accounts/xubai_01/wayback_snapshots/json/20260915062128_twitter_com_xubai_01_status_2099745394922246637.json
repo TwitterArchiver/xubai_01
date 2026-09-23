@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2099707401146638729",
+    "created_at": "2026-09-15T06:21:28.000Z",
+    "display_text_range": [
+      26,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T07:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099745394922246637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751178854679609344",
+          "start": 0,
+          "username": "Para_0821"
+        },
+        {
+          "end": 25,
+          "id": "1144143792",
+          "start": 11,
+          "username": "__Crazy_Kid__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099745394922246637",
+    "in_reply_to_user_id": "1751178854679609344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099734224433762539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Para_0821 @__Crazy_Kid__ 破绷了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2099734216930164736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPBJTrbAAAFuxk.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2099707401146638729",
+        "created_at": "2026-09-15T06:21:28.000Z",
+        "display_text_range": [
+          26,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099745394922246637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751178854679609344",
+              "start": 0,
+              "username": "Para_0821"
+            },
+            {
+              "end": 25,
+              "id": "1144143792",
+              "start": 11,
+              "username": "__Crazy_Kid__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099745394922246637",
+        "in_reply_to_user_id": "1751178854679609344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099734224433762539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Para_0821 @__Crazy_Kid__ 破绷了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099734216930164736"
+          ]
+        },
+        "author_id": "1751178854679609344",
+        "conversation_id": "2099707401146638729",
+        "created_at": "2026-09-15T05:37:04.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099734224433762539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1144143792",
+              "start": 0,
+              "username": "__Crazy_Kid__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yX2tI9E9NN",
+              "end": 47,
+              "expanded_url": "https://x.com/Para_0821/status/2099734224433762539/photo/1",
+              "media_key": "3_2099734216930164736",
+              "start": 24,
+              "url": "https://t.co/yX2tI9E9NN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099734224433762539",
+        "in_reply_to_user_id": "1144143792",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099734216930164736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099707401146638729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Crazy_Kid__ be like： https://t.co/yX2tI9E9NN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2099745394922246637",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2735,
+          "following_count": 1657,
+          "like_count": 30365,
+          "listed_count": 2,
+          "media_count": 1624,
+          "tweet_count": 9114
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-27T09:43:00.000Z",
+        "description": "日本語苦手、音ゲーマです\n注意：これまでの日本語のポストはすべて機械翻訳を使用しています。🙇\nボイスロイド実況作りたい\n一番好きな音ゲー：Paradigm:Reboot\n\n中国語メインアカウント:https://t.co/LljzX04SnT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@para_00039?ig…",
+                "end": 121,
+                "expanded_url": "https://www.threads.com/@para_00039?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 98,
+                "url": "https://t.co/LljzX04SnT"
+              }
+            ]
+          }
+        },
+        "id": "1751178854679609344",
+        "is_identity_verified": false,
+        "location": "HK",
+        "most_recent_tweet_id": "2099734224433762539",
+        "name": "Para_000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751178854679609344/1763444650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990657210117201920/UHZZE5T9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 180,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "Para_0821",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend Developer / Vibe Coding / Rhythm Game Fever /バンドリ! / 全网首台maimai主题痛四轮车主 / 🇨🇳 中文 🇭🇰🇲🇴粵語 🇯🇵日本語N5レベル初心\nBuilding https://t.co/7U2e6cCH9L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maimai-net.cn",
+                "end": 139,
+                "expanded_url": "https://maimai-net.cn/",
+                "start": 116,
+                "url": "https://t.co/7U2e6cCH9L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eap0XQ"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "is_identity_verified": true,
+        "location": "中国",
+        "most_recent_tweet_id": "2099745197852856460",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144143792/1767320896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5356,
+          "following_count": 1464,
+          "like_count": 19681,
+          "listed_count": 32,
+          "media_count": 11193,
+          "tweet_count": 51524
+        },
+        "url": "https://t.co/bAk8eap0XQ",
+        "username": "__Crazy_Kid__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
