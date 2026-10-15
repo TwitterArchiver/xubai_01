@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105876804607299584",
+        "3_2105876804590620672"
+      ],
+      "media_source_tweet_id": [
+        "2105876814703075403",
+        "2105876814703075403"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2105995226041262200",
+    "created_at": "2026-10-02T12:16:04.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T13:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105995226041262200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1144143792",
+          "start": 3,
+          "username": "__Crazy_Kid__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f2UOuBExZY",
+          "end": 58,
+          "expanded_url": "https://x.com/__Crazy_Kid__/status/2105876814703075403/photo/1",
+          "media_key": "3_2105876804607299584",
+          "start": 35,
+          "url": "https://t.co/f2UOuBExZY"
+        },
+        {
+          "display_url": "pic.x.com/f2UOuBExZY",
+          "end": 58,
+          "expanded_url": "https://x.com/__Crazy_Kid__/status/2105876814703075403/photo/1",
+          "media_key": "3_2105876804590620672",
+          "start": 35,
+          "url": "https://t.co/f2UOuBExZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105995226041262200",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105876804607299584"
+      },
+      {
+        "media_key": "3_2105876804590620672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105876814703075403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Crazy_Kid__: 油麻地站旁边，会停两小时！🇭🇰 https://t.co/f2UOuBExZY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2105876804607299584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmTy99aUAAxc6W.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105876804590620672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmTy95b0AAr78l.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105876804607299584",
+            "3_2105876804590620672"
+          ],
+          "media_source_tweet_id": [
+            "2105876814703075403",
+            "2105876814703075403"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2105995226041262200",
+        "created_at": "2026-10-02T12:16:04.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T13:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105995226041262200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1144143792",
+              "start": 3,
+              "username": "__Crazy_Kid__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f2UOuBExZY",
+              "end": 58,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2105876814703075403/photo/1",
+              "media_key": "3_2105876804607299584",
+              "start": 35,
+              "url": "https://t.co/f2UOuBExZY"
+            },
+            {
+              "display_url": "pic.x.com/f2UOuBExZY",
+              "end": 58,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2105876814703075403/photo/1",
+              "media_key": "3_2105876804590620672",
+              "start": 35,
+              "url": "https://t.co/f2UOuBExZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105995226041262200",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105876804607299584"
+          },
+          {
+            "media_key": "3_2105876804590620672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105876814703075403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Crazy_Kid__: 油麻地站旁边，会停两小时！🇭🇰 https://t.co/f2UOuBExZY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105876804607299584",
+            "3_2105876804590620672"
+          ]
+        },
+        "author_id": "1144143792",
+        "conversation_id": "2105876814703075403",
+        "created_at": "2026-10-02T04:25:32.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105876814703075403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f2UOuBExZY",
+              "end": 39,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2105876814703075403/photo/1",
+              "media_key": "3_2105876804607299584",
+              "start": 16,
+              "url": "https://t.co/f2UOuBExZY"
+            },
+            {
+              "display_url": "pic.x.com/f2UOuBExZY",
+              "end": 39,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/2105876814703075403/photo/1",
+              "media_key": "3_2105876804590620672",
+              "start": 16,
+              "url": "https://t.co/f2UOuBExZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105876814703075403",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105876804607299584"
+          },
+          {
+            "media_key": "3_2105876804590620672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2239,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "油麻地站旁边，会停两小时！🇭🇰 https://t.co/f2UOuBExZY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "yuji53719"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2105995226041262200",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2737,
+          "following_count": 1660,
+          "like_count": 30981,
+          "listed_count": 2,
+          "media_count": 1675,
+          "tweet_count": 9355
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend Developer / Vibe Coding / Rhythm Game Fever /バンドリ! / 全网首台maimai主题痛四轮车主 / 🇨🇳 中文 🇭🇰🇲🇴粵語 🇯🇵日本語N5レベル初心\nBuilding https://t.co/7U2e6cCH9L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maimai-net.cn",
+                "end": 139,
+                "expanded_url": "https://maimai-net.cn/",
+                "start": 116,
+                "url": "https://t.co/7U2e6cCH9L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eap0XQ"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "is_identity_verified": true,
+        "location": "中国",
+        "most_recent_tweet_id": "2105995185134125427",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144143792/1767320896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5654,
+          "following_count": 1459,
+          "like_count": 19753,
+          "listed_count": 32,
+          "media_count": 11254,
+          "tweet_count": 51726
+        },
+        "url": "https://t.co/bAk8eap0XQ",
+        "username": "__Crazy_Kid__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

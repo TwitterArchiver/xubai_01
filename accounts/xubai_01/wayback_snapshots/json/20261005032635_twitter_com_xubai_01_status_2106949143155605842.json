@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2106949143155605842",
+    "created_at": "2026-10-05T03:26:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T04:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106949143155605842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1914737178279862272",
+          "start": 3,
+          "username": "USAttyEssayli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106949143155605842",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3401
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106881078317502927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @USAttyEssayli: We just arrested a Chinese foreign agent at LAX attempting to depart for China.\n\nWanying Zhang, aka “Heather,” 34, of Ir…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1033,
+        "height": 1280,
+        "media_key": "13_2106881066342703104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106881066342703104/img/Em8SYx1IRLtWgifL.jpg",
+        "public_metrics": {
+          "view_count": 366240
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106881066342703104/vid/avc1/320x568/_BB2CvMtgz1V2DUv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106881066342703104/vid/avc1/480x852/n6_1zHATNoSShWBP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106881066342703104/vid/avc1/720x1280/J1RHWG71nXs1eDQt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106881066342703104/pl/hkblCs-CjZNbhZ5i.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1237,
+        "media_key": "3_2106881066355302400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT0lKsgaoAAjjhe.jpg",
+        "width": 913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2106949143155605842",
+        "created_at": "2026-10-05T03:26:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T04:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106949143155605842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1914737178279862272",
+              "start": 3,
+              "username": "USAttyEssayli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106949143155605842",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3401
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106881078317502927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @USAttyEssayli: We just arrested a Chinese foreign agent at LAX attempting to depart for China.\n\nWanying Zhang, aka “Heather,” 34, of Ir…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106881066342703104",
+            "3_2106881066355302400"
+          ]
+        },
+        "author_id": "1914737178279862272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All conversation about the United States Federal Bureau of Investigation",
+              "id": "937710668706299904",
+              "name": "Federal Bureau of Investigation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2106881078317502927",
+        "created_at": "2026-10-04T22:56:07.000Z",
+        "display_text_range": [
+          0,
+          270
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T23:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106881078317502927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 162,
+              "id": "349137313",
+              "start": 148,
+              "username": "FBILosAngeles"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YHoeErg5B",
+              "end": 294,
+              "expanded_url": "https://x.com/USAttyEssayli/status/2106881078317502927/video/1",
+              "media_key": "13_2106881066342703104",
+              "start": 271,
+              "url": "https://t.co/6YHoeErg5B"
+            },
+            {
+              "display_url": "pic.x.com/6YHoeErg5B",
+              "end": 294,
+              "expanded_url": "https://x.com/USAttyEssayli/status/2106881078317502927/video/1",
+              "media_key": "3_2106881066355302400",
+              "start": 271,
+              "url": "https://t.co/6YHoeErg5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106881078317502927",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2106881066342703104"
+          },
+          {
+            "media_key": "3_2106881066355302400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 162,
+                "id": "349137313",
+                "start": 148,
+                "username": "FBILosAngeles"
+              }
+            ]
+          },
+          "text": "We just arrested a Chinese foreign agent at LAX attempting to depart for China.\n\nWanying Zhang, aka “Heather,” 34, of Irvine, was arrested today by @FBILosAngeles on a federal complaint charging her with acting as an unregistered agent of the People’s Republic of China.\n\nAccording to the affidavit, Zhang traveled to Seattle in 2025 and, at the direction of PRC officials, surveilled a close relative of a Taiwanese government official, sending photos, videos, and license plate information to those officials.\n\nShe coordinated the trip with an associate and used tradecraft to avoid detection. She never notified the Attorney General she was acting for a foreign government, a federal offense.\n\nShe will appear in federal court in Los Angeles tomorrow for her initial appearance. Defendants are presumed innocent until proven guilty."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1269,
+          "impression_count": 1061034,
+          "like_count": 16181,
+          "quote_count": 358,
+          "reply_count": 735,
+          "retweet_count": 3401
+        },
+        "reply_settings": "everyone",
+        "text": "We just arrested a Chinese foreign agent at LAX attempting to depart for China.\n\nWanying Zhang, aka “Heather,” 34, of Irvine, was arrested today by @FBILosAngeles on a federal complaint charging her with acting as an unregistered agent of the People’s Republic of China. https://t.co/6YHoeErg5B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_ / Premium特价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2106949143155605842",
+        "name": "许白",
+        "pinned_tweet_id": "2105336512644874247",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2737,
+          "following_count": 1664,
+          "like_count": 31085,
+          "listed_count": 2,
+          "media_count": 1678,
+          "tweet_count": 9404
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2052787304071102465/bOrp4Fv4_bigger.png",
+          "description": "U.S. Department of Justice",
+          "url": "https://twitter.com/TheJusticeDept",
+          "user_id": [
+            "73181712"
+          ]
+        },
+        "created_at": "2025-04-22T17:46:47.000Z",
+        "description": "Official account of Bill Essayli, First Assistant U.S. Attorney for the Central District of California. Privacy policy: https://t.co/JFEUpNXpzz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "justice.gov/doj/privacy-po…",
+                "end": 143,
+                "expanded_url": "http://justice.gov/doj/privacy-policy",
+                "start": 120,
+                "url": "https://t.co/JFEUpNXpzz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "justice.gov/usao-cdca",
+                "end": 23,
+                "expanded_url": "https://www.justice.gov/usao-cdca",
+                "start": 0,
+                "url": "https://t.co/Hke92QmvxO"
+              }
+            ]
+          }
+        },
+        "id": "1914737178279862272",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2106903443621417124",
+        "name": "F.A. United States Attorney Bill Essayli",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914737178279862272/1745344602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914737861733023744/8N1CE0Cx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78600,
+          "following_count": 118,
+          "like_count": 531,
+          "listed_count": 459,
+          "media_count": 96,
+          "tweet_count": 1207
+        },
+        "url": "https://t.co/Hke92QmvxO",
+        "username": "USAttyEssayli",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

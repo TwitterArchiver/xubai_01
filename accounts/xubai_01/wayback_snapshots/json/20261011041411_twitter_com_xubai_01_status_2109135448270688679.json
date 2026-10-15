@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2108799357441147157",
+    "created_at": "2026-10-11T04:14:11.000Z",
+    "display_text_range": [
+      27,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T05:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109135448270688679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643517192955207680",
+          "start": 0,
+          "username": "GlassFoxowo"
+        },
+        {
+          "end": 26,
+          "id": "1204752745481170944",
+          "start": 13,
+          "username": "realShellWen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109135448270688679",
+    "in_reply_to_user_id": "1643517192955207680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109131738798870945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlassFoxowo @realShellWen 🤤严肃加入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2108799357441147157",
+        "created_at": "2026-10-11T04:14:11.000Z",
+        "display_text_range": [
+          27,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T05:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109135448270688679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643517192955207680",
+              "start": 0,
+              "username": "GlassFoxowo"
+            },
+            {
+              "end": 26,
+              "id": "1204752745481170944",
+              "start": 13,
+              "username": "realShellWen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109135448270688679",
+        "in_reply_to_user_id": "1643517192955207680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109131738798870945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlassFoxowo @realShellWen 🤤严肃加入"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643517192955207680",
+        "conversation_id": "2108799357441147157",
+        "created_at": "2026-10-11T03:59:26.000Z",
+        "display_text_range": [
+          24,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T04:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109131738798870945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            },
+            {
+              "end": 23,
+              "id": "1204752745481170944",
+              "start": 10,
+              "username": "realShellWen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109131738798870945",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109068641484541983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 @realShellWen 嗯？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_ 分身@xubai_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "xubai_02"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2109135448270688679",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2741,
+          "following_count": 1674,
+          "like_count": 31396,
+          "listed_count": 2,
+          "media_count": 1694,
+          "tweet_count": 9483
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-05T07:33:48.000Z",
+        "description": "🏳️‍🌈 Gay | 22 | Furry | ✝ |\n🎵音乐日推Bot #玻狸日推歌单 | 🌏Base 成都 |\n💻半吊子DevOps 前端运维网络什么都会一点 |\n❤️ 爱人 @realShellWen |\n©️推文适用 CC BY-NC-SA 4.0 署名非商业使用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 37,
+                "tag": "玻狸日推歌单"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 90,
+                "username": "realShellWen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.glassfoxowo.com",
+                "end": 23,
+                "expanded_url": "https://note.glassfoxowo.com",
+                "start": 0,
+                "url": "https://t.co/g02SwVlQdr"
+              }
+            ]
+          }
+        },
+        "id": "1643517192955207680",
+        "is_identity_verified": true,
+        "location": "南通福瑞有限公司",
+        "most_recent_tweet_id": "2109131738798870945",
+        "name": "玻狸",
+        "pinned_tweet_id": "2076195679953985721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643517192955207680/1680680096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103561340195586048/vOBs_jSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4961,
+          "following_count": 380,
+          "like_count": 12400,
+          "listed_count": 3,
+          "media_count": 1289,
+          "tweet_count": 5442
+        },
+        "url": "https://t.co/g02SwVlQdr",
+        "username": "GlassFoxowo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-11T13:21:00.000Z",
+        "description": "毛茸茸的工程师 | 产于 2005 | 27 届专科 | 🐻真诚是终极武器 | 全栈/嵌入式/信安/运维 | ♥️🦊@GlassFoxowo | https://t.co/BALQfiiKi4 | CHS&CHT&ENG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "GlassFoxowo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "GitHub.com/ShellWen",
+                "end": 96,
+                "expanded_url": "http://GitHub.com/ShellWen",
+                "start": 73,
+                "url": "https://t.co/BALQfiiKi4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shellwen.com",
+                "end": 23,
+                "expanded_url": "https://shellwen.com",
+                "start": 0,
+                "url": "https://t.co/fNwbTL2jWg"
+              }
+            ]
+          }
+        },
+        "id": "1204752745481170944",
+        "is_identity_verified": false,
+        "location": "😋",
+        "most_recent_tweet_id": "2108951908258087227",
+        "name": "ShellWen | 颉文 ⚝➡️狸想城",
+        "pinned_tweet_id": "1882823675172573298",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1204752745481170944/1681991930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019676630797688832/Mnk_b_tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4626,
+          "following_count": 3744,
+          "like_count": 109152,
+          "listed_count": 20,
+          "media_count": 1002,
+          "tweet_count": 25215
+        },
+        "url": "https://t.co/fNwbTL2jWg",
+        "username": "realShellWen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1412579054855671809",
+          "name": "Google Innovation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2106075908109152659",
+    "created_at": "2026-10-02T17:36:40.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T18:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106075908109152659"
+    ],
+    "entities": {
+      "cashtags": [
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "SI"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1362541403084124162",
+          "start": 3,
+          "username": "tontheneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106075908109152659",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105498760021500179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tontheneko: Catalysts for $SI that will happen in the future:\n\n- SpaceXAI renaming to SpaceXSI\n- OpenAI renaming to OpenSI\n- Meta AI re…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2106075908109152659",
+        "created_at": "2026-10-02T17:36:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106075908109152659"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "SI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1362541403084124162",
+              "start": 3,
+              "username": "tontheneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106075908109152659",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105498760021500179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tontheneko: Catalysts for $SI that will happen in the future:\n\n- SpaceXAI renaming to SpaceXSI\n- OpenAI renaming to OpenSI\n- Meta AI re…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362541403084124162",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2105498760021500179",
+        "created_at": "2026-10-01T03:23:17.000Z",
+        "display_text_range": [
+          0,
+          273
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105498760021500179"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "SI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tontheneko/sta…",
+              "end": 297,
+              "expanded_url": "https://twitter.com/tontheneko/status/2105485359828316251",
+              "start": 274,
+              "url": "https://t.co/fU5xR2mv3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105498760021500179",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "SI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ai.gov",
+                "end": 442,
+                "expanded_url": "http://ai.gov",
+                "start": 419,
+                "url": "https://t.co/agnEHQIISw"
+              },
+              {
+                "display_url": "si.gov",
+                "end": 479,
+                "expanded_url": "http://si.gov",
+                "start": 456,
+                "url": "https://t.co/KkfBWGtdIg"
+              }
+            ]
+          },
+          "text": "Catalysts for $SI that will happen in the future:\n\n- SpaceXAI renaming to SpaceXSI\n- OpenAI renaming to OpenSI\n- Meta AI renaming to Meta SI\n- Trump forcing EU to use SI instead of AI\n- China to start using SI instead of AI\n- Russia to start using SI instead of AI\n- All SI companies using SI instead of AI\n- New models being launched under the name SI instead of AI\n- All government websites in US changing AI to SI\n- https://t.co/agnEHQIISw turning into https://t.co/KkfBWGtdIg\n- Google changing \"AI mode\" to \"SI mode\" on searches\n\nMany more that I can't think."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 56291,
+          "like_count": 247,
+          "quote_count": 8,
+          "reply_count": 42,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105485359828316251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Catalysts for $SI that will happen in the future:\n\n- SpaceXAI renaming to SpaceXSI\n- OpenAI renaming to OpenSI\n- Meta AI renaming to Meta SI\n- Trump forcing EU to use SI instead of AI\n- China to start using SI instead of AI\n- Russia to start using SI instead of AI\n- All SI https://t.co/fU5xR2mv3U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "yuji53719"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2106075908109152659",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2737,
+          "following_count": 1659,
+          "like_count": 31005,
+          "listed_count": 2,
+          "media_count": 1676,
+          "tweet_count": 9362
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-18T23:16:30.000Z",
+        "description": "goofiest dumb out there\n\nFounder @gamerzonedotgg\n\nNarrative caller @PastelAlpha\n\nCome to Pastel:\nhttps://t.co/YfTGLxIrko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "gamerzonedotgg"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "PastelAlpha"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "joinpastel.com/r/ref=ton",
+                "end": 120,
+                "expanded_url": "https://www.joinpastel.com/r/ref=ton",
+                "start": 97,
+                "url": "https://t.co/YfTGLxIrko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fomo.family/r/tontheneko",
+                "end": 23,
+                "expanded_url": "https://fomo.family/r/tontheneko",
+                "start": 0,
+                "url": "https://t.co/ShbK51njBM"
+              }
+            ]
+          }
+        },
+        "id": "1362541403084124162",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105948302932132160",
+        "name": "ton",
+        "pinned_tweet_id": "2105758627567177902",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362541403084124162/1717323844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102758478267990017/DzVPdf91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17247,
+          "following_count": 377,
+          "like_count": 4087,
+          "listed_count": 16,
+          "media_count": 629,
+          "tweet_count": 10003
+        },
+        "url": "https://t.co/ShbK51njBM",
+        "username": "tontheneko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

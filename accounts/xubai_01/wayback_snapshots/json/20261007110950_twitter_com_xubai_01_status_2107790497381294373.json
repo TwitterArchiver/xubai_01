@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107790495011500032"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2107790497381294373",
+    "created_at": "2026-10-07T11:09:50.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T12:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107790497381294373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NWXpgsTzrS",
+          "end": 48,
+          "expanded_url": "https://x.com/xubai_01/status/2107790497381294373/photo/1",
+          "media_key": "3_2107790495011500032",
+          "start": 25,
+          "url": "https://t.co/NWXpgsTzrS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107790497381294373",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107790495011500032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我草，Claude上原生中文了！！😳\n这谁绷得住 https://t.co/NWXpgsTzrS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1022,
+        "media_key": "3_2107790495011500032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBgSaQa8AAyGPy.jpg",
+        "width": 1555
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107790495011500032"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2107790497381294373",
+        "created_at": "2026-10-07T11:09:50.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T12:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107790497381294373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWXpgsTzrS",
+              "end": 48,
+              "expanded_url": "https://x.com/xubai_01/status/2107790497381294373/photo/1",
+              "media_key": "3_2107790495011500032",
+              "start": 25,
+              "url": "https://t.co/NWXpgsTzrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107790497381294373",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107790495011500032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草，Claude上原生中文了！！😳\n这谁绷得住 https://t.co/NWXpgsTzrS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_ 分身@xubai_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "xubai_02"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2107790497381294373",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 1668,
+          "like_count": 31168,
+          "listed_count": 2,
+          "media_count": 1685,
+          "tweet_count": 9433
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

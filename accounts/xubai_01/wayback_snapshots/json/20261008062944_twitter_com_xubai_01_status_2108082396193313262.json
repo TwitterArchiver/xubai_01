@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2107946505021931528",
+    "created_at": "2026-10-08T06:29:44.000Z",
+    "display_text_range": [
+      15,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T07:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108082396193313262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2682220358",
+          "start": 0,
+          "username": "polaristella1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108082396193313262",
+    "in_reply_to_user_id": "2682220358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107946883176104036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@polaristella1 一眼看出雨云 这ui🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2107946505021931528",
+        "created_at": "2026-10-08T06:29:44.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T07:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108082396193313262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2682220358",
+              "start": 0,
+              "username": "polaristella1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108082396193313262",
+        "in_reply_to_user_id": "2682220358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107946883176104036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@polaristella1 一眼看出雨云 这ui🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2682220358",
+        "conversation_id": "2107946505021931528",
+        "created_at": "2026-10-07T21:31:15.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T22:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107946883176104036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107946883176104036",
+        "in_reply_to_user_id": "2682220358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2192,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107946505021931528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "服务器会被封，域名会被墙掉，机器也会随时被收回。\n但是没关系，只要玩家还在，地图就还能继续写。\nSee you at next station.\n（我给服务商名打码了，因为他们也是身不由己）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_ 分身@xubai_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "xubai_02"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2108082396193313262",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 1670,
+          "like_count": 31201,
+          "listed_count": 2,
+          "media_count": 1687,
+          "tweet_count": 9443
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-07-26T12:17:43.000Z",
+        "description": "INFP / MtF🏳️‍⚧️ / 药娘🍥 / 不搞黄色🚫/ 灰色性向 / 计算机科学🖥️、嵌入式开发🎛️、化学🧪爱好者 (曾经化学考了70多分还全班第一) / 本人没有足够的胆量同意我的社交媒体发表的任何观点",
+        "id": "2682220358",
+        "is_identity_verified": false,
+        "location": "IP属地: 永远亭",
+        "most_recent_tweet_id": "2108048533131821181",
+        "name": "Polaris_Stella🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1775807815506166137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2682220358/1678383153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632666858284539904/5Tx8WVB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 506,
+          "like_count": 717,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "polaristella1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

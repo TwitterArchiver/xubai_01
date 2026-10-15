@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2107321837046858227",
+    "created_at": "2026-10-06T09:56:05.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T10:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107409552186692050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "4032353907",
+          "start": 0,
+          "username": "ddvd233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107409552186692050",
+    "in_reply_to_user_id": "4032353907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107321837046858227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ddvd233 羡慕学校打钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2107321482762440704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT61uTea0AArdWX.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2107321837046858227",
+        "created_at": "2026-10-06T09:56:05.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T10:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107409552186692050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "4032353907",
+              "start": 0,
+              "username": "ddvd233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107409552186692050",
+        "in_reply_to_user_id": "4032353907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107321837046858227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddvd233 羡慕学校打钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107321482762440704"
+          ]
+        },
+        "author_id": "4032353907",
+        "conversation_id": "2107321837046858227",
+        "created_at": "2026-10-06T04:07:32.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T05:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107321837046858227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I59xMg6iR2",
+              "end": 65,
+              "expanded_url": "https://x.com/ddvd233/status/2107321837046858227/photo/1",
+              "media_key": "3_2107321482762440704",
+              "start": 42,
+              "url": "https://t.co/I59xMg6iR2"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "3ad0f706b3fa62a8"
+        },
+        "id": "2107321837046858227",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107321482762440704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2021,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X Money 收钱还能自动关联到官推账号（还能点进去），虽然并没有什么用处... https://t.co/I59xMg6iR2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_ 分身@xubai_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "xubai_02"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2107409552186692050",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2742,
+          "following_count": 1668,
+          "like_count": 31123,
+          "listed_count": 2,
+          "media_count": 1683,
+          "tweet_count": 9422
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-10-24T15:22:19.000Z",
+        "description": "Intern @microsoft | PhD Student @MIT Media Lab | Multimodal LLMs | MS in Computer Science @Stanford, RA at @StanfordSVL under @drfeifei | 归宅部荣誉部员｜日本語本当下手",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "microsoft"
+              },
+              {
+                "end": 36,
+                "start": 32,
+                "username": "MIT"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "Stanford"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "StanfordSVL"
+              },
+              {
+                "end": 135,
+                "start": 126,
+                "username": "drfeifei"
+              }
+            ]
+          }
+        },
+        "id": "4032353907",
+        "is_identity_verified": false,
+        "location": "Cambridge, MA",
+        "most_recent_tweet_id": "2107351430063653319",
+        "name": "dvd@dvd.chat",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4032353907/1712003363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965545905844539392/YtlZh-uW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20714,
+          "following_count": 1120,
+          "like_count": 104395,
+          "listed_count": 86,
+          "media_count": 7075,
+          "tweet_count": 53024
+        },
+        "url": "",
+        "username": "ddvd233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

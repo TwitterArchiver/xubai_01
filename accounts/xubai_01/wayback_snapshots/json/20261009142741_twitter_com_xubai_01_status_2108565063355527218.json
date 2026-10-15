@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "California",
+          "id": "856860158428798977",
+          "name": "California"
+        }
+      }
+    ],
+    "conversation_id": "2108552830785307084",
+    "created_at": "2026-10-09T14:27:41.000Z",
+    "display_text_range": [
+      24,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T15:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108565063355527218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032110055294980096",
+          "start": 0,
+          "username": "Anthropicot"
+        },
+        {
+          "end": 23,
+          "id": "1987885638038036480",
+          "start": 13,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108565063355527218",
+    "in_reply_to_user_id": "2032110055294980096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108562335527023056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anthropicot @mizorewww 我California也没有消费税啊🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          }
+        ],
+        "conversation_id": "2108552830785307084",
+        "created_at": "2026-10-09T14:27:41.000Z",
+        "display_text_range": [
+          24,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T15:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108565063355527218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032110055294980096",
+              "start": 0,
+              "username": "Anthropicot"
+            },
+            {
+              "end": 23,
+              "id": "1987885638038036480",
+              "start": 13,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108565063355527218",
+        "in_reply_to_user_id": "2032110055294980096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108562335527023056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anthropicot @mizorewww 我California也没有消费税啊🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032110055294980096",
+        "conversation_id": "2108552830785307084",
+        "created_at": "2026-10-09T14:16:50.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T15:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108562335527023056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987885638038036480",
+              "start": 0,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108562335527023056",
+        "in_reply_to_user_id": "1987885638038036480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108552830785307084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizorewww 你那个地址 为什么不用税"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_ 分身@xubai_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "xubai_02"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2108565063355527218",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2745,
+          "following_count": 1672,
+          "like_count": 31259,
+          "listed_count": 2,
+          "media_count": 1691,
+          "tweet_count": 9456
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T15:03:10.000Z",
+        "description": "放弃抵抗，接受命运\n停止使用Claude以外的模型\nMay the Safety be with you.\n愿安全与你同在。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "darioamodei.com",
+                "end": 23,
+                "expanded_url": "https://darioamodei.com/",
+                "start": 0,
+                "url": "https://t.co/tCq2UDqCWr"
+              }
+            ]
+          }
+        },
+        "id": "2032110055294980096",
+        "is_identity_verified": true,
+        "location": "Anthropic",
+        "most_recent_tweet_id": "2108563526277292535",
+        "name": "Clauder",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032110055294980096/1791552952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108344743336034304/TghTGvlT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 480,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 658,
+          "tweet_count": 4196
+        },
+        "url": "https://t.co/tCq2UDqCWr",
+        "username": "Anthropicot",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\ntelegram: @aac6fef",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "aac6fef"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "is_identity_verified": false,
+        "location": "Crazy Universe ",
+        "most_recent_tweet_id": "2108562098334904783",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2107847858364023251",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987885638038036480/1791510452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9497,
+          "following_count": 1685,
+          "like_count": 42851,
+          "listed_count": 40,
+          "media_count": 1557,
+          "tweet_count": 7478
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

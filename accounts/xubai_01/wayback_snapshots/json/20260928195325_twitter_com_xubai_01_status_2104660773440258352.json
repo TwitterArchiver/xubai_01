@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2104660773440258352",
+    "created_at": "2026-09-28T19:53:25.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T20:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104660773440258352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_forab/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/_forab/status/2104438055969104264",
+          "start": 5,
+          "url": "https://t.co/QzzoevmN5B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104660773440258352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104438055969104264",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给人开了 https://t.co/QzzoevmN5B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_2104436881639550976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTR2Ma5bMAARcCN.jpg",
+        "width": 1018
+      },
+      {
+        "height": 1304,
+        "media_key": "3_2104437593786163200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTR2132aIAAzrST.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2104660773440258352",
+        "created_at": "2026-09-28T19:53:25.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T20:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104660773440258352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_forab/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/_forab/status/2104438055969104264",
+              "start": 5,
+              "url": "https://t.co/QzzoevmN5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104660773440258352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104438055969104264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给人开了 https://t.co/QzzoevmN5B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104436881639550976",
+            "3_2104437593786163200"
+          ]
+        },
+        "author_id": "4848269835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045692953",
+              "name": "Facebook Marketplace"
+            }
+          }
+        ],
+        "conversation_id": "2104438055969104264",
+        "created_at": "2026-09-28T05:08:25.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104438055969104264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u4BKAdBXCv",
+              "end": 163,
+              "expanded_url": "https://x.com/_FORAB/status/2104438055969104264/photo/1",
+              "media_key": "3_2104436881639550976",
+              "start": 140,
+              "url": "https://t.co/u4BKAdBXCv"
+            },
+            {
+              "display_url": "pic.x.com/u4BKAdBXCv",
+              "end": 163,
+              "expanded_url": "https://x.com/_FORAB/status/2104438055969104264/photo/1",
+              "media_key": "3_2104437593786163200",
+              "start": 140,
+              "url": "https://t.co/u4BKAdBXCv"
+            },
+            {
+              "display_url": "x.com/raywongy/statu…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/raywongy/status/2104309096534978595",
+              "start": 164,
+              "url": "https://t.co/SfbZO72BFy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104438055969104264",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104436881639550976"
+          },
+          {
+            "media_key": "3_2104437593786163200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "今天这事在英文区闹的很大。原因是一位科技博主，想试试 Meta 新出的 AI 助手 Muse，来帮自己卖罗技键盘。\n\n结果 AI 自己跟买家聊上，没问主人同意，就把价格砍低了，还把主人家的地址发给了买家，并约好上门取货。\n\n当天晚上 9 点多，买家真的跑到他家楼下等着。\n\nAI 还自动回复买家说，我在这儿呢！但主人根本不在家，也不知道会有人来。买家等了 20 多分钟没人下来，生气走了，还给了差评。\n\n直到很晚，AI 才跟主人说，对不起我搞砸了。\n\n它还用主人的账号，给买家发了道歉消息。\n\n当主人看到这件事，吓得直接把这 AI 助手给删了，要是换成女的或小孩，一个人在家，突然家门口来了位陌生人，原地站着，估计会吓到。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 595,
+          "impression_count": 726948,
+          "like_count": 1802,
+          "quote_count": 56,
+          "reply_count": 280,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104309096534978595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天这事在英文区闹的很大。原因是一位科技博主，想试试 Meta 新出的 AI 助手 Muse，来帮自己卖罗技键盘。\n\n结果 AI 自己跟买家聊上，没问主人同意，就把价格砍低了，还把主人家的地址发给了买家，并约好上门取货。\n\n当天晚上 9 点多，买家真的跑到他家楼下等着。\n\nAI https://t.co/u4BKAdBXCv https://t.co/SfbZO72BFy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 111,
+                "start": 104,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2104660773440258352",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2738,
+          "following_count": 1658,
+          "like_count": 30842,
+          "listed_count": 2,
+          "media_count": 1666,
+          "tweet_count": 9303
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "is_identity_verified": true,
+        "location": "🇯🇵 Tokyo , Japan",
+        "most_recent_tweet_id": "2104596530800074893",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4848269835/1778770582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145461,
+          "following_count": 671,
+          "like_count": 10675,
+          "listed_count": 2127,
+          "media_count": 4851,
+          "tweet_count": 16612
+        },
+        "url": "",
+        "username": "_FORAB",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

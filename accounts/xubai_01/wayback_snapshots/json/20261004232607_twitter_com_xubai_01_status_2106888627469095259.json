@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106384952074149888"
+      ],
+      "media_source_tweet_id": [
+        "2106595415093342549"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106888627469095259",
+    "created_at": "2026-10-04T23:26:07.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T00:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106888627469095259"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 88,
+          "start": 73,
+          "tag": "ROCArmedForces"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1247017297098575874",
+          "start": 3,
+          "username": "MoNDefense"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RR44XLxgT9",
+          "end": 112,
+          "expanded_url": "https://x.com/MoNDefense/status/2106595415093342549/video/1",
+          "media_key": "13_2106384952074149888",
+          "start": 89,
+          "url": "https://t.co/RR44XLxgT9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106888627469095259",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2106384952074149888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 199
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106595415093342549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MoNDefense: Photos only? No problem.\nThe editor will fix it in post:\n#ROCArmedForces https://t.co/RR44XLxgT9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13366,
+        "height": 3840,
+        "media_key": "13_2106384952074149888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106384952074149888/img/BGvRmwd3gr3RukLe.jpg",
+        "public_metrics": {
+          "view_count": 40192
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106384952074149888/vid/avc1/1080x1920/moZzZ9KWPNUHVjaK.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106384952074149888/vid/avc1/2160x3840/uPINkBMdDTuy-xYa.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106384952074149888/vid/avc1/320x568/PbCuDHlDC7jaxOa6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106384952074149888/pl/a2drChmT4WnMf2Bw.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106384952074149888/vid/avc1/720x1280/pMqnUYKsSHksiU_Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106384952074149888/vid/avc1/480x852/7fJAtpuh9I4JTQoP.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106384952074149888"
+          ],
+          "media_source_tweet_id": [
+            "2106595415093342549"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106888627469095259",
+        "created_at": "2026-10-04T23:26:07.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T00:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106888627469095259"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 73,
+              "tag": "ROCArmedForces"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1247017297098575874",
+              "start": 3,
+              "username": "MoNDefense"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RR44XLxgT9",
+              "end": 112,
+              "expanded_url": "https://x.com/MoNDefense/status/2106595415093342549/video/1",
+              "media_key": "13_2106384952074149888",
+              "start": 89,
+              "url": "https://t.co/RR44XLxgT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106888627469095259",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2106384952074149888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 199
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106595415093342549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MoNDefense: Photos only? No problem.\nThe editor will fix it in post:\n#ROCArmedForces https://t.co/RR44XLxgT9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106384952074149888"
+          ]
+        },
+        "author_id": "1247017297098575874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106595415093342549",
+        "created_at": "2026-10-04T04:01:00.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106595415093342549"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 57,
+              "tag": "ROCArmedForces"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RR44XLxgT9",
+              "end": 96,
+              "expanded_url": "https://x.com/MoNDefense/status/2106595415093342549/video/1",
+              "media_key": "13_2106384952074149888",
+              "start": 73,
+              "url": "https://t.co/RR44XLxgT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106595415093342549",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2106384952074149888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 79949,
+          "like_count": 1943,
+          "quote_count": 18,
+          "reply_count": 53,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "Photos only? No problem.\nThe editor will fix it in post:\n#ROCArmedForces https://t.co/RR44XLxgT9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_ / Premium特价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2106888627469095259",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2736,
+          "following_count": 1662,
+          "like_count": 31076,
+          "listed_count": 2,
+          "media_count": 1678,
+          "tweet_count": 9401
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-06T04:24:42.000Z",
+        "description": "The official MND R.O.C. Twitter account! Follow us for the latest news and activities of MND and R.O.C. Armed Forces here. Follow, RTs and Links ≠ Endorsement",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mnd.gov.tw",
+                "end": 23,
+                "expanded_url": "http://www.mnd.gov.tw",
+                "start": 0,
+                "url": "https://t.co/EMRPnJ5bBD"
+              }
+            ]
+          }
+        },
+        "id": "1247017297098575874",
+        "is_identity_verified": false,
+        "location": "Taipei City, Taiwan",
+        "most_recent_tweet_id": "2106595415093342549",
+        "name": "國防部 Ministry of National Defense, ROC(Taiwan) 🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247017297098575874/1738567941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747812545711456256/mA1wHJZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236039,
+          "following_count": 90,
+          "like_count": 617,
+          "listed_count": 1558,
+          "media_count": 3025,
+          "tweet_count": 4049
+        },
+        "url": "https://t.co/EMRPnJ5bBD",
+        "username": "MoNDefense",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

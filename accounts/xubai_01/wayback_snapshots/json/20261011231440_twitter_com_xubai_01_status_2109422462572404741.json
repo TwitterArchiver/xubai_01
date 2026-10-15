@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2109296670177702295",
+    "created_at": "2026-10-11T23:14:40.000Z",
+    "display_text_range": [
+      28,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T00:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109422462572404741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1281456709660114945",
+          "start": 0,
+          "username": "who_is_phoenix"
+        },
+        {
+          "end": 27,
+          "id": "1568630739662696448",
+          "start": 16,
+          "username": "trg_maimai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109422462572404741",
+    "in_reply_to_user_id": "1281456709660114945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109417600241344637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@who_is_phoenix @trg_maimai 这谁不怕😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2109296670177702295",
+        "created_at": "2026-10-11T23:14:40.000Z",
+        "display_text_range": [
+          28,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T00:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109422462572404741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1281456709660114945",
+              "start": 0,
+              "username": "who_is_phoenix"
+            },
+            {
+              "end": 27,
+              "id": "1568630739662696448",
+              "start": 16,
+              "username": "trg_maimai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109422462572404741",
+        "in_reply_to_user_id": "1281456709660114945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109417600241344637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@who_is_phoenix @trg_maimai 这谁不怕😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1281456709660114945",
+        "conversation_id": "2109296670177702295",
+        "created_at": "2026-10-11T22:55:21.000Z",
+        "display_text_range": [
+          22,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T23:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109417600241344637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            },
+            {
+              "end": 21,
+              "id": "1568630739662696448",
+              "start": 10,
+              "username": "trg_maimai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109417600241344637",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109412171625251198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 @trg_maimai 你只是怕了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_ 分身@xubai_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "xubai_02"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2109422462572404741",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2742,
+          "following_count": 1677,
+          "like_count": 31482,
+          "listed_count": 2,
+          "media_count": 1698,
+          "tweet_count": 9507
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-10T05:14:33.000Z",
+        "description": "déjà vu\n❤️ @i4YqZMEjJi3N\n\nhttps://t.co/eMsxIcQp4v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "i4YqZMEjJi3N"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "suoz.ai",
+                "end": 49,
+                "expanded_url": "https://suoz.ai",
+                "start": 26,
+                "url": "https://t.co/eMsxIcQp4v"
+              }
+            ]
+          }
+        },
+        "id": "1281456709660114945",
+        "is_identity_verified": false,
+        "location": "荡麦",
+        "most_recent_tweet_id": "2109417600241344637",
+        "name": "逮虾户",
+        "pinned_tweet_id": "1690960687894503424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1281456709660114945/1594361915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069589903336226816/Oh8tJJ0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 619,
+          "like_count": 15650,
+          "listed_count": 9,
+          "media_count": 874,
+          "tweet_count": 10143
+        },
+        "url": "",
+        "username": "who_is_phoenix",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-10T16:01:37.000Z",
+        "description": "maimai player from Thailand 🇹🇭, KoP6th 1st runner up 🥈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@trg_maimai",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@trg_maimai",
+                "start": 0,
+                "url": "https://t.co/LnN1vle8Rb"
+              }
+            ]
+          }
+        },
+        "id": "1568630739662696448",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109296670177702295",
+        "name": "TRG",
+        "pinned_tweet_id": "2060949575809286263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1568630739662696448/1751175484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673207136757878785/Ll1Gic7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15869,
+          "following_count": 493,
+          "like_count": 7922,
+          "listed_count": 11,
+          "media_count": 794,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/LnN1vle8Rb",
+        "username": "trg_maimai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

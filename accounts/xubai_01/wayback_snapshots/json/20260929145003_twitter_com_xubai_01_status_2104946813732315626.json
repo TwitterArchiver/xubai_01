@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2104946813732315626",
+    "created_at": "2026-09-29T14:50:03.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T15:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104946813732315626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sino_go_global…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/sino_go_global/status/2104911579821293798",
+          "start": 40,
+          "url": "https://t.co/RmC1NObvUF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104946813732315626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104911579821293798",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "稠州银行路子很广的🤓\n\n早些年间熊猫速汇产品也是稠银，万里汇也是稠银，还有携程 https://t.co/RmC1NObvUF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2104911571478827008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYl7AWa0AAN1TN.jpg",
+        "width": 771
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2104911571478872064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYl7AWbgAAkeTv.jpg",
+        "width": 593
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2104946813732315626",
+        "created_at": "2026-09-29T14:50:03.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T15:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104946813732315626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sino_go_global…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/sino_go_global/status/2104911579821293798",
+              "start": 40,
+              "url": "https://t.co/RmC1NObvUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104946813732315626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104911579821293798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "稠州银行路子很广的🤓\n\n早些年间熊猫速汇产品也是稠银，万里汇也是稠银，还有携程 https://t.co/RmC1NObvUF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104911571478827008",
+            "3_2104911571478872064"
+          ]
+        },
+        "author_id": "420175982",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1631721404969230349",
+              "name": "GooglePay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2104911579821293798",
+        "created_at": "2026-09-29T12:30:02.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104911579821293798"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "外汇"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "出海"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/53DNUPePqZ",
+              "end": 173,
+              "expanded_url": "https://x.com/sino_go_global/status/2104911579821293798/photo/1",
+              "media_key": "3_2104911571478827008",
+              "start": 150,
+              "url": "https://t.co/53DNUPePqZ"
+            },
+            {
+              "display_url": "pic.x.com/53DNUPePqZ",
+              "end": 173,
+              "expanded_url": "https://x.com/sino_go_global/status/2104911579821293798/photo/1",
+              "media_key": "3_2104911571478872064",
+              "start": 150,
+              "url": "https://t.co/53DNUPePqZ"
+            },
+            {
+              "display_url": "x.com/bailyLU/status…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/bailyLU/status/2104872589026078768",
+              "start": 174,
+              "url": "https://t.co/kj30Cep7DA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104911579821293798",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104911571478827008"
+          },
+          {
+            "media_key": "3_2104911571478872064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 145,
+                "start": 142,
+                "tag": "外汇"
+              },
+              {
+                "end": 149,
+                "start": 146,
+                "tag": "出海"
+              },
+              {
+                "end": 156,
+                "start": 150,
+                "tag": "gopay"
+              }
+            ]
+          },
+          "text": "这 gopay 底层合作的银行-浙江稠州银行，很多人可能不太知道 😳\n\n是一个小众冷门但是做外汇专业的银行，跨境支付通也积极接入了。\n\n好多年前就想去他家开户来着。\n\n上次还看他们发行一个特殊产品，万事达数字美元卡，但是需要现有稠州的一类户。没法体验。\n\n等下次去上海一定办一个。\n\n#外汇 #出海 #gopay"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 26066,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104872589026078768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这 gopay 底层合作的银行-浙江稠州银行，很多人可能不太知道 😳\n\n是一个小众冷门但是做外汇专业的银行，跨境支付通也积极接入了。\n\n好多年前就想去他家开户来着。\n\n上次还看他们发行一个特殊产品，万事达数字美元卡，但是需要现有稠州的一类户。没法体验。\n\n等下次去上海一定办一个。\n\n#外汇 #出海 https://t.co/53DNUPePqZ https://t.co/kj30Cep7DA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 111,
+                "start": 104,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2104946813732315626",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2735,
+          "following_count": 1655,
+          "like_count": 30897,
+          "listed_count": 2,
+          "media_count": 1667,
+          "tweet_count": 9318
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-11-24T08:44:51.000Z",
+        "description": "🌏 13年卡友 | 有HKID | 美区ITIN云居民 \n🇭🇰 19家港卡 🇺🇸 美卡·美股 💳 U卡📱 eSIM+AI\n🔥 分享干货教程、真实折腾记录",
+        "id": "420175982",
+        "is_identity_verified": true,
+        "location": "HONGKONG",
+        "most_recent_tweet_id": "2104937473071808986",
+        "name": "浪险 | 出海基建·港美卡·云居民",
+        "pinned_tweet_id": "2066135815902892099",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/718712613312401408/34aMMQ9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10389,
+          "following_count": 637,
+          "like_count": 7679,
+          "listed_count": 48,
+          "media_count": 428,
+          "tweet_count": 4522
+        },
+        "url": "",
+        "username": "sino_go_global",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

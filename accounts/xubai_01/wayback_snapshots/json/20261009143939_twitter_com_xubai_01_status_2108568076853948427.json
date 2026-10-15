@@ -1,0 +1,683 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Cybersecurity",
+          "id": "898650876658634752",
+          "name": "Cybersecurity"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cybersecurity",
+          "id": "898650876658634752",
+          "name": "Cybersecurity"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Security",
+          "id": "1047123725525479425",
+          "name": "Information security"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Privacy",
+          "id": "1088443224425807872",
+          "name": "Information Privacy Worldwide"
+        }
+      }
+    ],
+    "conversation_id": "2108568076853948427",
+    "created_at": "2026-10-09T14:39:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T15:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108568076853948427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "89421672",
+          "start": 3,
+          "username": "USA_China_Talk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "rfj.tips/a83gUE",
+          "end": 102,
+          "expanded_url": "https://rfj.tips/a83gUE",
+          "start": 79,
+          "unwound_url": "https://rewardsforjustice.net/zh-hans/rewards/%E5%BC%A0%E5%AE%87%EF%BC%88%E4%B8%8A%E6%B5%B7%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%B1%80%EF%BC%89/?utm_source=20&utm_medium=1&utm_campaign=512&utm_term=ORG-MA",
+          "url": "https://t.co/2zNPuLzRZB"
+        },
+        {
+          "display_url": "x.com/RFJ_Mandarin/s…",
+          "end": 127,
+          "expanded_url": "https://x.com/RFJ_Mandarin/status/2107863944828223968",
+          "start": 104,
+          "url": "https://t.co/OZ794CL2Eh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108568076853948427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108467807776018492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @USA_China_Talk: 黑客张宇及其同伙窃取了美国机构宝贵的科研成果并对美国进行网络间谍活动。\n\n有张宇或他非法活动的消息吗？请提供线报。\n\nhttps://t.co/2zNPuLzRZB\n\nhttps://t.co/OZ794CL2Eh https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2108467608605310976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HULIHm9WQAArECz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          }
+        ],
+        "conversation_id": "2108568076853948427",
+        "created_at": "2026-10-09T14:39:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T15:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108568076853948427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "89421672",
+              "start": 3,
+              "username": "USA_China_Talk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "rfj.tips/a83gUE",
+              "end": 102,
+              "expanded_url": "https://rfj.tips/a83gUE",
+              "start": 79,
+              "unwound_url": "https://rewardsforjustice.net/zh-hans/rewards/%E5%BC%A0%E5%AE%87%EF%BC%88%E4%B8%8A%E6%B5%B7%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%B1%80%EF%BC%89/?utm_source=20&utm_medium=1&utm_campaign=512&utm_term=ORG-MA",
+              "url": "https://t.co/2zNPuLzRZB"
+            },
+            {
+              "display_url": "x.com/RFJ_Mandarin/s…",
+              "end": 127,
+              "expanded_url": "https://x.com/RFJ_Mandarin/status/2107863944828223968",
+              "start": 104,
+              "url": "https://t.co/OZ794CL2Eh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108568076853948427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108467807776018492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @USA_China_Talk: 黑客张宇及其同伙窃取了美国机构宝贵的科研成果并对美国进行网络间谍活动。\n\n有张宇或他非法活动的消息吗？请提供线报。\n\nhttps://t.co/2zNPuLzRZB\n\nhttps://t.co/OZ794CL2Eh https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108467608605310976"
+          ]
+        },
+        "author_id": "89421672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          }
+        ],
+        "conversation_id": "2108467807776018492",
+        "created_at": "2026-10-09T08:01:13.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T09:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108467807776018492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "rfj.tips/a83gUE",
+              "end": 82,
+              "expanded_url": "https://rfj.tips/a83gUE",
+              "start": 59,
+              "unwound_url": "https://rewardsforjustice.net/zh-hans/rewards/%E5%BC%A0%E5%AE%87%EF%BC%88%E4%B8%8A%E6%B5%B7%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%B1%80%EF%BC%89/?utm_source=20&utm_medium=1&utm_campaign=512&utm_term=ORG-MA",
+              "url": "https://t.co/2zNPuLzRZB"
+            },
+            {
+              "display_url": "x.com/RFJ_Mandarin/s…",
+              "end": 107,
+              "expanded_url": "https://x.com/RFJ_Mandarin/status/2107863944828223968",
+              "start": 84,
+              "url": "https://t.co/OZ794CL2Eh"
+            },
+            {
+              "display_url": "pic.x.com/HSm478n14d",
+              "end": 131,
+              "expanded_url": "https://x.com/USA_China_Talk/status/2108467807776018492/photo/1",
+              "media_key": "3_2108467608605310976",
+              "start": 108,
+              "url": "https://t.co/HSm478n14d"
+            },
+            {
+              "display_url": "x.com/RFJ_USA/status…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/RFJ_USA/status/2107863919482003511",
+              "start": 132,
+              "url": "https://t.co/l9xoK82uy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108467807776018492",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108467608605310976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 106041,
+          "like_count": 713,
+          "quote_count": 25,
+          "reply_count": 191,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107863919482003511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "黑客张宇及其同伙窃取了美国机构宝贵的科研成果并对美国进行网络间谍活动。\n\n有张宇或他非法活动的消息吗？请提供线报。\n\nhttps://t.co/2zNPuLzRZB\n\nhttps://t.co/OZ794CL2Eh https://t.co/HSm478n14d https://t.co/l9xoK82uy7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_ 分身@xubai_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "xubai_02"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2108568076853948427",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2745,
+          "following_count": 1673,
+          "like_count": 31264,
+          "listed_count": 2,
+          "media_count": 1691,
+          "tweet_count": 9457
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2065445010053431296/I2jXbYJL_bigger.jpg",
+          "description": "Department of State",
+          "url": "https://twitter.com/StateDept",
+          "user_id": [
+            "9624742"
+          ]
+        },
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2108536706760880416",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89421672/1772527120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652980,
+          "following_count": 175,
+          "like_count": 11,
+          "listed_count": 4430,
+          "media_count": 640,
+          "tweet_count": 3488
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

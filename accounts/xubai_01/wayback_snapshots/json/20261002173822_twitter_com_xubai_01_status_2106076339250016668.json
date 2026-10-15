@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105890848110194688",
+        "3_2105890871023685632",
+        "13_2105890888228687872"
+      ],
+      "media_source_tweet_id": [
+        "2105908137051971614",
+        "2105908137051971614",
+        "2105908137051971614"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2106076339250016668",
+    "created_at": "2026-10-02T17:38:22.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T18:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106076339250016668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HxP9IO0Jxp",
+          "end": 99,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2105908137051971614/video/1",
+          "media_key": "3_2105890848110194688",
+          "start": 76,
+          "url": "https://t.co/HxP9IO0Jxp"
+        },
+        {
+          "display_url": "pic.x.com/HxP9IO0Jxp",
+          "end": 99,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2105908137051971614/video/1",
+          "media_key": "3_2105890871023685632",
+          "start": 76,
+          "url": "https://t.co/HxP9IO0Jxp"
+        },
+        {
+          "display_url": "pic.x.com/HxP9IO0Jxp",
+          "end": 99,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2105908137051971614/video/1",
+          "media_key": "13_2105890888228687872",
+          "start": 76,
+          "url": "https://t.co/HxP9IO0Jxp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106076339250016668",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105890848110194688"
+      },
+      {
+        "media_key": "3_2105890871023685632"
+      },
+      {
+        "media_key": "13_2105890888228687872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105908137051971614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 加州男子被控走私逾3亿美元AI服务器至中国\n\n美国司法部10月1日宣布，洛杉矶圣盖博谷科技公司老板（Greg… https://t.co/HxP9IO0Jxp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2367,
+        "media_key": "3_2105890848110194688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmgkaFasAA5KUG.jpg",
+        "width": 1170
+      },
+      {
+        "height": 533,
+        "media_key": "3_2105890871023685632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmglvca0AAF3wd.jpg",
+        "width": 800
+      },
+      {
+        "duration_ms": 63333,
+        "height": 848,
+        "media_key": "13_2105890888228687872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105890888228687872/img/X9VSHWnNGBAv--j2.jpg",
+        "public_metrics": {
+          "view_count": 10501
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105890888228687872/vid/avc1/320x584/zmE_RGQ_4N_Gdt0q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105890888228687872/vid/avc1/464x848/rJq99V9VxCkbuZ8K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105890888228687872/pl/YrVU5FKFOpanE_1o.m3u8?v=cfc"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105890848110194688",
+            "3_2105890871023685632",
+            "13_2105890888228687872"
+          ],
+          "media_source_tweet_id": [
+            "2105908137051971614",
+            "2105908137051971614",
+            "2105908137051971614"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2106076339250016668",
+        "created_at": "2026-10-02T17:38:22.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106076339250016668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HxP9IO0Jxp",
+              "end": 99,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2105908137051971614/video/1",
+              "media_key": "3_2105890848110194688",
+              "start": 76,
+              "url": "https://t.co/HxP9IO0Jxp"
+            },
+            {
+              "display_url": "pic.x.com/HxP9IO0Jxp",
+              "end": 99,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2105908137051971614/video/1",
+              "media_key": "3_2105890871023685632",
+              "start": 76,
+              "url": "https://t.co/HxP9IO0Jxp"
+            },
+            {
+              "display_url": "pic.x.com/HxP9IO0Jxp",
+              "end": 99,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2105908137051971614/video/1",
+              "media_key": "13_2105890888228687872",
+              "start": 76,
+              "url": "https://t.co/HxP9IO0Jxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106076339250016668",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105890848110194688"
+          },
+          {
+            "media_key": "3_2105890871023685632"
+          },
+          {
+            "media_key": "13_2105890888228687872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105908137051971614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 加州男子被控走私逾3亿美元AI服务器至中国\n\n美国司法部10月1日宣布，洛杉矶圣盖博谷科技公司老板（Greg… https://t.co/HxP9IO0Jxp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105890848110194688",
+            "3_2105890871023685632",
+            "13_2105890888228687872"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2105908137051971614",
+        "created_at": "2026-10-02T06:30:00.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105908137051971614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HxP9IO0Jxp",
+              "end": 78,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2105908137051971614/video/1",
+              "media_key": "3_2105890848110194688",
+              "start": 55,
+              "url": "https://t.co/HxP9IO0Jxp"
+            },
+            {
+              "display_url": "pic.x.com/HxP9IO0Jxp",
+              "end": 78,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2105908137051971614/video/1",
+              "media_key": "3_2105890871023685632",
+              "start": 55,
+              "url": "https://t.co/HxP9IO0Jxp"
+            },
+            {
+              "display_url": "pic.x.com/HxP9IO0Jxp",
+              "end": 78,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2105908137051971614/video/1",
+              "media_key": "13_2105890888228687872",
+              "start": 55,
+              "url": "https://t.co/HxP9IO0Jxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105908137051971614",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105890848110194688"
+          },
+          {
+            "media_key": "3_2105890871023685632"
+          },
+          {
+            "media_key": "13_2105890888228687872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "加州男子被控走私逾3亿美元AI服务器至中国\n\n美国司法部10月1日宣布，洛杉矶圣盖博谷科技公司老板（Greg Lui，38岁）被捕，面临违反出口管制法、走私及洗钱共谋等三项联邦指控。检方指其于2023至2024年间，通过马来西亚、新加坡等中转国，将逾3亿美元受出口管制的高端GPU服务器非法转运至中国，并伪造文件掩盖真实目的地。此案由商务部、国防部及FBI反间谍部门联合调查，若罪成最高可判50年监禁。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 100491,
+          "like_count": 647,
+          "quote_count": 12,
+          "reply_count": 42,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "加州男子被控走私逾3亿美元AI服务器至中国\n\n美国司法部10月1日宣布，洛杉矶圣盖博谷科技公司老板（Greg https://t.co/HxP9IO0Jxp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_/鲤鱼@yuji53719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "yuji53719"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2106076339250016668",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2737,
+          "following_count": 1659,
+          "like_count": 31008,
+          "listed_count": 2,
+          "media_count": 1676,
+          "tweet_count": 9364
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2106066685425795213",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268349,
+          "following_count": 1085,
+          "like_count": 10550,
+          "listed_count": 8911,
+          "media_count": 54584,
+          "tweet_count": 61941
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

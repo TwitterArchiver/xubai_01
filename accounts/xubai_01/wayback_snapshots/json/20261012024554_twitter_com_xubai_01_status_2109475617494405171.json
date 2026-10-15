@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2109408514691281370",
+    "created_at": "2026-10-12T02:45:54.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T03:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109475617494405171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828367229873987587",
+          "start": 0,
+          "username": "AoiTooru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109475617494405171",
+    "in_reply_to_user_id": "1828367229873987587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109473923599626676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AoiTooru 卧槽我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2109408514691281370",
+        "created_at": "2026-10-12T02:45:54.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T03:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109475617494405171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828367229873987587",
+              "start": 0,
+              "username": "AoiTooru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109475617494405171",
+        "in_reply_to_user_id": "1828367229873987587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109473923599626676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AoiTooru 卧槽我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828367229873987587",
+        "conversation_id": "2109408514691281370",
+        "created_at": "2026-10-12T02:39:10.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T03:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109473923599626676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109473923599626676",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109471938410328099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 不是，我是说在那里买比较便宜（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_ 分身@xubai_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "xubai_02"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2109475617494405171",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2741,
+          "following_count": 1677,
+          "like_count": 31489,
+          "listed_count": 2,
+          "media_count": 1698,
+          "tweet_count": 9515
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-27T09:41:42.000Z",
+        "description": "｜🌈｜📍🇹🇼 TW｜小鎮摸魚家｜🟡 @Rinyasama_ \n｜恨比愛更長久。\n\n｜Channel link：",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "Rinyasama_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vlZ6ymWN7b40O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vlZ6ymWN7b40OTA9",
+                "start": 0,
+                "url": "https://t.co/goCD44ufEq"
+              }
+            ]
+          }
+        },
+        "id": "1828367229873987587",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2109473923599626676",
+        "name": "透",
+        "pinned_tweet_id": "1986723959757541718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1828367229873987587/1777802844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050878558680342528/Ko5auR5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 1498,
+          "like_count": 53603,
+          "listed_count": 1,
+          "media_count": 710,
+          "tweet_count": 13112
+        },
+        "url": "https://t.co/goCD44ufEq",
+        "username": "AoiTooru",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

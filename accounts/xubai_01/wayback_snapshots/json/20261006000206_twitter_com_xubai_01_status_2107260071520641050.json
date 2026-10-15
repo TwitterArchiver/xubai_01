@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "conversation_id": "2106992127767146821",
+    "created_at": "2026-10-06T00:02:06.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T01:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107260071520641050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1741705364217966592",
+          "start": 0,
+          "username": "Steven15911051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107260071520641050",
+    "in_reply_to_user_id": "1741705364217966592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107249998157271549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Steven15911051 好问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "conversation_id": "2106992127767146821",
+        "created_at": "2026-10-06T00:02:06.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T01:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107260071520641050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1741705364217966592",
+              "start": 0,
+              "username": "Steven15911051"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107260071520641050",
+        "in_reply_to_user_id": "1741705364217966592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107249998157271549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Steven15911051 好问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741705364217966592",
+        "conversation_id": "2106992127767146821",
+        "created_at": "2026-10-05T23:22:05.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T00:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107249998157271549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107249998157271549",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106992127767146821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 为什么不开Max+😁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_ 分身@xubai_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "xubai_02"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2107260071520641050",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2739,
+          "following_count": 1665,
+          "like_count": 31099,
+          "listed_count": 2,
+          "media_count": 1682,
+          "tweet_count": 9418
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T06:18:46.000Z",
+        "description": "这里是Steven😋当了多年阴暗b终于出来和大家玩了🥺在玩Flutter、CV、AI、嵌入式(现已退休)🐢晶哥摇了我罢😭",
+        "id": "1741705364217966592",
+        "is_identity_verified": false,
+        "location": "🥺",
+        "most_recent_tweet_id": "2107249998157271549",
+        "name": "Steven",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741705364217966592/1704103739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741713919440474112/7AygvetD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 1184,
+          "like_count": 176741,
+          "listed_count": 3,
+          "media_count": 393,
+          "tweet_count": 15161
+        },
+        "url": "",
+        "username": "Steven15911051",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

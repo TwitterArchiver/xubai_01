@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2102602856931184640"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "conversation_id": "2102295662532702505",
+    "created_at": "2026-09-23T03:38:04.000Z",
+    "display_text_range": [
+      17,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T04:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102603377939235269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667851059346427914",
+          "start": 0,
+          "username": "hoshi_Asuka0089"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s8JYiW6NlY",
+          "end": 72,
+          "expanded_url": "https://x.com/xubai_01/status/2102603377939235269/video/1",
+          "media_key": "13_2102602856931184640",
+          "start": 49,
+          "url": "https://t.co/s8JYiW6NlY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102603377939235269",
+    "in_reply_to_user_id": "1667851059346427914",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2102602856931184640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102536859973022001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshi_Asuka0089 其实这个谱馋了很久了，一直没敢打🥹🥹紫谱是最近一个月开始的w） https://t.co/s8JYiW6NlY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 184060,
+        "height": 1280,
+        "media_key": "13_2102602856931184640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102602856931184640/img/Xc4jLGszPlUTWz22.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102602856931184640/vid/avc1/320x568/AxbU6wDd5eMYz-lY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102602856931184640/vid/avc1/480x852/UDpJ_DmKHMfAmIO6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102602856931184640/vid/avc1/720x1280/gmLUoI3wXY7yG3zr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102602856931184640/pl/cRlRSMvPCe1Ses8s.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102602856931184640"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2102295662532702505",
+        "created_at": "2026-09-23T03:38:04.000Z",
+        "display_text_range": [
+          17,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102603377939235269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667851059346427914",
+              "start": 0,
+              "username": "hoshi_Asuka0089"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s8JYiW6NlY",
+              "end": 72,
+              "expanded_url": "https://x.com/xubai_01/status/2102603377939235269/video/1",
+              "media_key": "13_2102602856931184640",
+              "start": 49,
+              "url": "https://t.co/s8JYiW6NlY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102603377939235269",
+        "in_reply_to_user_id": "1667851059346427914",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102602856931184640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102536859973022001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshi_Asuka0089 其实这个谱馋了很久了，一直没敢打🥹🥹紫谱是最近一个月开始的w） https://t.co/s8JYiW6NlY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667851059346427914",
+        "conversation_id": "2102295662532702505",
+        "created_at": "2026-09-22T23:13:45.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T00:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102536859973022001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102536859973022001",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102532618076209186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 哇去好强，咱还打不了紫谱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@xubaimedia/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 123,
+                "start": 116,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2102603377939235269",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2738,
+          "following_count": 1657,
+          "like_count": 30645,
+          "listed_count": 2,
+          "media_count": 1649,
+          "tweet_count": 9231
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-11T11:07:51.000Z",
+        "description": "|  观测我, 和我在一起  |  互联网电子之海的幽灵  |\n\n妹妹 @itscatroll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "itscatroll"
+              }
+            ]
+          }
+        },
+        "id": "1667851059346427914",
+        "is_identity_verified": false,
+        "location": "Tau Ceti V",
+        "most_recent_tweet_id": "2102539500501303772",
+        "name": "🍋飛鳥Hoshi 🎻🏳️‍🌈🏳️‍⚧🍋‍🟩",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667851059346427914/1775004147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091829519657410561/AIt6D1ti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 881,
+          "like_count": 95430,
+          "listed_count": 3,
+          "media_count": 1223,
+          "tweet_count": 16382
+        },
+        "url": "",
+        "username": "hoshi_Asuka0089",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

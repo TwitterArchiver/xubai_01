@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1390799556326019072",
+          "name": "PayPay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390799556326019072",
+          "name": "PayPay"
+        }
+      }
+    ],
+    "conversation_id": "2105572048437408185",
+    "created_at": "2026-10-01T08:14:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T09:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105572048437408185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1451036242431262720",
+          "start": 3,
+          "username": "binancezh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105572048437408185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105532083070472399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @binancezh: 你扫我？我扫你？都可以 😎\n\n日本旅游，外国游客无需注册 PayPay，币安App可以使用加密货币直接支付\n\n👉 你扫我：出示 PayPay 个人付款码，商家扫码即可\n👉 我扫你：扫一扫商家的 PayPay 收款码，同样可以支付\n\n更有 10% 折…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2105531395854757888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HThZpiFa8AAJvsV.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1390799556326019072",
+              "name": "PayPay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390799556326019072",
+              "name": "PayPay"
+            }
+          }
+        ],
+        "conversation_id": "2105572048437408185",
+        "created_at": "2026-10-01T08:14:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105572048437408185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1451036242431262720",
+              "start": 3,
+              "username": "binancezh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105572048437408185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105532083070472399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @binancezh: 你扫我？我扫你？都可以 😎\n\n日本旅游，外国游客无需注册 PayPay，币安App可以使用加密货币直接支付\n\n👉 你扫我：出示 PayPay 个人付款码，商家扫码即可\n👉 我扫你：扫一扫商家的 PayPay 收款码，同样可以支付\n\n更有 10% 折…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105531395854757888"
+          ]
+        },
+        "author_id": "1451036242431262720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1390799556326019072",
+              "name": "PayPay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390799556326019072",
+              "name": "PayPay"
+            }
+          }
+        ],
+        "conversation_id": "2105532083070472399",
+        "created_at": "2026-10-01T05:35:42.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T06:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105532083070472399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "币安支付为赴日游客提供快捷、顺畅、安全的二维码支付服务。立即通过 PayPay QR 扫码，使用加密货币支付。",
+              "display_url": "binance.com/zh-CN/learn/pa…",
+              "end": 156,
+              "expanded_url": "https://www.binance.com/zh-CN/learn/paypay-payment?utm_source=social",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2105532086107148288/EMyVF3Jd?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105532086107148288/EMyVF3Jd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 133,
+              "status": 200,
+              "title": "赴日游客使用币安支付进行 PayPay QR 支付",
+              "unwound_url": "https://www.binance.com/zh-CN/learn/paypay-payment?utm_source=social",
+              "url": "https://t.co/jCV7Bgkbch"
+            },
+            {
+              "display_url": "pic.x.com/kyqeioY2cq",
+              "end": 180,
+              "expanded_url": "https://x.com/binancezh/status/2105532083070472399/photo/1",
+              "media_key": "3_2105531395854757888",
+              "start": 157,
+              "url": "https://t.co/kyqeioY2cq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105532083070472399",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105531395854757888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 15007,
+          "like_count": 79,
+          "quote_count": 12,
+          "reply_count": 46,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "你扫我？我扫你？都可以 😎\n\n日本旅游，外国游客无需注册 PayPay，币安App可以使用加密货币直接支付\n\n👉 你扫我：出示 PayPay 个人付款码，商家扫码即可\n👉 我扫你：扫一扫商家的 PayPay 收款码，同样可以支付\n\n更有 10% 折扣，了解更多 👇\nhttps://t.co/jCV7Bgkbch https://t.co/kyqeioY2cq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀神秘。\n欢迎随时联系/丧失古法编程能力之人😡\n\n白@xuba1_/鲤鱼@yuji53719/@QWQINC/:)\n\n🐧3454925306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "xuba1_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "yuji53719"
+              },
+              {
+                "end": 111,
+                "start": 104,
+                "username": "QWQINC"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2105572048437408185",
+        "name": "许白",
+        "pinned_tweet_id": "2105336512644874247",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2737,
+          "following_count": 1656,
+          "like_count": 30945,
+          "listed_count": 2,
+          "media_count": 1675,
+          "tweet_count": 9348
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_bigger.jpg",
+          "description": "Binance",
+          "url": "https://twitter.com/binance",
+          "user_id": [
+            "877807935493033984"
+          ]
+        },
+        "created_at": "2021-10-21T04:03:48.000Z",
+        "description": "All Finance on Binance\n关注币安华语，\n洞悉行情节奏，\n劲享重重好礼！\n注册立拿100U：https://t.co/qW9R8RMu7I\n官方社群：https://t.co/xDE8Sn47uE\n #Binance #BNB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 110,
+                "tag": "Binance"
+              },
+              {
+                "end": 123,
+                "start": 119,
+                "tag": "BNB"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "accounts.binance.com/zh-CN/register",
+                "end": 79,
+                "expanded_url": "https://accounts.binance.com/zh-CN/register",
+                "start": 56,
+                "url": "https://t.co/qW9R8RMu7I"
+              },
+              {
+                "display_url": "t.me/BinanceChinese",
+                "end": 108,
+                "expanded_url": "https://t.me/BinanceChinese",
+                "start": 85,
+                "url": "https://t.co/xDE8Sn47uE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com/zh-CN/download",
+                "end": 23,
+                "expanded_url": "http://binance.com/zh-CN/download",
+                "start": 0,
+                "url": "https://t.co/MuMMBD1AVs"
+              }
+            ]
+          }
+        },
+        "id": "1451036242431262720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105544328743723398",
+        "name": "币安Binance华语",
+        "pinned_tweet_id": "2103130243167100935",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1451036242431262720/1765141945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815972658640740354/RySOJZ_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464735,
+          "following_count": 387,
+          "like_count": 8477,
+          "listed_count": 2613,
+          "media_count": 9351,
+          "tweet_count": 17573
+        },
+        "url": "https://t.co/MuMMBD1AVs",
+        "username": "binancezh",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

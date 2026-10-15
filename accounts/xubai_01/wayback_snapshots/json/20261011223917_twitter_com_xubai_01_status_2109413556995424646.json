@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2109013937538875392"
+      ],
+      "media_source_tweet_id": [
+        "2109116794044555391"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2109413556995424646",
+    "created_at": "2026-10-11T22:39:17.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T23:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109413556995424646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568630739662696448",
+          "start": 3,
+          "username": "trg_maimai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jG8dlUeC8X",
+          "end": 66,
+          "expanded_url": "https://x.com/trg_maimai/status/2109116794044555391/video/1",
+          "media_key": "13_2109013937538875392",
+          "start": 43,
+          "url": "https://t.co/jG8dlUeC8X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109413556995424646",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "13_2109013937538875392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109116794044555391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trg_maimai: Contrapasso -paradiso- AP+ https://t.co/jG8dlUeC8X"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46786,
+        "height": 1920,
+        "media_key": "13_2109013937538875392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2109013937538875392/img/aTI13NYVifqdMZUh.jpg",
+        "public_metrics": {
+          "view_count": 11107
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109013937538875392/vid/avc1/480x852/umRNWdTbJ9M_bVPJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2109013937538875392/pl/72_GPBy5bhXms4Wq.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109013937538875392/vid/avc1/720x1280/-rNTg1pNtXmLcsdU.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109013937538875392/vid/avc1/320x568/bBz5ZsVtLnhoeGk_.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109013937538875392/vid/avc1/1080x1920/Jy3JwSoIYDVWfmkj.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2109013937538875392"
+          ],
+          "media_source_tweet_id": [
+            "2109116794044555391"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2109413556995424646",
+        "created_at": "2026-10-11T22:39:17.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T23:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109413556995424646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568630739662696448",
+              "start": 3,
+              "username": "trg_maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jG8dlUeC8X",
+              "end": 66,
+              "expanded_url": "https://x.com/trg_maimai/status/2109116794044555391/video/1",
+              "media_key": "13_2109013937538875392",
+              "start": 43,
+              "url": "https://t.co/jG8dlUeC8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109413556995424646",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2109013937538875392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109116794044555391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trg_maimai: Contrapasso -paradiso- AP+ https://t.co/jG8dlUeC8X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2109013937538875392"
+          ]
+        },
+        "author_id": "1568630739662696448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2109116794044555391",
+        "created_at": "2026-10-11T03:00:03.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109116794044555391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jG8dlUeC8X",
+              "end": 50,
+              "expanded_url": "https://x.com/trg_maimai/status/2109116794044555391/video/1",
+              "media_key": "13_2109013937538875392",
+              "start": 27,
+              "url": "https://t.co/jG8dlUeC8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109116794044555391",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2109013937538875392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 23833,
+          "like_count": 438,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "Contrapasso -paradiso- AP+ https://t.co/jG8dlUeC8X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_ 分身@xubai_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "xubai_02"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2109413556995424646",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2742,
+          "following_count": 1677,
+          "like_count": 31468,
+          "listed_count": 2,
+          "media_count": 1698,
+          "tweet_count": 9502
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-10T16:01:37.000Z",
+        "description": "maimai player from Thailand 🇹🇭, KoP6th 1st runner up 🥈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@trg_maimai",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@trg_maimai",
+                "start": 0,
+                "url": "https://t.co/LnN1vle8Rb"
+              }
+            ]
+          }
+        },
+        "id": "1568630739662696448",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109296670177702295",
+        "name": "TRG",
+        "pinned_tweet_id": "2060949575809286263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1568630739662696448/1751175484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673207136757878785/Ll1Gic7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15869,
+          "following_count": 493,
+          "like_count": 7922,
+          "listed_count": 11,
+          "media_count": 794,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/LnN1vle8Rb",
+        "username": "trg_maimai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

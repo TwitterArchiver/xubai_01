@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2109325569171365888",
+        "3_2109325569179709440"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2109325583348077042",
+    "created_at": "2026-10-11T16:49:43.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T17:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109325583348077042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qOPZXSdCi1",
+          "end": 29,
+          "expanded_url": "https://x.com/xubai_01/status/2109325583348077042/photo/1",
+          "media_key": "3_2109325569171365888",
+          "start": 6,
+          "url": "https://t.co/qOPZXSdCi1"
+        },
+        {
+          "display_url": "pic.x.com/qOPZXSdCi1",
+          "end": 29,
+          "expanded_url": "https://x.com/xubai_01/status/2109325583348077042/photo/1",
+          "media_key": "3_2109325569179709440",
+          "start": 6,
+          "url": "https://t.co/qOPZXSdCi1"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d563cf7307e4ba95"
+    },
+    "id": "2109325583348077042",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2109325569171365888"
+      },
+      {
+        "media_key": "3_2109325569179709440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你只是怕了 https://t.co/qOPZXSdCi1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2109325569171365888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUXUbfIboAAgyJJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2109325569179709440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUXUbfKa8AARves.jpg",
+        "width": 1536
+      }
+    ],
+    "places": [
+      {
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Alhambra, CA",
+        "geo": {
+          "bbox": [
+            -118.1651189,
+            34.05998,
+            -118.108233,
+            34.111213
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d563cf7307e4ba95",
+        "name": "Alhambra",
+        "place_type": "city"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109325569171365888",
+            "3_2109325569179709440"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2109325583348077042",
+        "created_at": "2026-10-11T16:49:43.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T17:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109325583348077042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qOPZXSdCi1",
+              "end": 29,
+              "expanded_url": "https://x.com/xubai_01/status/2109325583348077042/photo/1",
+              "media_key": "3_2109325569171365888",
+              "start": 6,
+              "url": "https://t.co/qOPZXSdCi1"
+            },
+            {
+              "display_url": "pic.x.com/qOPZXSdCi1",
+              "end": 29,
+              "expanded_url": "https://x.com/xubai_01/status/2109325583348077042/photo/1",
+              "media_key": "3_2109325569179709440",
+              "start": 6,
+              "url": "https://t.co/qOPZXSdCi1"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d563cf7307e4ba95"
+        },
+        "id": "2109325583348077042",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2109325569171365888"
+          },
+          {
+            "media_key": "3_2109325569179709440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你只是怕了 https://t.co/qOPZXSdCi1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_ 分身@xubai_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "xubai_02"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2109325583348077042",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2740,
+          "following_count": 1673,
+          "like_count": 31422,
+          "listed_count": 2,
+          "media_count": 1696,
+          "tweet_count": 9489
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

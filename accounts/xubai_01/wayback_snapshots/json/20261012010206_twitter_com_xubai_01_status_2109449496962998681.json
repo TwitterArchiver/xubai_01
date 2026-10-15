@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106090255988518912"
+      ],
+      "media_source_tweet_id": [
+        "2106090455045968017"
+      ]
+    },
+    "author_id": "1840810905833197568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2109449496962998681",
+    "created_at": "2026-10-12T01:02:06.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T02:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109449496962998681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768186357137211392",
+          "start": 3,
+          "username": "exby1122"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nz8HYyFoBu",
+          "end": 51,
+          "expanded_url": "https://x.com/exby1122/status/2106090455045968017/video/1",
+          "media_key": "13_2106090255988518912",
+          "start": 28,
+          "url": "https://t.co/nz8HYyFoBu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109449496962998681",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2106090255988518912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106090455045968017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @exby1122: 裏皆伝 獲得 moment https://t.co/nz8HYyFoBu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 73293,
+        "height": 1920,
+        "media_key": "13_2106090255988518912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106090255988518912/img/3B46mabY9hguOSnt.jpg",
+        "public_metrics": {
+          "view_count": 25211
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106090255988518912/vid/avc1/1080x1920/aRSQj2iTsoH2dI_C.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106090255988518912/vid/avc1/320x568/_U6MK2UKHEfkRP6O.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106090255988518912/vid/avc1/480x852/1kVUXoU8xGgwieXx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106090255988518912/vid/avc1/720x1280/9DkJi6QhD8EZ00JC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106090255988518912/pl/QaA00b_Aoxl0I_NM.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106090255988518912"
+          ],
+          "media_source_tweet_id": [
+            "2106090455045968017"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2109449496962998681",
+        "created_at": "2026-10-12T01:02:06.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T02:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109449496962998681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768186357137211392",
+              "start": 3,
+              "username": "exby1122"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nz8HYyFoBu",
+              "end": 51,
+              "expanded_url": "https://x.com/exby1122/status/2106090455045968017/video/1",
+              "media_key": "13_2106090255988518912",
+              "start": 28,
+              "url": "https://t.co/nz8HYyFoBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109449496962998681",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2106090255988518912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106090455045968017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @exby1122: 裏皆伝 獲得 moment https://t.co/nz8HYyFoBu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106090255988518912"
+          ]
+        },
+        "author_id": "1768186357137211392",
+        "conversation_id": "2106090455045968017",
+        "created_at": "2026-10-02T18:34:28.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T19:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106090455045968017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nz8HYyFoBu",
+              "end": 37,
+              "expanded_url": "https://x.com/exby1122/status/2106090455045968017/video/1",
+              "media_key": "13_2106090255988518912",
+              "start": 14,
+              "url": "https://t.co/nz8HYyFoBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106090455045968017",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2106090255988518912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 35064,
+          "like_count": 709,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "裏皆伝 獲得 moment https://t.co/nz8HYyFoBu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\nFounder and work in @qwqinc\n🔗白@xuba1_ 分身@xubai_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 38,
+                "username": "qwqinc"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "username": "xuba1_"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "xubai_02"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "is_identity_verified": true,
+        "location": "ZH,EN / local:11451💚",
+        "most_recent_tweet_id": "2109449496962998681",
+        "name": "许白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840810905833197568/1766495233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2741,
+          "following_count": 1677,
+          "like_count": 31484,
+          "listed_count": 2,
+          "media_count": 1698,
+          "tweet_count": 9508
+        },
+        "url": "",
+        "username": "xubai_01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-14T08:04:25.000Z",
+        "description": "maimai, sdvx, chess / maimai Nickname: Ｊｉｎｎｙ・ω・ / maimaiDX circle plus 1st 裏皆伝 / Free to follow / 🇰🇷🇺🇸",
+        "id": "1768186357137211392",
+        "is_identity_verified": false,
+        "location": "2024년 3월 6일~",
+        "most_recent_tweet_id": "2109342609961611678",
+        "name": "지니 | Jinny",
+        "pinned_tweet_id": "2106089262492029038",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768186357137211392/1775107134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100028859831992320/0Udi2ExO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 513,
+          "like_count": 28465,
+          "listed_count": 12,
+          "media_count": 1806,
+          "tweet_count": 18348
+        },
+        "url": "",
+        "username": "exby1122",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
